@@ -254,17 +254,21 @@ void BaseConvolutionLayer<Dtype>::Reshape(const vector<Blob<Dtype>*>& bottom,
 
 template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::forward_cpu_gemm(const Dtype* input,
-    const Dtype* weights, Dtype* output, bool skip_im2col) {
+    const Dtype* weights, Dtype* output, bool skip_im2col) 
+{
   const Dtype* col_buff = input;
   if (!is_1x1_) {
     if (!skip_im2col) {
-      conv_im2col_cpu(input, col_buffer_.mutable_cpu_data());
-    }
+      conv_im2col_cpu(input, col_buffer_.mutable_cpu_data());         // util/im2col.cpp
+    }								      // converts image blocks into columns?
     col_buff = col_buffer_.cpu_data();
   }
+
+  //printf("group number %d\n", group_);
+
   for (int g = 0; g < group_; ++g) {
-    caffe_cpu_gemm<Dtype>(CblasNoTrans, CblasNoTrans, conv_out_channels_ /
-        group_, conv_out_spatial_dim_, kernel_dim_,
+    caffe_cpu_gemm<Dtype>(CblasNoTrans, CblasNoTrans, conv_out_channels_ /   // Important call: what is this doing?
+        group_, conv_out_spatial_dim_, kernel_dim_,                          // util/math_functions.cpp
         (Dtype)1., weights + weight_offset_ * g, col_buff + col_offset_ * g,
         (Dtype)0., output + output_offset_ * g);
   }

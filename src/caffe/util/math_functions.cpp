@@ -9,15 +9,81 @@
 
 namespace caffe {
 
+int convLayerNum = 0;
+
 template<>
 void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
     const CBLAS_TRANSPOSE TransB, const int M, const int N, const int K,
     const float alpha, const float* A, const float* B, const float beta,
     float* C) {
+
+  printf("We're doing matrix multiplication! M %d  K %d   N %d\n", M, K, N);
+  //printf("alpha %d   beta %d\n", alpha, beta);
+  // Matrix A and B are not transposed
+
+  /*
+  C := alpha*op(A)*op(B) + beta*C,
+
+  where:
+
+  op(X) is one of op(X) = X, or op(X) = XT, or op(X) = XH,
+
+  alpha and beta are scalars,
+
+  A, B and C are matrices:
+
+  op(A) is an m-by-k matrix,
+
+  op(B) is a k-by-n matrix,
+
+  C is an m-by-n matrix.
+  */
+
+  float temp[M*N];
+
+  for (int row = 0; row < M; row++)
+  {
+    for (int column = 0; column < N; column++)
+    {
+      temp[row*N + column] = 0.0f;
+      for (int z = 0; z < K; z++)
+      {
+        if (row == 0 && column == 0 && convLayerNum == 0 && z == 0)
+        {
+          printf("starting value %f\n", temp[row*N + column]);
+        }
+        temp[row*N + column] += (alpha * A[row*K + z]) * B[z*N + column];
+        if (row == 0 && column == 0 && convLayerNum == 0)
+        {
+          printf("%f vs %f\n", temp[row*N + column], (alpha * A[row*K + z]) * B[z*N + column]);
+        }
+      }
+    }
+  }
+
+  // Add the other scaled vector (not sure what this is, could be weight or neuron or something)
+  // (could also be data from previous iterations, have to look into this) 
+  int cSize = M*N;
+  for (int i = 0; i < cSize; i++)
+  {
+    C[i] = beta*C[i] + temp[i];
+  }
+
   int lda = (TransA == CblasNoTrans) ? K : M;
   int ldb = (TransB == CblasNoTrans) ? N : K;
-  cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B,
-      ldb, beta, C, N);
+
+  //cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B,
+  //    ldb, beta, C, N);
+
+  for (int i = 0; i < 5; i++)
+  {
+    if (temp[i] != C[i])
+    {
+      //printf("They're different: us %f vs them %f!\n", temp[i], C[i]);
+    }
+  }
+
+  convLayerNum++;
 }
 
 template<>
@@ -28,7 +94,8 @@ void caffe_cpu_gemm<double>(const CBLAS_TRANSPOSE TransA,
   int lda = (TransA == CblasNoTrans) ? K : M;
   int ldb = (TransB == CblasNoTrans) ? N : K;
   cblas_dgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B,
-      ldb, beta, C, N);
+	ldb, beta, C, N);
+  
 }
 
 template <>
