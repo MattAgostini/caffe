@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<style>
+body {
+  padding: 0;
+  margin: 0;
+  background: #fdedcb url(images/bg2.jpg) no-repeat center top;
+  bsackground: #fdedcb url(images/error-page_edit_v3.jpg) no-repeat center top;
+
+  width: 100%;
+  display: table;
+	text-align:center;
+	font-family: arial;
+}
+img.bg {
+	/* Set rules to fill background */
+	min-height: 100%;
+	min-width: 960px;
+	margin-top:-50px;
+	/* Set up proportionate scaling */
+	width: 100%;
+	height: auto;
+	
+	/* Set up positioning */
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+	img.bg {
+		left: 50%;
+		margin-left: -512px;   /* 50% */
+	}
+}
+#searchform{
+border:0px solid #eeeeee; 
+ width: 750px; height:auto; display:block;
+margin-right:auto;
+margin-left:auto;
+text-align:center;
+margin-top: 100px;
+padding: 10px;
+font-family: arial;
+color: #3d3d3d;
+margin-bottom: 40px;
+ }
+ 
+ .Para{
+ font-size: 40px;
+ line-height:60px;
+ text-align:center;
+ color: #35739a;	
+ font-weight: bold;
+ }
+ .secondPara{
+	 font-size: large;
+	  line-height:40px;
+	   text-align:center;
+ }
+ .thirdPara{
+ font-size: normal;
+  line-height:20px;
+   text-align:center;
+ }
+  .thirdPara a{
+  text-decoration:none;
+   text-align:center;
+  }
+  .lastPara{
+    line-height:20px;
+	font-size: small;
+  }
+  #query, #submit{ padding: 5px;}
+  
+ #submit{ 
+ border:1px solid #cccccc;
+ color: #3d3d3d;}
+ 
+#polyuLink a{
+flosat:left;
+margin-left:300px;
+text-indent: -999999px;
+width: 400px; 
+height: 100px;
+display:block;
+ }
+</style>
+<body>
+<!--<img src='images/bg1.jpg' class='bg'>-->
+<div id='polyuLink'><a href='http://www.polyu.edu.hk'style=' '>PolyU</a></div>
+<form id='searchform' action='https://www.polyu.edu.hk/web/en/search_result/index.html' method='GET'>
+
+<div class='Para'>Sorry, that page doesn't exist!</div>
+<div class='secondPara'>We’re sorry the webpage you’re looking for doesn’t exist in our website. </div>
+<div class='thirdPara'>Please check your URL and try again, or you may search it from the PolyU main website <a href='http://www.polyu.edu.hk' target='_blank'>www.polyu.edu.hk</a></div>
+<br>
+<input type='text' name='q' id='query'>
+
+<input type='submit' value='Search' id='submit'>
+
+</form>
+<div class='lastPara'>Copyright ©2016 The Hong Kong Polytechnic University. All Rights Reserved.</div>
+</body>
+</html>

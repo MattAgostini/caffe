@@ -1,0 +1,25 @@
+#!/bin/bash
+
+clear
+
+declare -a arrayWNID=(
+'n02119789'
+'n02100735'
+'n02110185')
+
+declare -a arrayIdentification=(
+'test1'
+'test2'
+'test3')
+
+for index in ${!arrayWNID[*]}
+do
+    echo "downloading ${arrayWNID[$index]}"
+    ./downloadutils.py --downloadImages --wnid ${arrayWNID[$index]}
+    folderSelection=${arrayWNID[$index]}
+    folderSelection=${folderSelection}_urlimages
+    cd ${arrayWNID[$index]}/$folderSelection
+    echo "creating identification text file"
+    echo ${arrayIdentification[$index]} >> identification.txt
+    cd ../..
+done

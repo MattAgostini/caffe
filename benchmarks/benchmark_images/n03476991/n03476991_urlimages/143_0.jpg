@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>LR Parfum und Kosmetik Shop</title>
+<meta name="robots" content="index,follow" />
+<meta name="description" content="LR Parfum Onlineshop. Im LR Shop finden Sie Parfum, Aloe Vera, Colostrum Basis,Direkt und viele andere Wellnessprodukte." />
+</head>
+<body>
+<p style="text-align:center;font-size: 200%;font-weight: bold;margin-bottom:500px;">Parfum & Kosmetik Shop wird überarbeitet! Schauen Sie doch später noch einmal rein...<br /><br /><br />Unseren LR Online Shop finden Sie  hier:<br /><a href="https://shop.lrworld.com/home?PHP=xwsxcvBnAtS%2BTlc%2BUyrXHg%3D%3D" onclick="javascript:_paq.push(['trackEvent', 'Link', 'LR']);"><img src="button_online_shop.png" alt="LR Online Shop" width="300" /></a></p>
+
+<h1 style="text-align:center;">Herzlich Willkommen im LR Parfum & Kosmetik Shop</h1>
+<p style="text-align:center;">Hier finden Sie von Kosmetik über Parfum (siehe auch <a href="http://www.lrparfum.de/">lrparfum.de</a>) bis zur Nahrungsergänzung die große Vielfalt von LR.<br /><br />
+
+LR steht seit über zwei Jahrzehnten für Wohlbefinden und Schönheit. Hochwertige Rohstoffe, schonende Verarbeitung und stetige Kontrolle gewährleisten die hohen Qualitätsstandards der LR-Produkte. Kosmetik, die das Gel der Aloe Vera enthält pflegt die Haut schnell, gezielt und auf eine angenehm verträgliche Weise.<br /><br />
+
+Die Produkte der LR Aloe Vera Skin Care-Serie kombinieren altbewährte Kräuter und Öle mit Aloe Vera, so dass damit eine tägliche und optimal an individuelle Bedürfnisse angepasste Hautpflege durchgeführt werden kann.<br /><br />
+
+Der LR Shop bietet Ihnen die hochwertige LR-Produktwelt zu attraktiven Preisen, bequemen Bezahlmöglichkeiten und fairen Versandoptionen. Durch SSL-Sicherheit gewährleisten wir Datenschutz – Bankverbindung und Bestellvorgänge bleiben dadurch für Dritte unsichtbar.<br /><br />
+
+Bestellen Sie bequem und sicher auf parfuem-kosmetikshop.de.<br />
+Bei Fragen stehen wir Ihnen gerne zur Verfügung!<br /><br />
+
+Ihr Kosmetik Team</p>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.parfuem-kosmetikshop.de/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "3"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"piwik.php"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+</body>
+</html>

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Lo Inexplicable - Cree o no</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Cree o no"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://lo-inexplicable.com.ar/" />
+<link rel="next" href="http://lo-inexplicable.com.ar/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Lo Inexplicable - Cree o no" />
+<meta property="og:description" content="Cree o no" />
+<meta property="og:url" content="http://lo-inexplicable.com.ar/" />
+<meta property="og:site_name" content="Lo Inexplicable" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Cree o no" />
+<meta name="twitter:title" content="Lo Inexplicable - Cree o no" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/lo-inexplicable.com.ar\/","name":"Lo Inexplicable","potentialAction":{"@type":"SearchAction","target":"http:\/\/lo-inexplicable.com.ar\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Lo Inexplicable &raquo; Feed" href="http://lo-inexplicable.com.ar/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lo Inexplicable &raquo; Comments Feed" href="http://lo-inexplicable.com.ar/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lo-inexplicable.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://lo-inexplicable.com.ar/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-style-css'  href='http://lo-inexplicable.com.ar/wp-content/themes/dark/style.css?ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://lo-inexplicable.com.ar/wp-content/themes/dark/css/font-awesome.css?ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-animation-css'  href='http://lo-inexplicable.com.ar/wp-content/themes/dark/css/animate.css?ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-woo-css-css'  href='http://lo-inexplicable.com.ar/wp-content/themes/dark/woocommerce/woo-css.css?ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-google-fonts-css'  href='//fonts.googleapis.com/css?family=Fjalla+One%7CNunito%7CPassion+One&#038;ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-slick-css-css'  href='http://lo-inexplicable.com.ar/wp-content/themes/dark/css/slick.css?ver=4.7.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-content/themes/dark/js/jquery.aniview.js?ver=4.7.7'></script>
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-content/themes/dark/js/slick.min.js?ver=4.7.7'></script>
+<link rel='https://api.w.org/' href='http://lo-inexplicable.com.ar/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lo-inexplicable.com.ar/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lo-inexplicable.com.ar/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.7" />
+		<style type="text/css">
+
+								 
+		</style>
+    		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css">
+			header .site-branding .site-title  a,
+		header .site-branding .site-description {
+			color: #;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://lo-inexplicable.com.ar/wp-content/themes/dark/img/back.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/cropped-cara-de-alien-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/cropped-cara-de-alien-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/cropped-cara-de-alien-180x180.png" />
+<meta name="msapplication-TileImage" content="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/cropped-cara-de-alien-270x270.png" />
+</head>
+
+<body class="home blog custom-background hfeed">
+
+<div id="page" class="site" >
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		<div class="dark-header" role="banner" style="background-image: url('http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/cropped-images-1.jpeg'); min-height:http://357px;">	
+			<div class="site-branding">
+									<h1 class="site-title"><a href="http://lo-inexplicable.com.ar/" rel="home">Lo Inexplicable</a></h1>
+									<p class="site-description">Cree o no</p>
+							</div><!-- .site-branding -->
+		
+		</div>	
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Primary Menu</button>
+			<div class="menu-inicio-container"><ul id="primary-menu" class="menu"><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-53"><a href="http://lo-inexplicable.com.ar">Inicio</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="http://lo-inexplicable.com.ar/category/fantasmas/">Fantasmas</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="http://lo-inexplicable.com.ar/category/ovnis/">Ovnis</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="http://lo-inexplicable.com.ar/category/criptozoologia/">Criptozoologia</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/">Recuerdos del Futuro</a></li>
+</ul></div>	</nav><!-- #site-navigation -->	
+
+	</header><!-- #masthead -->
+			
+	<div id="content" class="site-content">
+		
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-75" class="post-75 post type-post status-publish format-standard hentry category-enigmas">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/bomba-nuclear-1908/" rel="bookmark">¿Bomba nuclear en 1908?</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/bomba-nuclear-1908/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-06-08T20:42:34+00:00">8 June, 2017</time><time class="updated" datetime="2017-05-08T20:42:56+00:00">8 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/bomba-nuclear-1908/">	
+
+		<div class='tumb-dark'></div>
+
+	</a>			
+	<p>Siberia, 30 de junio de 1908: una brillante bola de fuego atraviesa ardiendo la atmósfera de la Tierra, explotando a una altura de 8.000 m sobre el valle rocoso del río Tunguska. La explosión fue equivalente a la de una bomba nuclear de doce megatones y medio. Según una teoría popular, la explosión de Tunguska &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/bomba-nuclear-1908/" class="read-more">Read More<span class="screen-reader-text"> &#8220;¿Bomba nuclear en 1908?&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/enigmas/" rel="category tag">Enigmas</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-73" class="post-73 post type-post status-publish format-standard hentry category-enigmas">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/siberia-en-llamas/" rel="bookmark">Siberia en Llamas</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/siberia-en-llamas/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-06-08T20:37:24+00:00">8 June, 2017</time><time class="updated" datetime="2017-05-08T20:41:58+00:00">8 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/siberia-en-llamas/">	
+
+		<div class='tumb-dark'></div>
+
+	</a>			
+	<p>En la mańana del 30 de junio de 1908, el granjero S. B. Semenov estaba sentado en el porche de la aislada factoría de Vanavara, a 750 kilómetros al noroeste del lago Baikal, en Siberia. Eran solamente las 7:15 de la mańana, pero el día estaba ya muy avanzado, pues en esas latitudes septentrionales el &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/siberia-en-llamas/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Siberia en Llamas&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/enigmas/" rel="category tag">Enigmas</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-77" class="post-77 post type-post status-publish format-standard hentry category-enigmas">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/jugadas-del-destino/" rel="bookmark">Jugadas del destino</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/jugadas-del-destino/" rel="bookmark"><time class="entry-date published updated" datetime="2017-05-08T20:43:44+00:00">8 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/jugadas-del-destino/">	
+
+		<div class='tumb-dark'></div>
+
+	</a>			
+	<p>Sólo cuando su tren entró en la estación de Louisville, George D. Bryson decidió interrumpir su viaje a Nueva York para visitar aquella histórica ciudad de Kentucky. Nunca había estado allí y tuvo que preguntar dónde se encontraba el mejor hotel. Nadie sabía que estaba en Louisville y, en broma, preguntó al recepcionista del Hotel &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/jugadas-del-destino/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Jugadas del destino&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/enigmas/" rel="category tag">Enigmas</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-47" class="post-47 post type-post status-publish format-standard has-post-thumbnail hentry category-armas-del-futuro">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/tecnologia-los-dioses/" rel="bookmark">Tecnologia de los dioses</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/tecnologia-los-dioses/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:47:32+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:53:23+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/tecnologia-los-dioses/">	
+
+		<div class='tumb-dark'><img width="400" height="268" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Main.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Main.jpg 400w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Main-300x201.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></div>
+
+	</a>			
+	<p>La hazańa técnica que hizo posible la construcción de las estructuras megalíticas europeas resulta admirable; tanto, que se ha querido atribuir repetidamente un origen sobrenatural a esta actividad de nuestros antecesores históricos. Sin embargo, es difícil responder a las cuestiones que suscita el megalitismo; por ejemplo, a la pregunta de René Noorbergen: &#8220;żSerá posible que &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/tecnologia-los-dioses/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Tecnologia de los dioses&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/" rel="category tag">Armas del Futuro</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-45" class="post-45 post type-post status-publish format-standard has-post-thumbnail hentry category-armas-del-futuro">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/inventos-otros-tiempos/" rel="bookmark">Inventos de Otros Tiempos</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/inventos-otros-tiempos/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:46:52+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:53:53+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/inventos-otros-tiempos/">	
+
+		<div class='tumb-dark'><img width="240" height="165" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/alienes1.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></div>
+
+	</a>			
+	<p>En un museo de El Cairo se exhibía un pequeńo modelo de madera. Nadie tenía dudas acerca de lo que representaba: una simple ojeada bastaba para distinguir las alas, el plano de deriva, la cola y el sólido y voluminoso cuerpo de algún tipo de avión. El cuerpo de este modelo tenía una longitud de &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/inventos-otros-tiempos/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Inventos de Otros Tiempos&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/" rel="category tag">Armas del Futuro</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-43" class="post-43 post type-post status-publish format-standard has-post-thumbnail hentry category-armas-del-futuro">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/las-piedras-grabadas-del-inca/" rel="bookmark">Las piedras grabadas del Inca</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/las-piedras-grabadas-del-inca/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:46:22+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:54:27+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/las-piedras-grabadas-del-inca/">	
+
+		<div class='tumb-dark'><img width="640" height="480" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/piedra_museo_-monica-gonzalez.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/piedra_museo_-monica-gonzalez.jpg 640w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/piedra_museo_-monica-gonzalez-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></div>
+
+	</a>			
+	<p>oscantos rodados hallados en Ocucaje (Perú) contienen mensajes de un pasado increíblemente remoto. żPor qué temen los arqueólogos aceptar su autenticidad?   Corría el mes de Mayo de 1966. Al consultorio del doctor Javier Cabrera, situado en la Plaza de Armas del pueblo de Ica, llegó su amigo Félix Llosa Romero, llevándole un regalo. Se &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/las-piedras-grabadas-del-inca/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Las piedras grabadas del Inca&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/" rel="category tag">Armas del Futuro</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-41" class="post-41 post type-post status-publish format-standard has-post-thumbnail hentry category-armas-del-futuro">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/quien-disparaba-balas-la-prehistoria/" rel="bookmark">¿Quien disparaba balas en la prehistoria?</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/quien-disparaba-balas-la-prehistoria/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:45:24+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:55:08+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/quien-disparaba-balas-la-prehistoria/">	
+
+		<div class='tumb-dark'><img width="521" height="291" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/balas-prehistoria.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/balas-prehistoria.jpg 521w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/balas-prehistoria-300x168.jpg 300w" sizes="(max-width: 521px) 100vw, 521px" /></div>
+
+	</a>			
+	<p>Von Däniken publica esta impresionante fotografía en su obra Meine Welt in Bildern (Mi mundo en imágenes), traducida al castellano con el ampuloso título de El mensaje de los dioses. Al pie de dicha fotografía, se hace esta pregunta: &#8220;Se puede ver aquí un agujero como el que produciría un proyectil balístico. żQuién poseía entonces &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/quien-disparaba-balas-la-prehistoria/" class="read-more">Read More<span class="screen-reader-text"> &#8220;¿Quien disparaba balas en la prehistoria?&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/" rel="category tag">Armas del Futuro</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-39" class="post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-criptozoologia">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/lago-ness/" rel="bookmark">Lago Ness</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/lago-ness/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:44:32+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:56:28+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/lago-ness/">	
+
+		<div class='tumb-dark'><img width="940" height="440" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Loch_Ness_Monster-940.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Loch_Ness_Monster-940.jpg 940w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Loch_Ness_Monster-940-300x140.jpg 300w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/Loch_Ness_Monster-940-768x359.jpg 768w" sizes="(max-width: 940px) 100vw, 940px" /></div>
+
+	</a>			
+	<p>El mundo cuenta cada vez con menos regiones inexploradas, regiones hostiles o inaccesibles: selvas, cordilleras, islas remotas o fondos de mares y lagos. Pero en esos lugares todavía es posible encontrar criaturas desconocidas. Aunque los escépticos descartan en principio las historias locales, el folklore y las leyendas que suelen rodear a estas criaturas, éstas sólo &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/lago-ness/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Lago Ness&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/criptozoologia/" rel="category tag">Criptozoologia</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-37" class="post-37 post type-post status-publish format-standard has-post-thumbnail hentry category-criptozoologia">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/gigantes-los-mares/" rel="bookmark">Gigantes de los Mares</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/gigantes-los-mares/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:41:27+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:57:12+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/gigantes-los-mares/">	
+
+		<div class='tumb-dark'><img width="1280" height="720" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/maxresdefault.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/maxresdefault.jpg 1280w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/maxresdefault-300x169.jpg 300w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/maxresdefault-768x432.jpg 768w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/maxresdefault-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></div>
+
+	</a>			
+	<p>A pesar de que numerosos científicos siguen mostrándose escépticos ante la existencia de monstruos subacuáticos, los informes sobre observaciones, algunos muy detallados, desde todos los rincones de la Tierra, continúan dando testimonio de gigantescas criaturas. Fotografía del monstruo de Cornualles, conocido como Morgawr, en 1975. Uno de los monstruos más activos de los últimos ańos &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/gigantes-los-mares/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Gigantes de los Mares&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/criptozoologia/" rel="category tag">Criptozoologia</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+<article id="post-35" class="post-35 post type-post status-publish format-standard has-post-thumbnail hentry category-criptozoologia">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://lo-inexplicable.com.ar/mounstros-marinos/" rel="bookmark">Mounstros Marinos</a></h2>		<div class="entry-meta">
+			<span class="posted-on">Posted on <i class="fa fa-calendar" aria-hidden="true"></i> <a href="http://lo-inexplicable.com.ar/mounstros-marinos/" rel="bookmark"><i class="fa fa-clock-o"></i><time class="entry-date published" datetime="2017-05-02T14:39:45+00:00">2 May, 2017</time><time class="updated" datetime="2017-05-02T14:57:36+00:00">2 May, 2017</time></a></span><span class="byline"> by <span class="author vcard"><i class="fa fa-male"></i><a class="url fn n" href="http://lo-inexplicable.com.ar/author/inexplicable/">inexplicable</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		<a class="dark-img-effect" href="http://lo-inexplicable.com.ar/mounstros-marinos/">	
+
+		<div class='tumb-dark'><img width="620" height="413" src="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/1729067.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/1729067.jpg 620w, http://lo-inexplicable.com.ar/wp-content/uploads/2017/05/1729067-300x200.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></div>
+
+	</a>			
+	<p>Las profundidades del océano están pobladas por numerosas criaturas que la ciencia todavía desconoce, y dichos relatos no pueden ser descartados tranquilamente como fruto de la imaginación. Si tenemos en cuenta que más del 60 % de la superficie de la Tierra está cubierta por agua, difícilmente puede sorprendernos que la humanidad tenga noticia de &hellip; </p>
+<p class="link-more"><a href="http://lo-inexplicable.com.ar/mounstros-marinos/" class="read-more">Read More<span class="screen-reader-text"> &#8220;Mounstros Marinos&#8221;</span></a></p>
+	
+		<footer class="entry-footer">
+		<i class="fa fa-folder-open"></i><span class="cat-links">Posted in <a href="http://lo-inexplicable.com.ar/category/criptozoologia/" rel="category tag">Criptozoologia</a></span> 	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+		<div class="hr"></div>
+		<div class="nextpage">
+			
+			<div class="pagination">
+				
+				<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://lo-inexplicable.com.ar/page/2/'>2</a>
+<a class='page-numbers' href='http://lo-inexplicable.com.ar/page/3/'>3</a>
+<a class="next page-numbers" href="http://lo-inexplicable.com.ar/page/2/">Next &raquo;</a>					
+			</div> 
+				
+		</div>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://lo-inexplicable.com.ar/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section>		<section id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://lo-inexplicable.com.ar/bomba-nuclear-1908/">¿Bomba nuclear en 1908?</a>
+						</li>
+					<li>
+				<a href="http://lo-inexplicable.com.ar/siberia-en-llamas/">Siberia en Llamas</a>
+						</li>
+					<li>
+				<a href="http://lo-inexplicable.com.ar/jugadas-del-destino/">Jugadas del destino</a>
+						</li>
+					<li>
+				<a href="http://lo-inexplicable.com.ar/tecnologia-los-dioses/">Tecnologia de los dioses</a>
+						</li>
+					<li>
+				<a href="http://lo-inexplicable.com.ar/inventos-otros-tiempos/">Inventos de Otros Tiempos</a>
+						</li>
+				</ul>
+		</section>		<section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+			<li><a href='http://lo-inexplicable.com.ar/2017/06/'>June 2017</a></li>
+	<li><a href='http://lo-inexplicable.com.ar/2017/05/'>May 2017</a></li>
+	<li><a href='http://lo-inexplicable.com.ar/2017/02/'>February 2017</a></li>
+		</ul>
+		</section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-5"><a href="http://lo-inexplicable.com.ar/category/armas-del-futuro/" >Armas del Futuro</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://lo-inexplicable.com.ar/category/criptozoologia/" >Criptozoologia</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://lo-inexplicable.com.ar/category/enigmas/" >Enigmas</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://lo-inexplicable.com.ar/category/fantasmas/" >Fantasmas</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://lo-inexplicable.com.ar/category/ovnis/" >Ovnis</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://lo-inexplicable.com.ar/category/sin-categoria/" >Sin categoría</a>
+</li>
+		</ul>
+</section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a rel="nofollow" href="http://lo-inexplicable.com.ar/wp-login.php">Log in</a></li>
+			<li><a href="http://lo-inexplicable.com.ar/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://lo-inexplicable.com.ar/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</section></aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+	
+		<div class="site-info">
+			<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			<a title="Wordpress theme" href="http://minathemes.com/" target="_blank">Theme by Mina</a>	
+		</div><!-- .site-info -->	
+		
+	</footer><!-- #colophon -->
+	
+</div><!-- #page -->
+	
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://lo-inexplicable.com.ar/wp-includes/js/wp-embed.min.js?ver=4.7.7'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: lo-inexplicable.com.ar @ 2017-11-25 19:43:27 by W3 Total Cache -->

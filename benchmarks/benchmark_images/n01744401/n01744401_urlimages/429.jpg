@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<title>キッズgoo</title>
+<meta name="keywords" content="キッズgoo,キッズグー,子供向けポータルサイト,きっずグー,きっずぐう">
+<meta name="description" content="キッズgooは終了しました。">
+<link href="css/common2.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/confirm.css" rel="stylesheet" type="text/css" media="all">
+
+<!--script type="text/javascript" src="http://kids.xgoo.jp/js/function.js"></script-->
+</head>
+<body id="parent"><!--body要素のidを編集することにより、ヘッダのタイトルが変更。preset.cssにて調整-->
+<div id="Container">
+<!--▲ドキュメント中央寄せ、横幅固定用コンテナ-->
+  <div id="Header">
+<!-- HeaderGlobal start -->
+<div id="HeaderGlobal">
+  <a href="http://kids.goo.ne.jp/index.html"><h1><img alt="キッズgooロゴ" src="images/lg_global.gif"></h1></a>
+<h2 title="インフォメーション"><a href="/goo.html">インフォメーション</a></h2>
+
+</div>
+
+  </div>
+<div id="Wrapper">
+  <div class="parent-inner">
+    <div class="Column_parentTop clearfix">
+      <div class="ColumnTop_parentTop">
+        <h4><img alt="キッズgooをご利用のみなさま" src="images/kids_end.gif" /></h4>
+        <p><img alt="" src="images/paremt_img01.gif" /></p>
+        <p><!--子ども向け-->
+	いつもキッズgooをつかってくれてありがとう。<br>
+	2001ねんからつづいてきた、キッズgooだけれど、<br>
+	<strong>３がつ３１にち</strong><br>
+	でしゅうりょうしたよ。<br>
+	<br>
+	<strong>＜大人の方へ＞</strong><br>
+	いつもキッズgooをご利用いただきまして、誠にありがとうございます。<br>
+	2001年よりお子様に向けて安心・安全にご利用いただける検索サービスや学習に役立つコンテンツを提供してまいりました。<br>
+	このたび、キッズgooについては、サービスの利用状況などを鑑みて<br>
+		<strong>2017年3月31日（金）</strong><br>
+	をもちまして、サービス終了をさせていただきました。<br>
+	2001年のサービス開始より、多くのお子様にご利用いただき、誠にありがとうございました。サービス終了となりますこと、深くお詫び申し上げます。
+	</p>
+      </div>
+    </div>
+    <br clear="all" />
+  </div>
+  <div class="parent-bottom">
+    <ul>
+      <li class="gktop"><a href="https://www.goo.ne.jp/green/bonolon/">ボノロンは引続きご利用になれます</a></li>
+    </ul>
+  </div>
+</div>
+
+</div>
+<!-- footer start-->
+<div id="Footer">
+</div>
+<!-- footer end-->
+</body>
+</html>

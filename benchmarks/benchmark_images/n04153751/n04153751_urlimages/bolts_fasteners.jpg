@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html class="js-html" lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#02587C">
+    <meta name="msapplication-navbutton-color" content="#02587C">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#02587C">
+<TITLE>allproduct.com - The World's Best Products Directory for Volume Buyers</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+<meta name="keywords" content="Taiwan exporters, Asian products, Taiwanese China exporters, online catalog database, trade directory, volume buyers, traders, importers, OEM manufacturers, exporters, suppliers, post area, business opportunities, products search engine, suppliers search engine, all products, makers, distributors, world, baby supplies, children's toys, beauty care, cosmetics, chemical products, construction materials, electrical products, consumer electronics, food, beverages, tobacco, handtools, hand tools, jewelry, bags, shoes, bike, bicycle, computer, consumer, fasteners, gifts, home, garden, lighting, metals, networking, communications, mold, medical, health, appliances, office supplies, stationary, services, telecommunications, transportation equipment, textiles, clothing, protection, security, sports, entertainment, arts, machinery">
+<meta name="description" content="All Products Online is the most complete product directory for volume buyers to find suppliers, exporters and OEM manufacturers. Database contains over 70,000 products on computers, electronics, machinery, etc. Databases are published on CD-ROMs and distributed at major international trade shows.">
+
+  </head>
+  <body class="js-body">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K4MJPT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K4MJPT');</script>
+<!-- End Google Tag Manager -->
+
+    <!-- backtotop start-->
+    <div class="backtotop js-backtotop" style="display: none"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+    <!-- backtotop end-->
+    <input class="menu__btn js-menu__btn" id="menu-switch" type="checkbox" style="display: none">
+    <noscript>
+      <div class="noscript-dialog">
+        <h3>JavaScript Required</h3>We're sorry, but Allproducts.com doesn't work properly without JavaScript enabled.
+      </div>
+    </noscript>
+    <!-- wrapper start-->
+    <div class="wrapper js-wrapper" style="display:none;">
+      <!-- header start-->
+      <header class="header js-header">
+        <div class="container">
+          <div class="header-info js-header-info">
+            <ul class="header-info__row js-header-info__row sm">
+                          </ul>
+          </div>
+          <div class="logo">
+            <h1><a class="logo-link" href="/"><img class="logo-img" src="images/logo.svg"></a></h1>
+          </div>
+          <label class="menu__label" for="menu-switch"><i class="fa fa-cube" aria-hidden="true"></i>Categories
+          </label>
+          <div class="search-form">
+            <form method="GET" action="/search2/search.php">
+              <select class="search-form__select js-search-form__select"  name="kind">
+                <option value="product" selected>Products</option>
+                <option value="supplier">Suppliers</option>
+                <option value="categories">Categories</option>
+              </select>
+              <div class="search-form__text-box">
+                <input class="search-form__text" type="text" name="query" >
+              </div>
+              <label class="search-form__label" for="search"><i class="fa fa-search" aria-hidden="true"></i>Search</label>
+              <input class="search-form__btn" id="search" type="submit" name="search" value="search">
+            </form>
+          </div>
+        </div>
+      </header>
+      <!-- header end-->
+      <div class="container">
+        <!-- menu start-->
+        <nav class="menu">
+          <ul class="menu__row js-menu__row sm sm-custom sm-vertical">
+                        <li><a href="search/categories/pT0102.shtml">Automobiles and Accessories</a></li>
+<li><a href="search/categories/baby-supplies-toys.shtml">Baby Supplies and Toys</a></li>
+<li><a href="search/categories/bags-footwear.shtml">Bags and Footwear</a></li>
+<li><a href="search/categories/beauty-care-cosmetics.shtml">Beauty Care and Cosmetics</a></li>
+<li><a href="search/categories/bike-bicycle-accessories.shtml">Bike, Bicycle and Accessories</a></li>
+<li><a href="search/categories/computer-products.shtml">Computer Products</a></li>
+<li><a href="search/categories/construction-materials.shtml">Construction Materials</a></li>
+<li><a href="search/categories/consumer-electronics.shtml">Consumer Electronics</a></li>
+<li><a href="search/categories/electrical-and-electronics.shtml">Electrical and Electronics</a></li>
+<li><a href="search/categories/fasteners.shtml">Fasteners</a></li>
+<li><a href="search/categories/food-beverages-tobacco.shtml">Food, Beverages and Tobacco</a></li>
+<li><a href="search/categories/gifts-crafts.shtml">Gifts and Crafts</a></li>
+<li><a href="search/categories/handtools.shtml">Handtools</a></li>
+<li><a href="search/categories/home-garden.shtml">Home and Garden</a></li>
+<li><a href="search/categories/jewelry-timepieces.shtml">Jewelry and Timepieces</a></li>
+<li><a href="search/categories/lighting.shtml">Lighting</a></li>
+<li><a href="search/categories/machinery.shtml">Machinery</a></li>
+<li><a href="search/categories/medical-appliances.shtml">Medical Appliances</a></li>
+<li><a href="search/categories/metal-items.shtml">Metal Items</a></li>
+<li><a href="search/categories/mold.shtml">Mold</a></li>
+<li><a href="search/categories/pT0103.shtml">Motorcycles and Auto Parts</a></li>
+<li><a href="search/categories/networking-communications.shtml">Networking and Communications</a></li>
+<li><a href="search/categories/office-supplies-stationery.shtml">Office Supplies and Stationery</a></li>
+<li><a href="search/categories/pC0102.shtml">Plastic</a></li>
+<li><a href="search/categories/protection-security.shtml">Protection and Security</a></li>
+<li><a href="search/categories/pC0103.shtml">Rubber</a></li>
+<li><a href="search/categories/services.shtml">Services</a></li>
+<li><a href="search/categories/sports-entertainment.shtml">Sports and Entertainment</a></li>
+<li><a href="search/categories/telecommunications.shtml">Telecommunications</a></li>
+<li><a href="search/categories/textiles-garments.shtml">Textiles and Garments</a></li>
+<li><a href="search/categories/pM0104.shtml">Test and Measurement Equipment</a></li>
+
+
+
+          </ul>
+        </nav>
+        <!-- menu end-->
+        <div class="content-box">
+          <div class="container--small">
+            <h3>404 Not Found</h3>
+            <h4>The URL you requested was not found!</h4>
+            <ul>
+              <li>The page might have been removed.</li>
+              <li>The page might be temporarily inaccessible.</li>
+              <li>The page might have been deleted.</li>
+              <li>Or, maybe the URL of the page is mistyped.  Please check the capitalization of letters, and symbols in the URL; and try again.</li>
+            </ul>
+            <hr>
+            <ul>
+              <li>
+                For the latest product information, please go to
+                 <a href="http://chinese.allproducts.com/">allproducts.com</a>, <a href="http://www.allproducts.com/">international</a>, <a href="http://tw.allproducts.com/index.html">domestic</a>.
+              </li>
+              <li>All Products Online Corporation, an expert in internet marketing, has been devoted itself to developing the most effective marketing strategies for more than a decade.</li>
+            </ul>
+            <hr>
+            <div class="notfound__search-google">
+              <script type="text/javascript">
+                var GOOG_FIXURL_LANG = 'en';
+                var GOOG_FIXURL_SITE = 'http://www.allproducts.com'
+              </script>
+              <script type="text/javascript" src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+            </div>
+          </div>
+          <div class="notfound__info">
+            <div class="container--small">
+              If you have further questions, please do not hesitate to e-mail us at
+               <a href="mailto:service@allproducts.com">service@allproducts.com</a>,<br>
+              or to call us at
+               <a href="tel:+886-2-2789-2000">+886-2-2789-2000</a> <span>[Office hours: Mon.~ Fri. 9:00-17:30 (GMT +8)]</span><br>We are more than happy to assist you.
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- footer start-->
+      <footer>
+        <div class="container">
+          <nav class="menu-footer">
+            <ul class="menu-footer__row">
+                          </ul>
+          </nav>
+          <div class="contact-info">
+            <ul>
+                          </ul>
+          </div>
+          <div class="copyright">Copyright © 1996-<span class="copyright__now js-copyright__now">2016</span> All Products Online Corp. All rights reserved</div>
+        </div>
+      </footer>
+      <!-- footer end-->
+    </div>
+    <!-- wrapper end-->
+    <link rel="preload" href="/css/styles.css" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="/css/styles.css">
+    </noscript>
+    <script>!function(e){"use strict";var t=function(t,n,r){function o(e){return i.body?e():void setTimeout(function(){o(e)})}function a(){d.addEventListener&&d.removeEventListener("load",a),d.media=r||"all"}var l,i=e.document,d=i.createElement("link");if(n)l=n;else{var s=(i.body||i.getElementsByTagName("head")[0]).childNodes;l=s[s.length-1]}var u=i.styleSheets;d.rel="stylesheet",d.href=t,d.media="only x",o(function(){l.parentNode.insertBefore(d,n?l:l.nextSibling)});var f=function(e){for(var t=d.href,n=u.length;n--;)if(u[n].href===t)return e();setTimeout(function(){f(e)})};return d.addEventListener&&d.addEventListener("load",a),d.onloadcssdefined=f,f(a),d};"undefined"!=typeof exports?exports.loadCSS=t:e.loadCSS=t}("undefined"!=typeof global?global:this),function(e){if(e.loadCSS){var t=loadCSS.relpreload={};if(t.support=function(){try{return e.document.createElement("link").relList.supports("preload")}catch(t){return!1}},t.poly=function(){for(var t=e.document.getElementsByTagName("link"),n=0;n<t.length;n++){var r=t[n];"preload"===r.rel&&"style"===r.getAttribute("as")&&(e.loadCSS(r.href,r),r.rel=null)}},!t.support()){t.poly();var n=e.setInterval(t.poly,300);e.addEventListener&&e.addEventListener("load",function(){t.poly(),e.clearInterval(n)}),e.attachEvent&&e.attachEvent("onload",function(){e.clearInterval(n)})}}}(this)</script>
+    <script src="/js/scripts.js"></script>
+    <!--if lt IE 9
+    script(src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js')
+    script(src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js')
+    -->
+  </body>
+</html>

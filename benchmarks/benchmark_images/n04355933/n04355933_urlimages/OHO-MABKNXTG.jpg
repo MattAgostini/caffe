@@ -1,0 +1,1131 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<!--[if IE 8]>   <html class="no-js lt-ie11 lt-ie10 lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if IE 9]>   <html class="no-js lt-ie11 lt-ie10 ie" lang="en"> <![endif]-->
+<!--[if IE 10]>  <html class="no-js lt-ie11 ie" lang="en"> <![endif]-->
+<!--[if IE 11]><!-->  <html class="no-js ie" lang="en"> <!--<![endif]-->
+	
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Sea Isle Fishing &amp; Tackle</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://seaisletackle.com/media/favicon/default/SI-favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://seaisletackle.com/media/favicon/default/SI-favicon.png" type="image/x-icon" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://seaisletackle.com/js/blank.html';
+    var BLANK_IMG = 'https://seaisletackle.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/default/aw_blog/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/slider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/owl-carousel/owl.carousel.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/owl-carousel/owl.theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/owl-carousel/owl.transitions.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/cloud-zoom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/animation.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/grid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/retina.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/print.css" media="print" />
+<script type="text/javascript" src="https://seaisletackle.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery.cycle.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery.easing.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/menustandard.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/skin/frontend/default/celebrity/owl-carousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/skin/frontend/default/celebrity/js/script.js"></script>
+<link href="https://seaisletackle.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://seaisletackle.com/skin/frontend/default/celebrity/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://seaisletackle.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://seaisletackle.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://seaisletackle.com/js/NCR/celebrity/html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.seaisletackle.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+<style>
+/********** v2.0 */
+/********** update google Font */
+.std h2, .std h4,
+.page-title h1, .page-title h2, .page-head-alt h3,
+.block .block-title strong,
+.slideshow ul li a, .slideshow ul li strong, .slider-container h2,
+.cart .crosssell h2, .opc .step-title,
+.banners a span, .banner a span,
+.products-list .product-name,
+#shopping-cart-totals-table strong,
+.cart .cart-collaterals .col2-set h2,
+button.button span,
+p.back-link a,
+footer .footer-subscribe .title,
+.product-view h1, .product-view h2,
+.product-tabs a, .product-tabs-content h3, .product-tabs-content h4,
+#product-customer-reviews .review-title, .add-review h3.title, 
+#customer-reviews .form-add h2, #customer-reviews .form-add h3, #customer-reviews .form-add h4, #customer-reviews dt a,
+.product-view .box-tags .form-add label,
+#nav>li>a,.nav-top-title, #nav li.menu-category-description strong, #nav li.menu-category-description a { font-family: 'Open Sans', sans-serif; font-weight: 400;}
+
+.menu-container li.parent em {font-family: 'Open Sans', sans-serif; font-weight: 700;}
+
+.page-title h1,
+.content h2,
+.fieldset .legend,
+.form-list label { color: #000;}
+
+/********** update theme color */
+#slide-timeline,
+#prev,
+.slider-container .jcarousel-list .btn-cart:hover,
+.slider-container .owl-carousel .btn-cart:hover,
+.products-grid .btn-cart:hover,
+.products-list .btn-cart:hover,
+.slideshow ul li a:hover,
+.banners a:hover span,
+.banner a:hover span,
+#addTagForm button.button span,
+.add-review  button.button span,
+.jcarousel-next-horizontal:hover, .jcarousel-prev-horizontal:hover,
+button.btn-checkout span,
+button.button:hover span,
+p.back-link a,
+button.btn-proceed-checkout span span,
+.product-view button.btn-cart span,
+.product-view button.btn-cart span span,
+.cart .cart-collaterals .col2-set button.button span,
+.block .block-content button.button span,
+.opc .active .step-title:hover,
+.product-image em,
+#zoom-prev:hover,
+#zoom-next:hover,
+header .cart-top,
+header .cart-top .summary,
+footer .footer-subscribe button.button span,
+.search-autocomplete ul li:hover,
+.light .search-autocomplete ul li:hover,
+#search_mini_form .form-search button:hover,
+.light #search_mini_form .form-search button:hover,
+.pager .pages li a.next:hover, .pager .pages li a.previous:hover,
+#nav>li>a:hover,
+#nav>li.over>a, .nav-top-title:hover, .nav-top-title.over,
+#nav>li.active>a,
+#nav li.menu-category-description a,
+#nav li.menu-category-description button.button span,
+#nav li.menu-category-description a:hover, .view-mode a:hover, .view-mode strong,.prev-next a:hover, .qty-container .qty-math:hover { background-color:#9a1212; }
+
+.top-border,
+#nav ul,
+#nav div.sub-wrapper { border-top-color: #9a1212; }
+
+#nav ul div, #nav ul ul,
+.light #nav ul div, .light #nav ul ul, #nav div.sub-wrapper ul div.sub-wrapper{ border-left-color: #9a1212;}
+#nav ul ul:before { border-right-color: #9a1212; }
+.opc .active .step-title:hover { border-color: #9a1212; }
+.products-list .price,
+#shopping-cart-table a{ color: #9a1212; }
+
+.header-container, .light .header-container {background-color:#45e3ff}
+
+
+@media only screen and (max-width: 767px) {
+	#search_mini_form .form-search button,
+	.light #search_mini_form .form-search button {background-color:#9a1212;}
+}
+
+@media only screen and (max-width: 1050px) {
+	#nav {border-color:#9a1212;}
+}
+
+
+
+
+</style></head>
+<body class="flexible light  cms-index-index cms-celebrity-home">
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+<div class="wrapper">
+	<div class="top-border"></div>
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+<!-- HEADER BOF -->
+<div class="header-container">
+    <div class="header-wrap">
+		<header>
+			<div class="clearfix header-switch-wrap">
+				
+<!-- cart BOF -->
+<div class="cart-top">
+    <a class="summary" href="https://seaisletackle.com/checkout/cart/">
+	    <div class="text">
+        	        Shopping cart - <span class="price"><span class="price">$0.00</span></span>
+        	    </div>
+    </a>
+	<div class="details">
+			    	        <p class="a-center">You have no items in your shopping cart.</p>
+	    	</div>
+</div>
+<!-- cart EOF -->				
+<!-- LANGUAGES BOF -->
+<!-- LANGUAGES EOF -->
+				
+<!-- Currency BOF -->
+<!-- Currency EOF -->
+			</div>
+			<div class="clearfix logo-container">
+								<div class="logo"><strong></strong><a href="https://seaisletackle.com/" title="" class="logo"><p><img alt="Sea Isle Logo" src="/media/wysiwyg/SI-Logo.png" title="Sea Isle Fishing Tackle Logo" /></p></a></div>
+								<ul class="links">
+	        <li><a href="https://seaisletackle.com/fishing-reel-repair-warranty/" title="Reel Repairs and Warranty Repairs">Reel Repairs</a></li>
+		<li class="separator">|</li>
+                            <li ><a href="https://seaisletackle.com/customer/account/" title="My Account" >My Account</a></li>
+						<li class="separator">|</li>
+			                                <li ><a href="https://seaisletackle.com/wishlist/" title="My Wishlist" >My Wishlist</a></li>
+						<li class="separator">|</li>
+			                                <li ><a href="https://seaisletackle.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+						<li class="separator">|</li>
+			                                <li ><a href="https://seaisletackle.com/customer/account/login/" title="Log In" >Log In</a></li>
+			                </ul>
+			</div>
+					</header>
+		<div class="menu-container clearfix">
+			
+<!-- navigation BOF -->
+	<nav class="responsive top_menu menu_light">
+		<div class="nav-top-title"><div class="icon"><span></span><span></span><span></span></div><a href="#">Navigation</a></div>
+        <ul id="nav">
+                        <li class="level0 nav-1 level-top first parent">
+<a href="https://seaisletackle.com/clothing-104.html" class="level-top">
+<span>Clothing</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-1-1 first">
+<a href="https://seaisletackle.com/clothing-104/footwear-waders.html">
+<span>Footwear &amp; Waders</span>
+</a>
+</li><li class="level1 nav-1-2 ">
+<a href="https://seaisletackle.com/clothing-104/foul-weather.html">
+<span>Foul Weather</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-1-3 last">
+<a href="https://seaisletackle.com/clothing-104/gloves.html">
+<span>Gloves</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-1-4 last">
+<a href="https://seaisletackle.com/clothing-104/shorts.html">
+<span>Shorts</span>
+</a>
+</li></ol></li><li class="last"><ol><li class="level1 nav-1-5 last">
+<a href="https://seaisletackle.com/clothing-104/sunglasses.html">
+<span>Sunglasses</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-2 level-top parent">
+<a href="https://seaisletackle.com/reels.html" class="level-top">
+<span>Reels</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-2-1 first">
+<a href="https://seaisletackle.com/reels/baitcasting-reels.html">
+<span>Baitcasting Reels</span>
+</a>
+</li><li class="level1 nav-2-2 ">
+<a href="https://seaisletackle.com/reels/big-game-reels.html">
+<span>Big Game Reels</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-2-3">
+<a href="https://seaisletackle.com/reels/conventional-reels.html">
+<span>Conventional Reels</span>
+</a>
+</li><li class="level1 nav-2-4 last">
+<a href="https://seaisletackle.com/reels/lever-drag-reels.html">
+<span>Lever Drag Reels</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-2-5">
+<a href="https://seaisletackle.com/reels/reel-accessories.html">
+<span>Reel Accessories</span>
+</a>
+</li><li class="level1 nav-2-6 last">
+<a href="https://seaisletackle.com/reels/rod-reel-combos.html">
+<span>Rod &amp; Reel Combos</span>
+</a>
+</li></ol></li><li class="last"><ol><li class="level1 nav-2-7 last">
+<a href="https://seaisletackle.com/reels/spinning-reels.html">
+<span>Spinning Reels</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-3 level-top parent">
+<a href="https://seaisletackle.com/rods.html" class="level-top">
+<span>Rods</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-3-1 first ">
+<a href="https://seaisletackle.com/rods/conventional-rods.html">
+<span>Conventional Rods</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-3-2 last">
+<a href="https://seaisletackle.com/rods/rod-reel-combos.html">
+<span>Rod &amp; Reel Combos</span>
+</a>
+</li></ol></li><li class="last"><ol><li class="level1 nav-3-3 last">
+<a href="https://seaisletackle.com/rods/spinning-rods.html">
+<span>Spinning Rods</span>
+</a>
+</li></ol></li><li class="last"><ol></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-4 level-top parent">
+<a href="https://seaisletackle.com/tackle.html" class="level-top">
+<span>Tackle</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-4-1 first">
+<a href="https://seaisletackle.com/tackle/accessories.html">
+<span>Accessories</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="https://seaisletackle.com/tackle/bait-traps-holders.html">
+<span>Bait Traps &amp; Holders</span>
+</a>
+</li><li class="level1 nav-4-3 ">
+<a href="https://seaisletackle.com/tackle/fighting-belts.html">
+<span>Fighting Belts</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-4-4">
+<a href="https://seaisletackle.com/tackle/fishing-hooks.html">
+<span>Fishing Hooks</span>
+</a>
+</li><li class="level1 nav-4-5">
+<a href="https://seaisletackle.com/tackle/fishing-leader.html">
+<span>Fishing Leader</span>
+</a>
+</li><li class="level1 nav-4-6 last">
+<a href="https://seaisletackle.com/tackle/fishing-line.html">
+<span>Fishing Line</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-4-7">
+<a href="https://seaisletackle.com/tackle/fishing-lures-and-baits.html">
+<span>Fishing Lures and Baits</span>
+</a>
+</li><li class="level1 nav-4-8">
+<a href="https://seaisletackle.com/tackle/gaffs-landing-gear.html">
+<span>Gaffs &amp; Landing Gear</span>
+</a>
+</li><li class="level1 nav-4-9 last">
+<a href="https://seaisletackle.com/tackle/pliers-knives-tools.html">
+<span>Pliers, Knives &amp; Tools</span>
+</a>
+</li></ol></li><li class="last"><ol><li class="level1 nav-4-10">
+<a href="https://seaisletackle.com/tackle/tackle-boxes-bags.html">
+<span>Tackle Boxes &amp; Bags</span>
+</a>
+</li><li class="level1 nav-4-11">
+<a href="https://seaisletackle.com/tackle/terminal-tackle.html">
+<span>Terminal Tackle</span>
+</a>
+</li><li class="level1 nav-4-12 last">
+<a href="https://seaisletackle.com/tackle/trolling-for-striped-bass.html">
+<span>Trolling for Striped Bass</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-5 level-top  parent">
+<a href="https://seaisletackle.com/rod-building-104.html" class="level-top">
+<span>Rod Building</span>
+</a>
+<div class="sub-wrapper">
+<ul class="level0">
+<li ><ol><li class="level1 nav-5-1 first">
+<a href="https://seaisletackle.com/rod-building-104/accessories.html">
+<span>Accessories</span>
+</a>
+</li><li class="level1 nav-5-2">
+<a href="https://seaisletackle.com/rod-building-104/butts-reel-seats.html">
+<span>Butts &amp; Reel Seats</span>
+</a>
+</li><li class="level1 nav-5-3 ">
+<a href="https://seaisletackle.com/rod-building-104/gimbles-butt-caps.html">
+<span>Gimbles &amp; Butt Caps</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-5-4">
+<a href="https://seaisletackle.com/rod-building-104/glues-finishes.html">
+<span>Glues &amp; Finishes</span>
+</a>
+</li><li class="level1 nav-5-5">
+<a href="https://seaisletackle.com/rod-building-104/rod-blanks.html">
+<span>Rod Blanks</span>
+</a>
+</li><li class="level1 nav-5-6 last">
+<a href="https://seaisletackle.com/rod-building-104/rod-grips.html">
+<span>Rod Grips</span>
+</a>
+</li></ol></li><li ><ol><li class="level1 nav-5-7">
+<a href="https://seaisletackle.com/rod-building-104/rod-guides.html">
+<span>Rod Guides</span>
+</a>
+</li><li class="level1 nav-5-8 last">
+<a href="https://seaisletackle.com/rod-building-104/rod-tip-tops.html">
+<span>Rod Tip Tops</span>
+</a>
+</li></ol></li><li class="last"><ol><li class="level1 nav-5-9">
+<a href="https://seaisletackle.com/rod-building-104/rod-wrapping-thread.html">
+<span>Rod Wrapping Thread</span>
+</a>
+</li><li class="level1 nav-5-10 last">
+<a href="https://seaisletackle.com/rod-building-104/wrappingfinish-machines.html">
+<span>Wrapping/Finish Machines</span>
+</a>
+</li></ol></li>
+</ul>
+</div>
+</li><li class="level0 nav-6 level-top">
+	                <a href="https://seaisletackle.com/new/" class="level-top">
+	                    <span>New</span></a>                
+                </li><li class="level0 nav-7 level-top last">
+	                <a href="https://seaisletackle.com/specials/" class="level-top">
+	                    <span>Specials</span></a>                
+                </li>        </ul>
+    </nav>
+<!-- navigation EOF -->			<form id="search_mini_form" action="https://seaisletackle.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <input id="search" type="text" name="q" value="" class="input-text" />
+        <button type="submit" title="Search" ></button>
+    </div>
+	<div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+	//<![CDATA[
+	    var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+	    searchForm.initAutocomplete('https://seaisletackle.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+	//]]>
+	</script>
+</form>		</div>
+	</div>
+</div>
+<!-- HEADER EOF -->
+        <div class="main-container col1-layout">
+	        <div class="additional_links"><div class="additional_width"><h3>FREE SHIPPING on all orders over $199</h3></div></div>            <div class="main-shadow">
+            <div class="main">
+                <!-- breadcrumbs BOF -->
+<!-- breadcrumbs EOF -->
+                <div class="col-main">
+                                        <div class="std"><div class="white-container clearfix"><!-- SLIDESHOW BOF -->
+<div class="slideshow">
+	<ul id="slideshow">
+            <li>
+	                    <img  src="https://seaisletackle.com/media/NCR/celebrity/slideshowtimeline/Banner-Penn-SlammerIII.jpg" width="694" height="460" alt="" />
+	        
+                        <a class="details" href="/catalogsearch/result/?q=SLAIII" title="">DETAILS</a>
+                                    <strong><span>Penn Slammer III</span></strong>
+                    </li>
+            <li>
+	                    <img  src="https://seaisletackle.com/media/NCR/celebrity/slideshowtimeline/Banner-Daiwa-J-Braid.jpg" width="694" height="460" alt="" />
+	        
+                        <a class="details" href="/catalogsearch/result/?q=j-braid" title="">DETAILS</a>
+                                    <strong><span>Daiwa J-Braid Line</span></strong>
+                    </li>
+            <li>
+	                    <img  src="https://seaisletackle.com/media/NCR/celebrity/slideshowtimeline/Banner-Daiwa-Warranty.png" width="694" height="460" alt="" />
+	        
+                        <a class="details" href="/fishing-reel-repair-warranty/?___store=default" title="">DETAILS</a>
+                                    <strong><span>Fishing Reel Repairs</span></strong>
+                    </li>
+        </ul>
+    <div id="slide-timeline"></div>
+    <div class="slide-nav">
+        <a id="prev" href="#"></a>
+        <a id="next" href="#"></a>
+    </div>
+</div>
+<script>
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// N milliseconds. If `immediate` is passed, trigger the function on the
+// leading edge, instead of the trailing.
+debounce = function(func, wait, immediate) {
+	var timeout, args, context, timestamp, result;
+	return function() {
+		context = this;
+		args = arguments;
+		timestamp = new Date();
+		var later = function() {
+			var last = (new Date()) - timestamp;
+			if (last < wait) {
+				timeout = setTimeout(later, wait - last);
+			} else {
+				timeout = null;
+				if (!immediate) result = func.apply(context, args);
+			}
+		};
+		var callNow = immediate && !timeout;
+		if (!timeout) {
+			timeout = setTimeout(later, wait);
+		}
+		if (callNow) result = func.apply(context, args);
+		return result;
+	};
+};
+
+jQuery(window).load(function(){
+    var $ = jQuery;
+	var slideshowPause = false;
+	var $slideshow = $('#slideshow');
+	var config = {
+		width: $slideshow.width(),
+		height: $slideshow.height(),
+        show_timeline: 1,
+		interval: 6000,
+		speed: 1000,
+		fadeSpeed: 400,
+		effect: 'fade'
+	};
+
+	$('#slide-timeline').hide();
+	$slideshow.find('a.details').css({opacity: 0}).show();
+	$slideshow.find('strong').css({opacity: 0}).show();
+	$('div.slideshow div.slide-nav').css({opacity: 0}).show();
+
+	$(window).resize(function(){
+		var curr = $slideshow.data("cycle.opts").elements[ $slideshow.data("cycle.opts").currSlide ];
+		var next = null;
+		slideshowBefore(curr, next);
+	});
+	$(window).resize(debounce(function(){
+
+		slideshowPause = true;
+		$('#slide-timeline').stop(true);
+
+		$slideshow.attr('style', '');
+
+		els = $slideshow.data("cycle.opts").elements;
+		var maxw = 0, maxh = 0;
+		for(var j=0; j < els.length; j++) {
+			var $e = $(els[j]);
+			$e.width( 'auto' )
+				.height( 'auto' );
+			var e = $e[0], w = $e.outerWidth(), h = $e.outerHeight();
+			if (!w) w = e.offsetWidth || e.width || $e.attr('width');
+			if (!h) h = e.offsetHeight || e.height || $e.attr('height');
+
+			$slideshow.data("cycle.opts").elements[j].cycleH = h;
+			$slideshow.data("cycle.opts").elements[j].cycleW = w;
+
+			maxw = w > maxw ? w : maxw;
+			maxh = h > maxh ? h : maxh;
+		}
+		if (maxw > 0 && maxh > 0) {
+			$slideshow.css({width:maxw+'px',height:maxh+'px'});
+			config.width = maxw;
+			config.height = maxh;
+		}
+
+		var curr = $slideshow.data("cycle.opts").elements[ $slideshow.data("cycle.opts").currSlide ];
+		slideshowAfter(null, curr);
+
+		slideshowPause = false;
+		var interval = (config.width - $('#slide-timeline').width() ) / ( config.width / config.interval );
+		runTimeline(interval);
+
+	}, 128));
+
+
+	var runTimeline = function( interval ) {
+		if ( slideshowPause || interval == 0 ) return;
+        if (config.show_timeline) $('#slide-timeline').show();
+		$('#slide-timeline')
+	        .animate(
+		        {width: config.width + 'px'},
+				interval,
+		        'linear',
+		        function(){
+			        $(this).hide().width(0);
+			        $slideshow.cycle('next');
+		        }
+	        );
+	}
+
+	$("div.slideshow").hover(
+		function(){
+			slideshowPause = true;
+			$('#slide-timeline').stop(true);
+		},
+		function(){
+			slideshowPause = false;
+			var interval = (config.width - $('#slide-timeline').width() ) / ( config.width / config.interval );
+			runTimeline(interval);
+		}
+	);
+
+	var animateSpeed = config.fadeSpeed;
+
+	var slideshowBefore = function(currSlideElement, nextSlideElement){
+		$('a.details',currSlideElement).stop(true, true).animate({opacity: 0}, animateSpeed);
+		$('strong',currSlideElement).stop(true, true).animate({opacity: 0}, animateSpeed);
+		$('div.slideshow div.slide-nav').stop(true, true).animate({opacity: 0}, animateSpeed);
+	}
+
+	var slideshowAfter = function(currSlideElement, nextSlideElement){
+
+		if ( nextSlideElement.cycleH != $slideshow.height() ) {
+			$slideshow.animate({height: nextSlideElement.cycleH}, 300);
+		}
+
+		var link = $('a.details',nextSlideElement);
+		var title = $('strong',nextSlideElement);
+		var nav = $('div.slideshow div.slide-nav');
+
+		if ( link.length ) {
+			link.css({ bottom:'85px', opacity:0 })
+				.css('display', 'block')
+				.stop(true, true)
+				.animate({opacity: 1}, animateSpeed)
+		}
+		if ( title.length ) {
+			var left = link.width();
+			if ( !link.length ) left = 0;
+			title.css({ left:left, opacity:0 })
+				.css('display', 'block')
+				.stop(true, true)
+				.animate({opacity: 1}, animateSpeed)
+		}
+		var nav_left = 0;
+		if ( link.length && title.length ) {
+			nav_left = link.width();
+		}
+		nav.removeClass('no-title');
+		$('#slide-timeline').removeClass('no-title');
+		if ( !link.length && !title.length ) {
+			nav.addClass('no-title');
+			$('#slide-timeline').addClass('no-title');
+		}
+		nav.css({left:nav_left, opacity:0 })
+			.css('display', 'block')
+			.stop(true, true)
+			.animate({opacity:1}, animateSpeed);
+	}
+
+	$slideshow.cycle({
+	    prev: '#prev',
+        next: '#next',
+        timeout : 0,
+        speed: config.speed,
+        fx: config.effect,
+		onPrevNextEvent: function(){
+            $('#slide-timeline').hide().width(0);
+        },
+	    before: slideshowBefore,
+	    after: function(currSlideElement, nextSlideElement){
+		    slideshowAfter(currSlideElement, nextSlideElement);
+		    setTimeout( function(){ runTimeline(config.interval); }, animateSpeed );
+	    }
+    });
+});
+</script>
+<!-- SLIDESHOW EOF -->
+
+<div class="banners"><a href="/fishing-reel-repair-warranty" title="Factory Authorized Fishing Reel Repair" target="_self"><img alt="Factory Authorized Repair" height="152" src="/media/wysiwyg/Home-Banner-Factory-Authorized.png" title="Factory Authorized Fishing Reel Repair" width="254" /> </a> <a class="text-right" href="/tackle/trolling-for-striped-bass.html" title="Trolling for Striped Bass" target="_self"><img alt="Striped Bass Trolling Supplies" height="152" src="/media/wysiwyg/Banner-HP-Right-Striped-Bass-Trolling.jpg" title="Trolling Supplies for Striped Bass" width="254" /></a><a href="/reels/tsunami-forged-10-lever-drag.html" title="Tsunami Forged 10 Lever Drag Reel" target="_self"><img alt="Tsunami Forge 10" height="152" src="/media/wysiwyg/Banner-HP-Right-TSU-Forge-10.jpg" title="Tsunami Forge 10 Reel" width="254" /></a></div>
+<div class="clear">&nbsp;</div>
+</div>
+<p><div class="slider-container clearfix">
+        
+        
+
+            <div class="latest left">
+            <div class="clearfix">
+                <h2 class="subtitle">Latest Arrivals</h2>
+                <a href="#" class="jcarousel-prev-horizontal" id="celebrity_latest_prev"></a>
+                <a href="#" class="jcarousel-next-horizontal" id="celebrity_latest_next"></a>
+            </div>
+            <ul id="celebrity_latest" class="jcarousel-skin-tango clearfix">
+                            <li>
+                    <a href="https://seaisletackle.com/international-50visx.html" title="Penn International - 50VISX - Gold" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT50VISX.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT50VISX.jpg" width="112" height="135" alt="Penn International - 50VISX - Gold" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/international-16visx.html" title="Penn International - 16VISX - Gold" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT16VISX.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT16VISX.jpg" width="112" height="135" alt="Penn International - 16VISX - Gold" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/saltist-spin-saltist2500.html" title="Daiwa Saltist Spin - SALTIST2500" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST2500.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST2500.jpg" width="112" height="135" alt="Daiwa Saltist Spin - SALTIST2500" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/lexa-baitcast-lexa-hd300hs-p.html" title="Daiwa Lexa Baitcast - LEXA-HD300HS-P" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-LEXA-HD300HS-P.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-LEXA-HD300HS-P.jpg" width="112" height="135" alt="Daiwa Lexa Baitcast - LEXA-HD300HS-P" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/saltist-spin-saltist4000.html" title="Daiwa Saltist Spin - SALTIST4000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST4000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST4000.jpg" width="112" height="135" alt="Daiwa Saltist Spin - SALTIST4000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/saltist-spin-saltist3000.html" title="Daiwa Saltist Spin - SALTIST3000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST3000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST3000.jpg" width="112" height="135" alt="Daiwa Saltist Spin - SALTIST3000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/saltist-spin-saltist5000.html" title="Daiwa Saltist Spin - SALTIST5000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST5000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-SALTIST5000.jpg" width="112" height="135" alt="Daiwa Saltist Spin - SALTIST5000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/daiwa-bg-spinning-bg2500.html" title="Daiwa BG Spinning - BG2500" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG2500.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG2500.jpg" width="112" height="135" alt="Daiwa BG Spinning - BG2500" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/daiwa-bg-spinning-bg3000.html" title="Daiwa BG Spinning - BG3000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG3000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG3000.jpg" width="112" height="135" alt="Daiwa BG Spinning - BG3000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/daiwa-bg-spinning-bg3500.html" title="Daiwa BG Spinning - BG3500" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG3500.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG3500.jpg" width="112" height="135" alt="Daiwa BG Spinning - BG3500" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/daiwa-bg-spinning-bg4000.html" title="Daiwa BG Spinning - BG4000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG4000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG4000.jpg" width="112" height="135" alt="Daiwa BG Spinning - BG4000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/costal-baitcast-cltw200hs.html" title="Daiwa Costal Baitcast - CLTW200HS" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-CLTW200HS.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-CLTW200HS.jpg" width="112" height="135" alt="Daiwa Costal Baitcast - CLTW200HS" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/daiwa-bg-spinning-bg5000.html" title="Daiwa BG Spinning - BG5000" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG5000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/D/A/DAI-BG5000.jpg" width="112" height="135" alt="Daiwa BG Spinning - BG5000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/international-30visx.html" title="Penn International - 30VISX - Gold" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT30VISX.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-INT30VISX.jpg" width="112" height="135" alt="Penn International - 30VISX - Gold" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/grundens-deck-boss-boot-15.html" title="Grundens Deck Boss Boot - 15&quot; - Steel Gray" class="product-image">
+                        <div class="new-label new-top-left"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/G/R/GRU-BOOT-15DB.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/G/R/GRU-BOOT-15DB.jpg" width="112" height="135" alt="Grundens Deck Boss Boot - 15&quot; - Steel Gray" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+    
+
+        
+
+            <div class="sale right">
+            <div class="clearfix">
+                <h2 class="subtitle">On Sale</h2>
+                <a href="#" class="jcarousel-prev-horizontal" id="celebrity_sale_prev"></a>
+                <a href="#" class="jcarousel-next-horizontal" id="celebrity_sale_next"></a>
+            </div>
+            <ul id="celebrity_sale" class="jcarousel-skin-tango clearfix">
+                            <li>
+                    <a href="https://seaisletackle.com/conflict-3000.html" title="Penn Conflict 3000" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-CFT3000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-CFT3000.jpg" width="112" height="135" alt="Penn Conflict 3000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/conflict-8000.html" title="Penn Conflict 8000" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-CFT8000.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/P/E/PEN-CFT8000.jpg" width="112" height="135" alt="Penn Conflict 8000" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/bt90j-90-fiberglass.html" title="Calstar Rod Blank - T90J 9" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Calstar Rod Blank - T90J 9" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/lucanus-bucktail-200g7oz.html" title="Shimano Lucanus Bucktail Jig - 200g/7 oz" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK200.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK200.jpg" width="112" height="135" alt="Shimano Lucanus Bucktail Jig - 200g/7 oz" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/tri-flex-blank-66-30lb.html" title="6'6&quot; Tri-Flex Blank - 30lb Line" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="6'6&quot; Tri-Flex Blank - 30lb Line" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/bt670l-70-fiberglass.html" title="Calstar Rod Blank - T670L 7" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Calstar Rod Blank - T670L 7" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/lucanus-bucktail-100g3-12oz.html" title="Shimano Lucanus Bucktail Jig - 100g/3 1/2 oz" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK100.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK100.jpg" width="112" height="135" alt="Shimano Lucanus Bucktail Jig - 100g/3 1/2 oz" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/gatorglass-igfa-5-3-30-lb.html" title="Gatorglass  IGFA 5' 3&quot; - 30 lb" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Gatorglass  IGFA 5' 3&quot; - 30 lb" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/bt195xh-60-fiberglass.html" title="Calstar Rod Blank - T195XH 6" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Calstar Rod Blank - T195XH 6" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/lucanus-bucktail-60g2oz.html" title="Shimano Lucanus Bucktail Jig - 60g/2 oz" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK060.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-JLCBUCK060.jpg" width="112" height="135" alt="Shimano Lucanus Bucktail Jig - 60g/2 oz" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/gatorglass-stand-up-5-10-55278.html" title="Gatorglass  Stand-Up 5' 10&quot; - 60 to 100 lb" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Gatorglass  Stand-Up 5' 10&quot; - 60 to 100 lb" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/trilene-xl-filler-spool-17lb.html" title="Trilene XL Spool - 17lb x 330yds - Clear" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/B/E/BER-XLVS-17-15.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/B/E/BER-XLVS-17-15.jpg" width="112" height="135" alt="Trilene XL Spool - 17lb x 330yds - Clear" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/magic-swimmer-6-12-1-12oz.html" title="Sebile Magic Swimmer Slow Sink - 6 1/2&quot; - 1 1/2 oz" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/E/SEI-MS-GL-NO-145-FSK.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/E/SEI-MS-GL-NO-145-FSK.jpg" width="112" height="135" alt="Sebile Magic Swimmer Slow Sink - 6 1/2&quot; - 1 1/2 oz" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/gatorglass-stand-up-5-10.html" title="Gatorglass  Stand-Up 5' 10&quot; - 30 to 50 lb" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Gatorglass  Stand-Up 5' 10&quot; - 30 to 50 lb" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/evair-casual-shoe.html" title="Shimano Evair Casual Shoe" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-EVACS.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/H/SHG-EVACS.jpg" width="112" height="135" alt="Shimano Evair Casual Shoe" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/bonga-jerk-5-2oz.html" title="Sebile Bonga Jerk - 5&quot; - 2 oz" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/E/SEI-BJ-FW-NO-125-FL.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/E/SEI-BJ-FW-NO-125-FL.jpg" width="112" height="135" alt="Sebile Bonga Jerk - 5&quot; - 2 oz" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/fin-strike-replacement-teasers.html" title="Fin Strike #SS40 Replacement Teasers" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/nro_image_placeholder_small.png" width="112" height="135" alt="Fin Strike #SS40 Replacement Teasers" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/ultracast-invisi-braid-300yds.html" title="Spiderwire UltraCast Invisi-Braid - 300yd Spool" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/S/P/SPI-SUIB-0300.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/S/P/SPI-SUIB-0300.jpg" width="112" height="135" alt="Spiderwire UltraCast Invisi-Braid - 300yd Spool" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/gorilla-heavy-duty-close-out.html" title="Owner Gorilla Heavy Duty - Pocket Pack - Closeout" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/O/W/OWN-5105-CO.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/O/W/OWN-5105-CO.jpg" width="112" height="135" alt="Owner Gorilla Heavy Duty - Pocket Pack - Closeout" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://seaisletackle.com/fin-strike-4-arm-frame-54542.html" title="Fin Strike 20&quot; 4 Arm Frame - 4 Teaser Loops" class="product-image">
+                        <div class="sale-label sale-top-right"></div>                                                    <img data-srcX2="https://seaisletackle.com/media/catalog/product/cache/1/small_image/224x270/9df78eab33525d08d6e5fb8d27136e95/F/I/FIN-SS20.jpg" src="https://seaisletackle.com/media/catalog/product/cache/1/small_image/112x135/9df78eab33525d08d6e5fb8d27136e95/F/I/FIN-SS20.jpg" width="112" height="135" alt="Fin Strike 20&quot; 4 Arm Frame - 4 Teaser Loops" />
+                                                                                                <span></span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+    
+</div>
+
+<script type="text/javascript">
+
+        
+        jQuery(document).ready(function($) {
+        
+        	var carouselId = '#celebrity_sale',
+        		carouselPrev = '#celebrity_sale_prev',
+        		carouselNext = '#celebrity_sale_next';
+        	var owl = $(carouselId);
+        
+        	owl.owlCarousel({
+        
+        		itemsCustom: [ [0, 3], [480, 4], [768, 2], [1051, 2] ],
+        
+        		responsiveRefreshRate: 50,
+        		slideSpeed: 400,
+        		stopOnHover: true,
+        		pagination: false,
+        		itemsScaleUp: false,
+        		rewindNav: false,
+        
+        		afterAction: function(){
+        			if ( this.itemsAmount > this.visibleItems.length ) {
+        				$(carouselNext).show();
+        				$(carouselPrev).show();
+        
+        				$(carouselNext).removeClass('disabled');
+        				$(carouselPrev).removeClass('disabled');
+        				if ( this.currentItem == 0 ) {
+        					$(carouselPrev).addClass('disabled');
+        				}
+        				if ( this.currentItem == this.maximumItem ) {
+        					$(carouselNext).addClass('disabled');
+        				}
+        
+        			} else {
+        				$(carouselNext).hide();
+        				$(carouselPrev).hide();
+        			}
+        		}
+        
+        	});
+        
+        	$(carouselNext).click(function(){
+        		owl.trigger('owl.next');
+        		return false;
+        	})
+        	$(carouselPrev).click(function(){
+        		owl.trigger('owl.prev');
+        		return false;
+        	})
+        
+        });
+        
+        jQuery(document).ready(function($) {
+        
+        	var carouselId = '#celebrity_latest',
+        		carouselPrev = '#celebrity_latest_prev',
+        		carouselNext = '#celebrity_latest_next';
+        	var owl = $(carouselId);
+        
+        	owl.owlCarousel({
+        
+        		itemsCustom: [ [0, 3], [480, 4], [768, 4], [1051, 6] ],
+        
+        		responsiveRefreshRate: 50,
+        		slideSpeed: 400,
+        		stopOnHover: true,
+        		pagination: false,
+        		itemsScaleUp: false,
+        		rewindNav: false,
+        
+        		afterAction: function(){
+        			if ( this.itemsAmount > this.visibleItems.length ) {
+        				$(carouselNext).show();
+        				$(carouselPrev).show();
+        
+        				$(carouselNext).removeClass('disabled');
+        				$(carouselPrev).removeClass('disabled');
+        				if ( this.currentItem == 0 ) {
+        					$(carouselPrev).addClass('disabled');
+        				}
+        				if ( this.currentItem == this.maximumItem ) {
+        					$(carouselNext).addClass('disabled');
+        				}
+        
+        			} else {
+        				$(carouselNext).hide();
+        				$(carouselPrev).hide();
+        			}
+        		}
+        
+        	});
+        
+        	$(carouselNext).click(function(){
+        		owl.trigger('owl.next');
+        		return false;
+        	})
+        	$(carouselPrev).click(function(){
+        		owl.trigger('owl.prev');
+        		return false;
+        	})
+        
+        });
+    
+        
+</script>
+<!-- SLIDER EOF -->
+</p></div>                </div>
+            </div>
+            </div>
+	        <!-- footer BOF -->
+<div class="footer-container informative">
+    <footer>
+        <ul class="footer-links">
+<li><span>Customer Service</span>
+<ul>
+<li><a href="https://seaisletackle.com/fishing-reel-repair-warranty/">Fishing Reel Repairs</a></li>
+<li><a href="https://seaisletackle.com/order-fishing-reel-parts/">Order Fishing Reel Parts</a></li>
+<li><a href="https://seaisletackle.com/shipping/">Shipping</a></li>
+<li><a href="https://seaisletackle.com/returns/">Returns</a></li>
+<li><a href="https://seaisletackle.com/terms/">Terms &amp; Conditions</a></li>
+<li><a href="https://seaisletackle.com/catalog/seo_sitemap/category/">Site Map</a></li>
+</ul>
+</li>
+<li><span>About Us</span>
+<ul>
+<li><a href="https://seaisletackle.com/contact/">Contact Us</a></li>
+<li><a href="https://seaisletackle.com/about/">About Us</a></li>
+<li><a href="https://seaisletackle.com/faq/">FAQ</a></li>
+</ul>
+</li>
+<li><span>Connect with Us</span>
+<ul class="footer-social">
+<li><a class="twitter" href="javascript:void();" target="_blank">Twitter</a></li>
+<li><a class="facebook" href="javascript:void();" target="_blank">Facebook</a></li>
+<li><a class="google" href="javascript:void();" target="_blank">Google</a></li>
+<li><a class="email" href="javascript:void();">Email</a></li>
+</ul>
+</li>
+</ul><div class="footer-subscribe clearfix">
+    <div class="title">Newsletter Sign Up</div>
+	<div class="description">Sign up for our email newsletter to stay in-the-know about all of our sales and in-store events</div>
+    <form action="https://seaisletackle.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <input name="form_key" type="hidden" value="d58CmMkx8uTNTzmI" />
+        <div class="subscribe-input">
+	        <input type="text" name="email" id="newsletter" title="Your email" value="Your email" class="input-text required-entry validate-email" />
+        </div>
+        <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+<div class="clearfix"></div>		<address>Copyright &Copy; 2017 Sea Isle Custom Rod Builders, Inc. All rights reserved.</address>
+    </footer>
+</div>
+<!-- footer EOF -->
+        </div>
+        
+
+<script type="text/javascript">
+
+if (!Array.prototype.indexOf) {
+    Array.prototype.indexOf = function (searchElement /*, fromIndex */ ) {
+        "use strict";
+        if (this == null) {
+            throw new TypeError();
+        }
+        var t = Object(this);
+        var len = t.length >>> 0;
+        if (len === 0) {
+            return -1;
+        }
+        var n = 0;
+        if (arguments.length > 0) {
+            n = Number(arguments[1]);
+            if (n != n) { // shortcut for verifying if it's NaN
+                n = 0;
+            } else if (n != 0 && n != Infinity && n != -Infinity) {
+                n = (n > 0 || -1) * Math.floor(Math.abs(n));
+            }
+        }
+        if (n >= len) {
+            return -1;
+        }
+        var k = n >= 0 ? n : Math.max(len - Math.abs(n), 0);
+        for (; k < len; k++) {
+            if (k in t && t[k] === searchElement) {
+                return k;
+            }
+        }
+        return -1;
+    }
+}
+</script>    </div>
+</div>
+
+
+</body>
+</html>

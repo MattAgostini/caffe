@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge"/><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>404 Page Not Found</title>
+	<!-- SEO Meta Tags -->
+	<meta name="keywords" content="404" />
+	<meta name="description" content="404" />
+	<meta name="google-site-verification" content="UA-22297280-6"/>
+	<meta name="msvalidate.01" content="" />
+ 	<meta name="alexaVerifyID" content="" />      
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="404 Page Not Found"/>
+    <meta property="og:description" content="404"/>
+    <meta property="og:url" content="https://www.resourcebank.com"/>
+    <meta property="og:site_name" content="Resource Bank"/>
+	<!-- Favicons -->
+    <meta property="og:image" content="/upload/image/apple-touch-icon-iphone4.png"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/upload/image/favicon.ico" />
+    <link rel="apple-touch-icon" href="/upload/image/apple-touch-icon-iphone.png" type="image/png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/upload/image/apple-touch-icon-ipad.png" type="image/png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/upload/image/apple-touch-icon-iphone4.png" type="image/png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/upload/image/apple-touch-icon-ipad3.png" type="image/png" />
+	<!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="https://www.resourcebank.com/include/rwd.css" />
+    <!--[if IE]><link rel="stylesheet" type="text/css" href="https://www.resourcebank.com/profile/mobile/css/ie.css" /><![endif]-->
+	<link rel="stylesheet" type="text/css" href="https://www.resourcebank.com/profile/mobile/css/style.css" />
+	<!-- Site Wide JavaScript and CSS -->
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<link rel="stylesheet" href="https://www.resourcebank.com/profile/mobile/css/slicknav.css" type="text/css"/>
+<script type="text/javascript" src="https://www.resourcebank.com/profile/mobile/js/jquery.slicknav.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+   $('.tabButton').click(function(e){
+      if(e.target !== this) return;
+      $(this).children('a').first().click();
+   });
+});
+<!--
+  function setAction()
+  {
+    if(document.Remote.loginTo[1].checked)
+    {
+       document.Remote.nmUID.value = document.Remote.AccessID.value;
+//       document.Remote.nmPWD.value = document.Remote.Password.value;
+       //document.Remote.target = '_top';
+       document.Remote.action = 'https://bert.resourcebank.com/EBC_EBC1961/EBC1961.ashx?WCI=Process&WCE=RemoteLogon&IRL=T&RTN=071914358&mfa=2';
+ 	}
+   }
+   
+function doLoginRefresh()
+{
+if (document.Remote.AccessID.value != "" )
+{
+setAction();
+setTimeout('document.Remote.reset()', 2500);
+document.Remote.AccessID.value=document.Remote.AccessID.value;
+//document.Remote.Password.value=document.Remote.Password.value;
+return true;
+}
+else
+{
+alert("\n Please Enter a valid Access ID and Password.  Thank you!\n\n\t"); 
+return false;
+}	
+}
+
+//-->
+</script>
+
+	<!-- Page Specific JavaScript and CSS -->
+	
+	<!-- Module Specific JavaScript and CSS -->
+	
+    <!--[if IE]><script type="text/javascript" src="https://www.resourcebank.com/profile/mobile/js/respond.min.js"></script><![endif]-->
+    <script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-22297280-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>   
+</head>
+<body>
+    <header>
+        <div id="header">
+            <div class="row">
+                <div class="sixcol">
+                    <a href="/"><img src="https://www.resourcebank.com/upload/image/logo.png" id="logo" alt="Resource Bank" /></a>
+                </div>
+                <div class="sixcol last">
+                	<div id="logIn">
+                        <form id="Form1" name="Remote" onSubmit="return doLoginRefresh()" action="https://bert.resourcebank.com/pbi_pbi1961/Pbi1961.ashx?WCI=RemoteLogin&RT=071914358&LogonBy=connect3&PRMACCESS=Portfolio"
+method="post" target="_blank">
+							<input id="Hidden1" type="hidden" name="nmUID">
+                            <input id="Hidden3" type="hidden" value="071914358" name="nmRTN">
+                            <small>
+                                <input id="Radio1" type="radio" checked value="ecom" name="loginTo" tabindex="3">Personal Banking &nbsp;&nbsp;
+                                <input id="Radio2" type="radio" value="ecorp" name="loginTo" tabindex="4">Business Banking<br>
+                    		</small>
+                            <span for="login">Access ID: </span>
+                            <input type="text" class="text-input" name="AccessID" />
+                            <input type="submit" value="Log In" id="logInGo"/>
+                        </form>                                       
+                    </div>
+                   
+                    <div id="phoneNumber">
+                        <span class="numberLeft">(815) 756-6321</span><span class="bar">|</span><span class="numberRight">(800) 845-4122</span>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!--End of header div-->
+    </header>
+    <nav id="menu">
+        <div class="row">
+            <ul class="menuList"><li class=""><a title="About Us" href="/bank-history">About Us</a><ul class="subList"><li class=""><a title="Contact" href="/contact-us">Contact</a></li><li class=""><a title="Bank History" href="/bank-history">Bank History</a></li><li class=""><a title="Resource Careers" href="/careers">Resource Careers</a></li><li class=""><a title="Hours & Locations" href="/hours-locations">Hours & Locations</a></li><li class=""><a title="Resource News" href="/blog">Resource News</a></li></ul></li><li class=""><a title="Banking" >Banking</a><ul class="subList"><li class=""><a title="Personal Banking" href="/personal-banking">Personal Banking</a><ul class="subList"><li class=""><a title="Personal Checking" href="/personal-checking">Personal Checking</a></li><li class=""><a title="Resource Market Fund" href="/personal-banking#resource-market-fund">Resource Market Fund</a></li><li class=""><a title="Resource Savings" href="/personal-banking#resource-savings">Resource Savings</a></li><li class=""><a title="Performance Account" href="/personal-banking#performance-account">Performance Account</a></li><li class=""><a title="Health Savings Accounts" href="/personal-banking#health-savings-account">Health Savings Accounts</a></li><li class=""><a title="Personal Loans" href="/personal-banking#personal-loans">Personal Loans</a></li><li class=""><a title="Certificate of Deposit" href="/personal-banking#certificate-of-deposit">Certificate of Deposit</a></li><li class=""><a title="Safe Deposit Box" href="/personal-banking#safe-deposit-box">Safe Deposit Box</a></li><li class=""><a title="Tele-Banking" href="/telebanking">Tele-Banking</a></li><li class=""><a title="Protect Your Identity" href="/protect-your-identity">Protect Your Identity</a></li><li class=""><a title="Order Checks" href="https://www.deluxe.com/" target="_blank" onclick="return confirm('You are now leaving Resource Bank\'s website.  Please be advised that Resource Bank does not operate the third-party website to which you are being transferred and therefore is not responsible for the website\'s overall content, including any product offerings, service and functionality.  Additionally, Resource Bank\'s privacy policies are not applicable to the third-party websites; viewers should consult the privacy disclosures on that site for further information.')">Order Checks</a></li></ul></li><li class=""><a title="Business Banking" href="/business-banking">Business Banking</a><ul class="subList"><li class=""><a title="Online Business" href="/business-banking#internet-commercial">Online Business</a></li><li class=""><a title="Free Business Checking" href="/business-banking#free-business-checking">Free Business Checking</a></li><li class=""><a title="Merchant Services" href="/business-banking#merchant-services">Merchant Services</a></li><li class=""><a title="Agricultural & Business Loans" href="/business-banking#agricultural-business-loans">Agricultural & Business Loans</a></li><li class=""><a title="On-Site Deposit" href="/business-banking#onsite-deposit">On-Site Deposit</a></li><li class=""><a title="Profit Quest" href="/business-banking#profit-quest">Profit Quest</a></li><li class=""><a title="SCORE" href="/score">SCORE</a></li></ul></li><li class=""><a title="Online Banking" href="/online-banking">Online Banking</a><ul class="subList"><li class=""><a title="Personal Online Banking" href="/online-banking#personal-online-banking">Personal Online Banking</a></li><li class=""><a title="Business Online Banking" href="/online-banking#business-online-banking">Business Online Banking</a></li><li class=""><a title="E-Statements" href="/online-banking#e-statements">E-Statements</a></li><li class=""><a title="Message Alerts" href="/online-banking#messaging">Message Alerts</a></li></ul></li><li class=""><a title="Mobile Banking" href="/mobile-banking">Mobile Banking</a></li><li class=""><a title="Mobile Wallet" href="/mobile-wallet">Mobile Wallet</a></li></ul></li><li class=""><a title="Investments" href="/investments">Investments</a><ul class="subList"><li class=""><a title="About Investing" href="/investments#advisors">About Investing</a></li><li class=""><a title="Plan Goals" href="/investments#plan-goals">Plan Goals</a></li><li class=""><a title="IRAs" href="/investments#iras">IRAs</a></li><li class=""><a title="Contact Us" href="/investments#contact_us">Contact Us</a></li><li class=""><a title="Cetera Account Access" href="http://iconnect2invest.com/" target="_blank" onclick="return confirm('You are now leaving Resource Bank\'s website.  Please be advised that Resource Bank does not operate the third-party website to which you are being transferred and therefore is not responsible for the website\'s overall content, including any product offerings, service and functionality.  Additionally, Resource Bank\'s privacy policies are not applicable to the third-party websites; viewers should consult the privacy disclosures on that site for further information.')">Cetera Account Access</a></li></ul></li><li class=""><a title="Mortgage" href="http://resourcebankmortgage.com/Default.aspx" target="_blank" onclick="return confirm('You are now leaving Resource Bank\'s website.  Please be advised that Resource Bank does not operate the third-party website to which you are being transferred and therefore is not responsible for the website\'s overall content, including any product offerings, service and functionality.  Additionally, Resource Bank\'s privacy policies are not applicable to the third-party websites; viewers should consult the privacy disclosures on that site for further information.')">Mortgage</a></li><li class=""><a title="Insurance" href="/insurance">Insurance</a><ul class="subList"><li class=""><a title="Our Mission" href="/insurance#mission">Our Mission</a></li><li class=""><a title="What We Can Do For You" href="/insurance#what-we-can-do">What We Can Do For You</a></li><li class=""><a title="Get a Quote" href="/insurance#quote">Get a Quote</a></li><li class=""><a title="Privacy Policy" href="/insurance#privacy">Privacy Policy</a></li><li class=""><a title="Contact Us" href="/insurance#rep">Contact Us</a></li></ul></li><li class=""><a title="Trust" href="/trust">Trust</a><ul class="subList"><li class=""><a title="Summary of Services" href="/trust#services">Summary of Services</a></li><li class=""><a title="Living Trust" href="/trust#living">Living Trust</a></li><li class=""><a title="Gifting" href="/trust#gifting">Gifting</a></li><li class=""><a title="Contact Us" href="/trust#contact_us">Contact Us</a></li><li class=""><a title="Account Access" href="https://services2.sungard.com/idp/TSS360/?ClientID=WebLinkUI" target="_blank" onclick="return confirm('You are now leaving Resource Bank\'s website.  Please be advised that Resource Bank does not operate the third-party website to which you are being transferred and therefore is not responsible for the website\'s overall content, including any product offerings, service and functionality.  Additionally, Resource Bank\'s privacy policies are not applicable to the third-party websites; viewers should consult the privacy disclosures on that site for further information.')">Account Access</a></li></ul></li><li class=""><a title="FAQ" >FAQ</a><ul class="subList"><li class=""><a title="Account Navigation" href="/navigation">Account Navigation</a></li><li class=""><a title="Bill & Loan Payment" href="/bill">Bill & Loan Payment</a></li><li class=""><a title="E-Statement" href="/estatement">E-Statement</a></li><li class=""><a title="Online Banking Questions" href="/general">Online Banking Questions</a></li><li class=""><a title="Transfer Payment" href="/transfer">Transfer Payment</a></li><li class=""><a title="Check 21 Legislation" href="/check-21">Check 21 Legislation</a></li><li class=""><a title="Refuel Checking" href="/refuel-faq">Refuel Checking</a></li><li class=""><a title="Extreme Green Checking" href="/extreme">Extreme Green Checking</a></li><li class=""><a title="EMV Chip Card Questions" href="/emv-chip-card-faqs">EMV Chip Card Questions</a></li><li class=""><a title="Green Bar Technology FAQ" href="/green-bar">Green Bar Technology FAQ</a></li></ul></li><li class=""><a title="Classics" href="/classics">Classics</a><ul class="subList"><li class=""><a title="About Classics" href="/classics#about-classics">About Classics</a></li><li class=""><a title="Become a Member" href="/classics#classics-member">Become a Member</a></li><li class=""><a title="Classics Checking" href="/classics#classics-checking">Classics Checking</a></li><li class=""><a title="Classics Perfect Checking" href="/classics#perfect-checking">Classics Perfect Checking</a></li><li class=""><a title="Classics Travel" href="/classics#classics-trips">Classics Travel</a></li><li class=""><a title="Classics Calendar" href="/classics#classics-calendar">Classics Calendar</a></li></ul></li></ul> 
+            <div class="clear"></div>
+        </div>
+    </nav><!--End of menu div-->        <div id="container">
+<div id="main">
+	<div id="content">
+		<h2>You were looking for <span style="font-style:italic;"></span> but it doesn't exist.</h2><b3>We also couldn't find any pages that you might have been looking for, please <a href="/home">click here</a> to return to the home page instead.<h3>	</div><!-- End of Content -->
+</div><!-- End of Main -->    </div><!--End of container div -->
+   	<footer>
+   	<div id="nav-bg">
+        <nav id="footerMenu"><a title="Home" href="/home">Home</a> | <a title="Contact" href="/contact-us">Contact</a> | <a title="Hours & Locations" href="/hours-locations">Hours & Locations</a> | <a title="Investments" href="/investments">Investments</a> | <a title="Mortgage" href="http://resourcebankmortgage.com/Default.aspx" target="_blank" onclick="return confirm('You are now leaving Resource Bank\'s website.  Please be advised that Resource Bank does not operate the third-party website to which you are being transferred and therefore is not responsible for the website\'s overall content, including any product offerings, service and functionality.  Additionally, Resource Bank\'s privacy policies are not applicable to the third-party websites; viewers should consult the privacy disclosures on that site for further information.')">Mortgage</a> | <a title="Insurance" href="/insurance">Insurance</a> | <a title="Trust" href="/trust">Trust</a> | <a title="Classics" href="/classics">Classics</a> | <a title="Privacy Policy" class="bolder" href="/privacy-policy">Privacy Policy</a></nav>
+        <div id="footerDivider"><img src="https://www.resourcebank.com/profile/mobile/img/divider.png" alt="Divider"></div>
+        <div class="row">
+        	
+            <img id="lender" src="https://www.resourcebank.com/profile/mobile/img/lenderLogo.png" alt="Lender Logo"/>
+            <img id="fdic" src="https://www.resourcebank.com/profile/mobile/img/fdicLogo.png" alt="FDIC Logo" /> 
+			            <div id="copyright">&copy; 2017 Resource Bank, A National Bank</div>
+            <div id="footerInfo">555 Bethany Road | DeKalb, Illinois 60115  ~  (800) 845-4122 or (815) 756-6321</div>
+            <div class="clear"></div>
+        </div>
+				</div>
+     </footer>
+    <script>
+        $(document).ready(function() {
+            $('#menu').slicknav();
+        });
+    </script>
+</body>
+</html>	
+
+                            

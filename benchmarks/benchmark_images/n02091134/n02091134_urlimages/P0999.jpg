@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	
+	<title>Said With Charm -</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://saidwithcharm.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Said With Charm -" />
+<meta property="og:url" content="http://saidwithcharm.com/" />
+<meta property="og:site_name" content="Said With Charm" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/saidwithcharm.com\/","name":"Said With Charm","potentialAction":{"@type":"SearchAction","target":"http:\/\/saidwithcharm.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/saidwithcharm.com\/library\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='convention-style-css'  href='http://saidwithcharm.com/template/template/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='media-queries-css-css'  href='http://saidwithcharm.com/template/media-queries.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='sccss_style-css'  href='http://saidwithcharm.com?sccss=1' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://saidwithcharm.com/wp-json/' />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//saidwithcharm.com/?wordfence_lh=1&hid=85AC16968192AA468C06E1FC967D5E4E');
+</script> 
+</head>
+<body class="home blog">
+
+<div id="title">											<div class="site-title"><a href="http://saidwithcharm.com/" rel="home">Said With Charm</a></div>
+                        
+					</div>
+		<div id="nav-container">
+<div id="nav"><div class="menu">
+	
+    
+    <div class="top-bar">
+						<div class="menu-wrap">
+							<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav main-nav clearfix"><li class="current_page_item"><a href="http://saidwithcharm.com/">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact Us</a></li>
+</ul></div>						</div>
+					</div><!-- top bar -->
+
+	</div></div><div class="clear"></div>
+	
+					<div id="header-container"><img class="header" src="http://saidwithcharm.com/wp-content/themes/convention/img/convention-header.jpg" height="280" width="1100"  alt=""/></div>
+<div id="content">
+<div id="articles">
+
+
+ <div id="post-28" class="post-28 post type-post status-publish format-standard hentry category-planning category-wedding">
+<div id="article">
+
+<div class="article-title"><a class="h1" href="http://saidwithcharm.com/wedding/top-5-tips-for-easy-wedding-planning/">Top 5 Tips for Easy Wedding Planning</a></br>
+<div class="article-meta"><img class="meta" src="http://saidwithcharm.com/template/icons/user.png" width="10">&nbsp;&nbsp;Jenny Jay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="meta" src="http://saidwithcharm.com/template/icons/calendar.png" width="12"> &nbsp;&nbsp;</div></div>
+
+
+<p><img class="alignnone size-full wp-image-29" src="http://saidwithcharm.com/file/2015/04/Wedding-Planner.jpg" alt="Wedding Planner" width="703" height="278" srcset="http://saidwithcharm.com/file/2015/04/Wedding-Planner.jpg 703w, http://saidwithcharm.com/file/2015/04/Wedding-Planner-300x119.jpg 300w" sizes="(max-width: 703px) 100vw, 703px" /></p>
+<p>Planning a wedding can be a pretty intense and stressful experience. There are a million details to work out and a ticking clock that gets louder and louder with each passing day. In order plan a wedding successfully, and do it with your sanity intact, you need to learn a few tricks of the trade that can really help reduce the pressure of it all.</p>
+<p>Here&#8217;s a list of the top 5 tips and tricks you should know to make <a href="https://www.theknot.com/wedding-planning">planning a wedding</a> as easy as possible:</p>
+<p><strong>1. All-in-one event venue</strong></p>
+<p>Finding and booking the venue can be a little tricky when you also have to find a venue for the reception, along with worrying about transportation logistics for guests.</p>
+<p>You can avoid the hassle of using multiple locations for your wedding by finding a venue that provides it all on the same property. Many places offer a beautiful setting to say your vows and an adjoining hall for the celebration afterwards. Also, it&#8217;s an added benefit if a venue has hotel accommodations nearby to better serve your guests.</p>
+<p><strong>2. Charge it for rewards</strong></p>
+<p>Weddings can get really expensive, really fast. If you’re going to be using credit cards to finance your big day, research different credit card companies and find one with a really lucrative rewards program. Then, you can put all of your wedding expenses on that card and earn airline miles that you can use for your honeymoon or any number of reward varieties that might appeal to you.</p>
+<p><strong>3. Check the Weather</strong></p>
+<p>Surprises from mother nature always seem to happen at the worst times. Since you never know what the weather is going to be like on your big day, planning ahead for it is so important. Make sure you have a plan B readily available in the case of inclement weather. Work out the details before hand so you aren&#8217;t left in the rain on your wedding day.</p>
+<p><strong><img class="alignleft size-medium wp-image-31" src="http://saidwithcharm.com/file/2015/04/wedding-planning-300x201.jpg" alt="wedding-planning" width="300" height="201" srcset="http://saidwithcharm.com/file/2015/04/wedding-planning-300x201.jpg 300w, http://saidwithcharm.com/file/2015/04/wedding-planning.jpg 575w" sizes="(max-width: 300px) 100vw, 300px" />4. Control the guest list</strong></p>
+<p>The infamous guest list has been a thorn in the side of many couples who are planning to celebrate their love with family and friends. Work out your list before booking a venue, and make sure the venue you pick can accommodate every person in your wedding party. It&#8217;s important to consider that each guest list has a significant amount of no-shows, but don&#8217;t forget to leave room for the catering staff, waiters, and the band at the reception.</p>
+<p><strong>5. Budgeting</strong></p>
+<p>So, the budget for a wedding can quickly spiral out of control if you&#8217;re not careful. It&#8217;s important to keep track of every purchase, and strategically plan for every expense. If you are having trouble with staying on budget, consider decreasing the amount of people on your guest list. Feeding and entertaining your guests can be one of your biggest expenses and you could save up to $100 for each guest you take off the list.</p>
+<p>Planning a wedding should be a fun and exciting time in your life. Sadly, many people get weighed down with the seemingly endless list of details and to-do lists. Don&#8217;t let the stress of planning a big event ruin this special time in your life. With a little preparedness and smart planning, things will naturally fall into place.</p>
+<p><iframe src="https://www.youtube.com/embed/ORhRzAp4gek?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div class="clear"></div>
+
+</div></div>
+
+ <div id="post-24" class="post-24 post type-post status-publish format-standard hentry category-photography category-wedding">
+<div id="article">
+
+<div class="article-title"><a class="h1" href="http://saidwithcharm.com/wedding/hiring-a-professional-wedding-photographer-is-worth-it/">Hiring a Professional Wedding Photographer Is Worth It</a></br>
+<div class="article-meta"><img class="meta" src="http://saidwithcharm.com/template/icons/user.png" width="10">&nbsp;&nbsp;Jenny Jay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="meta" src="http://saidwithcharm.com/template/icons/calendar.png" width="12"> &nbsp;&nbsp;</div></div>
+
+
+<p><img class="alignnone size-full wp-image-25" src="http://saidwithcharm.com/file/2015/04/Photography-10.jpg" alt="Photography-10" width="960" height="340" srcset="http://saidwithcharm.com/file/2015/04/Photography-10.jpg 960w, http://saidwithcharm.com/file/2015/04/Photography-10-300x106.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p><strong>Introduction</strong></p>
+<p>Many couples believe that hiring a <a href="http://en.wikipedia.org/wiki/Wedding_photography">professional wedding photographer</a> is an expense they cannot afford. They may resort to finding alternatives for the normal wedding photography services because they want to spend as little as possible. Most of these alternatives typically involve a family member or a friend. Some wedding planning sites even advise against hiring a professional photographer to minimize the expense. However, the truth is that not hiring a professional photographer is a recipe for disaster. Below are some reasons why we believe you should leave your wedding photography in the hands of a professional.</p>
+<p><strong>A professional photographer is committed to you</strong></p>
+<p>A professional wedding photographer will always be committed to you as well as the wedding day. They will guarantee you to show up on the d-day, no questions asked. There are situations where friends have committed to photographing a wedding, only to flake out just before the wedding. It can be disappointing when they do not show up on the wedding day as they promised. On the other hand, if you hire and pay a professional, he/she is contractually obligated to perform his/her duties.</p>
+<p><strong>Experience is important</strong></p>
+<p>Many important moments in a wedding day like the first kiss, exchange of rings and first dance only happens once in a lifetime. One of the major benefits you get as a result of hiring a professional is having their experience behind you so as to ensure you will be able to share these moments with your grandchildren. These events will not happen again, or get replayed. So, it noteworthy to have a photographer whom you can trust to document the shot.</p>
+<p><strong>You are more like to get the shots you want</strong></p>
+<p>There are many shots to take during the 8 to 10 hour wedding day celebration. Some of these shots are more important than others. A professional wedding photographer will know the most important shots by heart and not have to look at the list. This way, he/she will make sure that all the important moments of the wedding day are documented for you. This skill takes some time to be developed and cannot be mastered overnight. So, first time wedding photographers are likely to miss a bunch of major shots.</p>
+<p><strong><img class="alignright size-medium wp-image-26" src="http://saidwithcharm.com/file/2015/04/06_01_2015_12_15_58-300x199.jpg" alt="06_01_2015_12_15_58" width="300" height="199" srcset="http://saidwithcharm.com/file/2015/04/06_01_2015_12_15_58-300x199.jpg 300w, http://saidwithcharm.com/file/2015/04/06_01_2015_12_15_58.jpg 513w" sizes="(max-width: 300px) 100vw, 300px" />A professional wedding photographer anticipates the action</strong></p>
+<p>A professional photographer will not only identify the important shots to be captured, but also anticipate the day’s actions. He/she will know what to watch for and also cues that can lead to a picture worthy moment. A professional does wedding almost on a weekly basis, so they are well conversant with the traditions of the day. They have on many occasions experienced the uh ohs as well as mishaps, the unplanned surprises. They will be there to capture these unexpected little treasures as soon as they happen.</p>
+<p><strong>Conclusion</strong></p>
+<p>Despite the familiarity or comfort of a friend or family member, and despite the potentially low cost of hiring them compared to hiring a professional wedding photographer, it is strongly advised against using a family member or a friend to photograph your wedding. If you think it is expensive to hire a professional, try an amateur.</p>
+<p><iframe src="https://www.youtube.com/embed/jn5lnFEfG7I?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div class="clear"></div>
+
+</div></div>
+
+ <div id="post-20" class="post-20 post type-post status-publish format-standard hentry category-catering category-wedding">
+<div id="article">
+
+<div class="article-title"><a class="h1" href="http://saidwithcharm.com/wedding/five-ideas-to-spice-up-your-wedding-catering/">Five Ideas to Spice Up Your Wedding Catering</a></br>
+<div class="article-meta"><img class="meta" src="http://saidwithcharm.com/template/icons/user.png" width="10">&nbsp;&nbsp;Jenny Jay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="meta" src="http://saidwithcharm.com/template/icons/calendar.png" width="12"> &nbsp;&nbsp;</div></div>
+
+
+<p><img class="alignnone wp-image-21 size-full" src="http://saidwithcharm.com/file/2015/04/Townsville-Wedding-Catering.jpg" width="960" height="406" srcset="http://saidwithcharm.com/file/2015/04/Townsville-Wedding-Catering.jpg 960w, http://saidwithcharm.com/file/2015/04/Townsville-Wedding-Catering-300x127.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>You need to learn about how you can prepare your wedding properly. There are many important things that you should look for, especially when you want to have an unforgettable wedding event. It is very important for you to manage your own wedding catering properly. Preparing your <a href="http://www.brides.com/wedding-ideas/wedding-meals-drinks">wedding foods</a> can help you impress all guests who come to your wedding event. This page is going to talk about give ideas to spice up your wedding catering. It is not difficult for you to follow some of these simple ideas, especially when you want to delight your guests with delicious and unique food ideas.</p>
+<p><strong>1. Unusual cheese platters</strong></p>
+<p>Cheese is one of the most popular ingredients that you can put in your wedding. You can create cheese platters for your wedding catering that will please many guests easily. You can put several types of less common varieties of cheese on this platter, including Camembert, Roquefort, Gouda, Manchego, Parmigiano-Reggiano, and many other cheese types. When it is possible, you can also hire a professional cheese expert for explaining about all available cheese to all guests. Your friends, families, and other relatives will be very happy when they are discussing about any types of cheese on your wedding catering.</p>
+<p><strong>2. Install beverage bar in your wedding venue</strong></p>
+<p>When you want to impress any guests coming to your wedding event, you should take a look at this simple tip. It is very important for you to have a beverage bar in your event. This beverage stand should include several types of beverages, for example lemonade, lemongrass water, ginger drink, infused tea water, and many other popular beverages. All beverages should have colorful options, in order to improve the overall look of your beverage bar. You can also allow all guests to mix and match their favorite beverages depending on their preferences and needs.</p>
+<p><strong>3. Create vegan stand for your guests</strong></p>
+<p>Some of your guests are vegans or vegetarians. Therefore, you need to prepare a special stand for your special guests. This special stand should have certain foods that are made from animal-free products and beverages. You will impress all guests who are vegan or vegetarian on your wedding event. There are some special vegan ideas that you can include in your wedding catering, for example falafel sliders, vegan sushi, tomato risotto cakes, and many other popular recipes.</p>
+<p><strong><img class="alignleft size-full wp-image-22" src="http://saidwithcharm.com/file/2015/04/b774bb6806faf735041baf36d10744e2.jpg" alt="b774bb6806faf735041baf36d10744e2" width="236" height="283" />4. Use push pops for dessert</strong></p>
+<p>If you want to display all of your desserts with unique way, you can consider using the push pops for displaying all of your desserts. You can use this idea for displaying several types of desserts, for example macarons, cheesecakes, moon pies, red velvet cake pops, and many other popular desserts. This type of dessert is very attractive and interesting for most guests these days.You will be able to impress all of your guests by using these fresh push pops with colorful options.</p>
+<p><strong>5. Bring several menus from different countries</strong></p>
+<p>This is another useful tip for you who want to spice up your wedding catering. It is very important for you to combine several menus that come from different countries. There are some popular food menus that you can use in your wedding catering, for example Chinese, Mexican, American, Indian, and also Australian foods. The combination of those foods can help you attract many guests to your wedding event.</p>
+<p>There are many other great tips on how you can create delicious wedding catering menu for your special day. If you don&#8217;t want to deal with any complicated procedures in preparing the wedding catering menu, you can simply hire the best catering service today. Most professional catering companies usually know how to provide the best service for serving all of your guests in your wedding event. It can be the best time for you to select the best catering service for your special day.</p>
+<p><iframe src="https://www.youtube.com/embed/mMfHSrQmCpg?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div class="clear"></div>
+
+</div></div>
+
+ <div id="post-16" class="post-16 post type-post status-publish format-standard hentry category-flowers category-wedding">
+<div id="article">
+
+<div class="article-title"><a class="h1" href="http://saidwithcharm.com/wedding/choose-your-wedding-flowers-according-to-the-season/">Choose Your Wedding Flowers According to the Season</a></br>
+<div class="article-meta"><img class="meta" src="http://saidwithcharm.com/template/icons/user.png" width="10">&nbsp;&nbsp;Jenny Jay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="meta" src="http://saidwithcharm.com/template/icons/calendar.png" width="12"> &nbsp;&nbsp;</div></div>
+
+
+<p><img class="alignnone wp-image-17 size-full" src="http://saidwithcharm.com/file/2015/04/wedding-florist-phuket.jpg" width="870" height="385" srcset="http://saidwithcharm.com/file/2015/04/wedding-florist-phuket.jpg 870w, http://saidwithcharm.com/file/2015/04/wedding-florist-phuket-300x133.jpg 300w" sizes="(max-width: 870px) 100vw, 870px" /></a></p>
+<p>Decorating your wedding venue with beautiful and attractive flowers can help you create an unforgettable wedding for yourself and your partner. There are many types of flowers that you can use for your special day. It is very important for you to select the best flower with the most beautiful appearance. To learn about how to choose your wedding flowers according to the season, you can keep reading the article below. If you make the effort to find the best flowers for your wedding day, you will be able to decorate your wedding venue easily and quickly.</p>
+<p><strong>1. Winter Wedding Flowers</strong></p>
+<p>Winter can be a perfect time for most people to have their wedding events. If you want to choose the best wedding flower for this season, you can take a look at some available winter flowers, for example amaryllis, Cymbidium orchids, Green Molucella, and many other popular flowers. It is very recommended for you to choose colorful flowers, especially when you want to have your own wedding day on winter season. Colorful flowers can improve the decoration and appearance of your wedding venue significantly.</p>
+<p><strong>2. Spring Wedding Flowers</strong></p>
+<p>Spring is usually represented by some bright colors, for example pink, red, yellow, and also orange. There are some recommended flowers that you can use for your spring wedding event. Peonies are recommended for all people who love any spring flowers. These flowers have calm and beautiful color options that are very interesting for most people. Lily of the Valley is another great flower that you can use as the best <a href="http://www.bridalguide.com/blogs/bridal-buzz/spring-wedding-flowers">spring wedding flower</a>. This flower usually blooms on April and May, so it can be a perfect choice for you who want to have spring wedding event.</p>
+<p><strong>3. Summer Wedding Flowers</strong></p>
+<p>When you want to celebrate your wedding day on summer, you are going to find any types of flowers that are available today. There are many types of summer flowers that have beautiful appearance, for example gladioli, blue delphiniums, columbine, and many other beautiful flowers. It is very easy for you to find any flowers that are offered by your favorite florists on summer season. You can also combine several flowers for creating your favorite wedding bouquet for your summer wedding event.</p>
+<p><strong><img class="alignright size-full wp-image-18" src="http://saidwithcharm.com/file/2015/04/autumn-wedding-bouquets-2.jpg" alt="autumn-wedding-bouquets-2" width="300" height="324" srcset="http://saidwithcharm.com/file/2015/04/autumn-wedding-bouquets-2.jpg 300w, http://saidwithcharm.com/file/2015/04/autumn-wedding-bouquets-2-278x300.jpg 278w" sizes="(max-width: 300px) 100vw, 300px" />4. Autumn Wedding Flowers</strong></p>
+<p>Fall or autumn can be another great time for you to have your wedding day. There are many colorful flowers that bloom on this season. Most autumn flowers usually have beautiful colors, for example orange, yellow, red, green, and some other colors. There are some recommended flowers that you can use in this season, for example Physalis, Ranunculus, Crab Apples, and many other popular flowers. The combination of those flowers can help you spice up your wedding day easily.</p>
+<p>Selecting the best flower based on the right season is very important for you, especially who want to decorate your wedding venue with beautiful flowers. You can combine several types of flowers, in order to have beautiful wedding day today. It is recommended for you to visit your favorite florists, so you can take a look at all available flowers easily. Most florists will be very happy to help you select the right flowers for your special day.</p>
+<p><iframe src="https://www.youtube.com/embed/Cvr1Kq9gols?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div class="clear"></div>
+
+</div></div>
+
+ <div id="post-11" class="post-11 post type-post status-publish format-standard hentry category-wedding">
+<div id="article">
+
+<div class="article-title"><a class="h1" href="http://saidwithcharm.com/wedding/a-good-wedding-dj-will-make-your-reception-memorable/">A Good Wedding DJ Will Make Your Reception Memorable</a></br>
+<div class="article-meta"><img class="meta" src="http://saidwithcharm.com/template/icons/user.png" width="10">&nbsp;&nbsp;Jenny Jay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="meta" src="http://saidwithcharm.com/template/icons/calendar.png" width="12"> &nbsp;&nbsp;</div></div>
+
+
+<p><img class="alignnone size-full wp-image-12" src="http://saidwithcharm.com/file/2015/04/JPEG-Image-900-×-646-pixels.jpg" alt="(JPEG Image, 900 × 646 pixels)" width="900" height="646" srcset="http://saidwithcharm.com/file/2015/04/JPEG-Image-900-×-646-pixels.jpg 900w, http://saidwithcharm.com/file/2015/04/JPEG-Image-900-×-646-pixels-300x215.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p>You want your wedding and reception to be described as “the one that they still talk about.” <a href="http://www.digitaldjtips.com/2011/08/6-essentials-for-djing-at-weddings/">A good wedding DJ</a>, whether young or old, understands the need for a wedding to have a combination of sweet, romantic music and fun, danceable songs played at just the right time. Each DJ has their own personal style but the best ones have a passion for sharing your music and will take great pleasure in creating fun dance moments later on for your reception. The best wedding DJs know how to tastefully mix things up and play music that will appeal to all ages most of the time. These DJs have made their mark and friends and family are always ready to refer them because they&#8217;ve seen them in action.</p>
+<p><strong>Simple Affordable Fun</strong></p>
+<p>The beauty about hiring a good DJ is that even though they may not have a large presence like a live, band, the good ones have experience to work the crowd keep them highly entertained. Far more cost effective than having to pay for a full live band, they come with an extensive list of music in order to comply with the requests of guests.</p>
+<p>To find one of these entertainers, do research on the Internet for DJs in your area. You&#8217;ll find there are casual DJs that moonlight to earn a few extra bucks on the side, and many of them do an excellent job. You&#8217;ll also find professional wedding DJs who come equipped to not only play music, but to entertain and dazzle. They come with the likes of a fascinating light show to enhance their music and to delight and amuse guests.</p>
+<p><strong><img class="alignleft size-medium wp-image-13" src="http://saidwithcharm.com/file/2015/04/9d8b05_b983ebc446404bcba5571e4bf3b89d35-300x200.jpg" alt="9d8b05_b983ebc446404bcba5571e4bf3b89d35" width="300" height="200" srcset="http://saidwithcharm.com/file/2015/04/9d8b05_b983ebc446404bcba5571e4bf3b89d35-300x200.jpg 300w, http://saidwithcharm.com/file/2015/04/9d8b05_b983ebc446404bcba5571e4bf3b89d35.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />A Good DJ Sets the Perfect Mood</strong></p>
+<p>Certainly not all DJs are the same, and after the food and drink at a wedding reception, a good wedding DJ is the next most important thing and certainly worth their weight in gold. Get your playlist to your DJ as soon as possible so that they are well prepared for the day.</p>
+<p>The DJ isn&#8217;t necessarily good at just beat mixing for instance, but is flexible and knows how to adjust to each audience before them and to different events. They like to put together custom song lists created especially for certain events during the wedding ceremony and reception. For instance these playlists will be divided into categories such as &#8216;dinner music&#8217;, &#8216;dancing&#8217; music &#8216;, &#8216;background music&#8217; and so on. Experienced disc jockeys know crowds well and they are able to read the mood of different crowds and select music accordingly.</p>
+<p><strong>There is Always a Solid Back-Up</strong></p>
+<p>A good wedding disc jockey always has somebody who stands in as a back-up if they can no longer be available at the wedding reception due to illness. They also have back-up services in place in case of equipment failure. They come equipped for all events whether you want your music played indoors or outside. Microphones and additional speakers are always part of their set-up to ensure the music never stops.</p>
+<p><strong>Surprised and Delighted</strong></p>
+<p>The price you pay is many times linked to the quality of the services you&#8217;re hiring. When it comes to a good wedding DJ, word of mouth is your best bet and this will give you peace of mind that you have the cream of the crop. You want the best on your wedding day and your friends are bound to put forward the names of the most gifted wedding DJs. Then it is up to you to not delay but to book them, because with their prices and services, they&#8217;ll be booked in a flash.</p>
+<p><iframe src="https://www.youtube.com/embed/ieALkbw347s?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<div class="clear"></div>
+
+</div></div>
+
+ 
+
+ <div id="buttons"></div>
+  </div>
+
+</div>
+
+
+
+<div id="sidebar">
+	</div>
+
+
+
+<div class="clear"></div>
+
+</div>
+
+
+</div></div></div></div></div><div class="clear"></div>
+    <div id="footer">&copy; 2017 <a href="http://saidwithcharm.com">Said With Charm</a>.</div>
+<script type='text/javascript' src='http://saidwithcharm.com/library/js/wp-embed.min.js'></script>
+</body>
+</html>

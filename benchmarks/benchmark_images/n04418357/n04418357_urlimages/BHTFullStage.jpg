@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js no-svg lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js no-svg lt-ie9 lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js no-svg lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+	<meta charset="UTF-8" />
+	<title>School of Music | Washington State University</title>
+
+	<!-- FAVICON -->
+	<link rel="shortcut icon" href="https://repo.wsu.edu/spine/1/favicon.ico" />
+
+	<!-- RESPOND -->
+	<meta name="viewport" content="width=device-width, user-scalable=yes">
+
+	<!-- DOCS -->
+	<link type="text/plain" rel="author" href="https://repo.wsu.edu/spine/1/authors.txt" />
+	<link type="text/html" rel="help" href="https://brand.wsu.edu/media/web" />
+
+	<!-- SCRIPTS and STYLES -->
+	<!-- Custom scripts and styles should be added with wp_enqueue_script() and wp_enqueue_style() -->
+
+	<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//repo.wsu.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/music.wsu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='https://music.wsu.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wsu-spine-css'  href='https://repo.wsu.edu/spine/1/spine.min.css?ver=0.27.16-1.6.12-42197-p1' type='text/css' media='all' />
+<link rel='stylesheet' id='spine-theme-css'  href='https://music.wsu.edu/wp-content/themes/spine/style.css?ver=0.27.16-1.6.12-42197-p1' type='text/css' media='all' />
+<link rel='stylesheet' id='spine-theme-print-css'  href='https://music.wsu.edu/wp-content/themes/spine/css/print.css?ver=0.27.16-1.6.12-42197-p1' type='text/css' media='print' />
+<link rel='stylesheet' id='spine-custom-css-css'  href='https://music.wsu.edu/?custom-css=1&#038;csblog=1353&#038;cscache=6&#038;csrev=13&#038;ver=0.27.16-1.6.12-42197-p1' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://music.wsu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://music.wsu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js?ver=4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var spineoptions = {"social":{"share_text":"School of Music | Washington State University","twitter_text":"School of Music","twitter_handle":"WSUmusic1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://repo.wsu.edu/spine/1/spine.min.js?ver=0.27.16-1.6.12-42197-p1'></script>
+<link rel='https://api.w.org/' href='https://music.wsu.edu/wp-json/' />
+<meta name="generator" content="WordPress 4.9" />
+<link rel="canonical" href="https://music.wsu.edu/" />
+<link rel="alternate" type="application/json+oembed" href="https://music.wsu.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmusic.wsu.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://music.wsu.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmusic.wsu.edu%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="google-site-verification" content="wdSEjuSaP8OrY5P53F31YPX8Y_nbetjQgzqmFkdTurE">
+<meta name="msvalidate.01" content="BE07B72295823A461232C309434DF691" />
+		<script type='text/javascript'>
+			/* <![CDATA[ */
+			var wsu_analytics = {"defaults":{"cookieDomain":".wsu.edu"},"wsuglobal":{"ga_code":"UA-55791317-1","campus":"none","college":"arts-and-sciences","unit_type":"none","unit":"none","subunit":"none","is_editor":"false","track_view":"yes","events":[]},"app":{"ga_code":"UA-52133513-1","page_view_type":"Front End","authenticated_user":"Not Authenticated","server_protocol":"HTTP\/1.1","wsuwp_network":"cas.wp.wsu.edu","spine_grid":"fluid","spine_color":"white","events":[]},"site":{"ga_code":"UA-32373894-44","track_view":"yes","events":[]}};
+			/* ]]> */
+
+			// Determine if this is a mobile view using the same definition as the WSU Spine - less than 990px.
+			function wsa_spine_type() {
+				if ( window.matchMedia ) {
+					return window.matchMedia( "(max-width: 989px)" ).matches ? 'spine-mobile' : 'spine-full';
+				}
+
+				return 'spine-full';
+			}
+
+			wsu_analytics.app.spine_type = wsa_spine_type();
+		</script>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-K5CHVG');</script>
+		<!-- End Google Tag Manager -->
+				<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+		</style>
+	
+	<!-- COMPATIBILITY -->
+	<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<noscript><style>#spine #spine-sitenav ul ul li { display: block !important; }</style></noscript>
+</head>
+
+<body class="home page-template page-template-template-builder page-template-template-builder-php page page-id-2 domain-music-wsu-edu path-none opensansy single five2 ten9 twenty2 depth-0 section- page-">
+
+
+<a href="#wsuwp-main" class="screen-reader-shortcut">Skip to main content</a>
+<a href="#spine-sitenav" class="screen-reader-shortcut">Skip to navigation</a>
+
+<div id="jacket" class="style-skeletal colors-default spacing-default">
+<div id="binder" class="fluid folio max-1188">
+	<main id="wsuwp-main" class="spine-blank-template">
+
+		
+			<header class="main-header">
+	<div class="header-group hgroup guttered padded-bottom short">
+
+		<sup class="sup-header" data-section="" data-pagetitle="Home" data-posttitle="Home" data-default="College of Arts and Sciences" data-alternate="School of Music"><span class="sup-header-default">College of Arts and Sciences</span></sup>
+		<sub class="sub-header" data-sitename="School of Music" data-pagetitle="Home" data-posttitle="Home" data-default="School of Music" data-alternate=""><span class="sub-header-default">School of Music</span></sub>
+
+	</div>
+</header>
+
+			
+			<div id="page-2" class="post-2 page type-page status-publish hentry wsuwp_university_category-music">
+				<section id="builder-section-1462982445093" class="row single h1-header gutter pad-top">
+	<div style="" class="column one ">
+					<h1>A Tradition of Excellence</h1>
+			</div>
+</section>
+	<section id="builder-section-1462982454396" class="row side-right gutter pad-top">
+								<div style="" class="column one ">
+
+					
+											<h5><a href="https://news.wsu.edu/insider/2017/11/01/arts-and-music-academic-programs-continue-to-thrive-at-wsu/">Arts and Music Programs continue to thrive at WSU</a></h5>
+<p>&nbsp;</p>
+<p><img class="wp-image-2583 alignleft" src="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South-396x217.jpg" alt="" width="608" height="333" srcset="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South-396x217.jpg 396w, https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South-768x421.jpg 768w, https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South-792x434.jpg 792w, https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South-990x543.jpg 990w, https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/Kimbrough-South.jpg 1187w" sizes="(max-width: 608px) 100vw, 608px" /></p>
+<p>Established in 1901, the WSU School of music has long been recognized for excellence in undergraduate and graduate education. Students study with an internationally recognized faculty and have access to state-of-the-art facilities.</p>
+<p>The School of Music offers a master of arts in music, bachelor of music degrees in music education, performance, composition, and performance with an emphasis in jazz, a bachelor of arts in music, a music minor and jazz minor.</p>
+<p>WSU ensembles have performed around the world and are regularly invited to perform at prestigious concert venues and conferences across the country.</p>
+<p>The School of Music is dedicated to educating the next generation of performers, educators and composers. Graduates of the School of Music are performing, touring and recording worldwide.</p>
+<p>The School is proud of its 100% placement rate for recent undergraduate music education students. Many graduates hold teaching positions in universities and schools around the country.</p>
+<p>Please contact us at <a href="mailto:music@wsu.edu">music@wsu.edu</a> if you have any questions about our undergraduate and graduate degree programs. Be part of something remarkable at WSU and prepare for your career in music and the arts.</p>
+<iframe class="shortcake-bakery-responsive" width="640" height="360" src="https://youtube.com/embed/0yc5X5nPysc" frameborder="0"></iframe>
+<iframe class="shortcake-bakery-responsive" width="640" height="360" src="https://youtube.com/embed/gnztDqf0snI" frameborder="0"></iframe>
+<iframe class="shortcake-bakery-responsive" width="640" height="360" src="https://youtube.com/embed/T3Wh1j0d7R8" frameborder="0"></iframe>
+<iframe class="shortcake-bakery-responsive" width="640" height="360" src="https://youtube.com/embed/uGpMsRsNHic" frameborder="0"></iframe>
+					
+				</div>
+							<div style="" class="column two gray-lightest-back">
+
+					
+											<h2> <a href="https://www.facebook.com/WSUmusic"><img class="alignnone wp-image-33 size-full" src="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/fb_logo_square_40x40.jpg" alt="Facebook" width="40" height="40" /></a> <a href="https://twitter.com/WSUmusic1"><img class="alignnone wp-image-34 size-full" src="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/twitter_40x40.jpg" alt="twitter" width="40" height="40" /></a></h2>
+<p><a href="https://music.wsu.edu/how-to-apply/" target="_blank" rel="noopener"><img class="size-full wp-image-2569 aligncenter" src="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/button_apply-for-undergraduate-admission.png" alt="" width="310" height="34" /></a> <a href="https://music.wsu.edu/graduate-studies/" target="_blank" rel="noopener"><img class="size-medium wp-image-2570 aligncenter" src="https://s3.wp.wsu.edu/uploads/sites/1353/2016/05/button_apply-for-graduate-admission.png" alt="" width="265" height="34" /></a></p>
+<h2>News</h2>
+			<div class="wsuwp-content-syndicate-wrapper">
+				<ul class="wsuwp-content-syndicate-list">
+					<li class="wsuwp-content-syndicate-item"><a href="https://news.wsu.edu/2017/11/15/yasinitsky-pulitzer-prize/">Greg Yasinitsky nominated for Pulitzer Prize in Music</a></li><li class="wsuwp-content-syndicate-item"><a href="https://news.wsu.edu/2017/10/30/hollywood-composer-alum/">Nov. 6-9: Hollywood composer, studio musician, WSU alum, shares insights</a></li><li class="wsuwp-content-syndicate-item"><a href="https://news.wsu.edu/2017/10/20/wsu-jazz-festival/">Nov. 1: WSU Jazz Festival celebrates 25th anniversary</a></li><li class="wsuwp-content-syndicate-item"><a href="https://news.wsu.edu/2017/09/20/concert-we-are-america/">Sept. 26: Faculty Artist Series concert &#8216;We Are America&#8217;</a></li><li class="wsuwp-content-syndicate-item"><a href="https://news.wsu.edu/2017/09/19/concerts-early-october/">Oct. 3-16: Five concerts scheduled at School of Music</a></li>				</ul>
+			</div>
+			
+<h2>Events</h2>
+			<div class="wsuwp-content-syndicate-wrapper">
+				<ul class="wsuwp-content-syndicate-list">
+											<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Nov 28, 8:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/student-chamber-music-brass-chamber-music/">Brass Chamber Music and Student Chamber Music</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Bryan Hall Theatre</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Nov 29, 8:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/symphonic-wind-ensemble-symphonic-band-2/">Rhapsody! &#8211; Symphonic Wind Ensemble and Symphonic Band</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Bryan Hall Theatre</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Nov 30, 8:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/student-recital-garrett-snedeker-piano/">Student Recital: Garrett Snedeker, piano</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Kimbrough Concert Hall</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Dec 2, 2:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/holiday-concert-5/">Joy to the World:  A Global Holiday Concert</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Bryan Hall Theatre</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Dec 3, 1:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/piano-pedagogy-lab-school-recitals-3/">Piano Pedagogy Lab School Recitals</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Kimbrough Concert Hall</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Jan 11, 8:00 am</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/young-men-song/">Young Men in Song</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Bryan Hall Theatre and Kimbrough Concert Hall</span>
+								<span class="content-item-event-city"></span>
+								<span class="content-item-event-state"></span>
+							</span>
+						</li>						<li class="wsuwp-content-syndicate-event">
+						<span class="content-item-event-date">Jan 12, 8:00 pm</span>
+						<span class="content-item-event-title"><a href="https://calendar.wsu.edu/event/faculty-artist-series-christopher-sierra-tenor/">Faculty Artist Series: Christopher Sierra, tenor</a></span>
+							<span class="content-item-event-meta">
+								<span class="content-item-event-venue">Bryan Hall Theatre</span>
+								<span class="content-item-event-city">Pullman</span>
+								<span class="content-item-event-state">WA</span>
+							</span>
+						</li>				</ul>
+			</div>
+			
+<p style="padding-left: 30px"><a href="https://calendar.wsu.edu/events/category/arts-and-sciences/school-of-music/"><em>Full calendar &gt;&gt;</em></a></p>
+<h2>Learn more about&#8230;</h2>
+<ul>
+<li><a href="http://music.wsu.edu/faculty-artist-series/">The Faculty Artist Series</a></li>
+<li><a href="http://music.wsu.edu/facilities/music-library/">The Kemble Stout Music Listening Library</a></li>
+<li><a href="http://music.wsu.edu/academics/handbook/">The Student Handbook</a></li>
+<li><a href="http://music.wsu.edu/join-our-email-list/">Joining our email list</a></li>
+<li><a href="http://music.wsu.edu/i-want-to-give/">Donating to the School of Music</a></li>
+</ul>
+<p>&nbsp;</p>
+					
+				</div>
+				</section>
+			</div><!-- #post -->
+
+			</main>
+
+<div id="spine" class="spine-column white search-closed  bleed shelved">
+<div id="glue" class="spine-glue">
+
+<header class="spine-header">
+	<a href="https://wsu.edu/" id="wsu-signature">Washington State University</a>
+</header>
+
+<section id="wsu-actions" class="spine-actions clearfix">
+
+	<ul id="wsu-actions-tabs" class="spine-actions-tabs spine-tabs clearfix">
+		<li id="wsu-search-tab" class="spine-search-tab closed"><button>Search</button></li>
+		<li id="wsu-contact-tab" class="spine-contact-tab closed"><button>Contact</button></li>
+		<li id="wsu-share-tab" class="spine-share-tab closed"><button>Share</button></li>
+	</ul>
+
+</section><!--/#wsu-actions-->
+
+	<section id="spine-navigation" class="spine-navigation">
+
+		<nav id="spine-sitenav" class="spine-sitenav">
+	<ul><li id="menu-item-8" class="active"><a href="https://music.wsu.edu/">School of Music Home</a></li>
+<li id="menu-item-100"><a href="https://calendar.wsu.edu/events/category/school-of-music/">Calendar</a></li>
+<li id="menu-item-95"><a href="#">Areas of Study</a>
+<ul class="sub-menu">
+	<li id="menu-item-2453"><a href="https://music.wsu.edu/academics/">Degrees and Programs</a></li>
+	<li id="menu-item-228"><a href="https://music.wsu.edu/ensembles/">Ensembles</a>
+	<ul class="sub-menu">
+		<li id="menu-item-229"><a href="https://music.wsu.edu/ensembles/bands/">Bands</a>
+		<ul class="sub-menu">
+			<li id="menu-item-446"><a href="https://music.wsu.edu/ensembles/bands/symphonic-band/">Symphonic Band</a></li>
+			<li id="menu-item-445"><a href="https://music.wsu.edu/ensembles/bands/symphonic-wind/">Symphonic Wind</a></li>
+			<li id="menu-item-443"><a href="https://music.wsu.edu/ensembles/bands/concert-band-festival/">Concert Band Festival</a></li>
+			<li id="menu-item-442"><a href="https://music.wsu.edu/ensembles/bands/bands-resources/">Resources</a></li>
+			<li id="menu-item-441"><a href="https://music.wsu.edu/ensembles/bands/bands-faculty-and-staff/">Faculty and Staff</a></li>
+			<li id="menu-item-440"><a href="https://music.wsu.edu/ensembles/bands/bands-contact/">Contact</a></li>
+		</ul>
+</li>
+		<li id="menu-item-231"><a href="https://music.wsu.edu/ensembles/choral-ensembles/">Choral Ensembles</a></li>
+		<li id="menu-item-233"><a href="https://marchingband.wsu.edu/">Cougar Marching Band</a></li>
+		<li id="menu-item-232"><a href="https://music.wsu.edu/ensembles/orchestra/">Orchestra</a></li>
+		<li id="menu-item-447"><a href="https://music.wsu.edu/area-information/brass-percussion/wsu-performance-groups-for-percussionists/">Percussion Performance Groups</a></li>
+	</ul>
+</li>
+	<li id="menu-item-87"><a href="https://music.wsu.edu/area-information/brass-percussion/">Brass &amp; Percussion</a>
+	<ul class="sub-menu">
+		<li id="menu-item-306"><a href="https://music.wsu.edu/area-information/brass-percussion/brass-and-percussion-faculty/">Faculty</a></li>
+		<li id="menu-item-305"><a href="https://music.wsu.edu/area-information/brass-percussion/brass-and-percussion-audition/">Audition</a></li>
+		<li id="menu-item-304"><a href="https://music.wsu.edu/area-information/brass-percussion/wsu-brass-quintet/">WSU Brass Quintet</a></li>
+		<li id="menu-item-303"><a href="https://music.wsu.edu/area-information/brass-percussion/wsu-performance-groups-for-percussionists/">Percussion Performance Groups</a></li>
+		<li id="menu-item-1711"><a href="https://music.wsu.edu/area-information/brass-percussion/wsu-horn-camp/">WSU Horn Camp</a></li>
+		<li id="menu-item-300"><a href="https://music.wsu.edu/area-information/brass-percussion/brass-and-percussion-contact/">Contact</a></li>
+		<li id="menu-item-96"><a href="https://marchingband.wsu.edu/">Cougar Marching Band</a></li>
+	</ul>
+</li>
+	<li id="menu-item-88"><a href="https://music.wsu.edu/area-information/composition/">Composition</a>
+	<ul class="sub-menu">
+		<li id="menu-item-312"><a href="https://music.wsu.edu/area-information/composition/composition-faculty/">Faculty</a></li>
+		<li id="menu-item-1028"><a href="https://music.wsu.edu/area-information/composition/composition-recordings/">Faculty Composition Recordings</a></li>
+		<li id="menu-item-313"><a href="https://artmusic.wsu.edu/">Festival of Contemporary Art Music</a></li>
+		<li id="menu-item-311"><a href="https://music.wsu.edu/area-information/composition/composition-contact/">Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-89"><a href="https://music.wsu.edu/area-information/jazz-studies/">Jazz Studies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-331"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-faculty/">Faculty</a></li>
+		<li id="menu-item-330"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-ensembles/">Ensembles</a></li>
+		<li id="menu-item-329"><a href="https://music.wsu.edu/area-information/jazz-studies/nighthawk/">Nighthawk</a></li>
+		<li id="menu-item-328"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-northwest/">Jazz Northwest</a></li>
+		<li id="menu-item-327"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-festival/">Jazz Festival</a></li>
+		<li id="menu-item-326"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-contact/">Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-90"><a href="https://music.wsu.edu/area-information/keyboard/">Keyboard</a>
+	<ul class="sub-menu">
+		<li id="menu-item-352"><a href="https://music.wsu.edu/area-information/keyboard/keyboard-faculty/">Faculty</a></li>
+		<li id="menu-item-355"><a href="https://music.wsu.edu/area-information/keyboard/keyboard-undergraduate-auditions/">Undergraduate Auditions</a></li>
+		<li id="menu-item-354"><a href="https://music.wsu.edu/area-information/keyboard/keyboard-graduate-studies/">Graduate Studies</a></li>
+		<li id="menu-item-353"><a href="https://music.wsu.edu/area-information/keyboard/keyboard-graduate-assistantships/">Graduate Assistantships</a></li>
+		<li id="menu-item-1101"><a href="https://music.wsu.edu/area-information/keyboard/piano-pedagogy-lab-school/">Piano Pedagogy Lab School</a></li>
+		<li id="menu-item-350"><a href="https://music.wsu.edu/area-information/keyboard/summer-keyboard-explorations/">Summer Keyboard Explorations</a></li>
+		<li id="menu-item-349"><a href="https://music.wsu.edu/area-information/keyboard/88-squared-faculty-ensemble/">88 Squared faculty ensemble</a></li>
+		<li id="menu-item-348"><a href="https://music.wsu.edu/area-information/keyboard/keyboard-contact/">Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-91"><a href="https://music.wsu.edu/area-information/music-education/">Music Education</a>
+	<ul class="sub-menu">
+		<li id="menu-item-370"><a href="https://music.wsu.edu/area-information/music-education/prospective-students/">Prospective Students</a></li>
+		<li id="menu-item-369"><a href="https://music.wsu.edu/area-information/music-education/current-students/">Current Students</a></li>
+		<li id="menu-item-366"><a href="https://music.wsu.edu/area-information/music-education/summer-music-camps/">Summer Music Camps</a></li>
+	</ul>
+</li>
+	<li id="menu-item-92"><a href="https://music.wsu.edu/area-information/strings/">Strings</a>
+	<ul class="sub-menu">
+		<li id="menu-item-389"><a href="https://music.wsu.edu/area-information/strings/strings-faculty/">Faculty</a></li>
+		<li id="menu-item-387"><a href="https://music.wsu.edu/area-information/strings/strings-audition/">Audition</a></li>
+		<li id="menu-item-383"><a href="https://music.wsu.edu/ensembles/orchestra/">Orchestra</a></li>
+		<li id="menu-item-386"><a href="https://music.wsu.edu/area-information/strings/solo-opportunities/">Solo Opportunities</a></li>
+		<li id="menu-item-384"><a href="https://music.wsu.edu/area-information/strings/chamber-music/">Chamber Music</a></li>
+		<li id="menu-item-385"><a href="https://music.wsu.edu/area-information/strings/cougar-string-camp/">Cougar String Camp</a></li>
+		<li id="menu-item-388"><a href="https://music.wsu.edu/area-information/strings/strings-contact/">Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-93"><a href="https://music.wsu.edu/area-information/vocal-choral/">Vocal/Choral</a>
+	<ul class="sub-menu">
+		<li id="menu-item-413"><a href="https://music.wsu.edu/area-information/vocal-choral/voice-faculty/">Faculty</a></li>
+		<li id="menu-item-411"><a href="https://music.wsu.edu/area-information/vocal-choral/studio-voice/">Studio Voice</a></li>
+		<li id="menu-item-1284"><a href="https://music.wsu.edu/ensembles/choral-ensembles/">Choral Ensembles</a></li>
+		<li id="menu-item-410"><a href="https://music.wsu.edu/area-information/vocal-choral/choral-ensemble-auditions/">Choral Ensemble Auditions</a></li>
+		<li id="menu-item-409"><a href="https://music.wsu.edu/area-information/vocal-choral/studio-voice-auditions/">Studio Voice Auditions</a></li>
+		<li id="menu-item-408"><a href="https://music.wsu.edu/area-information/vocal-choral/choral-opportunities-for-high-school-students/">Choral Opportunities for High School Students</a></li>
+		<li id="menu-item-407"><a href="https://music.wsu.edu/area-information/vocal-choral/choral-festival/">Choral Festival</a></li>
+		<li id="menu-item-2163"><a href="https://music.wsu.edu/area-information/vocal-choral/young-men-in-song-festival/">Young Men In Song Festival</a></li>
+		<li id="menu-item-406"><a href="https://music.wsu.edu/area-information/vocal-choral/vocal-choral-contact/">Contact</a></li>
+	</ul>
+</li>
+	<li id="menu-item-94"><a href="https://music.wsu.edu/area-information/woodwinds/">Woodwinds</a>
+	<ul class="sub-menu">
+		<li id="menu-item-425"><a href="https://music.wsu.edu/area-information/woodwinds/woodwind-faculty/">Faculty</a></li>
+		<li id="menu-item-424"><a href="https://music.wsu.edu/area-information/woodwinds/woodwind-audition/">Audition</a></li>
+		<li id="menu-item-423"><a href="https://music.wsu.edu/area-information/woodwinds/solstice-quintet/">Solstice Quintet</a></li>
+		<li id="menu-item-1698"><a href="https://music.wsu.edu/area-information/woodwinds/wsu-oboe-camp/">WSU Oboe Camp</a></li>
+		<li id="menu-item-422"><a href="https://music.wsu.edu/area-information/woodwinds/woodwind-contact/">Contact</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-213"><a href="#">Future Students / Auditions</a>
+<ul class="sub-menu">
+	<li id="menu-item-2359"><a href="https://music.wsu.edu/how-to-apply/">Undergraduate Admission and Auditions</a></li>
+	<li id="menu-item-206"><a href="https://music.wsu.edu/academics/">Degrees and Programs</a></li>
+	<li id="menu-item-208"><a target="_blank" href="http://catalog.wsu.edu/General/Academics/Info/81">Catalog</a></li>
+	<li id="menu-item-2286"><a href="http://music.wsu.edu/mmfad">Music Major for a Day</a></li>
+	<li id="menu-item-215"><a href="https://music.wsu.edu/future-students/music-theory-placement-exam/">Music Theory Placement Exam</a></li>
+	<li id="menu-item-214"><a href="https://music.wsu.edu/future-students/laptop-requirement/">Laptop Requirement</a></li>
+	<li id="menu-item-240"><a href="https://music.wsu.edu/graduate-studies/">Graduate Studies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-242"><a href="https://music.wsu.edu/graduate-studies/orientation/">Orientation</a></li>
+		<li id="menu-item-241"><a href="https://music.wsu.edu/graduate-studies/assistantships/">Assistantships</a></li>
+		<li id="menu-item-243"><a href="https://music.wsu.edu/graduate-studies/piano-proficiency/">Piano Proficiency</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2352"><a href="#">Current Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-219"><a href="https://music.wsu.edu/audition/ensemble-auditions/">Ensemble Placement Auditions</a></li>
+	<li id="menu-item-207"><a href="https://music.wsu.edu/academics/handbook/">Handbook</a></li>
+	<li id="menu-item-246"><a href="https://music.wsu.edu/scholarships/">Scholarships</a></li>
+</ul>
+</li>
+<li id="menu-item-102"><a href="https://music.wsu.edu/faculty-and-staff/">Faculty &amp; Staff</a></li>
+<li id="menu-item-2014"><a href="https://calendar.wsu.edu/events/category/arts-and-sciences/school-of-music/faculty-artist-series/">Faculty Artist Series</a></li>
+<li id="menu-item-2350"><a href="#">Camps and Festivals</a>
+<ul class="sub-menu">
+	<li id="menu-item-2157"><a href="https://music.wsu.edu/area-information/music-education/summer-music-camps/">Summer Music Camps</a></li>
+	<li id="menu-item-2154"><a href="https://music.wsu.edu/area-information/vocal-choral/choral-festival/">Choral Festival</a></li>
+	<li id="menu-item-2153"><a href="https://music.wsu.edu/ensembles/bands/concert-band-festival/">Concert Band Festival</a></li>
+	<li id="menu-item-2156"><a href="https://music.wsu.edu/area-information/jazz-studies/jazz-festival/">Jazz Festival</a></li>
+	<li id="menu-item-2162"><a href="https://music.wsu.edu/area-information/vocal-choral/young-men-in-song-festival/">Young Men In Song Festival</a></li>
+</ul>
+</li>
+<li id="menu-item-264"><a href="https://music.wsu.edu/recordings/">Recordings</a>
+<ul class="sub-menu">
+	<li id="menu-item-269"><a href="https://music.wsu.edu/recordings/wsu-albums/">WSU Recordings Albums</a></li>
+	<li id="menu-item-270"><a href="https://music.wsu.edu/recordings/brass-recordings/">Brass Recordings</a></li>
+	<li id="menu-item-1142"><a href="https://music.wsu.edu/area-information/composition/composition-recordings/">Composition Recordings</a></li>
+	<li id="menu-item-272"><a href="https://music.wsu.edu/recordings/jazz-recordings/">Jazz Recordings</a></li>
+	<li id="menu-item-265"><a href="https://music.wsu.edu/recordings/percussion-recordings/">Percussion Recordings</a></li>
+	<li id="menu-item-266"><a href="https://music.wsu.edu/recordings/piano-recordings/">Piano Recordings</a></li>
+	<li id="menu-item-267"><a href="https://music.wsu.edu/recordings/voice-choral-recordings/">Voice/Choral Recordings</a></li>
+	<li id="menu-item-268"><a href="https://music.wsu.edu/recordings/woodwind-recordings/">Woodwind Recordings</a></li>
+</ul>
+</li>
+<li id="menu-item-1909"><a href="#">Facilities</a>
+<ul class="sub-menu">
+	<li id="menu-item-273"><a href="https://music.wsu.edu/facilities/">Performance Venues</a></li>
+	<li id="menu-item-1910"><a href="#">Kimbrough Concert Hall</a>
+	<ul class="sub-menu">
+		<li id="menu-item-278"><a href="https://music.wsu.edu/facilities/kimbrough-concert-hall/">Kimbrough Concert Hall photos</a></li>
+		<li id="menu-item-453"><a href="https://music.wsu.edu/facilities/kimbrough-concert-hall/kimbrough-concert-hall-specifications/">Specifications</a></li>
+		<li id="menu-item-452"><a href="https://music.wsu.edu/facilities/kimbrough-concert-hall/kimbrough-concert-hall-seating/">Seating</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1911"><a href="#">Bryan Hall Theatre</a>
+	<ul class="sub-menu">
+		<li id="menu-item-274"><a href="https://music.wsu.edu/facilities/bryan-hall-theatre/">Bryan Hall Theatre photos</a></li>
+		<li id="menu-item-465"><a href="https://music.wsu.edu/facilities/bryan-hall-theatre/bryan-hall-theatre-specifications/">Specifications</a></li>
+		<li id="menu-item-464"><a href="https://music.wsu.edu/facilities/bryan-hall-theatre/bryan-hall-theatre-seating/">Seating</a></li>
+	</ul>
+</li>
+	<li id="menu-item-279"><a href="https://music.wsu.edu/facilities/music-library/">Music Library</a></li>
+	<li id="menu-item-1912"><a href="#">Concert Program Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-275"><a href="https://music.wsu.edu/facilities/concert-program-information/">Forms and Resources</a></li>
+		<li id="menu-item-468"><a href="https://music.wsu.edu/facilities/concert-program-information/publicity-contact-information/">Publicity Contact Information</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1913"><a href="#">Inventory</a>
+	<ul class="sub-menu">
+		<li id="menu-item-276"><a href="https://music.wsu.edu/facilities/inventory/">Inventory</a></li>
+		<li id="menu-item-478"><a href="https://music.wsu.edu/facilities/inventory/keyboards-inventory/">Keyboards Inventory</a></li>
+		<li id="menu-item-477"><a href="https://music.wsu.edu/facilities/inventory/office-equipment-inventory/">Office Equipment Inventory</a></li>
+		<li id="menu-item-476"><a href="https://music.wsu.edu/facilities/inventory/organ-stop-list/">Organ Stop List</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-484"><a href="https://music.wsu.edu/i-want-to-give/">I want to give</a></li>
+<li id="menu-item-277"><a href="https://music.wsu.edu/contact/">Contact</a></li>
+</ul></nav>
+
+		<nav id="spine-offsitenav" class="spine-offsitenav">
+	<ul><li id="menu-item-4"><a href="http://cas.wsu.edu">College of Arts and Sciences</a></li>
+<li id="menu-item-5"><a href="https://ppls.wsu.edu/">Piano Pedagogy Lab School</a></li>
+<li id="menu-item-6"><a href="https://artmusic.wsu.edu/">Festival of Contemporary Art Music</a></li>
+<li id="menu-item-2015"><a href="https://calendar.wsu.edu/events/category/arts-and-sciences/arts-alliance/">Arts Alliance</a></li>
+</ul></nav>
+
+	</section>
+
+<footer class="spine-footer">
+
+	<nav id="wsu-social-channels" class="spine-social-channels">
+		<ul>
+		<li class="facebook-channel"><a href="https://www.facebook.com/WSUmusic">facebook</a></li>
+<li class="twitter-channel"><a href="https://twitter.com/WSUmusic1">twitter</a></li>
+<li class="youtube-channel"><a href="https://www.youtube.com/channel/UCN_l2f63FKQOQ6rSDSclw0A">youtube</a></li>
+<li class="directory-channel"><a href="http://social.wsu.edu">directory</a></li>
+		</ul>
+	</nav>
+
+	<nav id="wsu-global-links" class="spine-global-links">
+		<ul>
+			<li class="mywsu-link"><a href="https://portal.wsu.edu/">myWSU</a></li>
+			<li class="access-link"><a href="https://access.wsu.edu/">Access</a></li>
+			<li class="policies-link"><a href="https://policies.wsu.edu/">Policies</a></li>
+			<li class="copyright-link"><a href="https://copyright.wsu.edu">&copy;</a></li>
+		</ul>
+	</nav>
+
+</footer>
+
+</div><!--/glue-->
+</div><!--/spine-->
+
+</div><!--/binder-->
+</div><!--/jacket-->
+
+<div id="contact-details" itemscope itemtype="http://schema.org/Organization">
+	<meta itemprop="name" class="required" content="Washington State University">
+	<meta itemprop="department" class="required" content="WSU School of Music">
+		<meta itemprop="url" class="required" content="https://music.wsu.edu">
+		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+				<meta itemprop="streetAddress" class="optional" content="PO Box 645300">
+								<meta itemprop="postalCode" class="required" content="99164-5300">
+			</div>
+		<meta itemprop="telephone" class="required" content="509-335-3898">
+			<meta itemprop="email" class="required" content="music@wsu.edu">
+		</div>
+
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K5CHVG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script type='text/javascript' src='https://music.wsu.edu/wp-content/themes/spine/js/spine-theme.js?ver=0.27.16-1.6.12-42197-p1'></script>
+<script type='text/javascript' src='https://music.wsu.edu/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://music.wsu.edu/wp-content/plugins/shortcake-bakery/assets/js/shortcake-bakery.js?ver=0.2.0'></script>
+
+</body>
+</html>

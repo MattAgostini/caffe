@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Riverton Free Library | 306 Main Street, Riverton, NJ  08077</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://rivertonfreelibrary.org/wp-content/themes/rivertonlibrary/style.css" />
+<link rel="pingback" href="https://rivertonfreelibrary.org/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://rivertonfreelibrary.org/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Riverton Free Library &raquo; Feed" href="https://rivertonfreelibrary.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Riverton Free Library &raquo; Comments Feed" href="https://rivertonfreelibrary.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rivertonfreelibrary.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyeleven-css'  href='https://rivertonfreelibrary.org/wp-content/themes/twentyeleven/style.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rivertonlibrary-css'  href='https://rivertonfreelibrary.org/wp-content/themes/rivertonlibrary/style.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://rivertonfreelibrary.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rivertonfreelibrary.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rivertonfreelibrary.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='https://wp.me/1YjXI' />
+ 
+	<script type="text/javascript">
+	 //<![CDATA[ 
+	function toggleLinkGrp(id) {
+	   var e = document.getElementById(id);
+	   if(e.style.display == 'block')
+			e.style.display = 'none';
+	   else
+			e.style.display = 'block';
+	}
+	// ]]>
+	</script> 
+	
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Riverton Free Library" />
+<meta property="og:description" content="306 Main Street, Riverton, NJ  08077" />
+<meta property="og:url" content="https://rivertonfreelibrary.org/" />
+<meta property="og:site_name" content="Riverton Free Library" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+			<style type="text/css" id="wp-custom-css">
+				/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+I want to be able to change the font size and color in my posts
+
+*/			</style>
+		</head>
+
+<body class="home blog single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="https://rivertonfreelibrary.org/" rel="home">Riverton Free Library</a></span></h1>
+				<h2 id="site-description">306 Main Street, Riverton, NJ  08077</h2>
+			</hgroup>
+
+						<a href="https://rivertonfreelibrary.org/">
+									<img src="https://rivertonfreelibrary.org/wp-content/uploads/2016/11/RFL2016-3-1.jpg" width="1000" height="288" alt="Riverton Free Library" />
+							</a>
+			
+								<form method="get" id="searchform" action="https://rivertonfreelibrary.org/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div>
+									<div class="skip-link"><a class="assistive-text" href="#secondary">Skip to secondary content</a></div>
+												<div class="menu-navigation-bar-container"><ul id="menu-navigation-bar" class="menu"><li id="menu-item-1008" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1008"><a href="https://rivertonfreelibrary.org">Home</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="https://rivertonfreelibrary.org/library-resources/">Library Resources</a></li>
+<li id="menu-item-1004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004"><a href="https://rivertonfreelibrary.org/for-kids/">For Kids and Y/A!!</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://rivertonfreelibrary.org/history-of-the-rfl/">History of the RFL</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="https://rivertonfreelibrary.org/rfl-association-friends/">RFL Association &#038; Friends</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://rivertonfreelibrary.org/contact/">Contact</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+						<nav id="nav-above">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="https://rivertonfreelibrary.org/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+<!-- Mike: this post floats above everything else -->
+<div class="entry-content">
+		<p style="text-align: center;"><em>Unique in Burlington County, we are both a library that is managed by a not-for-profit volunteer association as well as a branch of the <a title="Burlington County Library System" href="http://www.bcls.lib.nj.us/" target="_blank">Burlington County Library System</a></em></p>
+<p style="text-align: center;"><em>The web site is proudly sponsored by the Riverton Free Library Association</em></p>
+<p style="text-align: center;">Check out what&#8217;s new!</p>
+			</div><!-- .entry-content -->
+
+								
+					
+	<article id="post-3058" class="post-3058 post type-post status-publish format-standard hentry category-programs-events category-whats-new">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="https://rivertonfreelibrary.org/2017/11/candlelight-house-tour-2/" rel="bookmark">Candlelight House Tour</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="https://rivertonfreelibrary.org/2017/11/candlelight-house-tour-2/" title="11:06 am" rel="bookmark"><time class="entry-date" datetime="2017-11-23T11:06:21+00:00">November 23, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://rivertonfreelibrary.org/author/pat/" title="View all posts by Pat Solin" rel="author">Pat Solin</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18.jpg"><img data-attachment-id="1815" data-permalink="https://rivertonfreelibrary.org/2016/01/rfl-association-meeting/hm-18/" data-orig-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18.jpg" data-orig-size="2266,2566" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="hm-18" data-image-description="" data-medium-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-265x300.jpg" data-large-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-904x1024.jpg" class="alignleft wp-image-1815" src="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-265x300.jpg" alt="" width="190" height="214" srcset="https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-265x300.jpg 265w, https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-768x870.jpg 768w, https://rivertonfreelibrary.org/wp-content/uploads/2016/01/hm-18-904x1024.jpg 904w" sizes="(max-width: 190px) 100vw, 190px" /></a>A Message from the Board:</p>
+<p>I apologize for the incorrect information in the Annual Appeal, but we will not be holding a Riverton Candlelight House Tour this year. However we look forward to seeing everyone at our <span style="color: #339966;"><strong>Spring Cocktail Party</strong></span>!</p>
+<p>Watch this website for very exciting information about this fun event!</p>
+<ul>
+<li>Date: April 28, 2018 from 7 to 11pm</li>
+<li>Location: Sacred Heart Catholic Church</li>
+<li>Ticket price: $40 each or 2 for $75</li>
+</ul>
+<p>Please do not hesitate to contact me if you have any questions or concerns!</p>
+<p>Happy Holidays!<br />
+Kim Paulsen, President, Riverton Free Library Association</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3058" class="share-facebook sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/candlelight-house-tour-2/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/candlelight-house-tour-2/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/candlelight-house-tour-2/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://rivertonfreelibrary.org/category/programs-events/" rel="category tag">Programs &amp; Events</a>, <a href="https://rivertonfreelibrary.org/category/whats-new/" rel="category tag">What's New</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-3058 -->
+
+				
+					
+	<article id="post-3010" class="post-3010 post type-post status-publish format-standard hentry category-programs-events category-whats-new">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-127/" rel="bookmark">Mark Your Calendars</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-127/" title="12:00 pm" rel="bookmark"><time class="entry-date" datetime="2017-11-20T12:00:52+00:00">November 20, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://rivertonfreelibrary.org/author/pat/" title="View all posts by Pat Solin" rel="author">Pat Solin</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong><a href="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey.jpeg"><img data-attachment-id="2292" data-permalink="https://rivertonfreelibrary.org/2016/11/mark-your-calendars-81/turkey/" data-orig-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey.jpeg" data-orig-size="605,554" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Stylus NX100&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="turkey" data-image-description="" data-medium-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey-300x275.jpeg" data-large-file="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey.jpeg" class="alignleft wp-image-2292" src="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey-300x275.jpeg" alt="" width="166" height="153" srcset="https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey-300x275.jpeg 300w, https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey-328x300.jpeg 328w, https://rivertonfreelibrary.org/wp-content/uploads/2016/10/Turkey.jpeg 605w" sizes="(max-width: 166px) 100vw, 166px" /></a>Library Programs</strong></p>
+<ul>
+<li>22 Nov: Knit Wits, 10 AM</li>
+<li>26 Nov: Used Book Sale, 1 PM</li>
+<li>28 Nov: Parachute Play, 10:30 AM</li>
+<li>29 Nov: Knit Wits, 10 AM</li>
+<li>30 Nov: Pre-School Storytime, 10:30 AM</li>
+<li>30 Nov: Adult Art Class, 6:30 PM</li>
+</ul>
+<p>For program details see the <a href="http://www.bcls.lib.nj.us/events?qt-calendar=7#qt-calendar">BCLS Online Event Calendar</a>.</p>
+<p><strong>Library Hours:</strong> The RFL will be closed at 5 PM on Wednesday, November 22nd, on Thursday, November 23rd, and Friday November 24th for <span style="color: #993300;"><strong>Thanksgiving</strong></span>.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3010" class="share-facebook sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-127/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-127/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-127/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://rivertonfreelibrary.org/category/programs-events/" rel="category tag">Programs &amp; Events</a>, <a href="https://rivertonfreelibrary.org/category/whats-new/" rel="category tag">What's New</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-3010 -->
+
+				
+					
+	<article id="post-3004" class="post-3004 post type-post status-publish format-standard hentry category-programs-events">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-126/" rel="bookmark">Mark Your Calendars</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-126/" title="12:00 pm" rel="bookmark"><time class="entry-date" datetime="2017-11-13T12:00:40+00:00">November 13, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://rivertonfreelibrary.org/author/pat/" title="View all posts by Pat Solin" rel="author">Pat Solin</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong><a href="https://rivertonfreelibrary.org/wp-content/uploads/2015/01/Humpty-Dumpty.jpg"><img data-attachment-id="1141" data-permalink="https://rivertonfreelibrary.org/for-kids/humpty-dumpty/" data-orig-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/01/Humpty-Dumpty.jpg" data-orig-size="150,150" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Humpty Dumpty" data-image-description="" data-medium-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/01/Humpty-Dumpty.jpg" data-large-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/01/Humpty-Dumpty.jpg" class="alignleft wp-image-1141" src="https://rivertonfreelibrary.org/wp-content/uploads/2015/01/Humpty-Dumpty.jpg" alt="" width="186" height="186" /></a>Library Programs</strong></p>
+<ul>
+<li>15 Nov: Knit Wits, 10 AM</li>
+<li>15 Nov: Chair Yoga, 6:30 PM</li>
+<li><span style="color: #993366;"><strong>16 Nov: Pre-School Storytime, 10:30 AM</strong></span></li>
+<li>18 Nov: Holiday Cards, 2 PM</li>
+<li>19 Nov: Used Book Sale, 1 PM</li>
+<li>20 Nov: Isla The Reading Therapy Dog, 3:30 PM</li>
+<li><span style="color: #993366;"><strong>21 Nov: Toddler Time, 10:30 AM</strong></span></li>
+</ul>
+<p>For program details see the <a href="http://www.bcls.lib.nj.us/events?qt-calendar=7#qt-calendar">BCLS Online Event Calendar</a>.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3004" class="share-facebook sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-126/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-126/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-126/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://rivertonfreelibrary.org/category/programs-events/" rel="category tag">Programs &amp; Events</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-3004 -->
+
+				
+					
+	<article id="post-3000" class="post-3000 post type-post status-publish format-standard hentry category-programs-events category-whats-new">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-125/" rel="bookmark">Mark Your Calendars</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-125/" title="12:00 pm" rel="bookmark"><time class="entry-date" datetime="2017-11-06T12:00:26+00:00">November 6, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://rivertonfreelibrary.org/author/pat/" title="View all posts by Pat Solin" rel="author">Pat Solin</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong><a href="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag.jpg"><img data-attachment-id="1231" data-permalink="https://rivertonfreelibrary.org/2015/02/bargain-books/book-bag/" data-orig-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag.jpg" data-orig-size="440,440" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Book bag" data-image-description="" data-medium-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag-300x300.jpg" data-large-file="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag.jpg" class="alignleft wp-image-1231" src="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag-300x300.jpg" alt="" width="249" height="249" srcset="https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag-300x300.jpg 300w, https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag-150x150.jpg 150w, https://rivertonfreelibrary.org/wp-content/uploads/2015/02/Book-bag.jpg 440w" sizes="(max-width: 249px) 100vw, 249px" /></a>Library Programs</strong></p>
+<ul>
+<li>8 Nov: Knit Wits, 10 AM</li>
+<li>9 Nov: Pre-School Storytime, 10:30 AM</li>
+<li>9 Nov: Adult Art Class, 6:30 PM</li>
+<li>11 Nov: Get &#8220;Bust&#8221;ed at Your Library, 2 PM</li>
+<li><strong>12 Nov: Used Book Sale, 1 PM</strong></li>
+<li>14 Nov: Yoga Storytime, 10:30 AM</li>
+</ul>
+<p>For program details, see the <a href="http://www.bcls.lib.nj.us/events?qt-calendar=7#qt-calendar">BCLS Online Event Calendar</a>.</p>
+<p><strong>Library Hours:</strong> The RFL will be closed on Tuesday, November 7th for Election Day as well as on Friday, November 10th for Veteran&#8217;s Day.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3000" class="share-facebook sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-125/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-125/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/mark-your-calendars-125/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://rivertonfreelibrary.org/category/programs-events/" rel="category tag">Programs &amp; Events</a>, <a href="https://rivertonfreelibrary.org/category/whats-new/" rel="category tag">What's New</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-3000 -->
+
+				
+					
+	<article id="post-3013" class="post-3013 post type-post status-publish format-standard hentry category-whats-new">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="https://rivertonfreelibrary.org/2017/11/friends-of-the-riverton-free-library-3/" rel="bookmark">Friends of the Riverton Free Library</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="https://rivertonfreelibrary.org/2017/11/friends-of-the-riverton-free-library-3/" title="12:00 pm" rel="bookmark"><time class="entry-date" datetime="2017-11-05T12:00:19+00:00">November 5, 2017</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="https://rivertonfreelibrary.org/author/pat/" title="View all posts by Pat Solin" rel="author">Pat Solin</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_2605" style="max-width: 199px" class="wp-caption alignleft"><a href="https://rivertonfreelibrary.org/wp-content/uploads/2017/04/Friends-of-the-RFL.png"><img data-attachment-id="2605" data-permalink="https://rivertonfreelibrary.org/2017/04/mark-your-calendars-101/friends-of-the-rfl/" data-orig-file="https://rivertonfreelibrary.org/wp-content/uploads/2017/04/Friends-of-the-RFL.png" data-orig-size="462,339" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Friends of the RFL" data-image-description="" data-medium-file="https://rivertonfreelibrary.org/wp-content/uploads/2017/04/Friends-of-the-RFL-300x220.png" data-large-file="https://rivertonfreelibrary.org/wp-content/uploads/2017/04/Friends-of-the-RFL.png" class=" wp-image-2605" src="https://rivertonfreelibrary.org/wp-content/uploads/2017/04/Friends-of-the-RFL-300x220.png" alt="" width="189" height="141" /></a><p class="wp-caption-text">Artwork thanks to Christian Ancker.</p></div>
+<p>The Friends of the Riverton Free Library endorses the upcoming Library Construction Bond Referendum, and wishes to inform our patrons of its benefit to our communities.</p>
+<p>Please be sure to vote on Tuesday, November 7th, and consider supporting this worthy referendum.</p>
+<p>For more information about the benefits of improving public libraries in Burlington County, see the information sheet: <a href="https://rivertonfreelibrary.org/wp-content/uploads/2017/10/Library-Construction-Bond-Referendum.pdf">Library Construction Bond Referendum</a>.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-3013" class="share-facebook sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/friends-of-the-riverton-free-library-3/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/friends-of-the-riverton-free-library-3/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="https://rivertonfreelibrary.org/2017/11/friends-of-the-riverton-free-library-3/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://rivertonfreelibrary.org/category/whats-new/" rel="category tag">What's New</a>			</span>
+															
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-3013 -->
+
+				
+						<nav id="nav-below">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="https://rivertonfreelibrary.org/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="categories-3" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-6"><a href="https://rivertonfreelibrary.org/category/programs-events/" >Programs &amp; Events</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://rivertonfreelibrary.org/category/whats-new/" >What&#039;s New</a>
+</li>
+		</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+								<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//rivertonfreelibrary.org/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/rivertonfreelibrary.org\/2017\/11\/candlelight-house-tour-2\/":3058,"https:\/\/rivertonfreelibrary.org\/2017\/11\/mark-your-calendars-127\/":3010,"https:\/\/rivertonfreelibrary.org\/2017\/11\/mark-your-calendars-126\/":3004,"https:\/\/rivertonfreelibrary.org\/2017\/11\/mark-your-calendars-125\/":3000,"https:\/\/rivertonfreelibrary.org\/2017\/11\/friends-of-the-riverton-free-library-3\/":3013};
+	</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			<script>jQuery( document ).ready( function(){ document.getElementById('jetpack-source_f_name').value = '' });</script>
+			
+			<img style="float: right; display: none" class="loading" src="https://rivertonfreelibrary.org/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201747'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2017Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9'></script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/_inc/spin.js?ver=1.3'></script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/_inc/jquery.spin.js?ver=1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/rivertonfreelibrary.org\/wp-admin\/admin-ajax.php","nonce":"c22c26c29c","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"1","require_name_email":"1","login_url":"https:\/\/rivertonfreelibrary.org\/wp-login.php?redirect_to=https%3A%2F%2Frivertonfreelibrary.org%2F2017%2F11%2Fcandlelight-house-tour-2%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<p id=\"jp-carousel-commenting-as\">You must be <a href=\"#\" class=\"jp-carousel-comment-login\">logged in<\/a> to post a comment.<\/p>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel.js?ver=20170209'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://rivertonfreelibrary.org/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=5.5.1'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+</body>
+</html>

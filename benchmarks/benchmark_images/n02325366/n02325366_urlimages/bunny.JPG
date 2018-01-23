@@ -1,0 +1,1579 @@
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head><title>Pay Bill, See Offers, Check Email with My Verizon Fios</title><meta http-equiv="X-Frame-Options" content="sameorigin"/><meta name="description" content="Review and pay your bill, sign-up to pay your bill automatically, check your email, and see the latest upgrade offers and deals. Sign-in to My Verizon today!" /><meta name="keywords" content="check verizon email, pay my bill, auto bill pay, manage account, upgrade services" /><meta  /><meta   content="width=device-width, initial-scale=1.0, minimum-scale=1.0, shrink-to-fit=no" name="viewport" />
+<link rel="canonical" href="https://www.verizon.com/home/myverizon/"></link><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="msvalidate.01" content="51FB44D1198DEC297860ECF1D4105525"/><meta http-equiv="x-dns-prefetch-control" content="on"/><link rel="dns-prefetch" href="//www.verizon.com"/><link rel="dns-prefetch" href="//www.verizon.com"/><link rel="dns-prefetch" href="//www.verizon.com"/><link rel="stylesheet" type="text/css" href="//www.verizon.com/cs/groups/public/documents/adacct/suggestions_css.css"/><!--I am from VZRF Header misc folder --> 
+<script type="text/javascript">
+var chkurl = window.location.href.toLowerCase();
+	if(chkurl=="https://www.verizon.com/home/storelocator/" || chkurl.indexOf("storelocatorresults")>-1){
+		document.write('<scr'+'ipt type="text/javascript" src="//respframework.verizon.com/vzrf/2-22-0/js/complete/vzrf.js"></scr'+'ipt>');
+		document.write('<li'+'nk rel="stylesheet" href="//respframework.verizon.com/vzrf/2-22-0/stylesheets/complete/vzrf.min.css"></li'+'nk>');
+	}else{
+		document.write('<scr'+'ipt type="text/javascript" src="//respframework.verizon.com/vzrf/2-16-0/js/complete/vzrf.min.js"></scr'+'ipt>');
+		document.write('<li'+'nk rel="stylesheet" href="//respframework.verizon.com/vzrf/2-16-0/stylesheets/complete/vzrf.min.css"></li'+'nk>');
+	}
+</script><link href="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.app_css.css" rel="stylesheet" type="text/css"/><link href="//www.verizon.com/cs/groups/public/documents/document/rwd_header_learn_adj_css.css" rel="stylesheet" type="text/css"/><style type="text/css">
+    #login-content {
+        width: 410px;
+        height: 335px;
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+
+    #login-content iframe {
+        width: 410px;
+        height: 335px;
+        border: 0px;
+    }
+    /*-----carousel fix---------*/
+
+    .w_carousel.c_height {
+        height: 320px;
+        overflow: hidden;
+    }
+
+    .modalv_header_vz {
+        height: auto !important;
+        background: url("/cs/groups/public/documents/adacct/myvz_auth_overlayheroimage.jpg");
+        background-size: cover;
+        background-position: right top;
+        background-repeat: no-repeat;
+        height: 200px;
+      }
+                               
+     .model-content-vz {
+        overflow: hidden;
+      }
+                               
+      h6,h4.titletxt,
+        .model-content-vz a {
+            color: #000;
+            }
+                               
+      .model-content-vz .con-sec-one,
+      .model-content-vz .con-sec-two {
+            float: left;
+       }
+                               
+       .modelv_footer .sec-one,
+       .modelv_footer .sec-two {
+           background: #000;
+           color: #fff;
+           padding: 0.3rem;
+       }
+     
+      @media only screen and (min-width: 30.0625rem) {
+          h4.titletxt {
+              font-size: 1.9rem
+          }
+      }
+     
+      @media only screen and (min-width: 48rem) {
+          .modelv_footer .sec-one,
+          .modelv_footer .sec-two {
+              float: left;
+              text-align: center;
+          }
+          .model-content-vz .con-sec-one {
+              border-right: 1px solid #000;
+          }
+      }
+     
+      @media only screen and (max-width:62.5rem) {
+          .modalv_header_vz {
+              background: none;
+              border-bottom: 1px solid #ccc;
+          }
+      }
+     
+      @media only screen and (max-width: 47.98rem) {
+          .model-content-vz .con-sec-two,
+          .modelv_footer .sec-one,
+          .modelv_footer .sec-two {
+              margin-left: auto;
+              margin-right: auto;
+          }
+          .model-content-vz .con-sec-two {
+              margin-top: 24%;
+          }
+          .model-content-vz {
+              overflow: hidden;
+              position: relative;
+          }
+          .modelv_footer .sec-one {
+              position: relative;
+              top: -160px;
+          }
+          .modelv_footer .sec-two {
+              position: relative;
+              top: -50px;
+          }
+      }
+
+</style><link rel="dns-prefetch" href="//signin.verizon.com"/>
+<link rel="dns-prefetch" href="//auth.verizon.com"/>
+<link rel="dns-prefetch" href="//cm.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="//verizontelecom.112.2o7.net"/>
+<link rel="dns-prefetch" href="//ak1.abmr.net"/>
+<link rel="dns-prefetch" href="//pixel.mathtag.com"/>
+<link rel="dns-prefetch" href="//2761768.fls.doubleclick.net"/>
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="//dms.netmng.com"/>
+<link rel="dns-prefetch" href="//pixel.ingest.at.atwola.com"/>
+<link rel="dns-prefetch" href="//20531297p.rfihub.com"/>
+<link rel="dns-prefetch" href="//p.rfihub.com"/>
+<link rel="dns-prefetch" href="//fls.doubleclick.net"/>
+<link rel="dns-prefetch" href="//www.google.com"/>
+<link rel="dns-prefetch" href="//vz.xp1.ru4.com"/>
+<link rel="dns-prefetch" href="//ak1s.abmr.net"/>
+<link rel="dns-prefetch" href="//osmdcs.interclick.com"/>
+<link rel="dns-prefetch" href="//ib.adnxs.com"/>
+<link rel="dns-prefetch" href="//respframework.verizon.com"/>
+<link rel="dns-prefetch" href="//dpm.demdex.net"/>
+<link rel="dns-prefetch" href="//assets.adobedtm.com"/>
+<link rel="dns-prefetch" href="//sanalytics.verizon.com"/>
+<link rel="dns-prefetch" href="//cdn.tt.omtrdc.net"/>
+<link rel="dns-prefetch" href="//verizontelecom.tt.omtrdc.net"/>
+<link rel="dns-prefetch" href="//collaborateext.verizon.com"/>
+<link rel="dns-prefetch" href="//verizon.inq.com"/>
+<link rel="dns-prefetch" href="//tags.bkrtx.com"/>
+<link rel="dns-prefetch" href="//ad.doubleclick.net"/>
+<link rel="dns-prefetch" href="//secure.fastclick.net"/>
+<link rel="dns-prefetch" href="//fls.doubleclick.net"/>
+<link rel="dns-prefetch" href="//fios.sp1.convertro.com"/>
+<link rel="dns-prefetch" href="//verizon.demdex.net"/>
+<link rel="dns-prefetch" href="//stags.bluekai.com"/>
+<link rel="dns-prefetch" href="//pixel.advertising.com"/>
+<link rel="dns-prefetch" href="//cm.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="//static.inq.com"/>
+<link rel="dns-prefetch" href="//tags.bluekai.com"/>
+<link rel="dns-prefetch" href="//www.google.ca"/>
+<link rel="dns-prefetch" href="//dpm.demdex.net"/>
+<link rel="dns-prefetch" href="//analytics.spongecell.com"/>
+<link rel="dns-prefetch" href="//stags.bluekai.com"/>
+<link rel="dns-prefetch" href="//p.rfihub.com"/>
+<meta  name="p:domain_verify" content="fee307de1a6290c64ee9b73be3b75a81" /><script type="text/javascript">
+function receiveMessage(event){
+	if(event && event != null && event.data && event.data != "null" && event.data != "") {
+		var dataObj;
+		try {
+			if(JSON) {
+				dataObj = JSON.parse(event.data);
+			} else {
+				dataObj = eval('(' + event.data + ')');
+			}
+			if(dataObj && dataObj.action && dataObj.url && (dataObj.action === "close" || dataObj.action === "order")) {
+				window.location.href = dataObj.url;
+			}
+		} catch(e) {}
+	}
+}
+if ( window.attachEvent ) {
+	// IE
+	window.attachEvent("onmessage", receiveMessage);
+}
+if ( document.attachEvent ) {
+	// IE
+	document.attachEvent("onmessage", receiveMessage);
+}
+if ( window.addEventListener ){
+	// FF
+	window.addEventListener("message", receiveMessage, false);
+}
+document.write('<scr'+'ipt type="text/javascript" src="https://assets.adobedtm.com/10d5272d092923c410feae744225087686012423/satelliteLib-8df7d93db820b272138ecb04dbe4ed7f5023b893'+(document.domain.indexOf("www.verizon.com")>-1 ? "" : "-staging")+'.js"><\/scr'+'ipt>');
+</script>
+<script>
+var dtmtmpurl = window.location.href.toLowerCase();
+	 window.digitalData = {
+            "page": {
+            "sysEnv": document.domain.indexOf("www.verizon.com")!=-1?"prod":"dev",
+            "adobeReportSuite": document.domain.indexOf("www.verizon.com")!=-1?"verizontelecomglobal,verizontelecomres":"verizontelecomglobaldev,verizontelecomresdev",
+            "language": "en_US",
+            "pfxID": dtmtmpurl.indexOf("/home")!=-1 || dtmtmpurl.indexOf("/info")!=-1 || dtmtmpurl.indexOf("/local")!=-1 ?"res":"ghp",
+            "pageName": "",
+            "detailPageName": "",
+            "businessUnit": "residential",
+            "pageType": dtmtmpurl.indexOf("/home")!=-1 || dtmtmpurl.indexOf("/info")!=-1 || dtmtmpurl.indexOf("/local")!=-1 ?(dtmtmpurl.indexOf("shopping") != -1?"shop":"learn"):"resghp",
+            "contentChannel": dtmtmpurl,
+            "lineOfBusiness": "residential",
+            "cmsPlatform": "res| atlas",
+            "applicationName": dtmtmpurl.indexOf("/home")!=-1 || dtmtmpurl.indexOf("/info")!=-1 || dtmtmpurl.indexOf("/local")!=-1 ?"residential":"global homepage",
+            "events":"event3"
+             },
+            "userProfile": {
+            "pdcString":"",
+            "personalizationXP1String":"",
+            "profileID":"",
+            "loginStatus":"",
+            "customerType":"",
+            "productInterestXP1":"",
+            "productQualXp1":"",
+            "shoppingStageXp1":"",
+            "cartContentsXp1":"",
+            "existingProductsXp1":"",
+            "leadOffer":"",
+            "closestCableXp1":"",
+            "profileIDXp1":"",
+            "verizonUID":""
+		    }
+    }
+		</script><script type="text/javascript">
+				function getJSDomain() { return "//www.verizon.com"; }
+				function getCSSDomain() { return "//www.verizon.com"; }
+				function getImageDomain() { return "//www.verizon.com"; }
+			</script></head><body>
+
+
+
+<input type="hidden" id="saveCartScartID" value=''>
+<input type="hidden" id="saveCartXPSID" value='X'>
+<input type="hidden" id="ScExpiryDate" value=''>
+<script type="text/javascript">
+		var isTabletEnabled = 'N'; 
+</script>
+
+
+
+	<input type="hidden" id="SCPageName" name="SCPageName" value="myvz home" />
+    <input type="hidden" id="SCPageTitle" name="SCPageTitle" value="" />
+    <input type="hidden" id="SCPageUrl" name="SCPageUrl" value="/vz/residential/myverizon/home" />
+    <input type="hidden" id="LQOverlayHt" value="580px"/>
+	<input type="hidden" id="lqId" value=""/>
+	<input type="hidden" id="xp1ProfileId" value="Overview">
+	<input type="hidden" id="Xp1Request" value="">
+	<input type="hidden" id="xp1QueryString" value="">  	
+	<input type="hidden" id="Xp1ResponseCode" value="">
+	<input type="hidden" id="Xp1Response" value=''>
+	<input type="hidden" id="Xp1VisID" name="Xp1VisID" value="">
+	<input type="hidden" id="HeroCreativeId" value="creative_id_pos_1=,creative_id_pos_2=,creative_id_pos_17=,creative_id_pos_18=">	
+	<input type="hidden" id="xp_placement_1" value="">
+	<input type="hidden" id="xp_placement_2" value="">
+  	<input type="hidden" id="xp_placement_3" value="">
+  	<input type="hidden" id="xp_placement_4" value="">
+  	<input type="hidden" id="xp_placement_5" value="">
+  	<input type="hidden" id="xp_placement_6" value="">
+  	<input type="hidden" id="xp_placement_7" value="">
+  	<input type="hidden" id="xp_placement_8" value="">
+  	<input type="hidden" id="xp_placement_9" value="">
+  	<input type="hidden" id="xp_placement_19" value="">
+  	<input type="hidden" id="xp_placement_26" value="">
+  	<input type="hidden" id="xp_placement_20" value="">
+  	<input type="hidden" id="clickURL_5" value="">
+  	<input type="hidden" id="clickURL_8" value="">
+  	<input type="hidden" id="clickURL_10" value="">
+  	<input type="hidden" id="OfferFilterCreativeId" value="">
+  	<input type="hidden" id="SpeedComparatorCreativeId" value="">
+  	<input type="hidden" id="wayFinderCreativeId" value="|">
+  	<input type="hidden" id="learnoffer" value="">
+  	<input type="hidden" id="SGstate" value="">
+  	<input type="hidden" id="CCTcreativeID" value="">
+  	<input type="hidden" id="currentPageURl" value="/home/myverizon/">  		
+	<input type="hidden" id="hdCVC16Val" value="1" /> 
+	<input type="hidden" id="hdCVC17Val" value="" />
+	<input type="hidden" id="hdCVC5Val" value="" />
+	<input type="hidden" id="hdCVC13Val" value="" />
+	<input type="hidden" id="hdCVC19Val" value="" />
+	<input type="hidden" id="prop7" value="" />
+	<input type="hidden" id="prop11" value="" />
+	<input type="hidden" id="prop12" value="" />
+	<input type="hidden" id="prop19" value="" />
+	<input type="hidden" id="prop23" value="" />
+	<input type="hidden" id="prop35" value="" />
+	<input type="hidden" id="prop46" value="" />
+	<input type="hidden" id="prop47" value="" />
+	<input type="hidden" id="sitecatalystid" value="verizontelecomglobal,verizontelecomres" />
+	<input type="hidden" id="saveCartScartID" value=''>
+	<input type="hidden" id="saveCartXPSID" value='X'>
+	<input type="hidden" id="ScExpiryDate" value=''>
+	<input type="hidden" id="UIDHTMLMatch" value="">
+	<input type="hidden" id="QASegmentName" value="">
+	<input type="hidden" id="vciInfo" value="">
+	<input type="hidden" id="inputString2AK_ff" value="site-v1,site-preQl,acqStg-1,browser-Other,opSys-Other***1784***07162012***null***pixel">		
+	<input type="hidden" id="akDataStr" value="">
+	<input type="hidden" id="akQueryURL" value="">
+	<input type="hidden" id="akAudienceResponse" value="">		
+	<input type="hidden" id="FIOSREADY" value="N" />
+	<input type="hidden" id="SIFLAG" value="N" />
+	<input type="hidden" id="QAFLAG" value="N" />
+	<input type="hidden" id="ppsh_clientIp" name="ppsh_clientIP" value="99.230.18.189" /> 
+	<input type="hidden" id="isExistingCustomer" value="" /> 
+	<input type="hidden" id="mastercookieon" value="Y" />
+	<input type="hidden" id="XP190PS" value="" /> 
+	<input type="hidden" id="XP_UID" value="" />   
+	<input type="hidden" id="FXC" value="" />  
+	<input type="hidden" id="address_id" value="" />
+	<input type="hidden" id="dma" value="" />
+	<input type="hidden" id="isVzrf" value="true" />
+	<input type="hidden" id="deviceType" value="desktop" />
+	<input type="hidden" id="hdn_zip" value="" />
+	<input type="hidden" id="gui_session" value="" />
+	<script type="text/javascript">
+		var s_account = document.getElementById("sitecatalystid").value;
+		var master_cookie_on = document.getElementById("mastercookieon").value;
+		if(master_cookie_on==null || master_cookie_on=="undefined" || master_cookie_on=="null" || master_cookie_on=="")
+		{
+		master_cookie_on = "N";
+		}
+	</script>
+
+
+<script language="javascript" src="/includes/javascript/omnicode.js"></script>
+<script language="javascript" src="/resources/scripts/sitecatalyst_header.js"></script>
+
+     
+
+	
+
+
+
+
+
+
+<!-- UCM Sat Nov 25 14:21:27 EST 2017 -->
+<!-- SCB resp header begin -->
+
+	<script type="text/javascript">var master_cookie_on="Y";</script>
+	<input type="hidden" id="currentDomain" value="https://www.verizon.com"/>
+	<input type="hidden" id="currentDomainVZ" value="https://www.verizon.com"/>
+	<input type="hidden" id="saveCartCookie" value=""/>
+	<input type="hidden" id="saveCartCkiexpsid" value=""/>
+	<input id="gn_ct_dn" name="gn_ct_dn" type="hidden" value="https://www.verizon.com"/>
+	<input type="hidden" id="ghf_client" value="noclient"/>
+	<input type="hidden" id="ghf_isvz" value="N"/>
+	
+	<script type="text/javascript">var scbType='resp';</script>
+	<script type="text/javascript" src="//www.verizon.com/home/ak-cached/2h/javascript/commons.js"></script>
+	<script type="text/javascript" src="//www.verizon.com/includes/javascript/omnicode.js"></script>
+	 
+		<script type="text/javascript">
+					if(typeof(_satellite) == 'undefined'){
+						document.write('<scr'+'ipt type="text/javascript" src="https://assets.adobedtm.com/10d5272d092923c410feae744225087686012423/satelliteLib-8df7d93db820b272138ecb04dbe4ed7f5023b893.js"><\/scr'+'ipt>');
+					}</script>
+	
+	
+	<script type="text/javascript" src="https://www.verizon.com/home/ak-cached/2h/javascript/myvzconsole.js"></script>
+	<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/resresponsive.js"></script>
+	
+	<link href="https://www.verizon.com/cs/groups/public/documents/document/rwd_header.css" rel="stylesheet" type="text/css">
+ 
+
+
+<!--googleoff: all-->
+<noindex>
+<a href="http://www.verizon.com/Support/Residential/Generic/Phone+Generic/Phone+Product/Questions/CustomersWithDisabilities.htm" name="&amp;lid=//ghdr//customers with disabilities" style="left:-9000em;position:absolute;top:-9000em;">Customers With Disabilities</a>
+<div id="showmyvzres2012header" style="display:block;">
+	<div id="SCBSMB" style="width:100%;">
+		<div style="margin:0 auto;">
+			<div id="scbresheadercont">
+				<div id="scbresheader">
+					<div id="scbrestopnavrow1">
+						<div id="scbrestopnavlt">
+							<ul>
+								<li>
+			<div style="position:absolute;top:-200px;"><a href="#navbar">Skip to navigation</a><a href="#content">Skip to main content</a></div>
+			<a class="scbrestoplt" href="http://www.verizonwireless.com/?intcmp=VZ-GHOME-D-WIRELESS" id="scbvzwtoplink" name="&amp;lid=//ghdr//vzw" onclick="setBusinessUnitCookieW('wireless');">Wireless</a> 
+			<script type="text/javascript">
+				if(ckIsLogin!=null&&ckIsLogin.indexOf('vzw')>-1&&typeof(scbUpdVZWlink)!='undefined'){
+					scbUpdVZWlink('scbvzwtoplink','/clp/login?redirect=/vzw/secure/router.action');
+				}
+			</script></li>
+								<li id="scbbiztab">
+									<a class="scbrestoplt scbresselected" href="https://www.verizon.com/?lid=//global//residential" name="&amp;lid=//ghdr//residential">Residential</a> <script type="text/javascript">scbCheckVerizonFios();var scbMenuCount=4;</script>
+									
+								</li>
+								<li><a class="scbrestoplt" href="http://www.verizon.com/home/verizonglobalhome/ghp_business.aspx" name="&amp;lid=//ghdr//business" >Business</a></li>
+							</ul>
+						</div>
+						<div id="scbrestopnavrt">
+							<ul>
+								<li>
+									<div id="scbcartpp2012"></div>
+								</li>
+								<li>
+									<div id="scbuservzfios" style="display:none;">
+	<a class="scbsignin" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//ghdr//verizonfios//signinreg">Sign In/Register</a></div>
+<div id="scbuserdivon2012" style="display:none;">
+	<a class="scbrestoprt scbressprite scbuser" href="https://www.verizon.com/ForYourHome/MyAccount/ngen/pr/user/profile.aspx?myvzmd=profile_settings&amp;myvztab=1" id="scbusername2012" name="&amp;lid=//ghdr//welcome">Hi</a> <a class="scbrestoprt scbbluelink" href="javascript:scbSignOut();" name="&amp;lid=//ghdr//signout">(Sign&nbsp;Out)</a></div>
+<div id="signin_ws2012" style="display:none;">
+	<a class="scbsignin" href="javascript:void(0);" id="scbressignin" name="&amp;lid=//ghdr//signinreg" onclick="scbResSSO();">Sign In/Register</a>
+</div>
+<script type="text/javascript">
+scbWebfonts();
+scbUserDIV();
+</script>
+								</li>
+								<li>
+									<!-- mp_trans_add
+									<a class="scbrestoprt" href="http://espanol.verizon.com/" id="scbResEspanolLink" mporgnav="" name="&amp;lid=//ghdr//espanol" onclick="return switchLanguage('es');function switchLanguage(lang){MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}" >Espa&ntilde;ol</a> <script type="text/javascript">
+var scbEspLinkID=document.getElementById('scbResEspanolLink');
+if(scbEspLinkID!=null){scbEspLinkID.href='http://'+vzEspanol+'/';}
+</script>
+									-->
+									<!-- mp_trans_remove_start -->
+									<script type="text/javascript">scbEspLink();</script>
+<!--<a class="scbrestoprt" href="https://www.verizon.com/support/residential/contact-us/index.htm" name="&amp;lid=//ghdr//contact us">Contact Us</a>-->
+									<!-- mp_trans_remove_end -->
+								</li>
+								<li class="location">
+									<div id="scbreszipcont">
+	<div id="scbresziplink">
+		<a class="scbrestoprt" href="javascript:void(0);" name="&amp;lid=//ghdr//enter your location" onclick="scbResLQ();" ><span id="scbresloclinktext"><span class="scbhidden">Location</span></span></a></div>
+<!--Enter Your Location--></div>
+								</li>
+								
+									<li id="contactus"><a  name="&amp;lid=//ghdr//contact us" href="https://www.verizon.com/support/residential/contact-us/homepage.htm">Contact Us</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<input id="mm_height_value" type="hidden" value="" />
+<div id="scbResTFN">
+	<div id="TFN"></div>
+	<div id="CBR" style="display:none;"><a class="" href="javascript:void(0);" name="&lid=//CBR" onclick="scbTFN_CB();"><span id="ReceiveCall">Receive CallBack</span></a></div>
+</div>
+			
+			<div id="scbvzlogodiv">
+	<a name="navbar"></a> <a href="https://www.verizon.com/?lid=//global//residential" name="&amp;lid=//ghdr//verizon logo"><img alt="Verizon logo" border="0" class="scbvzlogoimg" src="https://www.verizon.com/cs/groups/public/documents/adacct/vzlogo_lg.png" style="max-width:100%;" /><span class="scbhidden">visit Verizon home page</span></a></div>
+<div id="scbreslastlogin" style="display:none;">
+	<a href="javascript:void(0);" id="scbreslasttext" name="&amp;lid=//ghdr//last signed in" onclick="return false;" style="text-decoration:none;"> <b>Last Signed In:</b> <script type="text/javascript">scbResLastSignIn();</script></a>
+	<div class="scbcallout" id="scbreslastbubble" style="left:-9999px;margin-left:60px;top:16px;cursor:default;">
+		<div style="position:relative;">
+			<div class="scbcalloutcaret" style="left:140px;">
+				&nbsp;</div>
+			<table border="0" cellpadding="0" cellspacing="0" summary="last signed in info" width="190">
+				<tbody>
+					<tr>
+						<td class="scbcalloutcontent">
+							This is the last time your account was accessed.</td>
+						<td class="scbcalloutright">
+							&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="scbcalloutbottom">
+							&nbsp;</td>
+						<td class="scbcalloutbottomright">
+							&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">if(scbResLLDate!=null){dispLayer('scbreslastlogin','block');}</script>
+					<!-- START ADDED FOR RESP -->
+<script type="text/javascript">
+	var mdotsearchshow=true;
+	arrmmdotHideSearch=new Array(
+		'verizon.com/search/searchresults',
+		removeHttps('${vzForums}')
+	);
+	for(i=0;i<arrmmdotHideSearch.length;i++) {
+		if(scbreshref.indexOf(arrmmdotHideSearch[i])>-1){
+			mdotsearchshow=false;
+			break;
+		}
+	}
+
+
+//var isVzForumsSiteisVzForumsSite=unescape(window.location.href).indexOf(vzForums);
+if((typeof(scbResResponsive) != 'undefined' && scbResResponsive) && mdotsearchshow){
+document.write('<a href="javascript:void(0);" class="mshow" id="searchshow" onclick="scbShowSearch();">Search</a><div id="showsearch" style="display:none;">');}
+</script>
+<!-- END ADDED FOR RESP -->
+<div id="scbsearchtopdiv" style="display:none;">
+	<form action="https://www.verizon.com/search/SearchResults" id="scbsearchtopform" method="get" name="scbsearchtopform" onsubmit="scbResSearch(this);return false;" style="margin:0;display:inline;">
+		<label for="scbsearchtopinput"><input autocomplete="off" id="scbsearchtopinput" maxlength="100" name="q" title="Search" value="I am looking for" /> </label> <a class="scbressearchgo" href="javascript:void(0);" onclick="scbResSearch(document.scbsearchtopform);return false;" title="Search"><span class="scbhidden">Search Site</span></a></form>
+	<div class="scbsearchsuggcont" id="scbsearchsuggdiv" style="display:none;">
+		&nbsp;</div>
+</div>
+<!-- START ADDED FOR RESP -->
+<script type="text/javascript">if((typeof(scbResResponsive) != 'undefined' && scbResResponsive) && mdotsearchshow){document.write('</div>');}</script>
+<!-- END ADDED FOR RESP -->
+<script type="text/javascript">scbSearchInit();</script>
+				</div>
+					<div id="scbrestopnavrow2">
+						
+						<div id="scbresnavmenucont">
+
+							<!-- MOVE THIS TO CONTENT - START -- in MAIN MYVZRES2012 0511-->
+							<div class="mshow" id="mmenu"><a href="javascript:void(0);"><img src="https://www.verizon.com/cs/groups/public/documents/adacct/blank.png" class="svg closed" alt="open menu"></a></div>
+							<!-- MOVE THIS TO CONTENT - END -->
+		
+							<div id="scbresnavmenu" class="mmenu_hide">
+								<ul id="mmenu_container" class="">
+									<li id="mmenu_back"><a href="javascript:void(0);" onClick="mmenu_back()">Back</a></li>
+									<li id="scbmenuli1">
+										<a class="menutab" href="https://www.verizon.com/?lid=//global//residential" id="scbmenua1" name="&amp;lid=//shop//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==1){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(1,1);scbMenuOpenNum=1;return false;"><span class="scb scbresmenu1" id="scbmenub1">Shop</span></a>
+										<div id="scbmenudiv1" class="scbresmenudiv">
+											<div class="scbresmenupad">
+												
+												<!-- MOVE THIS TO CONTENT - START --in PRODUCTS-SUBNAVFILE, 0511--><!-- if not logged in , redirect to login page, else actual link - need to get it from existing m. links -->
+												<ul class="mobile_menu_ctas mshow">
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=MyOffers" id="myoffers" onclick="scLinkTrackID('//ghdr//resp//services//my offers');">My Offers</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=UpgradeBundle" id="changeyourbundle" onclick="scLinkTrackID('//ghdr//resp//services//change your bundle');">Change Your Bundle</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=Quantum" id="upgradeyourspeed" onclick="scLinkTrackID('//ghdr//resp//services//upgrade your speed');">Upgrade Your Speed</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=ALLCHANNELS" id="addtvchannels" onclick="scLinkTrackID('//ghdr//resp//services//add tv channels');">Add TV Channels</a></li>
+	<li id="scbmobilespldeals"><a href="https://www.verizon.com/home/bundles/fios/" id="specialdeals" onclick="scLinkTrackID('//ghdr//resp//services//special deals');">Special Deals</a></li>
+	<li><a href="https://www.verizon.com/home/fios/" id="aboutfios" onclick="scLinkTrackID('//ghdr//resp//services//about fios');">About Fios</a></li>
+
+	<li> <a href="https://www.verizon.com/home/fiosavailability/" name="&amp;lid=//ghdr//resp//services//fios availability">Fios Availability</a></li>
+	<li><a href="https://www.verizon.com/home/fios-fastest-internet/" id="fiosinternet" onclick="scLinkTrackID('//ghdr//resp//services//fios internet');">Fios Internet</a></li>
+	<li><a href="https://www.verizon.com/home/fiostv/" id="fiostv" onclick="scLinkTrackID('//ghdr//resp//services//fios tv');">Fios TV</a></li>
+	<li><a href="https://www.verizon.com/home/phone/fiosdigitalvoice/" id="fiosdigitalvoice" onclick="scLinkTrackID('fios digital voice');">Fios Digital Voice</a></li>
+	<li><a href="https://www.verizon.com/home/accessories/" id="fiosaccessories" onclick="scLinkTrackID('//ghdr//resp//services//accessories');">Accessories</a></li>
+	<li><a href="https://www.verizon.com/home/shop/moving.htm?x1=EC" id="moving" onclick="scLinkTrackID('//ghdr//resp//services//moving');">Move Services</a></li>
+	<li><a href="https://www.verizon.com/home/myverizon/" id="scbmsupportorderstatus" onclick="scLinkTrackID('//ghdr//resp//services//order status');">Order Status</a></li>
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="shop_submenu" class="tier02">
+														<li id="scbvcmhdrshopinternet"><a class="scb_link" name="&amp;lid=//shop//products//fios internet" href="https://www.verizon.com/home/fios-fastest-internet/">Internet</a></li>
+		<li id="scbvcmhdrshoptv"><a class="scb_link" name="&amp;lid=//shop//products//fios tv" href="https://www.verizon.com/home/fiostv/">TV</a></li>
+		<li id="scbvcmhdrshopphone"><a class="scb_link" name="&amp;lid=//shop//products//fios digital voice" href="https://www.verizon.com/home/phone/fiosdigitalvoice/">Phone</a></li>
+		<li id="scbvcmhdrshopdeals"><a class="scb_link" name="&amp;lid=//shop//deals//special deals" href="https://www.verizon.com/home/bundles/fios/">Deals</a></li>
+		<li id="scbvcmhdrshopaboutfios"><a class="scb_link" name="&amp;lid=//shop//why fios//about fios" href="https://www.verizon.com/home/fios/">About</a></li>
+		<li id="scbvcmhdrshopmoving"><a class="scb_link" name="&amp;lid=//shop//moving//moving made easy" href="https://www.verizon.com/home/shop/moving.htm">Moving</a></li>
+		<li id="scbvcmhdrshopaccessories"><a class="scb_link" name="&amp;lid=//shop//accessories//fios accessories" href="https://www.verizon.com/home/accessories/">Accessories</a></li>
+		<div class="scbmenuclosediv" id="scbMenuClose1">
+			<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //services//tablet+close^prop27=//services//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a>
+		</div>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli2">
+										<a class="menutab" href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" id="scbmenua2" name="&amp;lid=//myvz//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==2){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(2,1);scbMenuOpenNum=2;return false;"><span class="scb scbresmenu2" id="scbmenub2">My Verizon</span></a>
+										<div id="scbmenudiv2" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												<ul class="mobile_menu_ctas mshow">
+	 <li id="scbmhdrmyvzhome"><a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" name="&amp;lid=//ghdr//resp//myvz//home" >Home</a></li>
+	<li id="scbmhdrbillpay"><a href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/code/mybill.aspx" id="billpayment" onclick="scLinkTrackID('//ghdr//resp//myvz//bill and payment');">Bill &amp; Payment</a></li>
+	<!--<li id="scbmhdrmyservices"><a href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/code/myservices.aspx" id="myservices" onclick="scLinkTrackID('//ghdr//resp//myvz//my services');">My Services</a></li>-->
+	<li id="scbmhdrinternet"><a href="https://www.verizon.com/foryourhome/myaccount/pr/internet/details" id="scbmhdrinternetlink" onclick="scLinkTrackID('//ghdr//resp//myvz//Internet');">Internet</a></li>
+	<li id="scbmhdrtv"><a href="https://www.verizon.com/foryourhome/myaccount/pr/tv/details" id="scbmhdrtvlink" onclick="scLinkTrackID('//ghdr//resp//myvz//TV');">TV</a></li>
+	<li id="scbmhdrphone"><a href="https://www.verizon.com/foryourhome/myaccount/pr/phone/details" id="scbmhdrphonelink" onclick="scLinkTrackID('//ghdr//resp//myvz//Phone');">Phone</a></li>	
+	<li id="scbmhdrraf"><a href="https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf?source%3dHEADER" id="scbmhdrraflink" onclick="scLinkTrackID('//ghdr//resp//myvz//refer a friend');">Refer a Friend</a></li>
+	<li id="scbmhdrmyrewards"><a href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/code/rewards.aspx" id="myrewards" onclick="scLinkTrackID('//ghdr//resp//myvz//my rewards');">My Rewards+</a></li>
+
+	<!--<li id="scbmhdremail"><a href="https://m.verizon.com/myverizonmobile/MyFiOSRouter.aspx" id="email" onclick="scLinkTrackID('//ghdr//resp//myvz//email');">Email</a></li>
+	<li id="scbmhdrhomephone"><a href="https://www.verizon.com/foryourhome/vzrepair/msupport/us/HomePage.aspx?launcher=PHONE" id="homephone" onclick="scLinkTrackID('//ghdr//resp//myvz//home phone');">Home Phone</a></li>
+	<li id="scbmhdrvoicemail"><a href="https://m.verizon.com/myverizonmobile/MyFiOSRouter.aspx" id="voicemail" onclick="scLinkTrackID('//ghdr//resp//myvz//voice mail');">Voice Mail</a></li>-->
+	<li id="scbmhdrprofile"><a href="https://www.verizon.com/foryourhome/myaccount/pr/user/profile" id="profile" onclick="scLinkTrackID('//ghdr//resp//myvz//profile');">Profile</a></li>
+	<!--<li id="scbmhdrnotific"><a href="https://m.verizon.com/myverizonmobile/MyFiOSRouter.aspx" id="notifications" onclick="scLinkTrackID('//ghdr//resp//myvz//notifications');">Notifications</a></li>-->
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="myvz_submenu" class="tier02">
+														 <!-- col1 -->
+ <li id="myvz_home_nonauth" style="display:none;"><a href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//ghdr//myvz//home" >Home</a></li>
+ <li id="myvz_home_auth"><a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" name="&amp;lid=//ghdr//myvz//home">Home</a></li>
+
+<li id="myvz_scbsubmenuli1"><a class="scb scbsubresmenu1" id="myvz_scbsubmenua1" onclick="if(is_touchscreen){return false;}" ontouchstart="scbHideMenuAll_myvz();myvz_scbsubMenuTab(1,1);scbMenuOpenNum_myvz=1;return false;">Services <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv1" class="tier03">
+    <div class="container">
+		<div class="bubbles" id="scbmyvzaddchangeplan"><a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&FLOWROUTEVAL=MYVZ_HDR_SVC_ADDCHG&Source=MYVER" name="&amp;lid=//ghdr//myvz//services//add or change plan"><span class="icons_sprite addchangeservices">&nbsp;</span> <span>Add / Change Plan</span></a></div>
+
+		<div class="bubbles" id="myvz_internet"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/internet/details" id="scb_a_myvz_internet" name="&amp;lid=//ghdr//myvz//services//internet"> <span class="icons_sprite fint">&nbsp;</span> <span>Internet</span> </a> </div>
+
+		<div class="bubbles" id="myvz_tv"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/tv/details" id="scb_a_myvz_tv" name="&amp;lid=//ghdr//myvz//services//tv"> <span class="icons_sprite ftv">&nbsp;</span> <span>TV</span> </a> </div>
+
+		<div class="bubbles" id="myvz_phone"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/phone/details" id="scb_a_myvz_phone" name="&amp;lid=//ghdr//myvz//services//phone"> <span class="icons_sprite homephone">&nbsp;</span> <span>Phone</span> </a> </div>
+
+		<!--<div class="bubbles" id="myvz_internetessentials"> <a id="scb_a_myvz_internetessentials" href="javascript:void(0);" name="&amp;lid=//ghdr//myvz//services//online essentials"> <span class="icons_sprite internetessentials">&nbsp;</span> <span>Internet Essentials</span> </a> </div>-->
+
+		<div class="bubbles" id="myvz_apps"> <a href="https://www.verizon.com/fiostv/myapps/members/apps.aspx" id="scb_a_myvz_apps" name="&amp;lid=//ghdr//myvz//services//apps"> <span class="icons_sprite myapps">&nbsp;</span> <span>Apps</span> </a> </div>
+
+		<!--<div class="bubbles" id="myvz_manageservices"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" id="scb_a_myvz_manageservices" name="&amp;lid=//ghdr//myvz//services//manage services"> <span class="icons_sprite manageservices">&nbsp;</span> <span>Manage Services</span> </a> </div>
+
+		<div class="bubbles" id="myvz_viewplan"> <a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&Source=MYVER" id="scb_a_myvz_viewplan" name="&amp;lid=//ghdr//myvz//services//view my plan"> <span class="icons_sprite myvzviewmyplan">&nbsp;</span> <span>View My Plan</span> </a> </div>-->
+   </div>
+	
+	<div id="scbSubMenuClose1" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+	<script type="text/javascript">
+	try{
+		document.getElementById("scb_a_myvz_internetessentials").href="https://"+vzShop+"/myaccount/extraPurchases.jsp";
+	}catch(e){
+	}
+	</script>
+	
+  </div>
+</li>
+<!-- col2 -->
+<li id="myvz_scbsubmenuli2"><a name="&amp;lid=//ghdr//myvz//billing//my bill" class="scb scbsubresmenu2" id="myvz_scbsubmenua2" onclick="if(is_touchscreen){return false;}" ontouchstart="scbHideMenuAll_myvz();myvz_scbsubMenuTab(2,1);scbMenuOpenNum_myvz=2;return false;">Billing <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv2" class="tier03">
+    <div class="container">
+			<div class="bubbles" id="scbmyvzviewbill"> <a href="https://www.verizon.com/foryourhome/billview/billing/mybill" name="&amp;lid=//ghdr//myvz//billing//view bill"> <span class="icons_sprite viewplan">&nbsp;</span> <span id="scbSpnViewBill">View Bill</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzpaybill"> <a id="scbmyvzpaybillanchor" href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/caf/payment.aspx" name="&amp;lid=//ghdr//myvz//billing//pay bill"> <span class="icons_sprite viewpaybill">&nbsp;</span> <span id="scbSpnPayBill">Pay Bill</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpayfinalbill"> <a href="https://www.verizon.com/foryourhome/equickpay/code/payfinalbill.aspx" name="&amp;lid=//ghdr//myvz//billing//pay final bill"> <span class="icons_sprite payfinalbill">&nbsp;</span> <span>Pay Final Bill</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpayhistory"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/paymenthistory " name="&amp;lid=//ghdr//myvz//billing//payment history"> <span class="icons_sprite paymenthistory">&nbsp;</span> <span>Payment History</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzautopay"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/autopay" name="&amp;lid=//ghdr//myvz//billing//auto pay"> <span class="icons_sprite autopay">&nbsp;</span> <span>Auto Pay</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzpaperfreebill"> <a href="https://www.verizon.com/foryourhome/billview/billing/Paperfree" name="&amp;lid=//ghdr//myvz//billing//paper free billing"> <span class="icons_sprite paperfree">&nbsp;</span> <span>Paper Free Billing</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpymntargmnt"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/paymentarrangement" name="&amp;lid=//ghdr//myvz//billing//payment arrangements"> <span class="icons_sprite pymntargmnt">&nbsp;</span> <span>Payment Arrangements</span> </a> </div>
+		</div>
+
+	<div id="scbSubMenuClose2" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+		
+  </div>
+</li>
+<!-- col3 -->
+<li id="scbmyvzspldeals"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/offers/home.aspx"  name="&amp;lid=//ghdr//myvz//special deals" >Deals</a></li>
+<li id="scbmyvzmyrewards"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx"  name="&amp;lid=//ghdr//myvz//myrewards//myrewards home" >My Rewards+</a></li>
+
+<!--<li id="myvz_scbsubmenuli3"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" class="scb scbsubresmenu3" id="myvz_scbsubmenua3" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum_myvz==3){window.location.href=this.href;return true;}scbHideMenuAll_myvz();myvz_scbsubMenuTab(3,1);scbMenuOpenNum_myvz=3;return false;">My Rewards+ <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv3" class="tier03">
+    <div class="container">
+      <div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" name="&amp;lid=//ghdr//myvz//myrewards//myrewards home"> <span class="icons_sprite rewardshome">&nbsp;</span> <span>My Rewards Home</span> </a> </div>
+			<div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dpoints" name="&amp;lid=//ghdr//myvz//myrewards//my points"> <span class="icons_sprite myvzmypoints">&nbsp;</span> <span>My Points</span> </a> </div>
+			<div class="bubbles" id="myvz_earnpoints"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dpoints" name="&amp;lid=//ghdr//myvz//myrewards//earn points"> <span class="icons_sprite myvzearnpoints">&nbsp;</span> <span>Earn Points</span> </a> </div>
+			<div class="bubbles" id="myvz_redeempoints"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dredeem" name="&amp;lid=//ghdr//myvz//myrewards//redeem points"> <span class="icons_sprite redeempoints">&nbsp;</span> <span>Redeem Points</span> </a> </div>
+			<div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf?source%3dHEADER" name="&amp;lid=//ghdr//myvz//rewards//refer a friend" name="&amp;lid=//ghdr//myvz//myrewards//refer a friend"> <span class="icons_sprite referafriend">&nbsp;</span> <span>Refer a Friend</span> </a> </div>
+    </div>
+	
+	<div id="scbSubMenuClose3" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+  </div>
+</li>-->
+<!-- col4 -->
+<li id="scbmyvzprofile"><a href="https://www.verizon.com/foryourhome/myaccount/pr/user/profile/tab/accset" name="&amp;lid=//ghdr//myvz//profile">Profile</a></li>
+<!--<li id="myvz_messages" style="display:none;"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/inbox/home.aspx "  name="&amp;lid=//ghdr//myvz//messages">Verizon Messages</a></li>-->
+
+<li id="scbtoggleacct" style="display:none;">
+<a href="javascript:void(0);" id="scbvzwlink" onclick="scLinkTrackID('select account to manage');scbToggleVZW();this.blur();return false;">Select Account<span class="reveal">&nbsp;</span></a>
+	  <div id="scbvzwdiv" style="display: none; left: 0;">
+			<div class="scbsubnavdiv">
+					<div id="scbvzwflyout" style="display: none;">
+						<a class="scbvzwoption1" href="http://login.verizon.com:8081/amserver/toVZW.jsp?goto=https%3A%2F%2Fpretmyacct.verizonwireless.com%2Fclp%2Flogin%3Fredirect%3D%2Fvzw%2Fsecure%2Frouter.action" id="scbvzwswitch" onclick="scLinkTrackID('manage my wireless account');"> <span class="scbvzwsprite scbvzwbg2"><span class="scbhidden">wireless account</span></span> <span class="scbvzwtype scbvzwgo" style="color:#06c;">Manage My Wireless Account ></span> </a> <a class="scbvzwoption2" href="javascript:void(0);" onclick="return false;"> <span class="scbvzwsprite scbvzwtitle"> </span> <span class="scbvzwsprite scbvzwbg1"><span class="scbhidden">residential account</span></span> <span class="scbvzwtype">My Residential Account</span> </a></div>
+				</div>
+	  </div>
+</li>    
+<div class="scbmenuclosediv" id="scbMenuClose2">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli3a" class="mshow"><a class="menutab" href="https://www.verizon.com/support/residential/home.htm" id="scbmenua3a" name="&amp;lid=//support//tab//mobile"><span class="scb scbresmenu3" id="scbmenub3">Support</span></a></li>
+									<li id="scbmenuli3" class="mhide">
+										<a class="menutab" href="https://www.verizon.com/support/residential/home.htm" id="scbmenua3" name="&amp;lid=//support//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==3){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(3,1);scbMenuOpenNum=3;return false;"><span class="scb scbresmenu3" id="scbmenub3">Support</span></a>
+										<div id="scbmenudiv3" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												
+												<!-- MOVE THIS TO CONTENT - END -->
+	
+												<div class="mhide">
+													<ul id="support_submenu" class="tier02">
+														
+	<!-- col1 -->
+<li><a href="https://www.verizon.com/support/residential/home.htm" name="&amp;lid=//support//home" class="scb_link">Home</a> </li>
+<li id="support_scbsubmenuli1"><a href="https://www.verizon.com/support/residential/home.htm" name="&amp;lid=//support//home" class="scb scbsubresmenu1" id="support_scbsubmenua1" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum_support==1){window.location.href=this.href;return true;}scbHideMenuAll_support();support_scbsubMenuTab(1,1);scbMenuOpenNum_support=1;return false;">Get Help With <span class="reveal">&nbsp;</span></a>
+  <div id="support_scbsubmenudiv1" class="tier03">
+    <div class="container">
+      <div class="bubbles"> <a href="https://www.verizon.com/support/residential/tv/tv.htm" name="&amp;lid=//support//get help with//tv"> <span class="icons_sprite ftv">&nbsp;</span> <span>TV</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/Support/Residential/internet.htm" name="&amp;lid=//support//get help with//internet"> <span class="icons_sprite fint">&nbsp;</span> <span>Internet</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/Support/Residential/phone.htm" name="&amp;lid=//support//get help with//phone"> <span class="icons_sprite homephone">&nbsp;</span> <span>Phone</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/support/residential/billingcenter/homepage.htm" name="&amp;lid=//support//get help with//billing"> <span class="icons_sprite viewpaybill">&nbsp;</span> <span>Account &amp; Billing</span> </a> </div>
+      <div class="bubbles"> <a id="scbhdrsupportorderstatus" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//support//get help with//order status"> <span class="icons_sprite orderstatus">&nbsp;</span> <span>Order Status</span> </a> </div>
+      <div class="bubbles"> <a name="&amp;lid=//support//get help with//repair status" href="https://www.verizon.com/ForYourHome/VZRepair/vziha/CheckStatus.aspx"> <span class="icons_sprite repairstatus">&nbsp;</span> <span>Repair Status</span> </a> </div>
+    </div>
+  </div>
+</li>
+<li><a name="&amp;lid=//support//commuget help withnity//forums" href="http://forums.verizon.com" class="scb_link">Community Forums</a> </li>
+<li><a name="&amp;lid=//support//get help with//contact us" href="https://www.verizon.com/support/residential/contact-us/index.htm" class="scb_link">Contact Us</a> </li>
+	
+	
+	
+<div class="scbmenuclosediv" id="scbMenuClose3">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //support//tablet+close^prop27=//support//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>	
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli4">
+										<a class="menutab" href="https://www.verizon.com/" id="scbmenua4" name="&amp;lid=//watchfios//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==4){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(4,1);scbMenuOpenNum=4;return false;"><span class="scb scbresmenu4" id="scbmenub4">Watch Fios</span></a> <script type="text/javascript">document.getElementById('scbmenua4').href='http://'+vzTV+'/';</script>
+										<div id="scbmenudiv4" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												<ul class="mobile_menu_ctas mshow">
+	<li><a href="http://tv.verizon.com" id="watchtv" onclick="scLinkTrackID('watch tv');">Watch TV</a></li>
+	<li><a href="https://m.verizon.com/watchfios/fiostv/Schedules" id="dvr" onclick="scLinkTrackID('//ghdr//resp//watchfios//dvr');">DVR</a></li>
+	<li><a href="https://m.verizon.com/watchfios/fiostv/tvlistings" id="tvlistings" onclick="scLinkTrackID('//ghdr//resp//watchfios//tv listings');">TV Listings</a></li>
+	<li><a href="https://m.verizon.com/myverizonmobile/intercept.aspx" id="mobileremote" onclick="scLinkTrackID('//ghdr//resp//watchfios//mobile remote');" style="display:none;">Mobile Remote</a></li>
+	<li><a href="https://www.verizon.com/ondemand/mobile/tvshows/all" id="shows" onclick="scLinkTrackID('//ghdr//resp//watchfios//shows');">Shows</a></li>
+	<li><a href="https://www.verizon.com/ondemand/mobile/movies/all" id="movies" onclick="scLinkTrackID('//ghdr//resp//watchfios//movies');">Movies</a></li>
+	<li id="scbmhdrwatchfiosppv"><a href="https://www.verizon.com/ondemand/mobile/payperview/home" id="payperview" onclick="scLinkTrackID('//ghdr//resp//watchfios//pay per view');">Pay Per View</a></li>
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="watchfios_menu" class="tier02">
+														
+	<script type="text/javascript">
+var scbTVpath='/OnDemand';
+var scbTVauth='';
+if(vzFiOSTV.indexOf('www35')>-1){scbTVpath='/fiostv/myservices/Beta';}
+if(bLog){scbTVauth='/Members';}
+</script>
+		<li><a href="http://tv.verizon.com/" name="&amp;lid=//watchfios//home" class="scb_link">Home</a></li>
+		<li><a name="&amp;lid=//watchfios//live tv" href="http://tv.verizon.com/livetv" class="scb_link">Live TV</a></li>
+		<li><a name="&amp;lid=//watchfios//shows" href="http://tv.verizon.com/series" class="scb_link">Shows</a></li>
+		<li><a name="&amp;lid=//watchfios//movies" href="http://tv.verizon.com/movies" class="scb_link">Movies</a></li>
+		<li><a name="&amp;lid=//watchfios//shows by network" href="http://tv.verizon.com/networks" class="scb_link">Network</a></li>
+		<li id="scbwatchfiosppv"><a name="&amp;lid=//watchfios//view ppv" href="https://www.verizon.com/OnDemand/Payperview/Home" class="scb_link">Pay Per View</a></li>
+		<li><a name="&amp;lid=//watchfios//view tv listings" href="https://www.verizon.com/fiostv/myservices/Members/ftvc5/tvlistings.aspx" class="scb_link">TV Listings &amp; DVR</a></li>
+	
+	
+<div class="scbmenuclosediv" id="scbMenuClose4">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //watchfios//tablet+close^prop27=//watchfios//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>	
+							                        </ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<!-- MOVE THIS TO CONTENT - START-- new li class in -  myvzres2012.xml -->
+									<li class="mshow goto">
+					<ul class="menu_ctas">
+						<li class="title">Go to</li>
+						<br clear="all">
+						<li><a href="http://www.verizonwireless.com/b2c/index.html" id="verizonwireless" onclick="scLinkTrackID('vz wireless')">Verizon Wireless</a></li>
+						<li><a href="http://www.verizon.com/home/verizonglobalhome/ghp_business.aspx" id="verizonbusiness" onclick="scLinkTrackID('vz business')">Verizon Business</a></li>
+					</ul>
+				</li>
+                <li class="mshow vzapps">
+					<ul class="menu_ctas" id="verizonapps" style="display:none;">
+						<li class="title">Verizon apps</li>
+						<br clear="all">
+						<li><a href="javascript:void(0);" id="myfios" onclick="scLinkTrackID('my fios')">My Fios</a></li>
+						<li><a href="javascript:void(0);" id="fiosmobile" onclick="scLinkTrackID('fios mobile')">Fios Mobile</a></li>
+						<li><a href="javascript:void(0);" id="myverizon-wireless" onclick="scLinkTrackID('my vz-wireless')">My Verizon Wireless</a></li>
+					</ul>
+				</li>
+									<!-- MOVE THIS TO CONTENT - END -->
+								</ul>
+							</div>
+						</div>
+						<div style="clear:both;"></div>
+						
+
+						<!-- MOVE THIS TO CONTENT - START myvzres2012.xml-->
+						<a id="mobile_quick_cta" href="javascript:void(0);"><img src="https://www.verizon.com/cs/groups/public/documents/adacct/icon_quickmenu.svg" alt="quick menu"></a>
+<div id="mobile_quick_menu" class="closed">
+	<ul>
+		<li class="quick_contact"><a href="https://www.verizon.com/foryourhome/vzrepair/mSupport/us/contactus.aspx" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//contact us')">Contact Us</a></li>
+		<li class="quick_espanol"><script type="text/javascript">scbEspLink();</script></li>
+		<li class="quick_signin" id="scbmsignin" style="display:none;"><a href="https://www.verizon.com/home/myverizon/" id="scbmsigninlink" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//sign in')">Sign In</a></li>
+		<li class="quick_signout" id="scbmsignout" style="display:none;"><a href="javascript:scbSignOut();" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//sign out')">Sign Out</a></li>
+	</ul>
+</div>
+<script type="text/javascript">
+if(!(/verizon\.com\/home\/myverizon\/$/.test(strThisHref) || /verizon.com\/$/.test(strThisHref) || /lid=\/\/global\/\/residential$/.test(strThisHref))){
+	document.getElementById("scbmsigninlink").href='https://www.verizon.com/home/myverizon/?goto='+strThisHref;
+}
+
+var scbmIsMobile={
+	Android:function(){return navigator.userAgent.match(/Android/i);},
+	BlackBerry:function(){return navigator.userAgent.match(/BlackBerry/i);},
+	iOS:function(){return navigator.userAgent.match(/iPhone|iPad|iPod/i);},
+	Opera:function(){return navigator.userAgent.match(/Opera Mini/i);},
+	Windows:function(){return navigator.userAgent.match(/IEMobile/i);},
+	any:function(){return(scbmIsMobile.Android()||scbmIsMobile.BlackBerry()||scbmIsMobile.iOS()||scbmIsMobile.Opera()||scbmIsMobile.Windows());}
+};
+/* sign in/out */
+if(document.cookie.indexOf("islogin=")>-1){
+	document.getElementById("scbmsignout").style.display="block";
+}else{
+	document.getElementById("scbmsignin").style.display="block";
+}
+/* device specific */
+if(scbmIsMobile.iOS()){
+	document.getElementById("verizonapps").style.display="block";
+	document.getElementById("myfios").href="https://itunes.apple.com/us/app/my-fios/id476394945?mt=8";
+	document.getElementById("fiosmobile").href="https://itunes.apple.com/us/app/verizon-fios-mobile/id406387206?mt=8";
+	document.getElementById("myverizon-wireless").href="https://itunes.apple.com/us/app/my-verizon-mobile/id416023011?mt=8";
+	document.getElementById("mobileremote").style.display="block";
+}else if(scbmIsMobile.Android()){
+	document.getElementById("verizonapps").style.display="block";
+	document.getElementById("myfios").href="https://play.google.com/store/apps/details?id=com.verizon.myfios&hl=en";
+	document.getElementById("fiosmobile").href="https://play.google.com/store/apps/details?id=com.verizon.fiosmobile";
+	document.getElementById("myverizon-wireless").href="https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon";
+}else{
+	//document.getElementById('mm_height_value').value='470';
+}
+</script>
+						<!-- MOVE THIS TO CONTENT - END -->
+
+					</div>
+				
+				<script type="text/javascript">
+				if(is_touchscreen){
+					dispLayer('scbSignInClose','block');
+					for(var i=1;i<scbMenuCount+1;i++){dispLayer('scbMenuClose'+i,'block');}
+				}
+				var scbMenuOpenNum=0;
+				scbResNavBar();
+				scbResMenuHighlight();
+			</script>
+			</div>
+		</div>
+	</div>
+</div>
+</noindex>
+<!--googleon: all-->
+<script type="text/javascript">
+					var scbRefererURL=document.location.href;
+					var docDomain=document.domain;
+					var actualDomain=docDomain.split('.')[1];
+					if(actualDomain=='verizon' || actualDomain=='ebiz' ){
+						var scbPCAll=false;
+						var domainEnvH=document.getElementById('currentDomain').value;
+						scbLoadJS(domainEnvH+'/home/commongh?ProcessClass=all&a=3&nocache='+Math.random()+'&scbReferrerURL='+scbRefererURL);
+						scbPCAll=true;
+					}
+
+
+				if(bLog && (scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/myaccount/')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiostv')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fqg/')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/billview')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/extrapayments')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/extrapurchases')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/ebillpay')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiosvoice/members/default.aspx')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/homemonitoringcontrol')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiosvoicenew/')>-1)){
+
+					try{
+						document.getElementById("scbresheadercont").className += " "+"myvz_show"+" ";
+						document.getElementById("ghfbodycontent").className += " "+"myvz_show_top"+" ";
+
+						if(scbRefererURL.toLowerCase().indexOf('/foryourhome/myaccount/pr/dashboard/details')>-1){
+							document.getElementById("myvz_home_auth").className = "active";
+						}
+					}catch(e){}
+				}
+				</script>
+
+
+<div id="ghfbodycont">
+	<div id="ghfbody"><a name="content"></a>
+		<div id="ghfbodycontent">
+			<div>
+<!-- SCB header end -->
+<!-- ************ End : Single Code Base Header ************ -->
+
+
+
+
+<input type="hidden" name="hf_sn" value="sc3" />
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="vzrf">
+	<div class="">
+	    
+	   	
+	   	
+		
+		
+		
+		<div id="hero_btm"><div class="hero_btm_row"><div class="wrap"><div class="fixer">&nbsp;&nbsp;</div></div></div></div><div id="section1" class="section"><a name="singlepage"></a><div id="row1" class=""><div class="wrap"><div class="col12"><style type="text/css">
+    .text-black.button.cta-text:before,
+    .text-black.button.link-text:before,
+    .text-black.button.cta-text:before,
+    .text-black.button.link-text:before,
+    .text-black.button.cta-text:focus:not(.no-animate):before,
+    .text-black.button.cta-text:hover:not(.no-animate):before,
+    .text-black.button.link-text:focus:not(.no-animate):before,
+    .text-black.button.link-text:hover:not(.no-animate):before,
+    .text-black.button.cta-text:focus:not(.no-animate):before,
+    .text-black.button.cta-text:hover:not(.no-animate):before,
+    .text-black.button.link-text:focus:not(.no-animate):before,
+    .text-black.button.link-text:hover:not(.no-animate):before {
+        color: #000;
+    }
+</style>
+<div class="cmb-container">
+	<div class="row">
+		<div class="small-12 medium-5 large-5 columns">
+<!--======start login=======-->			<div class="subHero clearfix" id="dvSSOIFrame" style="height: 338px; width: 250px;min-height:425px;">
+				&nbsp;</div>
+<script type="text/javascript">
+			                var signinGotoURL = 'https%253a%252f%252f' + vzHost + '%252fforyourhome%252fmyaccount%252fngen%252fpr%252fcommon%252fergcon.aspx%253fTarget%253d';
+			                var currDomain = document.domain;
+			                var ssoNewDomain = 'https://myverizonid.verizon.com';
+			                if (currDomain.indexOf('www.verizon.com') != -1) {
+			                    ssoNewDomain = 'https://myverizonid.verizon.com';
+			                } else if (currentDomain.indexOf('www98.verizon.com') != -1) {
+			                    ssoNewDomain = 'https://tmyverizonid.verizon.com';
+			                } else if (currDomain.indexOf('orderinglite.verizon.com') != -1){
+			                    ssoNewDomain = 'https://myverizonid.verizon.com';
+			                } else{
+								ssoNewDomain = 'https://pretmyverizonid.verizon.com';
+							}
+			                //qry string append start-
+			                var gotoQS = "";
+			                try {
+			                    gotoQS = unescape(fnGetQS('goto'));
+			                    gotoQS = gotoQS.replace(":443", "");
+			                    gotoQS = gotoQS.replace(":80", "");
+								gotoQS = gotoQS.replace(".verizon.com/?lid",".verizon.com/");
+			                    if (gotoQS != ''){
+									if(
+									(gotoQS.indexOf(vzHost+'/home/')>0 && gotoQS.indexOf('verizon.com/home/accessories')==-1 ) ||
+									 gotoQS==vzHost+'/foryourhome/registration/reg/unifiedhelperlogin.aspx'  ||
+									 gotoQS==vzHost+'/foryourhome/myaccount/ngen/upr/error/errnotify.aspx'  ||
+									 gotoQS==vzHost+'/foryourhome/myaccount/ngen/pr/error/errnotify.aspx'  ||
+									 gotoQS.indexOf(removeHttps(vzSignIn)+'/sso/')==0  ||
+									 gotoQS.indexOf('www.verizon.net/ssowebapp/')==0  ||
+									 gotoQS==vzHost+'/home/myverizon/' ) {
+										gotoQS = "";
+									} else {
+										gotoQS = encodeURIComponent(encodeURIComponent(encodeURIComponent(gotoQS)));
+									}
+								}
+			                } catch (e) {}
+			                var ssoIFrameSRC = ssoNewDomain + '/amserver/UI/Login?realm=vzw&mode=i&fromVZT=Y&clientId=synacor&goto=https%3A%2F%2F' + currDomain + '%2Fforyourhome%2Fmyaccount%2Fngen%2Fpr%2Fcommon%2Fergcon.aspx%3FTarget%3D' + gotoQS;
+			                document.getElementById('dvSSOIFrame').innerHTML = '<iframe src="' + ssoIFrameSRC +
+			                    '" id="DOMWindowIframe" style="height:340px;width:340px;border:none;min-height:425px;" wspace="0" hspace="0" scrolling="no" marginheight="0"  marginwidth="0" name="DOMWindowIframe152"></iframe>';</script><!--======end login=======-->		</div>
+		<div class="show-for-medium-up medium-7 large-7 columns">
+<!--======start caroulse=======-->			<div class="w_carousel stretch bg-white c_height" data-carousel="CarouselC" data-carousel-options="{ &quot;autoplay&quot;:&quot;5000&quot;, &quot;keyboardControl&quot;:&quot;true&quot; }">
+				<ul class="carousel_list">
+<!-- POSITION 1 -->					<li class="carousel_item" style="width: 546px;">
+						<img alt="Power your devices with faster speed." class="padding-left-xlarge padding-right-xlarge" src="/cs/groups/public/documents/adacct/power-faster-speed-02.jpg" /> <a class="button cta-text text-black" href="/home/MLP/quantum50.html?X1=1MFFR" onclick="scLinkTrackID('ec_speed_upgrade');" style="margin: -115px 0px 0px 70px">Learn more</a></li>
+<!-- POSITION 2 -->					<li class="carousel_item" style="width: 546px;">
+						<img alt="Switch to a DVR with incredible capabilities." class="padding-left-xlarge padding-right-xlarge" src="/cs/groups/public/documents/adacct/myvz_unauth_470x325_nocta.jpg" /> <a class="button cta-text text-black" href="/home/MLP/QTV.html" onclick="scLinkTrackID('ec_qtv_upgrade');" style="margin: -100px 0px 0px 68px">Add DVR service</a></li>
+<!-- POSITION 3 -->					<li class="carousel_item" style="width: 546px;">
+						<img alt="Go farther and faster with a new router." class="padding-left-xlarge padding-right-xlarge" src="/cs/groups/public/documents/adacct/get-stronger-wifi-01.jpg" /> <a class="button cta-text text-black" href="/home/MLP/router.html" onclick="scLinkTrackID('ec_router_upgrade');" style="margin: -104px 0px 0px 70px">Learn more</a></li>
+<!-- POSITION 4 -->					<li class="carousel_item">
+						<img alt="Sleeker. Smarter. More connected." class="padding-left-xlarge padding-right-xlarge" src="/cs/groups/public/documents/adacct/accessories_myverizon_nocta.jpg" /> <a class="button cta-text text-black" href="/home/accessories/nest-thermostat-e/?&skuParam=sku320021" onclick="scLinkTrackID('ec_fios_accessories_thermo');" style="margin: -104px 0px 0px 82px">Learn more</a></li>
+				</ul>
+				<div class="carousel_pager-prev" data-carousel-prev="">
+					&nbsp;</div>
+				<div class="carousel_pager-next" data-carousel-next="">
+					&nbsp;</div>
+			</div>
+			<div class="carousel_pager" data-carousel-pager="CarouselC">
+				<div class="carousel_pager-list" data-carousel-pager-list="">
+					&nbsp;</div>
+			</div>
+<!--======end caroulse=======-->		</div>
+	</div>
+</div></div></div></div><div id="row2" class=""><div class="wrap"><div class="col12"><!--iframe modal content-->
+<div class="w_modal lq" data-iframe-modal="" data-modal="buttonIframeModal">
+<a class="modal_x m_right" data-close-modal="" onclick="location.reload();">	&nbsp;</a>
+	<div class="modal_content" data-modal-content="">
+		<div class="modal-iframe-wrapper">
+			<iframe frameborder="0" scrolling="yes"></iframe></div>
+	</div>
+</div>
+<!--iframe modal content--><div class="bg-grey-6">
+	<div class="cmb-container">
+		<div class="row">
+			<div class="show-for-medium-up">
+				<div class="container">
+					<ul class="tiny-block-grid-4 margin-vert-zero padding-top-large">
+						<li class="padding-right-small padding-left-zero">
+							<span class="vzicon icon-id circled large center margin-bottom-small">&nbsp;</span>
+							<p class="text-normal text-center margin-bottom-small">
+								<strong>My Fios app</strong></p>
+							<p class="text-small text-justify">
+								Who says you have to be home to take care of your to dos? Pay bills, make service changes and upgrade from virtually anywhere.</p>
+						</li>
+						<li class="padding-right-small padding-left-small">
+							<span class="vzicon icon-entertainment circled large center margin-bottom-small">&nbsp;</span>
+							<p class="text-normal text-center margin-bottom-small">
+								<strong>TV everywhere</strong></p>
+							<p class="text-small text-justify">
+								Stream live TV, movies and more from your favorite networks and premiums channels. It&rsquo;s all waiting for you in our online portal.</p>
+						</li>
+						<li class="padding-right-small padding-left-small">
+							<span class="vzicon icon-reward circled large center margin-bottom-small">&nbsp;</span>
+							<p class="text-normal text-center margin-bottom-small">
+								<strong>My Rewards+</strong></p>
+							<p class="text-small text-justify">
+								Get points for the things you do every day with Verizon and then trade them in for the things you love. Because you deserve it.</p>
+						</li>
+						<li class="padding-left-small padding-right-zero">
+							<span class="vzicon icon-touch-device large circled center margin-bottom-small">&nbsp;</span>
+							<p class="text-normal text-center margin-bottom-small">
+								<strong>Fios Mobile app</strong></p>
+							<p class="text-small text-justify">
+								No TV? No problem. Stream your favorite shows (On Demand or live) and your DVR recordings. It&rsquo;s your entertainment wherever you go.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<a data-open-modal="SampleModal" tabindex="0" aria-label="Opens a Modal" class="billVideo" style="display:none;" aria-haspopup="false">Open the Modal</a>
+<div class="w_modal" data-modal="SampleModal">
+<script type="text/javascript"> function closeVideo(){ document.getElementById('ifrmBillVideo').src=' '; } </script><a class="modal_x m_right" data-close-modal onclick="javascript:closeVideo();"></a>	<div class="modal_content" data-modal-content="">
+		<div class="modal_video">
+			&nbsp;</div>
+	</div>
+</div>
+<script type="text/javascript">
+	function onLoadMethod(){
+		var qsAcctid=fnGetQS('accountid'); 
+		var qsMonNumber=fnGetQS('MON'); 
+		var redirect = "?redirect=test1";
+		var redirect2 = "?redirect=test2";
+		var fullQString = window.location.search;
+
+		if(qsAcctid != 'undefined' && (qsAcctid && qsAcctid.length >0)){ 
+			var atlasBID=document.getElementsByClassName('modal_video')[0]; 
+			var queryStrings = location.href.split('?')[1]; 
+			var billvideoURL='/foryourhome/billview/up/billvideo.aspx?'+queryStrings; 
+			var atlasDiv=document.createElement('div'); 
+			atlasDiv.id='videoContent'; 
+			atlasDiv.innerHTML = "<iframe id='ifrmBillVideo' src="+billvideoURL+" height='400' width='900'></iframe>" 
+			atlasBID.appendChild(atlasDiv); 
+			document.getElementsByClassName('billVideo')[0].click(); 
+		} 
+		
+		if(qsMonNumber != 'undefined' && (qsMonNumber && qsMonNumber.length >0)){ 
+			var atlasBID=document.getElementsByClassName('modal_video')[0]; 
+			var queryStrings = location.href.split('?')[1]; 
+			var billvideoURL='/foryourhome/billview/up/SmartVideo.aspx?'+queryStrings; 
+			var atlasDiv=document.createElement('div'); 
+			atlasDiv.id='videoContent'; 
+			atlasDiv.innerHTML = "<iframe id='ifrmBillVideo' src="+billvideoURL+" height='400' width='900'></iframe>" 
+			atlasBID.appendChild(atlasDiv); 
+			document.getElementsByClassName('billVideo')[0].click(); 
+		} 
+		
+		if (fullQString == redirect || fullQString == redirect2) {
+			openModal('ServicePOPup');
+		}
+		
+		
+	} 
+	
+	if(window.addEventListener) { 
+		window.addEventListener('load',onLoadMethod,false); 
+	}else if(window.attachEvent) { 
+		window.attachEvent('onload',onLoadMethod); 
+	} 
+</script></div></div></div><div id="row3" class=""><div class="wrap"><div class="col12"><!---Model POP Start-->
+<div class="myvz_redirect_modal w_modal m_medium" data-modal="ServicePOPup">
+	<div class="modalv_header_vz banner_img padding-all-tiny" data-modal-content="">
+		<h4 class="titletxt">
+			We&#39;ve enhanced your online experience.</h4>
+<a class="modal_x m_right" onclick="scLinkTrackID('ec close window');" data-close-modal></a>	</div>
+	<div class="model-content-vz padding-all-small">
+		<div class="con-sec-one tiny-12 small-12 medium-6 large-6 small-padding-left-xlarge small-padding-right-xlarge">
+			<h6>
+				You can now access your email and up-to-date news at <a href="https://www.aol.com/" onclick="scLinkTrackID('ec aol email');" target="_blank" >www.aol.com</a></h6>
+		</div>
+		<div class="con-sec-two tiny-12 small-12 medium-6 large-6 small-padding-left-xlarge small-padding-right-xlarge">
+			<h6>
+				Login to pay your bill, manage your services and much more at My Verizon.</h6>
+		</div>
+	</div>
+	<div class="modelv_footer">
+		<div class="sec-one tiny-10 small-10 medium-6 large-6 text-center tiny-centered small-centered tiny-padding-left-medium tiny-padding-right-medium">
+<a class="button text-white cta-text no-focus-effect" href="https://www.aol.com/" onclick="scLinkTrackID('ec go to my email');" target="_blank">			Go to my email</a></div>
+		<div class="sec-two tiny-10 small-10 medium-6 large-6 text-center tiny-centered small-centered tiny-padding-left-medium tiny-padding-right-medium">
+<a class="button text-white cta-text no-focus-effect" onclick="scLinkTrackID('ec stay on my verizon');" data-close-modal >			Stay on My Verizon</a></div>
+	</div>
+</div>
+<!---Model POP End---></div></div></div><div id="row4" class=""><div class="wrap"><div class="col12"><a data-open-modal="SampleModal" tabindex="0" aria-label="Opens a Modal" class="billVideo" style="display:none;" aria-haspopup="false">Open the Modal</a></div></div></div><div id="row5" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row6" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row7" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row8" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row9" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row10" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row11" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row12" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row13" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row14" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row15" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row16" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row17" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row18" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row19" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row20" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row21" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row22" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row23" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row24" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row25" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row26" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row27" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row28" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row29" class=""><div class="wrap"><div class="col12"></div></div></div><div id="row30" class=""><div class="wrap"><div class="col12"></div></div></div></div>
+		
+		
+		 
+		 
+	</div>
+</div>
+
+
+
+ 
+
+
+
+
+
+<!--hidden iframe-->
+<div id="changeloc" class="hidden phoenix" style="display:none;"></div>
+<div id="enterloc" class="hidden phoenix" style="display:none;"></div>
+<div id="byobloc" class="hidden phoenix" style="display:none;"></div>
+<div id="checkservice" class="hidden phoenix" style="display:none;"></div>
+<div id="qaflow" class="hidden phoenix" style="display:none;"></div>
+<div id="promofreeserviceloc" class="hidden phoenix" style="display:none;"></div>
+<div id="serviceloc" class="hidden phoenix" style="display:none;"></div>
+<div id="checkcctflow" class="hidden phoenix" style="display:none;"></div>
+<div id="checkvmsflow" class="hidden phoenix" style="display:none;"></div>
+<div id="prflow" class="hidden phoenix" style="display:none;"></div>
+<div id="refreshflow" class="hidden phoenix" style="display:none;"></div>
+<div id="canigetfios" class="hidden phoenix" style="display:none;"></div>
+<div id="basicdoublebb" class="hidden phoenix" style="display:none;"></div>
+<!--hidden iframe--> 
+
+	
+		<input type="hidden" name="hdn_sn" value="sc3"/>
+	
+
+
+<input type="hidden" id="Template_Wrapper_Begin1_HdnPageName" value="" name="Template_Wrapper_Begin1:HdnPageName" />
+<input type="hidden" id="Template_Wrapper_Begin1_HdnPageTitle" value="" name="Template_Wrapper_Begin1:HdnPageUrl" />
+<input type="hidden" id="Template_Wrapper_Begin1_HdnPageUrl" value="" name="Template_Wrapper_Begin1:HdnPageUrl" />
+
+	
+	
+
+
+
+
+
+
+<!-- UCM Sat Nov 25 14:21:27 EST 2017 -->
+<!-- SCB resp footer begin -->
+
+	<script type="text/javascript">var master_cookie_on="Y";</script>
+	<input type="hidden" id="currentDomain" value="https://www.verizon.com"/>
+	<input type="hidden" id="currentDomainVZ" value="https://www.verizon.com"/>
+	<input type="hidden" id="saveCartCookie" value=""/>
+	<input type="hidden" id="saveCartCkiexpsid" value=""/>
+	<input id="gn_ct_dn" name="gn_ct_dn" type="hidden" value="https://www.verizon.com"/>
+	<input type="hidden" id="ghf_client" value="noclient"/>
+	<input type="hidden" id="ghf_isvz" value="N"/>
+	
+	<script type="text/javascript">var scbType='resp';</script>
+	<script type="text/javascript" src="//www.verizon.com/home/ak-cached/2h/javascript/commons.js"></script>
+	<script type="text/javascript" src="//www.verizon.com/includes/javascript/omnicode.js"></script>
+	
+	
+	<script type="text/javascript" src="https://www.verizon.com/home/ak-cached/2h/javascript/myvzconsole.js"></script>
+	<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/resresponsive.js"></script>
+	
+	<link href="https://www.verizon.com/cs/groups/public/documents/document/rwd_header.css" rel="stylesheet" type="text/css">
+ 
+
+
+
+
+
+<span class="scbhidden">&nbsp;</span>
+</div></div></div></div>
+
+<!-- mp_trans_remove_start -->
+<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/oo_js.js"></script>
+<!-- mp_trans_remove_end -->
+
+
+<!--googleoff: all-->
+<noindex>	
+<div id="showmyvzres2012footer" style="display:block">
+	<script type="text/javascript">var boolSCt=true;</script>
+	<script type="text/javascript">
+	if(window.addEventListener){
+		window.addEventListener('load',function(){scbLoadJS('//www.verizon.com/cs/groups/public/documents/adacct/omnicodef.js');},false);
+		window.addEventListener('load',scbCheckPT,false);
+	}else if(window.attachEvent){
+		window.attachEvent('onload',function(){scbLoadJS('//www.verizon.com/cs/groups/public/documents/adacct/omnicodef.js');});
+		window.attachEvent('onload',scbCheckPT);
+	}
+	</script>
+
+
+<div class="mhide">
+
+<div id="ghffootercont">
+	<div id="ghffooter" style="width:985px;">
+		<div class="scbfnav" id="gfnav" style="width:985px;">
+			<div class="scbvzt">
+				<div class="clear centered scbminimap" id="minimap2012">
+					<div class="scbwrapper">
+						<div class="col first">
+							<p class="title">
+								Shop</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/home/fios-fastest-internet/" name="&amp;lid=//gftr//shop//fios internet">Fios Internet</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/fiostv/" name="&amp;lid=//gftr//shop//fios tv">Fios TV</a></li>
+								<!--<li>
+									<a href="https://www.verizon.com/home/phone/fiosdigitalvoice/" name="&amp;lid=//gftr//shop//fios digital voice">Fios Digital Voice</a></li>-->
+								<li>
+									<a class="lq_orderflow" href="https://www.verizon.com/foryourhome/ordering/checkavailabilitylq.aspx?fromPersonalisation=y&BYOB=Y" name="&amp;lid=//shop//order//byob" onclick="scbResLQ_orderflow(event);">Build My Bundle</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/accessories/" name="&amp;lid=//shop//accessories">Accessories</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/shop/moving.htm" name="&amp;lid=//gftr//shop//moving made easy">Moving</a></li>
+								<!--<li>
+									<a href="https://www.verizon.com/home/fios/" name="&amp;lid=//gftr//shop//about fios">About Fios</a></li>-->
+								<li>
+									<a href="https://www.verizon.com/home/fiosavailability/" name="&amp;lid=//gftr//shop//fios availability">Fios Availability</a></li>
+								<li id="scbftrspldeals">
+									<a href="https://www.verizon.com/home/bundles/fios/" name="&amp;lid=//gftr//shop//special deals">Special Deals</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/highspeedinternet/" name="&amp;lid=//gftr//shop//high speed internet">High Speed Internet (DSL)</a>
+								</li>
+								<li>
+									<a href="https://www.verizon.com/home/verizonconnections" name="&amp;lid=//gftr//shop//discount programs">Discount Programs</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col">
+							<p class="title">
+								My Verizon</p>
+							<ul class="clean" id="scbmyvzminimap">
+								<li id="scbftrmyvzcheckemail">
+									<a href="http://webmail.verizon.com/signin/MyVzAuthorize?source=myvz&amp;action=email" name="&amp;lid=//gftr//myverizon//check email">Check Email</a></li>
+								<li id="scbmyvzftpb">
+<script type="text/javascript">
+	var scbURL='https://www.verizon.com/foryourhome/billview/billing/mybill';
+	if(bLog){scbURL='https://www.verizon.com/foryourhome/ebillpay/billing/paybill?src=leftnav';}
+	document.write('<a href="'+scbURL+'" id="scbftrpaybill" name="&amp;lid=//gftr//myverizon//pay bill">Pay Bill<\/a>');</script>								</li>
+	
+								<li id="scbftraddorchangeservices">
+									<a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&Source=MYVER" name="&amp;lid=//gftr//myverizon//add or change services: footer">Add or Change Plan</a></li>
+	
+								<li id="scbmyvzsuspendmyserfooter">
+									<a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/svcs/home.aspx?flow=vs" name="&amp;lid=//gftr//myverizon//suspend my services">Suspend My Service</a></li>
+								<li id="scbresmyrewardslink">
+									<a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" name="&amp;lid=//gftr//myverizon//manage rewards+">My Rewards+</a></li>
+								<!--<li id="scbvcmftrmyvzmanageservice">
+									<a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/svcs/home.aspx" name="&amp;lid=//gftr//myverizon//manage services">Manage Services</a></li>-->
+								<li id="scbvcmftrmyvzapps">
+									<a id="scbvcmftrmyvzappslink" href="https://www.verizon.com/fiostv/myapps/unprotected/apps.aspx" name="&lid=//gftr//myverizon//apps">Apps</a></li>
+								</li>
+<script type="text/javascript">
+	var scbTempLink='https://www.verizon.com/fiostv/myapps/unprotected/apps.aspx';
+	if(typeof(bLog)!='undefined' && bLog){
+		document.getElementById("scbvcmftrmyvzappslink").href='https://www.verizon.com/fiostv/myapps/members/apps.aspx';
+	}
+</script>
+							</ul>
+						</div>
+						<div class="col">
+							<p class="title">
+								Support</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/tv.htm" name="&amp;lid=//gftr//support//tv">TV</a></li>
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/internet.htm" name="&amp;lid=//gftr//support//internet">Internet</a></li>
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/phone.htm" name="&amp;lid=//gftr//support//phone">Phone</a></li>
+								<li>
+									<a href="https://www.verizon.com/support/residential/billingcenter/homepage.htm" name="&amp;lid=//gftr//support//billing">Account Billing</a></li>
+								<li>
+									<a id="scbftrsupportorderstatus" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//gftr//support//order status">Order Status</a></li>
+								<li>
+									<a href="https://www.verizon.com/ForYourHome/VZRepair/vziha/CheckStatus.aspx" name="&amp;lid=//gftr//support//repair status">Repair Status</a></li>
+								<li>
+<script type="text/javascript">
+document.write('<a href="http://'+vzForums+'" name="&amp;lid=//gftr//support tools//forums">Community Forums<\/a>');
+</script>								</li>
+								<li>
+									<a href="https://www.verizon.com/support/residential/contact-us/index.htm" name="&amp;lid=//gftr//corp//contact us">Contact Us</a></li>
+								<li>
+									<a href="https://www.verizon.com/foryourhome/vzrepair/vziha/requestrepair.aspx" name="&amp;lid=//gftr//support tools//trouble shooter">Troubleshooter</a></li>
+							</ul>
+						</div>
+<script type="text/javascript">
+var scbTVpath='/OnDemand';
+var scbTVauth='';
+if(vzFiOSTV.indexOf('www35')>-1){scbTVpath='/fiostv/myservices/Beta';}
+if(bLog){scbTVauth='/Members';}
+</script>						<div class="col">
+							<p class="title">
+								Watch Fios</p>
+							<ul class="clean">
+								<li>
+<script type="text/javascript">
+document.write('<a href="http://'+vzTV+'/series" name="&amp;lid=//gftr//watchfios//watch tv shows">Watch TV Shows<\/a>');</script>								</li>
+								<li>
+<script type="text/javascript">
+	document.write('<a href="http://'+vzTV+'/movies" name="&amp;lid=//gftr//watchfios//watch movies">Watch Movies<\/a>');</script>								</li>
+								<li>
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+'/fiostv/myservices/Members/ftvc5/tvlistings.aspx" name="&amp;lid=//gftr//watchfios//check tv listings">Check TV Listings<\/a>');
+</script>								</li>
+								<li id="scbftrprogmydvr">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+'/fiostv/myservices/members/ftvc5/schedules.aspx" name="&amp;lid=//gftr//watchfios//program my dvr">Program My DVR<\/a>');
+</script>								</li>
+								<li id="scbftrrentorbuymovies">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+scbTVpath+scbTVauth+'/Movies/All" name="&amp;lid=//gftr//watchfios//rent buy movies">Rent or Buy Movies<\/a>');
+</script>								</li>
+								<li id="scbmyvzppv">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+scbTVpath+scbTVauth+'/Payperview/Home" name="&amp;lid=//gftr//watchfios//view ppv">View Pay Per View<\/a>');
+</script>								</li>
+							</ul>
+						</div>
+						<div class="col last">
+							<p class="title">
+								Tools</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/Generic/General/Show-me.htm" name="&amp;lid=//gftr//support tools//remote assistance" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //gftr//support tools//remote assistance^prop27=//gftr//support tools//remote assistance^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" target="_blank">Remote Assistance</a></li>
+								<li>
+									<a href="http://www.verizonwireless.com/landingpages/report-security-vulnerability/" name="&amp;lid=//gftr//support tools//report security vulnerability">Report a Security Vulnerability</a></li>
+								<li>
+									<a href="http://www.verizon.com/announcements" name="&amp;lid=//gftr//myverizon//announcements">Announcements</a></li>
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/Generic/Phone+Generic/Phone+Product/Questions/CustomersWithDisabilities.htm" name="&amp;lid=//gftr//support//accessibility">Accessibility</a></li>
+								<li>
+									<a href="https://www.verizon.com/info/" name="&amp;lid=//gftr//support//consumer education">Consumer Education</a></li>
+								<li>
+									<a href="https://www.verizon.com/speedtest/" name="&amp;lid=//gftr//shop//fios internet//speed test">Speed Test</a></li>
+							<li id="scbcobrowse">
+<!--cobrowse link-->								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+dispLayer('ghffootercont','block');
+dispLayer('minimap','none');
+if(typeof(strThisHref)!='undefined' && strThisHref.indexOf('/foryourhome/goflow')>-1){
+	dispLayer('minimap2012','none');
+}
+function isTablet(){return false;}
+</script>
+</div>
+<div class="scbvzt">
+	<div id="GlobalFooter">
+		<div class="footer" id="footer">
+			<div id="gf_footer">
+				<div class="top">
+					<div class="copyright_vz">
+						<span>&copy; 2017 Verizon</span></div>
+					<div class="fixer">
+						&nbsp;</div>
+				</div>
+				<div class="gb">
+					<ul>
+						<li>
+							<a href="http://www.verizon.com/about/" name="&amp;lid=//gftr//corp//about verizon">About Verizon</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/support/residential/contact-us/index.htm" name="&amp;lid=//gftr//corp//contact us">Contact Us</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/sitemap/" name="&amp;lid=//gftr//corp//site map">Site Map</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/careers/" name="&amp;lid=//gftr//corp//careers">Careers</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/terms/" name="&amp;lid=//gftr//corp//terms">Terms and Conditions</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/privacy/" name="&amp;lid=//gftr//corp//privacy">Privacy Policy</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/privacy/aboutourads/" name="&amp;lid=//gftr//corp//our ads">About Our Ads</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/fios/advertising-sales.html" name="&amp;lid=//gftr//corp//advertise with us">Advertise With Us</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/storelocator/" name="&amp;lid=//gftr//corp//store locator">Store Locator</a></li>
+					</ul>
+					<div class="social_icon">
+						<a class="scbressprite scbresiconfb" href="http://www.facebook.com/VerizonFiOS" name="&amp;lid=//gftr//social//facebook" target="_blank" title="Verizon on Facebook"><span class="scbhidden">Verizon on Facebook</span></a> <a class="scbressprite scbresicontw" href="http://twitter.com/verizonfios" name="&amp;lid=//gftr//social//twitter" target="_blank" title="Verizon on Twitter"><span class="scbhidden">Verizon on Twitter</span></a><a class="scbressprite scbresiconyt" href="http://www.youtube.com/user/verizon/Verizon" name="&amp;lid=//gftr//social//youtube" target="_blank" title="Verizon on YouTube"><span class="scbhidden">Verizon on YouTube</span></a></div>
+					<div class="icons">
+						<a class="scbressprite scbbbb" href="http://www.bbb.org/new-york-city/business-reviews/telephone-companies/verizon-communications-in-new-york-ny-411/#bbbonlineclick" name="&amp;lid=//gftr//corp//bbb" style="display:inline-block;" target="_blank" title="Verizon Communications BBB Business Review"><span class="scbhidden">Verizon Communications Better Business Bureau Business Review</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<script type="text/javascript">scbSessionTO();
+			var scbRefererURL=document.location.href;
+			if(typeof(scbPCAll)=='undefined' || !scbPCAll){
+				var docDomainFtr=document.domain;
+				var actualDomainFtr=docDomainFtr.split('.')[1];
+				if(actualDomainFtr=='verizon' || actualDomain=='ebiz' ){
+					var domainEnvF=document.getElementById('currentDomain').value;
+					scbLoadJS(domainEnvF+'/home/commongh?ProcessClass=all&a=3&nocache='+Math.random()+'&scbReferrerURL='+scbRefererURL);
+				}
+			}else if(scbPCAll){
+				setTimeout('scbUpdate2012Links()',500);
+			}</script>
+
+</noindex>
+<!--googleon: all-->
+<!-- SCB footer end -->
+<!-- ************ End : Single Code Base Footer ************ -->
+
+
+<input type="hidden" name="hf_sn" value="sc3" />
+
+	
+ 
+
+
+
+
+
+
+
+	
+		
+		
+	
+
+
+
+<script type="text/javascript" src="//www.verizon.com/resources/scripts/hbx_toplevel.js"></script>
+<script type="text/javascript" src="//www.verizon.com/resources/scripts/hbx.js"></script>
+<script type="text/javascript" src="//www.verizon.com/cs/groups/public/documents/adacct/vzcom_js.js"></script>
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+			<script type="text/javascript" src="/home/pack/ak-cached/2h/scripts/combined.js.h1065350862.pack" charset="utf-8"></script>
+		
+		
+	
+	
+	
+	
+	  
+		
+		      <!--I am from VZRF Footer misc folder -->
+		
+	
+		
+	
+		
+			
+			
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.init_js.js" type="text/javascript" ></script>
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.appinit_js.js" type="text/javascript" ></script>
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzr.aims_chat_js.js" type="text/javascript" ></script>
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.learncmbcarouselmods_js.js" type="text/javascript" ></script>
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.iframemodal_js.js" type="text/javascript" ></script>
+				
+					<script src="//www.verizon.com/cs/groups/public/documents/adacct/vzrf.modalfocus_js.js" type="text/javascript" ></script>
+				
+			
+		  
+	
+	
+	
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+	<script>
+var master_cookie_on = document.getElementById("mastercookieon").value;
+if(document.getElementById("currentDomain").value==""){
+	document.getElementById("currentDomain").value='http://' + document.domain;
+}
+if(document.getElementById("currentDomainVZ").value==""){
+	document.getElementById("currentDomainVZ").value='http://' + document.domain;
+}
+</script> 
+<script type="text/javascript" defer src="/cs/groups/public/documents/adacct/vzcom_js.js"></script>
+<script language="javascript" defer src="/home/ak-cached/2h/javascript/commons.js"></script>
+<script language="javascript" defer src="/cs/groups/public/documents/adacct/sitecatalyst_footer_m_js.js"></script>
+<script language="javascript" defer src="/cs/groups/public/documents/adacct/ctahandled_m_js.js"></script>
+<script type="text/javascript" defer src="/cs/groups/public/documents/adacct/xp1commonjs.js"></script>
+<script type="text/javascript">
+$( document ).ready(function() {
+    setTimeout('makeXP1Call()',3500);
+	 setCustomValues();
+});
+</script> 
+<div class="loaderNew" style="display: none;">
+        <div class="loader-image">
+            <div class="spinner2"><img src="https://www.verizon.com/foryourhome/ordering/Common/ak-cached/24h/Pheonix/img/loading-spinner.png"></div>
+        </div>
+</div>
+<script type="text/javascript">
+if(typeof(_satellite)!='undefined'){
+_satellite.pageBottom();
+}
+function setCustomValues(){
+ if(document.getElementById('xp1ProfileId')){
+ var cstmxp1 = document.getElementById('xp1ProfileId').value;
+     if(cstmxp1.indexOf("v36")>-1){
+	  pdcupdate("/home/gsmservlet?Mode=write&vzpers=custv-A");
+	 }else if(cstmxp1.indexOf("v35")>-1){
+	  pdcupdate("/home/gsmservlet?Mode=write&vzpers=custv-S");
+	 }else if(cstmxp1.indexOf("v521_002")>-1){
+	  pdcupdate("/home/gsmservlet?Mode=write&VzOSEL=SAPRO-LOCK");
+	 }else if(cstmxp1.indexOf("v521_001")>-1){
+	  pdcupdate("/home/gsmservlet?Mode=write&VzOSEL=SAPRO-STAN");
+	 }
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+</body></html><!DOCTYPE html>

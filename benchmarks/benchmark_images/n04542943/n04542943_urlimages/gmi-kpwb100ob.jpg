@@ -1,0 +1,1422 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->	<html> <!--<![endif]-->
+
+
+<head id="Head1"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" /><title>
+	
+Shop for Home - Carbon's Golden Malted Waffles and Pancakes    
+
+</title>
+	<!-- DataTables CSS -->
+	<!--link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.css"-->
+	<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/responsive/1.0.6/css/dataTables.responsive.css" /><link rel="stylesheet" type="text/css" href="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.css" />
+	
+	<!-- jQuery -->
+	<script  src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- DataTables -->
+	<script  type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.js"></script>
+	<script  type="text/javascript" charset="utf8" src="//cdn.datatables.net/responsive/1.0.6/js/dataTables.responsive.js"></script>
+	<script  type="text/javascript" charset="utf8" src="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+	
+		<link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/theme.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/theme-elements.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/theme-shop.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/theme-animate.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/vendor/bootstrap/css/bootstrap.css" /><link rel="stylesheet" href="/font-awesome/css/font-awesome.css" /><link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/theme-responsive.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/skins/default.css" /><link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/custom.css" />
+			<script src="//goldenmalted.com/testsite2/vendor/modernizr.js"></script>
+		
+		
+		
+		<!--[if IE]>
+			<link rel="stylesheet" href="//www.goldenmalted.com/testsite2/css/ie.css" />
+		<![endif]-->
+
+		<!--[if lte IE 8]>
+			<script src="//www.goldenmalted.com/testsite2/vendor/respond.js"></script>
+		<![endif]-->
+	
+	
+	
+
+	
+	
+	
+     
+    
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9369624-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <style type="text/css">
+        img
+        {
+            border-style: none;
+			
+        }
+		/*
+		img:not(.logo-image):not(.ignore-global-width):not([id$="imgNew"]) {
+			width: 150px;
+			height:auto;
+		}
+        */
+        INPUT[type='image']
+        {
+            border-style: none;
+        }
+        .GB_header
+        {
+            padding-right: 0px;
+        }
+    </style>		
+		
+        
+	<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema" />    
+    <meta property="og:title" content="Shop for Home - Carbon's Golden Malted Waffles and Pancakes" />
+    <meta property="og:type" content="website" />   
+    <meta property="og:site_name" content="Shop for Home - Carbon's Golden Malted Waffles and Pancakes" />
+    <meta name="Description" content="Carbon&#39;s Golden Malted - Shop America&#39;s Favorite Waffle and Pancake Mixes Today!" />
+    <meta name="Keywords" content="carbon&#39;s golden malted, waffles, pancakes, malted waffles, waffle irons, waffle bakers" />
+<link href="App_Themes/ctResponsive/css%20-%20new/animate.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/bootstrap.min.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/main.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/prettyPhoto.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/price-range.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css%20-%20new/responsive.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/animate.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/bootstrap.min.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/main.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/prettyPhoto.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/price-range.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/css/responsive.css" type="text/css" rel="stylesheet" /><link href="App_Themes/ctResponsive/zcustomsStyles.css" type="text/css" rel="stylesheet" /><meta property="og:title" content="Carbon&#39;s Golden Malted - Shop America&#39;s Favorite Waffle and Pancake Mixes Today!" /><meta property="og:type" content="WebSite" /><meta property="og:url" content="https://shop.goldenmalted.com/" /><meta property="og:image" content="https://shop.goldenmalted.com/images/logo.gif" /><meta property="site_name" content="Shop for Home - Carbon&#39;s Golden Malted Waffles and Pancakes" /><meta property="fb:admins" content="193292334072303" /></head>
+<body>
+    <div style='display: none' id='baseUri'>
+        <span id='baseUriSpan'>
+            /App_Themes/ctResponsive</span>
+			
+        <script  type="text/javascript" src='/App_Themes/ctResponsive/startup.js'>		
+
+            //  
+            //  The purpose of this script block is to include script file hosted in App_Themes
+            // 
+        </script>       
+        
+
+    </div>
+    <div id="fb-root">
+    </div>
+    <script>        
+        var CurrentURL = 'https://shop.goldenmalted.com/'
+        var CurrentProtocal = document.location.protocol;
+        if (CurrentProtocal == "https:") {
+            CurrentURL = 'https://shop.goldenmalted.com/'
+        }
+        var GB_ROOT_DIR = CurrentURL + "Tools/GreyBox/";       
+        function ColorSwatchImageMouseChange(imageID, img_src, width) {
+            // Update Image URL
+            var re = new RegExp(imageID, 'g');
+            var elems = document.getElementsByTagName('*'), i = 0, el;
+            while (el = elems[i++]) {
+                if (el.id.match(re)) {
+                    if (img_src == "") {
+                        document.getElementById(el.id).src = document.getElementById("CurMainImageURL").value;
+                    } else {
+                        document.getElementById("CurMainImageURL").value = document.getElementById(el.id).src;
+                        document.getElementById(el.id).src = img_src;                        
+                    }
+                     if (width == '')
+                    {	               
+                       document.getElementById(el.id).style.width = "auto";//width;                      
+                    }
+                    else
+                    {
+                        document.getElementById(el.id).style.maxWidth = width;
+                    }
+                    document.getElementById(el.id).style.height = "auto"; //height;                  
+                   
+                }
+            }
+        }
+        function ColorSwatchImageChange(currentIconID, sCommonID, imageID, img_src, width) {
+            // Update Image URL
+            var re = new RegExp(imageID, 'g');
+            var elems = document.getElementsByTagName('*'), i = 0, el;
+            while (el = elems[i++]) {
+                if (el.id.match(re)) {                    
+                    document.getElementById("CurMainImageURL").value = document.getElementById(el.id).src;
+                    document.getElementById(el.id).src = img_src;
+                    document.getElementById("CurMainImageURL").value = img_src;
+                    if (width == '') {
+                        document.getElementById(el.id).style.width = "auto"; //width;                       
+                    }
+                    else {
+                        document.getElementById(el.id).style.maxWidth = width;
+
+                    }
+                    document.getElementById(el.id).style.height = "auto"; //height;
+                  
+                }
+            }
+            // Remove border on all  Icons
+            if (sCommonID != "") {
+                re = new RegExp(sCommonID, 'g');
+                elems = document.getElementsByTagName('*'), i = 0, el;
+                while (el = elems[i++]) {
+                    if (el.id.match(re)) {
+                        document.getElementById(el.id).className = "NonSelectedColorSwatchIconImage";                        
+                    }
+                }
+            }
+            // Add Border to selected Item
+            if (currentIconID != "") {
+                re = new RegExp(currentIconID, 'g');
+                elems = document.getElementsByTagName('*'), i = 0, el;
+                while (el = elems[i++]) {
+                    if (el.id.match(re)) {
+                        document.getElementById(el.id).className = "SelectedColorSwatchIconImage";                        
+                    } 
+                }
+            }
+        }               
+    </script>
+    <form method="post" action="./" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="Header1_ToolkitScriptManager1_HiddenField" id="Header1_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="idNXQ1OIdehgAwF28aVzRPhzOSJE6bSjVqKKnE+fIQyfFMDXRGW4hlsPrdEaOQW48czlV/wsI5mXm57acdoqF7PIkwZAcVDpaSLTrxCXtO7i7ZlGuOcz46Xia2bVfdAZGbVpVeqsbgvu+6QUB5Y3mLrR3CQO81m+5IdiqGtAjjtoy96bZ/L1DM5a38T9TRI1lix1CubNufRRRlN14bjHIQYDq7FkfZHhQbexboYG23XxGSzl74Qc48Ti75Awu39duySEzm92wrSOXCUq7DBTXrG9oedxApe+E1vZdeTU5H4lf7MwIdEsZWD9edrhc4KuwO5JIsTrTuJpkOAWFTe5h+60qK7nh2GUokF5hLEfdhl9UYa0Ti3mfE3g/KS0BM9IX1gz9Sha6NyJPQ408fIXcAN4P0pSNTOKLsITsE7e0/VMzsxrVL7rJ5V0z5L6WP2PSGenG+1XumlrTpjiWiJY2NRAxmVaxlT792KWnRXwf5/ssDCOaCDSr0/Gs9vml+quHKJJusyppSpe4bloZ+3Q95skUjb+wqh4/aH5xt9f6Ub8nUkg4QS8DPhN5REFLHQH2fFeK406NOGZhD9lvonl+xBkvTKfSqprreZh9PjkrHLZGUgVRXfQO4rhJP+PcK7jpv4i6M7Ncnh6t8RYrC3Y6I3NH2RI9teXNLxNXtWScjDkZFcM1sufvpr8SmaSWw2arNzobiY2dGHgThXnvndDrgMWkOLKhGNT81/9YtAwAhpL26xbflGUcnfPukrVqAsIwfzOryZcYOWwvRNUOGfD6W5VtN0vqqVcftjfc9KhXlsI3o1bF8GWkYo7zcBgNdXTrociDq/L1nRLmgGxO+L1BMA1fPVvnJQTsxRQmrYZt219gpHpYvipTQrwA91W21Ggcv7Is/2Iwl1YTUqOfo4IU2hGo4SwauYUPQQokvA7mPa8NhOs3z6r9OmKg/O7vXvJjOCJmsqVfWRDpc8S0Hrcump+PvV1Vm+n54brzXCu21yZ1XdzZTZe2DqnMUOAxnGgDDZgi9n/9a0pg9+UGbFJFukXuUvsJhqEqF0Cj8107x+TqTZi/yAR3Kkwrbljk8J+O+Bevf8p9wxyFqOly8XwP2a6ivwsvXFD+UHlxfRv+J1XMWt3e/DDUlF1gLKdOvofXkWHOrK0G2avIXJYvChnbmuTK3aFEWR1fr/2FLP6TYaZtgJZfoOpkvH6gCSIiwgD2asWPrHCewutOPX2TC7eFE+nU6DNBm4vvKMLiqNGwlHu2YJpqwcH8bRnsj48xC6of70bzsgQmyektdvjO+uFGOEO6VukicGOmmBgt4YGX8T/cGW0oneqonK5U2YlvlVXe2JhtMfRHHo7g1eAnxXCoWBrhwY5JVvGjGTxiWSppHoc8WVz24OG+jMLjIidSFEmckdizkqe7es/5PnaBPdDfcOG3u6ObTsE4Ob6SuLlHnjoysDxUb704FOrtT0xQ7XWun5ly8LuNTeFozJCfVadKWJtVPPNrM3LXEZPr+YmromV7ntcgV3QMavmy2jqki3hTZvHLNzHcPk/uHeOHgyhFT/8ruo2UD2wEQKtuc1KUfxvzUkLSaRR0U0N5giORMx7WJGlOmKi1CGng7vaBVWW//Bk8v/Zn06+c2m8dqfp2iezo4B0cxdV+hyWvoR/rdkwsz5q2OaJdf5uk38D2V+VRJya+/zsUKSxeNPRDwEscpR+yVYCfYyZyPNFaTXQEOMoBatdTfpLofefZcd5xEf+rghdC0HgOfHZ28XVsp8knaQSqjfUR1/dUlFPHlI02BRoeaCINhGg57Gl/LQgtyZmalR+byoVRKpvv6J9fABBkCHOtZ26BvTHYFoOcnJ4loIzTyZPOOvrRosM4BtgmYikjHERrs/ADCua0bvg4BVTrrVc6Et9N8c9Ns+WX3rgUL62Lzt44gZxu6+8t1ExYq+I+LQzglfW6an+J0DniRBahkZZrvtK9DD/w6keIiwiyL86dygJdbQgSrx1RA0HBXWXNQ==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZPCZOn1tb3QtsBChNZO4cF_BNQKum_FNFh6VQP2meF7iX8oOZXkn2XHRsX5bSadXaA2&amp;t=636125514551626262" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTbHcfsaa4sHCBs_0VM9YcKDk6bUe4B6FXQFMr4k4qN64GznDQ3_AQxJdw7XB4WHLf6x0L3w5uQlWI_0zhs6r9mx49a7F2PDgfMekUAPvKkWT0&amp;t=246d7516" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TvpD2YGOOsCm1yWcLkKnBR1nTeOtKz_z9Pqyvx1NK0OqIL1Zz6Y_GJ3vAhluaO94dUqbj3iUoy72FJVRWbR6Lszxu_jdJmIVVzBExScMj0G7cfMbnWKrnY3hFpAfYShY0&amp;t=246d7516" type="text/javascript"></script>
+<script src="/default.aspx?_TSM_HiddenField_=Header1_ToolkitScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.60501.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a6c8ae5c4-140e-4c7e-9a34-3ed87442fceb%3ade1feab2%3af9cec9bc%3a35576c48" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Om3xK+vmN3yVdQAaNi73NGQsGtubWQUljOBCyF4+q4Od3CvqTfmL5nmeXu1IiEjOFAFS7894LqsufnKSF4UMAqiUkDDtSMBKAdChmHw6SQlZB6dzFp3kk+piXpw2NBRO4I3xrTi5/kHo7Cn/96vp581Y9OhwpvKcD4FcBbXOovBmoa8ETZ4Htady/LYSARX8" />
+</div>
+
+                <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$Header1$ToolkitScriptManager1', 'form1', ['tctl00$ucContentMiddleCenter$mlsu84$UpdatePanel1','ucContentMiddleCenter_mlsu84_UpdatePanel1'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+<!-- style transforms and customizations -->
+<script type="text/javascript" src='/App_Themes/ctResponsive/bootstrap/js/bootstrap.min.js' ></script>
+
+<script type="text/javascript">
+	                                                   
+                 
+    //transform functions to call
+       
+	// Fix up asp:datagrid to support THEAD tags
+	//dataTable options passed as array to 
+    // Review myaccount_Orders.aspx for sample how to implement it
+    function fixASPGridView(tableID, headerTrClass, dataTableOptions) {     
+        if ($.fn.dataTable.isDataTable("#" + tableID + "")) {
+            // Ignore, table is already inittialized
+        }
+        else {
+            $("#" + tableID + "").addClass("dt-responsive table table-striped table-hover").attr("width", "100%");
+            $("#" + tableID + " tbody").before("<thead><tr></tr></thead>");
+            $("#" + tableID + " thead tr").append($("#" + tableID + " tbody ." + headerTrClass + " td"));
+            $("#" + tableID + " thead tr td").wrapInner("<div />").find("div").unwrap().wrap("<th />").contents().unwrap();
+            //console.log($("#"+tableID+" tbody "+headerTrClass+" td"));
+            $("#" + tableID + " tbody tr:first").remove();
+
+            //https://www.datatables.net/manual/installation
+            //https://www.datatables.net/manual/options
+            //https://www.datatables.net/reference/option/
+            //https://www.datatables.net/extensions/responsive/
+            $(document).ready(function () {
+                //alert(dataTableOptions);
+
+                var dataTableDefaults = {
+                    "bInfo": false,
+                    "paging": false,
+                    "searching": false,
+                    "ordering": false,
+                    responsive: true,
+                }
+                if (dataTableOptions == null) {
+                    dataTableOptions = dataTableDefaults;
+                }
+                var dataTableSettings = $.extend({}, dataTableDefaults, dataTableOptions);
+                $("#" + tableID + "").DataTable(dataTableSettings);
+
+            });
+
+        }
+	}
+
+    
+    // Fix up asp:GridView to support THEAD tags
+	//dataTable options passed as array to 
+    // Review quickOrderEntry.aspx and quickOrderEntry.aspx.cs for sample how to implement it
+    function fixASPGridView2(tableID,headerTrClass,dataTableOptions) {               
+        if ($.fn.dataTable.isDataTable("#" + tableID + "")) {
+            // Ignore, table is already inittialized
+        }
+        else {
+            //https://www.datatables.net/manual/installation
+            //https://www.datatables.net/manual/options
+            //https://www.datatables.net/reference/option/
+            //https://www.datatables.net/extensions/responsive/
+            $(document).ready(function () {
+                //alert(dataTableOptions);
+
+                var dataTableDefaults = {
+                    "bInfo": false,
+                    "paging": false,
+                    "searching": false,
+                    "ordering": false,
+                    responsive: true,
+                }
+                if (dataTableOptions == null) {
+                    dataTableOptions = dataTableDefaults;
+                }
+
+                var dataTableSettings = $.extend({}, dataTableDefaults, dataTableOptions);
+                $("#" + tableID + "").DataTable(dataTableSettings);
+
+            });
+        }
+	}
+
+    
+
+	//apply all transformation here
+	$(document).ready(function(){
+		
+        // For tooltips
+         $('[data-toggle="tooltip"]').tooltip();
+		//images
+		//these transformation should not be altered or removed
+		$("img").removeAttr("height");
+		$("img").addClass("img-responsive");
+		
+		//this function inherits the text alignment attribute set in the content block for the container
+		//the value is applied to the image class, the style is in the customStyles.css  value can be left, right, center.  default is center. 
+		$(".contentBlock div[class*=text-] img").each(function() {
+			var parentTextAttr = $(this).parents(".contentBlock div[class*=text-]").attr("class")+" ";
+			var imgTextAttrStart = parentTextAttr.indexOf("text-");
+			var imgTextAttrEnd = parentTextAttr.indexOf(" ",imgTextAttrStart);
+			var imgTextAttr = parentTextAttr.substring(imgTextAttrStart+5,imgTextAttrEnd).trim();			
+			$(this).addClass("img-"+imgTextAttr);
+		});
+
+		//color swatch transform. 
+		
+		$(".singleProductInnerContainer .ColorSwatchTableLayout").parent("div").each(function () {
+			var colorSwatchImages = $(this).find(".ColorSwatchTableColumn img").detach();
+			
+			//just a text object remove later
+			var colorSwatchImages2 = $(colorSwatchImages).clone();
+			
+			$(this).children(".ColorSwatchTableLayout").remove();
+			
+			for(var i=0;i<colorSwatchImages.length;i++) {
+				$(this).children(".colorSwatch").append($(colorSwatchImages).eq(i).wrap("<span class=\"swatchImg\"></span>").parent());
+			}						
+		});
+
+		// social media containers		
+		//$(".SocialPlugin .row").css("display","inline-block").css("width","100%");
+		$(".SocialPlugin .TwitterButton").css("display","inline-block").css("padding","2px");
+		$(".SocialPlugin .FBLikeButton").css("display","inline-block").css("padding","2px");
+		
+	});
+</script>
+
+
+	<!--<header id="header">
+    	<div class="header_top">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="contactinfo">
+							<ul class="nav nav-pills">
+								<li><a href=""><i class="fa fa-phone"></i> +1 949 555 2100</a></li>
+								<li><a href=""><i class="fa fa-envelope"></i> info@domain.com</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="social-icons pull-right">
+							<ul class="nav navbar-nav">
+								<li><a href=""><i class="fa fa-facebook"></i></a></li>
+								<li><a href=""><i class="fa fa-twitter"></i></a></li>
+								<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+								<li><a href=""><i class="fa fa-dribbble"></i></a></li>
+								<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	-->
+        
+        
+        
+           <div class="body">
+        
+				<header id="header">
+				<div class="container">
+					<h1 class="logo">
+						<a href="http://shop.goldenmalted.com">
+					
+	
+			<img class="logo-default" alt="Carbon's Golden Malted Waffles and Pancakes" width="150" height="103" data-sticky-width="100" data-sticky-height="68" src="//goldenmalted.com/images/CarbonsGoldenMalted.png">
+
+	
+	</a>								</h1>	
+				
+					<nav>
+						<ul class="nav nav-pills nav-top">
+							<li>
+								<a href="http://goldenmalted.com/about-us"><i class="icon icon-angle-right"></i>About Us</a>							</li>
+							<li>
+								<a href="http://goldenmalted.com/contact-us"><i class="icon icon-angle-right"></i>Contact Us</a>							</li>
+							<li class="phone">
+								<span><i class="icon icon-phone"></i>1.888.596.4040</span>							</li>
+							<ul class="social-icons">
+							<li class="facebook"><a href="https://www.facebook.com/goldenmalted" target="_blank" title="Facebook">Facebook</a></li>
+							<li class="twitter"><a href="https://twitter.com/goldenmalted" target="_blank" title="Twitter">Twitter</a></li>
+							<li class="linkedin"><a href="https://www.linkedin.com/company/503094" target="_blank" title="Linkedin">Linkedin</a></li>
+							<li class="youtube"><a href="https://www.youtube.com/user/CarbonsGoldenMalted" target="_blank" title="YouTube">YouTube</a></li>
+							 <li class="instagram"><a href="https://www.instagram.com/golden_malted/" target="_blank" title="Instagram">Instagram</a></li>
+						</ul>
+						</ul>
+					</nav>
+				
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						
+				</div>
+				<div class="navbar-collapse nav-main-collapse collapse ">
+					<div class="container">
+				
+						<nav class="nav-main mega-menu">
+							<ul class="nav nav-pills nav-main" id="mainMenu">
+								<li class="dropdown active">
+									<a class="dropdown-toggle" href="http://shop.goldenmalted.com">
+										Home</a>								</li>
+													
+							
+                                
+                                <li class="dropdown">
+									<a class="dropdown-toggle" href="http://shop.goldenmalted.com/Category/2_1/Waffle_and_Pancake_Mixes.aspx">
+										Waffle &amp; Pancake Mixes
+										<i class="icon icon-angle-down"></i>									</a>
+									<ul class="dropdown-menu">
+								
+										<li><a href="http://shop.goldenmalted.com/Product/GM.20_32OZ/Original_Waffle_Pancake_Mix_-_Our_Most_Popular_Mix.aspx
+">Original</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/AW.20_32OZ/Just_Add_Water_Non-GMO_Waffle_Pancake_Mix.aspx
+">Just Add Water</a></li>
+                                                                    <li><a href="https://shop.goldenmalted.com/Product/RB.20_1.2F_33/Original_Robby_s_Buttermilk_Pancake_Mix_-_Premium_Classic_Canister.aspx
+">Robby's Buttermilk Pancake Mix</a></li>	
+																	<li><a href="http://shop.goldenmalted.com/Product/BLUE.20_32OZ/Blueberry_Waffle_Pancake_Mix.aspx
+">Blueberry</a></li>
+                                                                    <li><a href="http://shop.goldenmalted.com/Product/GF.20_32OZ/Gluten_Free_Waffle_Pancake_Mix.aspx
+">Gluten Free</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/CHOC.20_CHIP.20_32OZ/Chocolate_Chip_Waffle_Pancake_Mix.aspx
+">Chocolate Chip</a></li>
+                                                                    <li><a href="http://shop.goldenmalted.com/Product/ORG.20_A.2F_C.20_32OZ/Organic_Apple_Cinnamon_Waffle_Pancake_Mix.aspx
+">Organic Apple Cinnamon</a></li>
+
+<li><a href="http://shop.goldenmalted.com/Product/PUMP.20_32OZ/Pumpkin_Waffle_Pancake_Mix.aspx"
+>Pumpkin</a></li>
+									</ul>
+								</li>
+                                
+                                
+                                
+                                
+                                    <li class="dropdown">
+									<a class="dropdown-toggle" href="http://shop.goldenmalted.com/Category/5_1/Syrups.aspx">
+										Syrups
+										<i class="icon icon-angle-down"></i>									</a>
+									<ul class="dropdown-menu">
+								
+												<li><a href="http://shop.goldenmalted.com/Product/CLASSIC.20_SYRUP.20_12OZ/Classic_Syrup_12oz_Bottle.aspx
+">Classic Syrup</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/SF.20_SYRUP.20_12OZ/Sugar_Free_Syrup_12oz_Bottle.aspx
+">Sugar Free Syrup</a></li>
+
+
+<li><a href="http://shop.goldenmalted.com/Product/PURE.20_RETAIL.20_SYRUP/Anderson_s_Pure_Maple_Syrup_8oz_Bottle.aspx
+">Pure Maple Syrup</a></li>
+									</ul>
+								</li>
+                                
+                                
+                                     <li class="dropdown">
+									<a class="dropdown-toggle" href="http://shop.goldenmalted.com/Category/3_1/Gift_Sets_and_Value_Packs.aspx">
+										Gift Sets
+										<i class="icon icon-angle-down"></i>									</a>
+									<ul class="dropdown-menu">
+								
+								<li><a href="http://shop.goldenmalted.com/Product/DELUXE.20_WAFFLE.20_STARTER.20_KIT/Retail_Deluxe_Waffle_Starter_Kit.aspx
+">Deluxe Starter Kit</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/PREMIER.20_WAFFLE.2F_PANCAKE.20_GIFT/Premier_Waffle_and_Pancake_Gift_Set.aspx
+">Premier Waffle and Pancake Gift Set</a></li>
+
+	<li><a href="http://shop.goldenmalted.com/Product/GM.2F_RB.20_2.2F_33OZ/America_s_Favorite_Value_Pack_-_Original_and_Robby_s_Premium_Canisters.aspx
+">America's Favorite Value Pack</a></li>
+
+																<li><a href="http://shop.goldenmalted.com/Product/3.20_MIX.20_VALUE.20_PACK/3_Mix_Value_Pack.aspx
+">3-Mix Value Pack</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/4.20_MIX.20_VALUE.20_PACK/4_Mix_Value_Pack.aspx
+">4-Mix Value Pack</a></li>
+                                                            
+                                                                   <!-- <li><a href="http://shop.goldenmalted.com/Product/CUSTOMER.20_FAVORITES.20_VALUE.20_PACK/Customer_Favorites_Value_Pack.aspx
+">Customer Favorites Value Pack</a></li> -->
+
+                                         
+
+         
+									</ul>
+								</li>
+                                
+                                
+                                        <li class="dropdown">
+									<a class="dropdown-toggle" href="http://shop.goldenmalted.com/Category/6_1/Waffle_Bakers_and_Accessories.aspx">
+										Waffle Bakers
+										<i class="icon icon-angle-down"></i>									</a>
+									<ul class="dropdown-menu">
+								
+								<li><a href="https://shop.goldenmalted.com/Product/RETAIL.20_BAKER.20_PLUS/Golden_Malted_Gourmet_Waffle_Baker_2_Free_Pouches_of_Original_Mix.aspx
+">Golden Malted Gourmet Waffle Baker</a></li>
+																	<li><a href="http://shop.goldenmalted.com/Product/132/Premium_Grid_Conditioner.aspx
+">Premium Grid Conditioner</a></li>
+
+	<li><a href="http://shop.goldenmalted.com/Product/ACCESSORIES.20_VALUE.20_PACK/Accessories_Value_Pack.aspx
+">Accessories Value Pack</a></li>
+					
+										
+									</ul>
+								</li>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+								<li class="dropdown">
+									<a class="dropdown-toggle" href="https://portal.goldenmalted.com/eSSS/Login.aspx">
+										Shop For Business
+										<i class="icon icon-angle-down"></i>									</a>
+									<ul class="dropdown-menu">
+								
+										<li><a href="http://goldenmalted.com/food-services-products">Products</a></li>
+                                      <li><a href="http://goldenmalted.com/fresh-baked-waffle-program">Fresh Baked Waffle Program</a></li>
+                                       <li><a href="http://goldenmalted.com/frozen-waffles">Frozen Waffles</a></li>
+                                        <li><a href="http://goldenmalted.com/food-services-latest-products">New Food Service Products</a></li>
+										<li><a href="http://goldenmalted.com/food-services-customers">Customers</a></li>
+										<li><a href="http://goldenmalted.com/distribution">Global Distributions</a></li>
+										<li><a href="http://goldenmalted.com/login">Distributor Login</a></li>
+										<li><a href="https://portal.goldenmalted.com/eSSS/Login.aspx" target="_blank">Pay Invoice</a></li>
+										<li><a href="http://goldenmalted.com/affiliations">Affiliations</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="http://goldenmalted.com/recipes">
+										Recipes</a></li>
+										
+						
+							
+								
+									</ul>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</header>
+
+        
+        	
+        
+        
+		<div class="header-middle"><!--header-middle-->
+			<div class="container">
+				<div class="row text-right" style="border:none;">
+					<div class="col-sm-12 col-md-8">
+						<div class="logo pull-left">
+							<a href="https://shop.goldenmalted.com/default.aspx" id="Header1_lnkHome">
+								<img src="images/logo.gif" id="Header1_LogoImage" border="0" class="logo-image" alt="Site Logo" />
+                            
+							</a>
+                            
+                                 
+                          <img src="//shop.goldenmalted.com/images/BF-Store-Web-2016.png">
+                            
+                            
+						</div>
+					</div>
+                    
+                    
+                    <div id="headerToggle" class="header-bottom"><!--header-bottom-->
+			
+				<div class="row" >
+					<div class="col-sm-12 col-md-4">
+               
+						<!--<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div> -->
+						<div class="mainmenu pull-left text-right">
+							<ul id="mainMenu" class="nav navbar-nav collapse navbar-collapse">
+								
+<div id="MenuLevel2">
+    &nbsp;
+</div>
+
+							</ul>
+						</div>
+					</div>
+					<div id="miniCart" class="col-sm-12 col-md-4">
+						<div class="guest-box pull-right">
+							<span id="Header1_lblWelcome" class="welcome-nav">Welcome, Guest.</span>
+							<br/>
+							<a id="Header1_lnkCart" class="welcome-nav HeadCartLink" href="https://shop.goldenmalted.com/cart.aspx">Shopping Cart</a>
+							<br/>
+							<span id="Header1_MiniCartTotalClass_lblItemCount" class="welcome-nav">0 Products</span>
+<span id="Header1_MiniCartTotalClass_lblSubTotal" class="welcome-nav">$0.00</span>
+<span id="Header1_MiniCartTotalClass_lblPntAvail" class="welcome-nav"></span>
+
+
+						</div>
+					</div>
+			
+		<!--/header-bottom-->
+                    
+                    
+                    
+					<div class="col-sm-12 col-md-4">
+						<div class="shop-menu pull-right">
+							<ul class="nav navbar-nav">
+								<li>
+									<a id="Header1_LoginStatusControl1_lnkStatus" href="https://shop.goldenmalted.com/Login.aspx">Sign In</a>
+
+								</li>
+								<li>
+									<a id="Header1_lnkMyAccount" href="https://shop.goldenmalted.com/myaccount_Orders.aspx">My Account</a>
+								</li>
+								
+                                <!--<li>
+									<a id="Header1_lnkCustomerService" href="https://shop.goldenmalted.com/contact.aspx">Customer Service</a>
+								</li>
+								 <li>
+									
+								</li>
+								<li>
+									<a id="Header1_lnkSearch" href="https://shop.goldenmalted.com/search.aspx">Search</a>
+								</li>-->
+								<!--http://fortawesome.github.io/Font-Awesome/icons/-->
+								<script type="text/javascript">
+									$(document).ready(function(){
+										var loginIcon = "unlock-alt";
+										if ($('a#Header1_LoginStatusControl1_lnkStatus').text() == "Sign Out") {
+											loginIcon = "lock";
+										}
+										$('a#Header1_LoginStatusControl1_lnkStatus').prepend('<i class="fa fa-' + loginIcon + '"></i>');
+										$('a#Header1_lnkMyAccount').prepend('<i class="fa fa-user"></i>');
+										$('a#Header1_lnkCustomerService').prepend('<i class="fa fa-star"></i>');
+										$('a#Header1_lnkQuickOrderEntry').prepend('<i class="fa fa-book"></i>');
+										$('a#Header1_lnkSearch').prepend('<i class="fa fa-search"></i>');
+										$('a#Header1_lnkCart').prepend('<i class="fa fa-shopping-cart"></i>');
+									});
+								</script> 					
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        </div>
+        </div><!--/header-middle-->
+	
+	
+	</header><!--/header-->
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		//$('input[type=text]').addClass('form-control');
+		//$('input[type=password]').addClass('form-control');
+		$('table.FormTable td').css('padding-right','5px').removeAttr('height').attr('height','31');
+		/*$('label').css('padding-left','5px');*/
+		$('table.logintableIndent').css('width','100%');
+		$('table.logintableIndent fieldset').removeAttr('style');
+	});
+
+	$(document).ready(function(){
+		//$('img[class$=SelectedColorSwatchIconImage]').css('width','33%');
+		$('.ColorSwatchTableLayout').removeAttr('align');
+		$('.ColorSwatchTableLayout').css('table-layout','fixed');
+		$('.ColorSwatchTableLayout td').removeAttr('align').removeAttr('valign');
+		$('.ColorSwatchTableLayout').css('width','100%');
+		//$('.SingleProductDisplayDetails').css('margin-bottom','15px');
+	});
+</script>
+
+				
+				<div class="container">
+					  
+	<div class="container">
+		<div class="row"><div id="products" class="row containerClass containerID-1  col-xs-12 col-sm-12 col-md-3 col-lg-3"><div class="FullCategoryList  col-xs-12 col-sm-12 col-md-12 col-lg-12"/><div class="row"/>
+
+		<h2 class="title"><span id="ucContentMiddleCenter_ctl00_TitleLabel">Categories</span></h2>
+		<div class="panel-group category-products" id="#catList-0"><!--category-productsr-->
+		<div class="panel panel-default"><div class="panel-heading"><h4 class="panel-title"><a href="https://shop.goldenmalted.com/Category/2_1/Waffle_and_Pancake_Mixes.aspx" title="Waffle and Pancake Mixes">Waffle and Pancake Mixes</a></h4></div><div id="catID-2" class="collapse"></div></div><div class="panel panel-default"><div class="panel-heading"><h4 class="panel-title"><a href="https://shop.goldenmalted.com/Category/5_1/Syrups.aspx" title="Syrups">Syrups</a></h4></div><div id="catID-5" class="collapse"></div></div><div class="panel panel-default"><div class="panel-heading"><h4 class="panel-title"><a href="https://shop.goldenmalted.com/Category/3_1/Gift_Sets_and_Value_Packs.aspx" title="Gift Sets and Value Packs">Gift Sets and Value Packs</a></h4></div><div id="catID-3" class="collapse"></div></div><div class="panel panel-default"><div class="panel-heading"><h4 class="panel-title"><a href="https://shop.goldenmalted.com/Category/6_1/Waffle_Bakers_and_Accessories.aspx" title="Waffle Bakers and Accessories">Waffle Bakers and Accessories</a></h4></div><div id="catID-6" class="collapse"></div></div>
+		</div>
+		
+		
+		
+
+		
+</div></div><div class="MailingListSignup  col-xs-12 col-sm-12 col-md-10 col-lg-10"/><div class="row"/><div id="ucContentMiddleCenter_mlsu84_UpdatePanel1">
+	
+<div id="ucContentMiddleCenter_mlsu84_pnlMailingList" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ucContentMiddleCenter_mlsu84_btnMailingList&#39;)" style="width:100%;">
+		
+<div id="MailingListSignupFormControl" class="MailingListSignupForm">
+	<div class="MailingListTextTitle"><label for="ucContentMiddleCenter_mlsu84_txtEmailBox" id="ucContentMiddleCenter_mlsu84_TitleLabel"></label></div>
+	
+    <div class="MailingListSignupFormContent text-center">
+		<div class="row">
+            <div class="col-md-12 col-sm-12"><p style="color:#a80000; line-height:100%; font-size: 18px"><b>New Customers Save 10% Off Now</b></p><p>Sign up for our newsletter now and get 10% off your first order!</p>
+			
+			
+</div>
+		</div>
+		<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<input name="ctl00$ucContentMiddleCenter$mlsu84$txtEmailBox" type="text" maxlength="30" size="10" id="ucContentMiddleCenter_mlsu84_txtEmailBox" tabindex="30100" class="respondInput MailingListTextBox" />
+					<input type="hidden" name="ctl00$ucContentMiddleCenter$mlsu84$TextBoxWatermarkExtender1_ClientState" id="ucContentMiddleCenter_mlsu84_TextBoxWatermarkExtender1_ClientState" />                 
+					&nbsp;                
+				
+					<a id="ucContentMiddleCenter_mlsu84_btnMailingList" tabindex="30101" href="javascript:__doPostBack(&#39;ctl00$ucContentMiddleCenter$mlsu84$btnMailingList&#39;,&#39;&#39;)"><span class="btn btn-primary topspace-sm">Go</span> </a>
+				</div>
+		</div>
+    </div>
+	
+</div>
+
+	</div>	
+
+</div></div></div></div><h1 style="color:#a80000">Featured Golden Malted Products</h1><div id="right" class="row containerClass containerID-2  col-xs-12 col-sm-12 col-md-9 col-lg-9"><div class="ProductGrid "/><div class="row"/>
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl01_lnkImage" href="https://shop.goldenmalted.com/Product/GM.20_32OZ/Original_Waffle_Pancake_Mix_-_Our_Most_Popular_Mix.aspx"><img id="ucContentMiddleCenter_ctl01_Main_GM32OZ" title="Since 1937, when we developed our patented recipe for Golden Malted® Waffle &amp; Pancake Mix, we&#39;ve been creating delicious golden-brown waffles and light &amp; fluffy pancakes. " src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Original-30.png" alt="Original Waffle &amp; Pancake Mix - Our Most Popular Mix!" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl01_lnkName" href="https://shop.goldenmalted.com/Product/GM.20_32OZ/Original_Waffle_Pancake_Mix_-_Our_Most_Popular_Mix.aspx">Original Waffle & Pancake Mix - Our Most Popular Mix!</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl02_lnkImage" href="https://shop.goldenmalted.com/Product/RETAIL.20_BAKER.20_PLUS/Golden_Malted_Gourmet_Waffle_Baker_2_Free_Pouches_of_Original_Mix.aspx"><img id="ucContentMiddleCenter_ctl02_Main_RETAILBAKERPLUS" title="GM Retail Baker + 2 pouches of GM 32oz" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Baker-with-Free-Mix-Store-Dark.png" alt="Golden Malted Gourmet Waffle Baker + 2 Free Pouches of Original Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl02_lnkName" href="https://shop.goldenmalted.com/Product/RETAIL.20_BAKER.20_PLUS/Golden_Malted_Gourmet_Waffle_Baker_2_Free_Pouches_of_Original_Mix.aspx">Golden Malted Gourmet Waffle Baker + 2 Free Pouches of Original Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl03_lnkImage" href="https://shop.goldenmalted.com/Product/GM.20_1.2F_33.20_-.20_HOLIDAY/Original_Waffle_and_Pancake_Mix_-_Holiday_Collector_s_Canister.aspx"><img id="ucContentMiddleCenter_ctl03_Main_GM1/33-HOLIDAY" title="Give the gift of America&#39;s Favorite Waffles and Pancakes with our limited edition Holiday Canister!" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/HolidayCan-30.png" alt="Original Waffle and Pancake Mix - Holiday Collector&#39;s Canister" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl03_lnkName" href="https://shop.goldenmalted.com/Product/GM.20_1.2F_33.20_-.20_HOLIDAY/Original_Waffle_and_Pancake_Mix_-_Holiday_Collector_s_Canister.aspx">Original Waffle and Pancake Mix - Holiday Collector's Canister</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl04_lnkImage" href="https://shop.goldenmalted.com/Product/RB.20_1.2F_33/Original_Robby_s_Buttermilk_Pancake_Mix_-_Premium_Classic_Canister.aspx"><img id="ucContentMiddleCenter_ctl04_Main_RB1/33" title="For over 50 years Robby&#39;s Buttermilk Pancakes have been a family favorite and now you can enjoy them in the comfort of your own home. Our Robby&#39;s Batter is still made today the way it has been made since 1962...fresh buttermilk, real eggs, oil..." src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/RB-Can-30.png" alt="Original Robby&#39;s Buttermilk Pancake Mix - Premium Classic Canister" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl04_lnkName" href="https://shop.goldenmalted.com/Product/RB.20_1.2F_33/Original_Robby_s_Buttermilk_Pancake_Mix_-_Premium_Classic_Canister.aspx">Original Robby's Buttermilk Pancake Mix - Premium Classic Canister</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl05_lnkImage" href="https://shop.goldenmalted.com/Product/GM.20_1.2F_33/Original_Waffle_and_Pancake_Mix_-_Premium_Classic_Canister.aspx"><img id="ucContentMiddleCenter_ctl05_Main_GM1/33" title="Now you and your family can enjoy our most popular mix from our classic canister. For over 80 years, our Original Waffle and Pancake Mix has been featured in the best hotels, restaurants and theme parks around the world." src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/OG-Can-30.png" alt="Original Waffle and Pancake Mix - Premium Classic Canister" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl05_lnkName" href="https://shop.goldenmalted.com/Product/GM.20_1.2F_33/Original_Waffle_and_Pancake_Mix_-_Premium_Classic_Canister.aspx">Original Waffle and Pancake Mix - Premium Classic Canister</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl06_lnkImage" href="https://shop.goldenmalted.com/Product/GM.20_ORG.20_1.2F_16/Organic_Original_Waffle_Pancake_Mix_-_16_oz_Canister.aspx"><img id="ucContentMiddleCenter_ctl06_Main_GMORG1/16" title="Bring home the Organic version of our world-famous Original Waffle and Pancake Mix today." src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Organic-Can-20.png" alt="Organic Original Waffle &amp; Pancake Mix - 16 oz. Canister" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl06_lnkName" href="https://shop.goldenmalted.com/Product/GM.20_ORG.20_1.2F_16/Organic_Original_Waffle_Pancake_Mix_-_16_oz_Canister.aspx">Organic Original Waffle & Pancake Mix - 16 oz. Canister</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl07_lnkImage" href="https://shop.goldenmalted.com/Product/DELUXE.20_WAFFLE.20_STARTER.20_KIT/Deluxe_Waffle_Starter_Kit.aspx"><img id="ucContentMiddleCenter_ctl07_Main_DELUXEWAFFLESTARTERKIT" title="Retail Deluxe Waffle Starter Kit" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/DSK-20.png" alt="Deluxe Waffle Starter Kit" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl07_lnkName" href="https://shop.goldenmalted.com/Product/DELUXE.20_WAFFLE.20_STARTER.20_KIT/Deluxe_Waffle_Starter_Kit.aspx">Deluxe Waffle Starter Kit</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl08_lnkImage" href="https://shop.goldenmalted.com/Product/PUMP.20_32OZ/Pumpkin_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl08_Main_PUMP32OZ" title="Our gourmet Pumpkin Waffle and Pancake Mix is back for a limited time! Made with REAL pumpkin and savory spices, it&#39;s the perfect way to make hot, fluffy waffles and pancakes!" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Pumpkin-40.png" alt="Pumpkin Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl08_lnkName" href="https://shop.goldenmalted.com/Product/PUMP.20_32OZ/Pumpkin_Waffle_Pancake_Mix.aspx">Pumpkin Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl09_lnkImage" href="https://shop.goldenmalted.com/Product/PREMIER.20_WAFFLE.2F_PANCAKE.20_GIFT/Premier_Waffle_and_Pancake_Gift_Set.aspx"><img id="ucContentMiddleCenter_ctl09_Main_PREMIERWAFFLE/PANCAKEGIFT" title="Premier Waffle and Pancake Gift Set" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Gift-Set-50.png" alt="Premier Waffle and Pancake Gift Set" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl09_lnkName" href="https://shop.goldenmalted.com/Product/PREMIER.20_WAFFLE.2F_PANCAKE.20_GIFT/Premier_Waffle_and_Pancake_Gift_Set.aspx">Premier Waffle and Pancake Gift Set</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl10_lnkImage" href="https://shop.goldenmalted.com/Product/132/Premium_Grid_Conditioner.aspx"><img id="ucContentMiddleCenter_ctl10_Main_132" title="Carbon&#39;s® Golden Malted® Premium Grid Conditioner is essential in any kitchen. This special water-based formula will keep your waffle maker looking and working like new." src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Grid-Cond-15a.png" alt="Premium Grid Conditioner" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl10_lnkName" href="https://shop.goldenmalted.com/Product/132/Premium_Grid_Conditioner.aspx">Premium Grid Conditioner</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl11_lnkImage" href="https://shop.goldenmalted.com/Product/GM.2F_RB.20_2.2F_33OZ/America_s_Favorite_Value_Pack_-_Original_and_Robby_s_Premium_Canisters.aspx"><img id="ucContentMiddleCenter_ctl11_Main_GM/RB2/33OZ" title="Contains one each of our 33 oz. canisters: Original Waffle &amp; Pancake Mix and Original Robby’s Buttermilk Pancake Mix." src="https://shop.goldenmalted.com/images/products/OriginalRobbys-155x175c.png" alt="America&#39;s Favorite Value Pack - Original and Robby&#39;s Premium Canisters" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl11_lnkName" href="https://shop.goldenmalted.com/Product/GM.2F_RB.20_2.2F_33OZ/America_s_Favorite_Value_Pack_-_Original_and_Robby_s_Premium_Canisters.aspx">America's Favorite Value Pack - Original and Robby's Premium Canisters</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl12_lnkImage" href="https://shop.goldenmalted.com/Product/CHOC.20_CHIP.20_32OZ/Chocolate_Chip_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl12_Main_CHOCCHIP32OZ" title="Perfect for dessert, breakfast or a snack. Our Chocolate Chip Waffle and Pancake mix is full of delicious, semi-sweet chocolate chips. It&#39;s especially tasty with a bit of whipped cream." src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Choc-chip-25.png" alt="Chocolate Chip Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl12_lnkName" href="https://shop.goldenmalted.com/Product/CHOC.20_CHIP.20_32OZ/Chocolate_Chip_Waffle_Pancake_Mix.aspx">Chocolate Chip Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl13_lnkImage" href="https://shop.goldenmalted.com/Product/BLUE.20_32OZ/Blueberry_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl13_Main_BLUE32OZ" title="Love the taste of berries with your Waffles and Pancakes, but don&#39;t like the &#39;fake taste&#39; that comes with some mixes? Try our Blueberry Waffle and Pancake Mix for a burst of blueberry flavor that will make you smile!" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Blueberry-25-NEW-150x162.png" alt="Blueberry Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl13_lnkName" href="https://shop.goldenmalted.com/Product/BLUE.20_32OZ/Blueberry_Waffle_Pancake_Mix.aspx">Blueberry Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl14_lnkImage" href="https://shop.goldenmalted.com/Product/PURE.20_RETAIL.20_SYRUP/Anderson_s_Pure_Maple_Syrup_8oz_Bottle.aspx"><img id="ucContentMiddleCenter_ctl14_Main_PURERETAILSYRUP" title="Pure Maple Syrup 8 oz Retail" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/AMP-110x169-15off.png" alt="Anderson&#39;s Pure Maple Syrup 8oz Bottle" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl14_lnkName" href="https://shop.goldenmalted.com/Product/PURE.20_RETAIL.20_SYRUP/Anderson_s_Pure_Maple_Syrup_8oz_Bottle.aspx">Anderson's Pure Maple Syrup 8oz Bottle</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl15_lnkImage" href="https://shop.goldenmalted.com/Product/AW.20_32OZ/Just_Add_Water_Non-GMO_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl15_Main_AW32OZ" title="In a hurry? Try our Just Add Water Waffle &amp; Pancake Mix when you&#39;re on the go. You&#39;ll get delicious golden brown waffles and light &amp; fluffy pancakes, every time in just a matter of minutes. No extra ingredients needed, just water!" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/AW-25.png" alt="Just Add Water Non-GMO Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl15_lnkName" href="https://shop.goldenmalted.com/Product/AW.20_32OZ/Just_Add_Water_Non-GMO_Waffle_Pancake_Mix.aspx">Just Add Water Non-GMO Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl16_lnkImage" href="https://shop.goldenmalted.com/Product/ORG.20_A.2F_C.20_32OZ/Organic_Apple_Cinnamon_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl16_Main_ORGA/C32OZ" title="Introducing an exciting new offering from Carbon&#39;s® Golden Malted®, our Organic Apple Cinnamon Pancake and Waffle Flour is a delicious way to enjoy an organic breakfast! " src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/OrgAC-60.png" alt="Organic Apple Cinnamon Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl16_lnkName" href="https://shop.goldenmalted.com/Product/ORG.20_A.2F_C.20_32OZ/Organic_Apple_Cinnamon_Waffle_Pancake_Mix.aspx">Organic Apple Cinnamon Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl17_lnkImage" href="https://shop.goldenmalted.com/Product/GF.20_32OZ/Gluten_Free_Waffle_Pancake_Mix.aspx"><img id="ucContentMiddleCenter_ctl17_Main_GF32OZ" title="Now everyone can enjoy the classic taste of Carbon&#39;s® Golden Malted®! We&#39;re proud to introduce our new Gluten Free Original Pancake &amp; Waffle Mix. " src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/GF-25-150x162.png" alt="Gluten Free Waffle &amp; Pancake Mix" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl17_lnkName" href="https://shop.goldenmalted.com/Product/GF.20_32OZ/Gluten_Free_Waffle_Pancake_Mix.aspx">Gluten Free Waffle & Pancake Mix</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+
+
+<div class="col-sm-6 col-md-4 singleProductOuterContainer">
+	<div class="singleProductInnerContainer">
+	<div class="productImage">
+		<a id="ucContentMiddleCenter_ctl18_lnkImage" href="https://shop.goldenmalted.com/Product/SF.20_SYRUP.20_12OZ/Sugar_Free_Syrup_12oz_Bottle.aspx"><img id="ucContentMiddleCenter_ctl18_Main_SFSYRUP12OZ" title="Enjoy a sweet taste without the sugar when you top your waffles or pancakes with Sugar-Free Golden Malted® Syrup. At only 45 calories per serving, you can indulge your sweet tooth!" src="https://shop.goldenmalted.com/images/products/Sale%20Pouches/Suger-Free-15a.png" alt="Sugar Free Syrup 12oz Bottle" style="border-width:0px;max-width:150;" /></a>
+		
+      
+	</div>
+	<div class="colorSwatch"><span class="swatchImg">&nbsp;</span></div>
+	
+	<p></p>
+	<p><a id="ucContentMiddleCenter_ctl18_lnkName" href="https://shop.goldenmalted.com/Product/SF.20_SYRUP.20_12OZ/Sugar_Free_Syrup_12oz_Bottle.aspx">Sugar Free Syrup 12oz Bottle</a></p>
+	<p></p>
+	<p></p>
+
+	<div class="addCartButtonFixDimensions">
+	<div class="addCartButtonInner">
+	
+	</div>
+	</div>
+    <div class="WishListDeleteBadge">
+       
+	</div>
+    </div>
+</div>
+
+
+</div></div></div></div>
+	</div>    
+
+				</div>
+				
+           
+
+
+
+<!--<footer id="footer">
+	<div id="footer-top" class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-2"><div class="single-widget"><h2><a href="https://shop.goldenmalted.com/default.aspx">Home</a></h2></div></div><div class="col-sm-2"><div class="single-widget"><h2><a href="https://shop.goldenmalted.com/cart.aspx">Shopping Cart</a></h2></div></div><div class="col-sm-2"><div class="single-widget"><h2><a href="https://shop.goldenmalted.com/myaccount_orders.aspx">My Account</a></h2></div></div><div class="col-sm-2"><div class="single-widget"><h2><a href="https://shop.goldenmalted.com/Contact.aspx">Customer Service</a></h2></div></div><div class="col-sm-2"><div class="single-widget"><h2><a href="https://shop.goldenmalted.com/Privacy.aspx">Privacy Policy</a></h2></div></div>
+			</div>
+		</div>
+	</div>
+	<div id="footer-widget" class="footer-widget">
+		<div class="container" style="border:none">
+			<div class="row">
+				
+						<ul class="nav nav-pills">
+							
+						</ul>
+				
+			</div>
+		</div>
+	</div>
+	<div id="footer-bottom" class="footer-bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+    
+</footer>-->
+
+	<footer id="footer">
+				<div class="container">
+					<div class="row">
+					  <div class="footer-ribbon">
+							<span>Stay in Touch</span>						</div>
+						<div class="col-md-3">
+							<div class="quicklinks">
+								<h4>Quick Links</h4>
+								<nav id="sub-menu">
+									<ul>
+										<li><a href="http://shop.goldenmalted.com">Shop for Home</a></li>
+                                        	<ul>
+                                            <li><a href="http://shop.goldenmalted.com/Category/2_1/Waffle_and_Pancake_Mixes.aspx">Waffle and Pancake Mixes</a></li>
+                                            <li><a href="http://shop.goldenmalted.com/Category/6_1/Waffle_Bakers_and_Accessories.aspx">Waffle Bakers</a></li>
+                                            <li><a href="http://shop.goldenmalted.com/Category/3_1/Gift_Sets_and_Value_Packs.aspx">Value Packs and Gift Sets</a></li>
+											<li><a href="http://goldenmalted.com/shipping-information">Shipping Information</a></li>
+											<li><a href="http://goldenmalted.com/security-guarantee">Security Guarantee</a></li>
+											<li><a href="http://goldenmalted.com/satisfaction-guaranteed">Satisfaction Guaranteed</a></li>
+											
+                                            </ul>
+																
+									</ul>
+								</nav>
+			
+							
+							</div>
+						</div>
+						<div class="col-md-3">
+							<h4>Latest Tweet</h4>
+							<div id="tweet" class="twitter" data-account-id="GoldenMalted">
+								<p>Please wait...</p>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="contact-details">
+								<h4>Contact Us</h4>
+								<ul class="contact">
+									<li>
+									  <p><i class="icon icon-map-marker"></i> <strong>Address: </strong>4101 William Richardson Drive South Bend, IN 46628 </p>
+									</li>
+									<li>
+									  <p><i class="icon icon-phone"></i> <strong>Phone: </strong>888.596.4040</p>
+									</li>
+									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:ncdcs@goldenmalted.com">ncdcs@goldenmalted.com</a></p>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-2">
+							<h4>Follow Us</h4>
+							<div class="social-icons">
+								<ul class="social-icons">
+									<li class="facebook"><a href="https://www.facebook.com/goldenmalted" target="_blank" data-placement="bottom" rel="tooltip" title="Facebook">Facebook</a></li>
+									<li class="twitter"><a href="https://twitter.com/goldenmalted" target="_blank" data-placement="bottom" rel="tooltip" title="Twitter">Twitter</a></li>
+									<li class="linkedin"><a href="https://www.linkedin.com/company/503094" target="_blank" data-placement="bottom" rel="tooltip" title="Linkedin">Linkedin</a></li>
+									<li class="youtube"><a href="https://www.youtube.com/user/CarbonsGoldenMalted" target="_blank" data-placement="bottom" rel="tooltip" title="YouTube">YouTube</a></li>
+								</ul>
+							</div>
+						</div>
+				</div></div>
+				
+			
+				
+				
+<div class="footer-copyright">
+					<div class="container">
+						<div class="row">
+												
+							<div class="col-md-10" style="color:#777777">	© Copyright 2017. All Rights Reserved.
+								<nav id="sub-menu">
+									<ul>
+										<li><a href="http://goldenmalted.com/contact-us">Contact Us</a></li>
+										<li><a href="http://goldenmalted.com/faq">FAQs</a></li>
+										<li><a href="https://goldenmalted.acquiretm.com/home.aspx?client=CarbonsGM">Job Opportunties</a></li>
+										<li><a href="http://goldenmalted.com/terms-of-use">Terms of Use</a></li>
+										<li><a href="http://goldenmalted.com/privacy-policy">Privacy Policy</a></li>
+									</ul>
+								</nav>
+						
+							</div>
+						</div>
+					</div>
+				</div>
+
+		</div>
+			</footer>
+
+
+				
+				
+
+				
+				
+				
+
+    
+	<div id="divExtra_extraDiv1"><span></span>
+    </div>
+	<div id="divExtra_extraDiv2"><span></span>
+     </div>
+	<div id="divExtra_extraDiv3"><span></span>
+     </div>
+	<div id="divExtra_extraDiv4"><span></span>
+     </div>
+	<div id="divExtra_extraDiv5"><span></span>
+     </div>
+	<div id="divExtra_extraDiv6"><span></span></div>
+    
+
+    <input name="ctl00$CurMainImageURL" type="text" id="CurMainImageURL" style="display: none" /><label for="CurMainImageURL" id="lblCurMainImageURL" style="display: none">Color Swatch Image</label>
+    
+<script type="text/javascript" src="https://shop.goldenmalted.com/Tools/GreyBox/AJS.js"></script><script type="text/javascript"  src="https://shop.goldenmalted.com/Tools/GreyBox/AJS_fx.js"></script><script type="text/javascript"  src="https://shop.goldenmalted.com/Tools/GreyBox/gb_scripts.js"></script><link href="https://shop.goldenmalted.com/Tools/GreyBox/gb_styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("Header1_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ucContentMiddleCenter_mlsu84_TextBoxWatermarkExtender1_ClientState","WatermarkCssClass":"respondInput WatermarkedMailingListTextBox","WatermarkText":"Email","id":"ucContentMiddleCenter_mlsu84_TextBoxWatermarkExtender1"}, null, null, $get("ucContentMiddleCenter_mlsu84_txtEmailBox"));
+});
+//]]>
+</script>
+</form>
+	
+	
+	
+
+
+<script src="//goldenmalted.com/testsite2/vendor/jquery.validate.js"></script>
+	<script src="/vendor/twitterjs/twitter.js"></script>
+	
+
+		<!-- Theme Initializer -->
+		<script src="//goldenmalted.com/testsite2/js/theme.plugins.js"></script>
+		<script src="//goldenmalted.com/testsite2/js/theme.js"></script>
+	
+
+</body>
+</html>

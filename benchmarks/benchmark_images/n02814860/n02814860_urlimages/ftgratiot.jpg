@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lighthouse Hotels News | Hotel Guides, Coupons and More.</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="shortcut icon" href=""/>
+    <link rel="pingback" href="http://lighthouse-news.com/xmlrpc.php">
+    <!--[if lt IE 9]>
+    <script src="http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/html5.js"></script>
+    <![endif]-->
+    
+<!-- All in One SEO Pack 2.4.2 by Michael Torbert of Semper Fi Web Design[154,217] -->
+<link rel="canonical" href="http://lighthouse-news.com/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Lighthouse Hotels News &raquo; Feed" href="http://lighthouse-news.com/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lighthouse-news.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://lighthouse-news.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='google-raleway-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-bootstrap-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/resources/bootstrap/css/bootstrap.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-swipebox-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/swipebox.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-owl-carousel-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/owl.carousel.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-owl-theme-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/owl.theme.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-animations-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/animations.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-meanmenu-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/meanmenu.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ascent-main-css'  href='http://lighthouse-news.com/wp-content/themes/ascent1/includes/css/main.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-recent-post-widget-css'  href='http://lighthouse-news.com/wp-content/plugins/mp-recent-post-widget/assets/css/style.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://lighthouse-news.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://lighthouse-news.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/resources/bootstrap/js/bootstrap.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/bootstrap-wp.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/smoothscroll.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/jquery.swipebox.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/swipebox-config.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/owl.carousel.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/jquery.appear.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/jquery.meanmenu.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/jquery.velocity.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/appear.config.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/main.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/enable-sticky-header.js?ver=4.8.3'></script>
+<link rel='https://api.w.org/' href='http://lighthouse-news.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lighthouse-news.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lighthouse-news.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.3" />
+
+<script type="text/javascript">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+    <style type="text/css">
+                
+                 
+                
+                    </style>
+</head>
+
+<body class="home blog">
+  <header id="masthead" class="site-header" role="banner">
+    <div class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="mail-info">
+						    <span class="phone-info"><i class="fa fa-phone"></i> 000</span>
+									    <span><i class="fa fa-envelope"></i> <a href="mailto:support@wordpress.com">support@wordpress.com</a></span>
+			                    </div>
+                </div><!-- .col-sm-6-->
+                <div class="col-sm-6">
+                    <div class="header-social-icon-wrap">
+                        <ul class="social-icons">
+			    <li class="social-icon"><a target="_blank" href="http://twitter.com"><i class="fa fa-twitter"></i></a></li><li class="social-icon"><a target="_blank" href="http://facebook.com"><i class="fa fa-facebook"></i></a></li>                        </ul>
+                    </div><!--.header-social-icon-wrap-->
+                </div><!-- .col-sm-6-->
+            </div>
+        </div>
+     </div>
+    <div id="header-main" class="header-bottom">
+        <div class="header-bottom-inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div id="logo">
+                            <div class="site-header-inner col-sm-12">
+                                <div class="site-branding">
+                                    <h1 class="site-title"><a href="http://lighthouse-news.com/" title="Lighthouse Hotels News" rel="home">
+				    					<img src="http://lighthouse-news.com/wp-content/uploads/2017/08/lighthouse-news.png" alt="Lighthouse Hotels News">
+				    				    </a></h1>
+				    
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--.col-sm-3-->
+                  
+                    <div class="col-sm-9">
+                        <div class="header-search pull-right">
+                            <div id="header-search-button"><i class="fa fa-search"></i></div>
+                        </div>
+                        <div class="site-navigation pull-right">
+			    <nav class="main-menu">
+				<ul id="menu-main" class="header-nav clearfix"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15"><a href="http://lighthouse-news.com">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://lighthouse-news.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://lighthouse-news.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12"><a href="http://lighthouse-news.com/contact/">Contact</a></li>
+</ul>			    </nav>
+			    <div id="responsive-menu-container"></div>
+                        </div><!-- .site-navigation -->
+                    </div><!--.col-sm-9-->
+                </div><!--.row-->
+            </div><!-- .container -->
+        </div><!--.header-bottom-inner-->
+    </div><!--.header-bottom-->
+  <div id="header-search-form-wrap" class="header-search-form-wrap">
+   <div class="container">
+      <form role="search" method="get" class="header-search-form search-form" action="http://lighthouse-news.com/">
+         <div class="control-group">
+            <i class="fa fa-search"></i>  
+            <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+            <button class="search" type="submit"><i class="icon-search"></i></button>
+         </div>
+      </form>
+   </div>
+</div>
+</header><!-- #masthead -->
+
+    <div id="banner">
+    	<img src="http://lighthouse-news.com/wp-content/uploads/2017/08/Lighthouses.jpg" alt="Lighthouse Hotels News-Banner">
+        </div>
+  
+<div class="main-content">  
+    <div class="container">
+        <div id="content" class="main-content-inner">
+	    
+<div class="row">
+    <div class="col-sm-12 col-md-9">	
+					
+			
+
+<article id="post-27" class="post-27 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-coupons tag-cheap-travel tag-concierge tag-hotel-deals tag-hotel-website tag-hotwire tag-hotwire-promo-code tag-price-changes tag-promo-code">
+    
+    <div class="row">
+	<div class="post-meta-info col-sm-12 col-md-2">
+	    	    <div class="entry-meta">
+		<time class="entry-time updated" itemprop="datePublished" datetime="2017-10-23T19:54:54+00:00">Oct<strong>23</strong></time>
+		<span class="comments_count clearfix entry-comments-link"><span>Comments Off<span class="screen-reader-text"> on A Hotwire Promo Code Can Save You Money on Your Next Hotel Stay</span></span></span>
+	    </div><!-- .entry-meta -->
+	    	</div><!--.post-meta-info-->
+	
+	<div class="post-content-wrap col-sm-12 col-md-10">
+	    <header class="page-header">
+		<h1 class="entry-title"><a href="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/" rel="bookmark">A Hotwire Promo Code Can Save You Money on Your Next Hotel Stay</a></h1>
+		<span class="entry-author">
+		    Posted by		    <span class="author vcard entry-author-link">
+			<a href="http://lighthouse-news.com/author/matthewsimpso/" title="Posts by Lighthouse Writer" rel="author">Lighthouse Writer</a>		    </span>
+		</span>
+	    </header><!-- .entry-header -->
+    
+		    
+	    <div class="entry-content">
+						    		    			<figure>
+			    <a class="swipebox" href="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code.jpg" title="A Hotwire Promo Code Can Save You Money on Your Next Hotel Stay">
+				<img width="640" height="427" src="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code.jpg" class="attachment-blog-page size-blog-page wp-post-image" alt="hotwire promo code" srcset="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code.jpg 640w, http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />			    </a>
+			</figure>
+		    				
+		<h3 class="p1"><span class="s1"><b>How to Save Money on Your Next Hotel Stay</b></span></h3>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">It is no secret that hotel rates have been on the rise. If you have not traveled for some time, you may be in for a nasty surprise the next time you call your favorite chain to book a room. What kind of tools do consumers have in this fight against inflationary hotel prices? Our favorite solution: coupon codes. </span></p>
+<p>We found that a <a href="https://couponcoder.com/hotwire-coupon/" target="_blank" rel="noopener">Hotwire promo code</a> can save you $30 off your booking. And that&#8217;s on top of the &#8216;secret hotel rate&#8217; that Hotwire uses to undercut other <a href="https://priceline.com" target="_blank" rel="noopener">travel booking sites</a>.</p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">Whether you are traveling for fun or for business, you can take a few simple steps to save money. You do not have to pay those costly rack rates; you can negotiate substantial discounts if you know when to go and who to talk to. Just use these tips to save money on your next trip.</span></p>
+<p class="p1"><span class="s1">  </span></p>
+<h3 class="p1"><span class="s2">Know When to Go</span></h3>
+<p class="p1"><span class="s1">You will have far less <em>price flexibility</em> if you try to book a hotel room during periods of high demand. When you go can have a huge impact on how much you pay, so it is important to do your homework ahead of time.</span></p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">You obviously need to be aware of the <a href="http://www.travelchannel.com/interests/budget/articles/best-off-season-summer-destinations" target="_blank" rel="noopener">high and low seasons for your destinations</a>, but there are additional considerations as well. If you are traveling to a college town, you need to that special events like homecoming weekend could cause a spike in demand. Avoiding travel during peak times gives you additional flexibility and the freedom to negotiate more effectively on price.</span></p>
+<p class="p1"><span class="s1">  </span></p>
+<h3 class="p1"><span class="s2">Book Your Stay Directly Through the Hotel Website</span></h3>
+<p class="p1"><span class="s1">Many hotel chains <a href="https://www.forbes.com/sites/alexandratalty/2015/04/28/when-booking-hotels-through-websites-like-kayak-expedia-isnt-smart/" target="_blank" rel="noopener">offer additional discounts</a> for booking directly through the hotel website. Always check the website first for special discounts and promotions. It is still a good idea to call the hotel and ask about discounts, but you will typically get the best price if you book the room online.</span></p>
+<p class="p1"><span class="s1">  </span></p>
+<h3 class="p1"><span class="s2">Consider Blind Booking Sites, but Be Aware of the Risks</span></h3>
+<p class="p1"><span class="s1">If you do not mind not knowing where you will be staying until you have paid, you could get a rock-bottom price on a 4-star or 5-star hotel room. Sites like Priceline.com and Hotwire.com post offers from top hotel chains, and those prices can be as much as 60 to 70 percent less than regular rack rates. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">The risk is that you may not get the most convenient location or the hotel chain you prefer. Priceline and Hotwire do divulge general location details, but you will not know the exact setting or the name of the hotel until the deal is made. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<h3 class="p1"><span class="s2">Watch Rates Even After You Book</span></h3>
+<p class="p1"><span class="s1">It pays to keep an eye on hotel rates even after you have booked your trip. If rates go down in the intervening days, you may be able to renegotiate your own booking and save more money. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">Hotel rates change all the time based on a number of factors, from supply and demand to location-specific circumstances. In addition, many hotel chains offer best-rate guarantees, which may entitle you to a partial refund on a previously booked hotel room. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<h3 class="p1"><span class="s2">Watch Out for Last Minute Fees</span></h3>
+<p class="p1"><span class="s1">When you arrive at your hotel, be sure to check the fine print carefully and look out for any fees. If you spot anything questionable, question it and ask that those fees be removed. You may be able to negotiate away things like last-minute booking fees and other charges. You may have better luck negotiating fees if you are a loyal customer of the chain, but many hotel managers are willing to make accommodations even for first-time guests. </span></p>
+<p class="p1"><span class="s1"><img class="alignright wp-image-32" src="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-coupon-discount-concierge-300x300.png" alt="hotwire coupon - discount - concierge" width="292" height="292" srcset="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-coupon-discount-concierge-300x300.png 300w, http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-coupon-discount-concierge-150x150.png 150w, http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-coupon-discount-concierge-200x200.png 200w, http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-coupon-discount-concierge.png 640w" sizes="(max-width: 292px) 100vw, 292px" />  </span></p>
+<h3 class="p1"><span class="s2">Make Friends with the Concierge</span></h3>
+<p class="p1"><span class="s1">The hotel concierge can be your best friend, especially if you are visiting a city for the first time. A good concierge will have the inside scoop on everything from the best romantic restaurant in town to where to get two-for-one theatre tickets. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">Be sure to check in with the concierge as soon as you get checked into your hotel room. Talk about what you like to do and what you hope to see while you are in town. The concierge should be able to help you find the best deals on local attractions and save you a lot of money in the process. </span></p>
+<p class="p1"><span class="s1">  </span></p>
+<p class="p1"><span class="s1">Vacations are expensive, and the costs keep going up. Doing what you can to save money on the hotel can put more money in your pocket and give you more cash to spend actually seeing the sites and enjoying your holiday.</span></p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/" data-a2a-title="A Hotwire Promo Code Can Save You Money on Your Next Hotel Stay"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Flighthouse-news.com%2Fa-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay%2F&amp;linkname=A%20Hotwire%20Promo%20Code%20Can%20Save%20You%20Money%20on%20Your%20Next%20Hotel%20Stay" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Flighthouse-news.com%2Fa-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay%2F&amp;linkname=A%20Hotwire%20Promo%20Code%20Can%20Save%20You%20Money%20on%20Your%20Next%20Hotel%20Stay" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Flighthouse-news.com%2Fa-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay%2F&amp;linkname=A%20Hotwire%20Promo%20Code%20Can%20Save%20You%20Money%20on%20Your%20Next%20Hotel%20Stay" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+				<a class="read-more" href="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/">Read More &rarr;</a>
+		
+	    </div><!-- .entry-content -->
+	    
+	    <footer class="footer-meta">
+				
+		    		    		    
+		    			<div class="cat-tag-meta-wrap">
+			    				<span class="cats-meta"><i class="fa fa-folder"></i> <a href="http://lighthouse-news.com/category/coupons/" rel="category tag">Coupons</a></span>
+			    			    				<span class="tags-meta"><i class="fa fa-tags"></i> <a href="http://lighthouse-news.com/tag/cheap-travel/" rel="tag">cheap travel</a>, <a href="http://lighthouse-news.com/tag/concierge/" rel="tag">concierge</a>, <a href="http://lighthouse-news.com/tag/hotel-deals/" rel="tag">hotel deals</a>, <a href="http://lighthouse-news.com/tag/hotel-website/" rel="tag">hotel website</a>, <a href="http://lighthouse-news.com/tag/hotwire/" rel="tag">hotwire</a>, <a href="http://lighthouse-news.com/tag/hotwire-promo-code/" rel="tag">hotwire promo code</a>, <a href="http://lighthouse-news.com/tag/price-changes/" rel="tag">price changes</a>, <a href="http://lighthouse-news.com/tag/promo-code/" rel="tag">promo code</a></span>
+			    			</div>
+		    			    </footer><!-- .entry-meta -->			
+	</div><!--.post-content-wrap-->
+	
+    </div><!--.row-->
+</article><!-- #post-## -->		
+			
+
+<article id="post-35" class="post-35 post type-post status-publish format-standard has-post-thumbnail hentry category-coupons category-guides tag-baltimore-marriott-waterfront tag-coupon-codes tag-hilton-baltimore-hotel tag-priceline tag-priceline-com tag-promo-codes">
+    
+    <div class="row">
+	<div class="post-meta-info col-sm-12 col-md-2">
+	    	    <div class="entry-meta">
+		<time class="entry-time updated" itemprop="datePublished" datetime="2017-08-23T22:59:33+00:00">Aug<strong>23</strong></time>
+		<span class="comments_count clearfix entry-comments-link"><span>Comments Off<span class="screen-reader-text"> on Priceline.com And Other Discounts For Your Trip to Baltimore</span></span></span>
+	    </div><!-- .entry-meta -->
+	    	</div><!--.post-meta-info-->
+	
+	<div class="post-content-wrap col-sm-12 col-md-10">
+	    <header class="page-header">
+		<h1 class="entry-title"><a href="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/" rel="bookmark">Priceline.com And Other Discounts For Your Trip to Baltimore</a></h1>
+		<span class="entry-author">
+		    Posted by		    <span class="author vcard entry-author-link">
+			<a href="http://lighthouse-news.com/author/matthewsimpso/" title="Posts by Lighthouse Writer" rel="author">Lighthouse Writer</a>		    </span>
+		</span>
+	    </header><!-- .entry-header -->
+    
+		    
+	    <div class="entry-content">
+						    		    			<figure>
+			    <a class="swipebox" href="http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes.jpg" title="Priceline.com And Other Discounts For Your Trip to Baltimore">
+				<img width="640" height="426" src="http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes.jpg" class="attachment-blog-page size-blog-page wp-post-image" alt="priceline coupon codes" srcset="http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes.jpg 640w, http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />			    </a>
+			</figure>
+		    				
+		<p class="p1"><span class="s1">Baltimore is one of the most underrated cities in America when it comes to tourism. The Inner Harbor is the key to everything. This location has a lot to offer, from the National Aquarium to the USS Constellation to a plethora of casual dining options. Other popular attractions in the city include the Science Museum, Little Italy, the Baltimore Ravens and the Baltimore Orioles. The Orioles might not be the greatest team in the league, but they do have the nicest stadium in Camden Yards. Regardless of your specific interests, you’re going to want to stay at one of the best Baltimore hotels. </span></p>
+<p>Unfortunately Baltimore&#8217;s average hotel price has gone up in the past few years. We wanted to give you a free-to-use <a href="https://couponcoder.com/priceline-coupon-code/" target="_blank" rel="noopener">priceline coupon</a> code that you can use to save on any of the hotels below.</p>
+<p class="p1"><span class="s1">All you need to know can be found below. </span></p>
+<p class="p1"><span class="s1"><b>Baltimore Marriott Waterfront</b></span></p>
+<p class="p1"><span class="s1"><b>Traveler Rating: 4.5 Stars</b></span></p>
+<p class="p1"><span class="s1"><b>Price: Expensive </b></span></p>
+<p class="p1"><span class="s1">This <a href="http://www.marriott.com/hotels/travel/bwiwf-baltimore-marriott-waterfront/" target="_blank" rel="noopener">hotel </a>stands out for two reasons. One, it’s right on the Inner Harbor, which leads to spectacular views as long as you have a harbor view room. Two, the service here can compete with the service at any hotel in the country. What makes this service unique is that you’re not treated like royalty, but as an average individual who’s looking to have an enjoyable vacation. The best way to put it is that the service here is sincere, not over the top and phony. The Baltimore Marriot Waterfront has 733 rooms, 27 of which are suites. There is a pool as well as a restaurant and a café. The negatives here are extra charges for internet service, parking, and breakfast. </span></p>
+<p class="p1"><span class="s1"><b>Pier 5 Hotel</b></span></p>
+<p class="p1"><span class="s1"><b>Traveler Rating: 4.0 Stars</b></span></p>
+<p class="p1"><span class="s1"><b>Price: Expensive </b></span></p>
+<p class="p1"><span class="s1">Just as service is the best feature at the Baltimore Marriot Waterfront, food is the best feature at the Pier 5 Hotel. This doesn’t just refer to one restaurant. It begins with breakfast and then branches out into many different dining options, including Pizzazz, Ruth’s Chris Steakhouse, and McCormick &amp; Shmick’s. Ruth’s Chris Steakhouse and McCormick &amp; Shmick’s are not part of the hotel, but they are attached to the hotel, which is good enough. As you may have guessed by this hotel’s name, harbor views are available. And for the best views when you’re not in your room, consider visiting the Lighthouse Garden. If you choose to stay at the Pier 5 Hotel, also be sure to take advantage of Crabby Hour, which is the same thing as happy hour. It’s a fun and laid back atmosphere that welcomes all ages. The negatives here are average internet service throughout the hotel and limited television stations. </span></p>
+<p class="p1"><span class="s1"><b>Hyatt Regency Baltimore</b></span></p>
+<p class="p1"><span class="s1"><b>Traveler Rating: 4.0 Stars</b></span></p>
+<p class="p1"><span class="s1"><b>Price: Moderate </b></span></p>
+<p class="p1"><span class="s1">Amenities. That’s the only word you need to know if you plan on staying at the Hyatt Regency Baltimore. This might not be the <a href="https://baltimore.regency.hyatt.com/en/hotel/home.html" target="_blank" rel="noopener">highest rated hotel</a> in Baltimore, but it’s close enough, and it blows every other hotel out of the water when it comes to amenities. How many hotels do you know of have a basketball court? How about a jogging track? A sundeck? This is in addition to a fitness center, a gift shop, a business center, secretarial service, meeting rooms, and a successful restaurant. If you choose to stay at the Hyatt Regency Baltimore, request a harbor view room. And if you’re traveling with a child under 18, let them know. If the child stays in your room, they stay for free. The location of the Hyatt Regency Baltimore is an added bonus. You can walk to all the attractions, shopping, and restaurants at the Inner Harbor. The negatives here include an expensive breakfast buffet as well as expensive parking. However, the latter can be avoided. The parking garage next door offers free parking. </span></p>
+<p class="p1"><span class="s1"><b>Hilton Baltimore Hotel</b></span></p>
+<p class="p1"><span class="s1"><b>Traveler Rating: 4.0 Stars</b></span></p>
+<p class="p1"><span class="s1"><b>Price: Moderate</b></span></p>
+<p class="p1"><span class="s1">The <a href="http://www3.hilton.com/en/hotels/maryland/hilton-baltimore-BWICCHH/index.html" target="_blank" rel="noopener">Hilton Baltimore Hotel</a> is perfect for the business traveler since it’s right next to the convention center and has its own business center. That said, leisure travelers will enjoy the Hilton Baltimore Hotel as well, especially since it’s the most affordable hotel on this list. Amenities include an exceptional restaurant, a fitness center, an indoor pool, a whirlpool, and a concierge. The only negative here is inconsistent service. This hotel is also not on the harbor, so it’s not the best option for views. But that’s the trade off for lower prices. </span></p>
+<p class="p1"><span class="s1">Vacationing in Baltimore is highly recommended. Almost every first-time visitor is shocked by what they see and experience. Baltimore isn’t known as the ultimate tourist destination, but it’s truly amazing how much this city has to offer. The best part about it is that almost all the attractions are within walking distance from one another. </span></p>
+<div class="addtoany_share_save_container addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/" data-a2a-title="Priceline.com And Other Discounts For Your Trip to Baltimore"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Flighthouse-news.com%2Fpriceline-com-and-other-discounts-for-your-trip-to-baltimore%2F&amp;linkname=Priceline.com%20And%20Other%20Discounts%20For%20Your%20Trip%20to%20Baltimore" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Flighthouse-news.com%2Fpriceline-com-and-other-discounts-for-your-trip-to-baltimore%2F&amp;linkname=Priceline.com%20And%20Other%20Discounts%20For%20Your%20Trip%20to%20Baltimore" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Flighthouse-news.com%2Fpriceline-com-and-other-discounts-for-your-trip-to-baltimore%2F&amp;linkname=Priceline.com%20And%20Other%20Discounts%20For%20Your%20Trip%20to%20Baltimore" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share"></a></div></div>		
+				<a class="read-more" href="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/">Read More &rarr;</a>
+		
+	    </div><!-- .entry-content -->
+	    
+	    <footer class="footer-meta">
+				
+		    		    		    
+		    			<div class="cat-tag-meta-wrap">
+			    				<span class="cats-meta"><i class="fa fa-folder"></i> <a href="http://lighthouse-news.com/category/coupons/" rel="category tag">Coupons</a>, <a href="http://lighthouse-news.com/category/guides/" rel="category tag">Guides</a></span>
+			    			    				<span class="tags-meta"><i class="fa fa-tags"></i> <a href="http://lighthouse-news.com/tag/baltimore-marriott-waterfront/" rel="tag">baltimore marriott waterfront</a>, <a href="http://lighthouse-news.com/tag/coupon-codes/" rel="tag">coupon codes</a>, <a href="http://lighthouse-news.com/tag/hilton-baltimore-hotel/" rel="tag">hilton baltimore hotel</a>, <a href="http://lighthouse-news.com/tag/priceline/" rel="tag">priceline</a>, <a href="http://lighthouse-news.com/tag/priceline-com/" rel="tag">priceline.com</a>, <a href="http://lighthouse-news.com/tag/promo-codes/" rel="tag">promo codes</a></span>
+			    			</div>
+		    			    </footer><!-- .entry-meta -->			
+	</div><!--.post-content-wrap-->
+	
+    </div><!--.row-->
+</article><!-- #post-## -->				
+	    </div>
+    
+    <div class="col-sm-12 col-md-3">
+        	
+<div class="sidebar">
+
+        <div class="sidebar-padder">
+
+		<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://lighthouse-news.com/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+</aside><aside id="adwidget_imagewidget-2" class="widget AdWidget_ImageWidget"><a target="_blank" href='http://lighthouse-news.com' alt='Ad'><img style='width: 100%;' src='http://lighthouse-news.com/wp-content/uploads/2017/08/Lighthouses-ad.jpg' alt='Ad' /></a></aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe width="560" height="315" src="https://www.youtube.com/embed/p_w4rdHzPKE" frameborder="0" allowfullscreen></iframe></div></aside><aside id="mp-recent-post-2" class="widget mp-recent-post"><h3 class="widget-title">Recent Post</h3>
+<div class="mp-recent-post-wrapper">
+	
+				<div class="mp-recent-post">
+
+											<div class="mp-recent-post-thumbnail">
+							<a class="post-thumbnail" href="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/">
+								<img width="300" height="200" src="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code-300x200.jpg" class="attachment-mp_recent_post_widget_thumbnail size-mp_recent_post_widget_thumbnail wp-post-image" alt="hotwire promo code" srcset="http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code-300x200.jpg 300w, http://lighthouse-news.com/wp-content/uploads/2017/08/hotwire-promo-code.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />							</a>
+						</div>
+					
+					<div class="mp-recent-post-elements">
+													<div class="entry-meta">
+								<ul class="list-inline">
+									<li>
+                                         <span class="post-date entry-date">
+	                                         <a href="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/">October 23, 2017</a>
+                                         </span>
+									</li>
+									<li>
+                                        <span class="post-author">
+                                            by<a class="url fn n" href="http://lighthouse-news.com/author/matthewsimpso/"> Lighthouse Writer </a>                                        </span>
+									</li>
+								</ul>
+							</div> <!-- .entry-meta -->
+						
+						<h3 class="entry-title">
+							<a href="http://lighthouse-news.com/a-hotwire-promo-code-can-save-you-money-on-your-next-hotel-stay/">A Hotwire Promo Code Can Save You Money on Your Next Hotel Stay</a>
+						</h3>
+					</div> <!-- .recent-post-elements -->
+
+				</div> <!-- .mp-recent-post -->
+
+			
+				<div class="mp-recent-post">
+
+											<div class="mp-recent-post-thumbnail">
+							<a class="post-thumbnail" href="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/">
+								<img width="300" height="200" src="http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes-300x200.jpg" class="attachment-mp_recent_post_widget_thumbnail size-mp_recent_post_widget_thumbnail wp-post-image" alt="priceline coupon codes" srcset="http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes-300x200.jpg 300w, http://lighthouse-news.com/wp-content/uploads/2017/08/baltimore-priceline-coupon-codes.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />							</a>
+						</div>
+					
+					<div class="mp-recent-post-elements">
+													<div class="entry-meta">
+								<ul class="list-inline">
+									<li>
+                                         <span class="post-date entry-date">
+	                                         <a href="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/">August 23, 2017</a>
+                                         </span>
+									</li>
+									<li>
+                                        <span class="post-author">
+                                            by<a class="url fn n" href="http://lighthouse-news.com/author/matthewsimpso/"> Lighthouse Writer </a>                                        </span>
+									</li>
+								</ul>
+							</div> <!-- .entry-meta -->
+						
+						<h3 class="entry-title">
+							<a href="http://lighthouse-news.com/priceline-com-and-other-discounts-for-your-trip-to-baltimore/">Priceline.com And Other Discounts For Your Trip to Baltimore</a>
+						</h3>
+					</div> <!-- .recent-post-elements -->
+
+				</div> <!-- .mp-recent-post -->
+
+			</div> <!-- .mp-recent-post-wrapper --></aside>	    
+    </div><!-- close .sidebar-padder -->
+</div><!-- close .sidebar -->
+    </div>
+</div>
+        </div><!-- close .*-inner (main-content) -->
+    </div><!-- close .container -->
+</div><!-- close .main-content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="container animated fadeInLeft">
+        <div class="row">
+            <div class="site-footer-inner col-sm-12 clearfix">
+              
+
+        <div class="sidebar-padder">
+
+            <aside id="categories-2" class="widget widget_categories col-3"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://lighthouse-news.com/category/coupons/" >Coupons</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://lighthouse-news.com/category/guides/" >Guides</a>
+</li>
+		</ul>
+</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud col-3"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="http://lighthouse-news.com/tag/baltimore-marriott-waterfront/" class="tag-cloud-link tag-link-14 tag-link-position-1" style="font-size: 8pt;" aria-label="baltimore marriott waterfront (1 item)">baltimore marriott waterfront</a>
+<a href="http://lighthouse-news.com/tag/cheap-travel/" class="tag-cloud-link tag-link-5 tag-link-position-2" style="font-size: 8pt;" aria-label="cheap travel (1 item)">cheap travel</a>
+<a href="http://lighthouse-news.com/tag/concierge/" class="tag-cloud-link tag-link-6 tag-link-position-3" style="font-size: 8pt;" aria-label="concierge (1 item)">concierge</a>
+<a href="http://lighthouse-news.com/tag/coupon-codes/" class="tag-cloud-link tag-link-17 tag-link-position-4" style="font-size: 8pt;" aria-label="coupon codes (1 item)">coupon codes</a>
+<a href="http://lighthouse-news.com/tag/hilton-baltimore-hotel/" class="tag-cloud-link tag-link-13 tag-link-position-5" style="font-size: 8pt;" aria-label="hilton baltimore hotel (1 item)">hilton baltimore hotel</a>
+<a href="http://lighthouse-news.com/tag/hotel-deals/" class="tag-cloud-link tag-link-4 tag-link-position-6" style="font-size: 8pt;" aria-label="hotel deals (1 item)">hotel deals</a>
+<a href="http://lighthouse-news.com/tag/hotel-website/" class="tag-cloud-link tag-link-8 tag-link-position-7" style="font-size: 8pt;" aria-label="hotel website (1 item)">hotel website</a>
+<a href="http://lighthouse-news.com/tag/hotwire/" class="tag-cloud-link tag-link-9 tag-link-position-8" style="font-size: 8pt;" aria-label="hotwire (1 item)">hotwire</a>
+<a href="http://lighthouse-news.com/tag/hotwire-promo-code/" class="tag-cloud-link tag-link-11 tag-link-position-9" style="font-size: 8pt;" aria-label="hotwire promo code (1 item)">hotwire promo code</a>
+<a href="http://lighthouse-news.com/tag/price-changes/" class="tag-cloud-link tag-link-7 tag-link-position-10" style="font-size: 8pt;" aria-label="price changes (1 item)">price changes</a>
+<a href="http://lighthouse-news.com/tag/priceline/" class="tag-cloud-link tag-link-15 tag-link-position-11" style="font-size: 8pt;" aria-label="priceline (1 item)">priceline</a>
+<a href="http://lighthouse-news.com/tag/priceline-com/" class="tag-cloud-link tag-link-16 tag-link-position-12" style="font-size: 8pt;" aria-label="priceline.com (1 item)">priceline.com</a>
+<a href="http://lighthouse-news.com/tag/promo-code/" class="tag-cloud-link tag-link-10 tag-link-position-13" style="font-size: 8pt;" aria-label="promo code (1 item)">promo code</a>
+<a href="http://lighthouse-news.com/tag/promo-codes/" class="tag-cloud-link tag-link-18 tag-link-position-14" style="font-size: 8pt;" aria-label="promo codes (1 item)">promo codes</a></div>
+</aside>      
+    </div><!-- close .sidebar-padder -->
+            </div>  
+        </div>
+    </div><!-- close .container -->
+    <div id="footer-info">
+        <div class="container">
+            <div class="site-info">
+                                <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" >&copy; 2014 ascent. All rights reserved</a>	
+                <span class="sep"> | </span>
+                Ascent by   <a href="http://nettantra.com/">NetTantra</a>
+            </div><!-- close .site-info -->
+        </div>
+    </div>
+</footer><!-- close #colophon -->
+    <a href="#top" id="scroll-top"></a>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/lighthouse-news.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-content/themes/ascent1/includes/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://lighthouse-news.com/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+
+</body>
+</html>

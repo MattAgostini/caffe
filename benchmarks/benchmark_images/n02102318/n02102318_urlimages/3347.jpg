@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Dogs New Zealand - </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Dogs New Zealand" />
+<meta name="keywords" content="dog, dogs, dogs online, show dogs, dog training, dog shows, dog agility, dog obedience, New Zealand, breed, breeds, breeders, pedigree, canine, puppy, puppies" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, target-densitydpi=device-dpi"  />
+<meta name="msapplication-config" content="none"/>
+
+<link rel="icon" href="/himages/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/js.js"></script>
+
+
+<script> $( document ).ready(function() { 
+	
+	//$('.page-info').css({background:'linear-gradient(to bottom,#54554D,#86877f)'});
+	//$('.footer').css({background:'linear-gradient(to top, #86877f,#54554D)'});
+	//$('.header').css('background-image','url(/himages/dogs-nz.jpg)');
+	//$('.header').css('height','208px');
+	//$('hr').css('background-color','#54554D');
+	//$('h1,h2,h3,h4,.container-right a').css('color','#54554D');
+	
+	//$('.container-left-search').css({background:'linear-gradient(to bottom,#86877f,#54554D)'});
+		
+	});	
+	
+	
+</script>
+
+<!--[if IE]>
+  <style>.nav{height:22px;}</style>
+<![endif]-->
+
+</head><body>
+	
+<div id=modal><div id=modal-box title="Click to close window"></div></div>
+<div id=print1 title="Click to close window"><div id=print2 ></div></div>
+<div id=popup></div>	
+<div class=hamburger-modal></div><div class=hamburger-menu><ul><div><a href=https://nzkc.dogsnz.org.nz>Member & Club Login</a></div><div><a href=/home/home>Home</a></div><div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m19').toggle();">DogsNZ </a></div>
+	<div id=m19 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/dogsnz/about">DogsNZ &#187; About</a></li>
+<li><a href="/dogsnz/membership">DogsNZ &#187; Membership</a></li>
+<li><a href="/dogsnz/join-online">DogsNZ &#187; Join Online</a></li>
+<li><a href="/dogsnz/canine-health">DogsNZ &#187; Canine Health</a></li>
+<li><a href="/dogsnz/accredited-tail-banders">DogsNZ &#187; Accredited Tail Banders</a></li>
+<li><a href="/dogsnz/rules-and-regulations">DogsNZ &#187; Rules and Regulations</a></li>
+<li><a href="/dogsnz/ec-reports-and-year-books">DogsNZ &#187; EC Reports and Year books</a></li>
+<li><a href="/dogsnz/policy-statements">DogsNZ &#187; Policy Statements</a></li>
+<li><a href="/dogsnz/microchip-implanters">DogsNZ &#187; Microchip Implanters</a></li>
+<li><a href="/dogsnz/site-map">DogsNZ &#187; Site Map</a></li>
+<li><a href="/dogsnz/faq">DogsNZ &#187; FAQ</a></li>
+<li><a href="/dogsnz/official-forms">DogsNZ &#187; Official forms</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m20').toggle();">Dogs </a></div>
+	<div id=m20 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/dogs/breeds">Dogs &#187; Breeds</a></li>
+<li><a href="/dogs/breeders">Dogs &#187; Breeders</a></li>
+<li><a href="/dogs/litters">Dogs &#187; Litters</a></li>
+<li><a href="http://ab.dogsnz.org.nz/Main/Home">Dogs &#187; Accredited Breeders</a></li>
+<li><a href="/dogs/canine-good-citizen">Dogs &#187; Canine Good Citizen</a></li>
+<li><a href="/dogs/registered-dog-benefits">Dogs &#187; Registered Dog Benefits</a></li>
+<li><a href="/dogs/caring-for-your-dog">Dogs &#187; Caring For Your Dog</a></li>
+<li><a href="/dogs/black-hawk-canine-heroes">Dogs &#187; Black Hawk Canine Heroes</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m21').toggle();">Judges </a></div>
+	<div id=m21 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/judges/judging">Judges &#187; Judging</a></li>
+<li><a href="/judges/judges-panel">Judges &#187; Judges Panel</a></li>
+<li><a href="/judges/breed-standards">Judges &#187; Breed Standards</a></li>
+<li><a href="/judges/judges-associations">Judges &#187; Judges Associations</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m22').toggle();">Clubs </a></div>
+	<div id=m22 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/clubs/joining-a-club">Clubs &#187; Joining a Club</a></li>
+<li><a href="/clubs/club-listing">Clubs &#187; Club Listing</a></li>
+<li><a href="/clubs/overseas-controlling-bodies">Clubs &#187; Overseas Controlling Bodies</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m23').toggle();">Contacts </a></div>
+	<div id=m23 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/contacts/dnz-office">Contacts &#187; DNZ Office</a></li>
+<li><a href="/contacts/executive-council">Contacts &#187; Executive Council</a></li>
+<li><a href="/contacts/agility-committee">Contacts &#187; Agility Committee</a></li>
+<li><a href="/contacts/obedience-committee">Contacts &#187; Obedience Committee</a></li>
+<li><a href="/contacts/nz-gundog-trials-assn">Contacts &#187; NZ Gundog Trials Assn</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m24').toggle();">Shows </a></div>
+	<div id=m24 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/shows/breed-shows">Shows &#187; Breed Shows</a></li>
+<li><a href="/shows/obedience-shows">Shows &#187; Obedience Shows</a></li>
+<li><a href="/shows/agility-shows">Shows &#187; Agility Shows</a></li>
+<li><a href="/shows/events-calendar">Shows &#187; Events Calendar</a></li>
+<li><a href="/shows/show-rules">Shows &#187; Show Rules</a></li>
+<li><a href="/shows/show-venues">Shows &#187; Show Venues</a></li>
+<li><a href="/shows/top-20-obedience">Shows &#187; Top 20 Obedience</a></li>
+<li><a href="/shows/show-results-obedience">Shows &#187; Show Results Obedience</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m25').toggle();">Conformation </a></div>
+	<div id=m25 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/conformation/registered-dogs">Conformation &#187; Registered Dogs</a></li>
+<li><a href="/conformation/clubs">Conformation &#187; Clubs</a></li>
+<li><a href="/conformation/shows">Conformation &#187; Shows</a></li>
+<li><a href="/conformation/show-results">Conformation &#187; Show Results</a></li>
+<li><a href="/conformation/top-20">Conformation &#187; Top 20</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m26').toggle();">Obedience </a></div>
+	<div id=m26 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/obedience/contacts">Obedience &#187; Contacts</a></li>
+<li><a href="/obedience/club-listing">Obedience &#187; Club Listing</a></li>
+<li><a href="/obedience/shows">Obedience &#187; Shows</a></li>
+<li><a href="/obedience/show-results">Obedience &#187; Show Results</a></li>
+<li><a href="http://ndoa2017.dogsnz.org.nz/">Obedience &#187; National Dog Obedience Assembly</a></li>
+<li><a href="/obedience/top-20">Obedience &#187; Top 20</a></li>
+<li><a href="http://www.rallyonz.com/">Obedience &#187; Rally-O Website</a></li>
+<li><a href="http://obedience.dogsnz.org.nz/">Obedience &#187; Obedience Website</a></li>
+<li><a href="/obedience/club-of-the-year-2017">Obedience &#187; Club of the Year 2017</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m27').toggle();">Agility </a></div>
+	<div id=m27 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="/agility/contacts">Agility &#187; Contacts</a></li>
+<li><a href="/agility/club-listing">Agility &#187; Club Listing</a></li>
+<li><a href="/agility/shows">Agility &#187; Shows</a></li>
+<li><a href="http://www.dogagility.org.nz/index.html">Agility &#187; Website</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-sub-menu').hide();$('#m28').toggle();">CGC </a></div>
+	<div id=m28 class=hamburger-sub-menu ><ul style=padding-left:10px;>
+<li><a href="http://www.dogsnz.org.nz/dogs/canine-good-citizen">CGC &#187; CGC</a></li>
+</ul></div>
+<div><a href=javascript:void(0); onclick="$('.hamburger-menu').hide();$('.hamburger-modal').hide();">Hide</a></div>
+</ul></div><div class=hamburger>Menu</div>
+
+<div class=main>
+	
+	<div class=logon-paw title="Talk to the paw" onclick="show_login();"></div>
+	<div class=header></div>
+	<div class=nav-left ><ul><li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="/home/home">Home</a></li>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#DogsNZ').hide(500);$('#DogsNZ').show(500);">DogsNZ</a>
+		
+<div class=sub_menu id=DogsNZ><a href="/dogsnz/about" title="/dogsnz/about" style=color:grey;>About</a><br>
+<a href="/dogsnz/membership" title="/dogsnz/membership" style=color:grey;>Membership</a><br>
+<a href="/dogsnz/join-online" title="/dogsnz/join-online" style=color:grey;>Join Online</a><br>
+<a href="/dogsnz/canine-health" title="/dogsnz/canine-health" style=color:grey;>Canine Health</a><br>
+<a href="/dogsnz/accredited-tail-banders" title="/dogsnz/accredited-tail-banders" style=color:grey;>Accredited Tail Banders</a><br>
+<a href="/dogsnz/rules-and-regulations" title="/dogsnz/rules-and-regulations" style=color:grey;>Rules and Regulations</a><br>
+<a href="/dogsnz/ec-reports-and-year-books" title="/dogsnz/ec-reports-and-year-books" style=color:grey;>EC Reports and Year books</a><br>
+<a href="/dogsnz/policy-statements" title="/dogsnz/policy-statements" style=color:grey;>Policy Statements</a><br>
+<a href="/dogsnz/microchip-implanters" title="/dogsnz/microchip-implanters" style=color:grey;>Microchip Implanters</a><br>
+<a href="/dogsnz/site-map" title="/dogsnz/site-map" style=color:grey;>Site Map</a><br>
+<a href="/dogsnz/faq" title="/dogsnz/faq" style=color:grey;>FAQ</a><br>
+<a href="/dogsnz/official-forms" title="/dogsnz/official-forms" style=color:grey;>Official forms</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Dogs').hide(500);$('#Dogs').show(500);">Dogs</a>
+		
+<div class=sub_menu id=Dogs><a href="/dogs/breeds" title="/dogs/breeds" style=color:grey;>Breeds</a><br>
+<a href="/dogs/breeders" title="/dogs/breeders" style=color:grey;>Breeders</a><br>
+<a href="/dogs/litters" title="/dogs/litters" style=color:grey;>Litters</a><br>
+<a href="http://ab.dogsnz.org.nz/Main/Home" title="http://ab.dogsnz.org.nz/Main/Home" style=color:grey;>Accredited Breeders</a><br>
+<a href="/dogs/canine-good-citizen" title="/dogs/canine-good-citizen" style=color:grey;>Canine Good Citizen</a><br>
+<a href="/dogs/registered-dog-benefits" title="/dogs/registered-dog-benefits" style=color:grey;>Registered Dog Benefits</a><br>
+<a href="/dogs/caring-for-your-dog" title="/dogs/caring-for-your-dog" style=color:grey;>Caring For Your Dog</a><br>
+<a href="/dogs/black-hawk-canine-heroes" title="/dogs/black-hawk-canine-heroes" style=color:grey;>Black Hawk Canine Heroes</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Judges').hide(500);$('#Judges').show(500);">Judges</a>
+		
+<div class=sub_menu id=Judges><a href="/judges/judging" title="/judges/judging" style=color:grey;>Judging</a><br>
+<a href="/judges/judges-panel" title="/judges/judges-panel" style=color:grey;>Judges Panel</a><br>
+<a href="/judges/breed-standards" title="/judges/breed-standards" style=color:grey;>Breed Standards</a><br>
+<a href="/judges/judges-associations" title="/judges/judges-associations" style=color:grey;>Judges Associations</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Clubs').hide(500);$('#Clubs').show(500);">Clubs</a>
+		
+<div class=sub_menu id=Clubs><a href="/clubs/joining-a-club" title="/clubs/joining-a-club" style=color:grey;>Joining a Club</a><br>
+<a href="/clubs/club-listing" title="/clubs/club-listing" style=color:grey;>Club Listing</a><br>
+<a href="/clubs/overseas-controlling-bodies" title="/clubs/overseas-controlling-bodies" style=color:grey;>Overseas Controlling Bodies</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Contacts').hide(500);$('#Contacts').show(500);">Contacts</a>
+		
+<div class=sub_menu id=Contacts><a href="/contacts/dnz-office" title="/contacts/dnz-office" style=color:grey;>DNZ Office</a><br>
+<a href="/contacts/executive-council" title="/contacts/executive-council" style=color:grey;>Executive Council</a><br>
+<a href="/contacts/agility-committee" title="/contacts/agility-committee" style=color:grey;>Agility Committee</a><br>
+<a href="/contacts/obedience-committee" title="/contacts/obedience-committee" style=color:grey;>Obedience Committee</a><br>
+<a href="/contacts/nz-gundog-trials-assn" title="/contacts/nz-gundog-trials-assn" style=color:grey;>NZ Gundog Trials Assn</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Shows').hide(500);$('#Shows').show(500);">Shows</a>
+		
+<div class=sub_menu id=Shows><a href="/shows/breed-shows" title="/shows/breed-shows" style=color:grey;>Breed Shows</a><br>
+<a href="/shows/obedience-shows" title="/shows/obedience-shows" style=color:grey;>Obedience Shows</a><br>
+<a href="/shows/agility-shows" title="/shows/agility-shows" style=color:grey;>Agility Shows</a><br>
+<a href="/shows/events-calendar" title="/shows/events-calendar" style=color:grey;>Events Calendar</a><br>
+<a href="/shows/show-rules" title="/shows/show-rules" style=color:grey;>Show Rules</a><br>
+<a href="/shows/show-venues" title="/shows/show-venues" style=color:grey;>Show Venues</a><br>
+<a href="/shows/top-20-obedience" title="/shows/top-20-obedience" style=color:grey;>Top 20 Obedience</a><br>
+<a href="/shows/show-results-obedience" title="/shows/show-results-obedience" style=color:grey;>Show Results Obedience</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Conformation').hide(500);$('#Conformation').show(500);">Conformation</a>
+		
+<div class=sub_menu id=Conformation><a href="/conformation/registered-dogs" title="/conformation/registered-dogs" style=color:grey;>Registered Dogs</a><br>
+<a href="/conformation/clubs" title="/conformation/clubs" style=color:grey;>Clubs</a><br>
+<a href="/conformation/shows" title="/conformation/shows" style=color:grey;>Shows</a><br>
+<a href="/conformation/show-results" title="/conformation/show-results" style=color:grey;>Show Results</a><br>
+<a href="/conformation/top-20" title="/conformation/top-20" style=color:grey;>Top 20</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Obedience').hide(500);$('#Obedience').show(500);">Obedience</a>
+		
+<div class=sub_menu id=Obedience><a href="/obedience/contacts" title="/obedience/contacts" style=color:grey;>Contacts</a><br>
+<a href="/obedience/club-listing" title="/obedience/club-listing" style=color:grey;>Club Listing</a><br>
+<a href="/obedience/shows" title="/obedience/shows" style=color:grey;>Shows</a><br>
+<a href="/obedience/show-results" title="/obedience/show-results" style=color:grey;>Show Results</a><br>
+<a href="http://ndoa2017.dogsnz.org.nz/" title="http://ndoa2017.dogsnz.org.nz/" style=color:grey;>National Dog Obedience Assembly</a><br>
+<a href="/obedience/top-20" title="/obedience/top-20" style=color:grey;>Top 20</a><br>
+<a href="http://www.rallyonz.com/" title="http://www.rallyonz.com/" style=color:grey;>Rally-O Website</a><br>
+<a href="http://obedience.dogsnz.org.nz/" title="http://obedience.dogsnz.org.nz/" style=color:grey;>Obedience Website</a><br>
+<a href="/obedience/club-of-the-year-2017" title="/obedience/club-of-the-year-2017" style=color:grey;>Club of the Year 2017</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#Agility').hide(500);$('#Agility').show(500);">Agility</a>
+		
+<div class=sub_menu id=Agility><a href="/agility/contacts" title="/agility/contacts" style=color:grey;>Contacts</a><br>
+<a href="/agility/club-listing" title="/agility/club-listing" style=color:grey;>Club Listing</a><br>
+<a href="/agility/shows" title="/agility/shows" style=color:grey;>Shows</a><br>
+<a href="http://www.dogagility.org.nz/index.html" title="http://www.dogagility.org.nz/index.html" style=color:grey;>Website</a><br>
+</div>
+<li style="background:linear-gradient(to top,#54554D, #86877f);" ><a href="javascript:void(0);" onmouseover="$('.sub_menu').not('#CGC').hide(500);$('#CGC').show(500);">CGC</a>
+		
+<div class=sub_menu id=CGC><a href="http://www.dogsnz.org.nz/dogs/canine-good-citizen" title="http://www.dogsnz.org.nz/dogs/canine-good-citizen" style=color:grey;>CGC</a><br>
+</div>
+</ul></div>	
+	<div class=nav-right><ul><li style="background:linear-gradient(to top,#54554D, #86877f);" id=member-login><a href="https://nzkc.dogsnz.org.nz">Member Login</a></li><li style="background:linear-gradient(to top,#54554D, #86877f););" id=club-login><a href="https://nzkc.dogsnz.org.nz">Club Login</a></li></ul></div>
+	<div class=page-info><div class=page-info-breadcrumb title=></div></div>
+	<div class=members-bar>
+		<span id=login-box><form id=login method=POST action=/login.php>Membership ID <input type=text name=username id=username onblur=check_username(); required>
+		 Password <input type=password id=password name=password required> 
+		 <input type=hidden name=a value=login><input type=hidden name=url value="/nds2006/images/3347.jpg">
+		 <input type=submit value=Login> <!--<a href="javascript:void(0);" onclick="login();">Login</a>--></form></span>
+	</div>
+
+<div class=container-right>
+<div class=container-right-main id=container-right-main></div>
+<div class=container-right-sidebar editable id=right-sidebar-content>&nbsp;</div>
+</div>
+
+<div class=container-left>
+<div class=container-left-search><input type=text id=search-box value="Search..." > <img src="/himages/search-icon.jpeg" title="Enter search phrase and click to search website" onclick="search($('#search').val());"></div>
+<div class=container-left-sidebar editable id=left-sidebar-content-public>&nbsp;</div>
+</div>
+
+<div class=footer  style=clear:both;  id=footer-content><a href=/dogsnz/site-map>Site Map</a> | <a href=/dogsnz/about>About DogsNZ</a> | <a href=/contacts/dnz-office>Contact DogsNZ</a> | <a href=javascript:void(0); onclick=print('container-right-main');>Print</a>
+</div><!--end of footer-->
+</div><!--end of main-->
+</body>
+
+
+</html>

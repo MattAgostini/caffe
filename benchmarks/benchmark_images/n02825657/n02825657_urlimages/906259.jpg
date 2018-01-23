@@ -1,0 +1,308 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Refresh" content="3;url=http://www.nen.com.cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>东北新闻网</title>
+
+<style type="text/css">
+/* 全局CSS定义 */
+body {
+	font-family:"宋体", arial;
+	font-size:12px;
+	color:#17387b;
+	margin:0 auto;
+	padding:0;
+	width:100%;
+    background-color: #fff;
+	background-position: 50% top;
+}
+div {margin: 0 auto; color: #2e2f33;
+} 
+form,img,ul,ol,li,dl,dt,dd {margin: 0; padding: 0; border: 0;}
+h1,h2,h3,h4,h5,h6 { margin:0; padding:0;}
+table,td,tr,th{font-size:12px;}
+
+.clear{
+	clear:both;
+	line-height:0px;
+	font-size:1px;
+	height:0px;
+	overflow:hidden;
+}
+
+/* 链接颜色 */
+a:link {
+	color: #17387b;
+	text-decoration:none;
+	line-height: 21px;
+}
+a:visited {color: #17387b;text-decoration:none;
+	line-height: 21px;}
+a:hover {color: #17387B; text-decoration:underline;
+	line-height: 21px;}
+a:active {color: #17387B; text-decoration:underline;
+	line-height: 21px;}
+
+/* 字体属性 [定义规则，小写f加属性名称] */
+.fB {font-weight: bold;}
+.fI {font-style: italic;}
+.left{text-align: left; float: left;}
+.right{text-align: left; float: right;}
+
+/* 内容全部居中显示样式 */
+.center {
+	margin: 0px auto;
+	padding: 0px;
+	width: 1000px;
+	background-color: #FFFFFF;
+	border: 1px solid #B4C4D1;
+}
+
+/* 头文件开始 */
+.diyiping {
+	float: left;
+	width: 1000px;
+	margin: 0 0 5px 0;
+	padding: 0px;
+    background-color: #fff;
+	border: 1px solid #b4c4d1;
+	clear:both;
+}
+/* 导航 */
+.indexhead {
+	float: left;
+	width: 998px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #B4C4D1;
+}
+.nenlogo {
+	float: left;
+	height: 66px;
+	width: 195px;
+	margin-right: 20px;
+}
+.indexpath {
+	float: left;
+	width: 775px;
+	color: #000000;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;
+}
+.nenpath1 {
+	float: left;
+	height: 18px;
+	width: 775px;
+	padding-bottom: 3px;
+}
+.nenpath1 li {
+	float:left;
+	display:block;
+	text-align:center;
+	margin-left: 7px;
+	margin-right:7px;
+}
+.nenpath1 li a:link,.nenpath1 li a:visited{ display:block; color:#000000; text-decoration: none;}
+.nenpath2 {
+	float: left;
+	height: 24px;
+	width: 765px;
+	padding-top: 3px;
+}
+.nenpath2 li {
+	float:left;
+	display:block;
+	text-align:center;
+	margin-top: 2px;
+	margin-left: 3px;
+	margin-right:3px;
+}
+.nenpath2 li a:link,.nenpath2 li a:visited{ display:block; color:#000000; text-decoration: none;}
+.nav1{
+	float: left;
+	width: 6px;
+}
+.pathtu {
+	float:left;
+	margin-top: 18px;
+	text-align:center;
+}
+
+/*中间内容*/
+.wenmid{
+	float: left;
+	width: 1000px;
+	height: 300px;
+	text-align: center;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding-top: 100px;
+}
+
+
+
+
+.yangbottom {
+	padding: 0px;
+	width: 1000px;
+	color: #000;
+	background-color: #FFF;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #B4C4D1;
+	border-right-color: #B4C4D1;
+	border-bottom-color: #B4C4D1;
+	border-left-color: #B4C4D1;
+}
+.yangfooter{
+	background: url(http://www.pub.nen.com.cn/service/images/dl-bg.gif) repeat-x;
+
+	height: 20px;
+	width: 1000px;
+	padding-top: 5px;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 5px;
+	color: #000;
+}
+.yangfooter a:link,.yangfooter a:visited{ color:#333333; text-decoration:none; font-size: 12px;}
+.yangfooter a:hover,.yangfooter a:active{ color:#8B0003; text-decoration:underline; font-size: 12px;}
+
+.yangwomen{
+	width: 1000px;
+	color: #000;
+	font-size: 12px;
+	font-weight:normal;
+
+}
+.yangwomen h2{
+	font-size: 12px;
+	line-height: 25px;
+	text-align: center;
+	height: 25px;
+	width: 1000px;
+	padding-top: 10px;
+font-weight:normal;
+	color: #000;
+}
+.yangwomen a:link,.yangwomen a:visited{ color:#000; text-decoration:none; font-size: 12px;}
+.yangwomen a:hover,.yangwomen a:active{ color:#8B0003; text-decoration:underline; font-size: 12px;}
+
+
+.yangwomen h3{
+	font-size: 12px;
+	line-height: 20px;
+	text-align: center;
+	height: 20px;
+	width: 1000px;
+	font-weight: normal;
+}
+.yangwomen ul{	text-align: center;width: 1000px;list-style:none;}
+	
+.yangwomen ul table tr td a:link,.yangwomen ul table tr td a:visited{ color:#333333; text-decoration:none; font-size: 12px;}
+.yangwomen ul table tr td a:hover,.yangwomen ul table tr td a:active{ color:#8B0003; text-decoration:underline; font-size: 12px;}
+
+
+</style>
+</head>
+
+<body>
+<div class="center">
+<div class="indexhead">
+  <div class="nenlogo"><a href="http://www.nen.com.cn/" target="_blank"><img src="http://www.pub.nen.com.cn/index/images/nenlogo.gif" /></a></div>
+<div class="indexpath">
+<div class="nenpath1">
+<li><a href="http://news.nen.com.cn/" target="_blank"><strong>新闻中心</strong></a></li>
+          <li><a href="http://news.nen.com.cn/gngjnew/index.shtml" target="_blank">国内国际</a></li>
+          <li><a href="http://society.nen.com.cn/" target="_blank">社会频道</a></li>
+          <li><a href="http://sports.nen.com.cn/" target="_blank">体育频道 | </a></li>
+          <li><a href="http://news.nen.com.cn/jinhushiping_new/index.shtml" target="_blank"><strong>金虎时评</strong></a></li>
+          <li><a href="http://bbs.nen.com.cn/indexbbs.php" target="_blank">金虎论坛</a></li>
+          <li><a href="http://lb.nen.com.cn/blog/web/index.htm" target="_blank">辽博网&nbsp;&nbsp;</a></li>
+          <li><a href="http://t.nen.com.cn/account.login/?loginCallBack=%2Fpub" target="_blank">微博 | </a></li>
+		  <li><a href="http://jiankang.nen.com.cn/" target="_blank"><strong>健康频道</strong></a></li>
+		  <li><a href="http://xiaofei.nen.com.cn/" target="_blank">消费生活</a></li>
+		  <li><a href="http://finance.nen.com.cn/" target="_blank">财经</a></li>
+		  <li><a href="http://edu.nen.com.cn/" target="_blank">教育</a></li>
+          <li><a href="http://www.lngongmu.com/" target="_blank">公墓网</a></li>
+ </div>
+<div class="nenpath1">
+<li><a href="http://liaoning.nen.com.cn/" target="_blank"><strong>辽宁网闻</strong></a></li>
+          <li><a href="http://dyxc.nen.com.cn/" target="_blank">辽沈一线</a></li>
+          <li><a href="http://video.nen.com.cn/" target="_blank">东北网视</a></li>
+          <li><a href="http://shequ.nen.com.cn/" target="_blank">社区频道 | </a></li>
+          <li><a href="http://xy.nen.com.cn/" target="_blank"><strong>县域经济</strong></a></li>
+          <li><a href="http://lngp.nen.com.cn/" target="_blank">政府采购</a></li>
+          <li><a href="http://www.nen.com.cn/yq.html" target="_blank">舆情监控</a></li>
+          <li><a href="http://www.fd.ln.gov.cn/web/" target="_blank" rel="nofollow">财政 | </a></li>
+		  <li><a href="http://wx.nen.com.cn/" target="_blank"><strong>掌上资讯</strong></a></li>
+		  
+           <li><a href="http://www.syoits.com/" target="_blank" rel="nofollow">度假</a></li>
+		  <li><a href="http://travel.nen.com.cn/" target="_blank">旅游</a></li>
+		  <li><a href="http://www.liaoning-gateway.com/" target="_blank"><img src="http://www.pub.nen.com.cn/index/images/path_english.gif" border="0" /></a></li>
+          <li><a href="http://www.krnen.com/" target="_blank">中韩网</a></li>
+ </div>
+<div class="nenpath1">
+<li><a href="http://amuse.nen.com.cn/" target="_blank"><strong>文娱频道</strong></a></li>
+          <li><a href="http://hswh.nen.com.cn/" target="_blank">辽宁文化</a></li>
+          <li><a href="http://photo.nen.com.cn/" target="_blank">视界精品</a></li>
+          <li><a href="http://lnmj.nen.com.cn/" target="_blank">书画频道 | </a></li>
+		  <li><a href="http://in.nen.com.cn/" target="_blank"><strong>时尚频道</strong></a></li>
+          <li><a href="http://dbsh.nen.com.cn/portal.php" target="_blank">诗词频道</a></li>
+          <li><a href="http://lngfjy.nen.com.cn/" target="_blank">国防教育</a></li>
+		  <li><a href="http://ln110.nen.com.cn/" target="_blank">警网 | </a></li>
+		  <li><a href="http://it.nen.com.cn/" target="_blank"><strong>I T 频道</strong></a></li>
+          <li><a href="http://house.nen.com.cn/" target="_blank">房产家居</a></li>
+		  <li><a href="http://yx.nen.com.cn/" target="_blank">医讯</a></li>
+    <li><a href="http://auto.nen.com.cn/" target="_blank">汽车</a></li>
+		  <li><a href="http://baby.nen.com.cn/" target="_blank" rel="nofollow">亲子网</a></li>
+</div>
+</div>
+</div>
+
+<div class="wenmid"><IMG src="notfound.jpg" width=320 height=240 border=0 align="middle" usemap="#Map" >
+  <map name="Map" id="Map">
+    <area shape="rect" coords="161,192,242,211" href="http://www.nen.com.cn/" />
+  </map>
+</div>
+<div class="clear"></div>
+
+<div class="yangbottom">
+  <div class="yangwomen">
+    <h2>
+    <a href="http://www.nen.com.cn/images/index/guanyuwomen.htm" class="foot3" target="_blank" rel="nofollow">关于我们</a>|
+    <a href="http://www.nen.com.cn/images/index/lianxifangshi.htm" class="foot3" target="_blank" rel="nofollow">客服中心</a>|
+    <a href="http:/ /web.nen.com.cn/page/1234/index.php" class="foot3" target="_blank" rel="nofollow">广告服务</a>|
+    <a href="http://web.nen.com.cn" class="foot3" target="_blank">建站服务</a>|
+    <a href="http://www.nen.com.cn/images/index/contactus.htm" class="foot3" target="_blank" rel="nofollow">联系我们</a>
+    </h2>
+    <h3>东北新闻网版权所有，未经授权，请勿转载或建立镜像，违者依法必究。</h3>
+    <h2><u>增值电信业务经营许可证</u>  <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow"><u>辽B-1-4-20100011</u></a>    <u>信息网络传播视节目许可证</u>  <u>0603017</u>
+    </h2>
+    <ul>
+    <table width="460" border="0" cellspacing="1" cellpadding="0" align="center">
+              <tr align="center"> 
+                <td width="150"><img src="http://www.pub.nen.com.cn/service/images/jd.gif" width="40" height="40" border="0"></td>
+                <td width="130"><a href="http://www.nen.com.cn/images/index/nen-hlcx.htm" target="_blank"><img src="http://www.pub.nen.com.cn/service/images/wuxian.gif" width="40" height="37" border="0"></a></td>
+                <td><a href="http://ln.cyberpolice.cn/alertPawsaction.do?method=LOUT&&id=sy" target="_blank"><img src="http://www.pub.nen.com.cn/service/images/sywj.gif" alt="沈阳网络警察" width="45" height="65" border="0"></a></td>
+              </tr>
+              <tr align="center"> 
+                <td height="30"><u>沈网警备案20040314号</u></td>
+                <td><u>用户可信赖无线产品</u></td>
+                <td><u>辽宁网警</u></td>
+              </tr>
+            </table>
+    </ul>
+    </div>
+</div>
+</div>
+</body>
+</html>

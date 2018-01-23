@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]> <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="ie no-js">
+<!--<![endif]-->
+<head><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c57df98aa6","applicationID":"9543176","transactionName":"YAZXY0tYDUACAEVdWFlMeGF6FitcDgZyW1lDEVpbVVwRHCoNVVFP","queueTime":0,"applicationTime":126,"ttGuid":"2C3D247E7944145","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+	<title>Crop Protection - Bayer Crop Science</title>
+	<meta name="description" content="Everything you need to know about crop protection. Bayer Crop Science, the leading crop science company, provides high-quality crop protection products in the UK." />
+	<meta name="author" content="Bayer CropScience" />
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<link rel="canonical" href="https://cropscience.bayer.co.uk/" />
+
+	<link rel="alternate" hreflang="en-gb" href="https://cropscience.bayer.co.uk/" />
+
+		<link rel="alternate" hreflang="en-US" href="https://www.cropscience.bayer.us"/>
+		<link rel="alternate" hreflang="en-CA" href="https://www.cropscience.bayer.ca"/>
+		<link rel="alternate" hreflang="en-AU" href="https://www.crop.bayer.com.au"/>
+		<link rel="alternate" hreflang="en" href="https://www.cropscience.bayer.com/en"/>
+
+<meta property="og:site_name" content="Bayer Crop Science" />
+<meta property="og:title" content="Bayer CropScience Home Page" />
+	<meta property="og:image" content="http://cropscience.bayer.co.uk/media/1005/crop1.jpg?preset=200_x_200&amp;c.focus=100,100" />
+<meta property="og:description" content="Bayer CropScience Home Page Description" />
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Everything you need to know about crop protection. Bayer Crop Science, the leading crop science company, provides high-quality crop protection products in the UK." />
+<meta name="twitter:title" content="Crop Protection - Bayer Crop Science" />
+<meta name="twitter:site" content="@bayer4cropsuk"/>
+<meta name="twitter:image" content="http://cropscience.bayer.co.uk/media/1005/crop1.jpg?preset=384_x_230&amp;c.focus=192,115" />
+
+	<link href="/cassette.axd/stylesheet/11d3a3b337468bc1fff607332f71363d3a9602cf/global" type="text/css" rel="stylesheet"/>
+
+		<!--[if lt IE 9]>
+			<script src="/_client/scripts/lib/respond.min.js"> </script>
+			<script src="/_client/scripts/lib/selectivizr.min.js"> </script>
+			<script src="/_client/scripts/lib/html5shiv.js"> </script>
+			<script src="/_client/scripts/lib/html5shiv-printshiv.js"> </script>
+		<![endif]-->
+
+	
+	    <!--[if lt IE 8]>
+		    <link href="/_client/css/bootstrap-ie7.css" rel="stylesheet">
+		    <link href="/_client/css/glyphicons-ie7.css" rel="stylesheet">
+	    <![endif]-->
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+
+<script type='text/javascript'>
+	
+	var _vwo_code = (function () {
+		
+		var account_id = 62581;
+		var settings_tolerance = 2000;
+		var library_tolerance = 2500;
+		var use_existing_jquery = false;
+		var f = false;
+		var d = document;
+
+		return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+
+	}());
+
+	_vwo_settings_timer = _vwo_code.init();
+	
+</script>
+
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-PCHHMW');</script>
+<!-- End Google Tag Manager -->
+
+	<script src="/cassette.axd/script/52b642fa37620efeb964aa8829979db020eb8f7f/_client/scripts/libs-priority" type="text/javascript"></script>
+
+	
+        
+
+</head>
+<body class="home default">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PCHHMW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+
+    <noscript>
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="accessibility-message">
+				<div class="container">
+					<div class="col accessibility-message__icon"><span class="glyph-warning"></span></div>
+					<div class="col accessibility-message__text">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</noscript>
+<header class="header push">
+	<div class="container">
+		<a href="/">
+			<i class="icon logo hidden-xs"></i>
+			<i class="icon logo-mobile visible-xs"></i>
+		</a>
+		<ul class="top-nav">
+			<li><a href="/my-account/login/" class="login-logout-link">Login</a></li>
+
+		</ul>
+		
+		<button class="navbar-toggle js-navbar-toggle">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+	</div><!-- .container -->
+</header><!-- .header -->
+<nav class="nav js-nav">
+	<div class="container">
+		<ul class="js-navbar">
+				<li><a href="/" data-dropdown="" class="active" data-xtredir="no">Home</a></li>
+				<li><a href="/your-crop/" data-dropdown="your-crop" class="" data-xtredir="no">Your crop</a></li>
+				<li><a href="/our-products/" data-dropdown="our-products" class="" data-xtredir="no">Our products</a></li>
+				<li><a href="/tools-and-services/" data-dropdown="tools-and-services" class="" data-xtredir="no">Tools and services</a></li>
+				<li><a href="/news-and-opinion/" data-dropdown="news-and-opinion" class="" data-xtredir="no">News and opinion</a></li>
+				<li><a href="/about-us/" data-dropdown="about-us" class="" data-xtredir="no">About Us</a></li>
+				<li><a href="/events/" data-dropdown="events" class="" data-xtredir="no">Events</a></li>
+		</ul>
+		<div class="search-open js-search-open visible-sm">
+			<i class="glyph-search"></i>
+		</div>
+		<form method="get" class="search-form" action="/site-search/">
+			<label>
+				<span class="visuallyhidden">Search for:</span>
+				<input type="search" class="search-field" name="keywords" placeholder="Search&hellip;">
+			</label>
+			<button type="submit" class="search-submit"><i class="glyph-search"></i></button>
+			<i class="glyph-close js-search-close"></i>
+		</form>
+		<ul class="visible-xs">
+			<li><a href="/my-account/login/" class="login-logout-link">Login</a></li>
+		</ul>
+	</div><!-- .container -->
+</nav><!-- .nav -->
+
+<div class="drawer hidden-xs js-drawer">
+	<div class="container">
+		<div class="row">
+				<div class="dropdown js-dropdown" data-menu="your-crop">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/your-crop/">Your crop</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/your-crop/wheat/">Wheat</a></li>
+								<li><a href="/your-crop/oilseed-rape/">Oilseed Rape</a></li>
+								<li><a href="/your-crop/barley/">Barley</a></li>
+								<li><a href="/your-crop/maize/">Maize</a></li>
+								<li><a href="/your-crop/other-cereals/">Other Cereals</a></li>
+								<li><a href="/your-crop/sugar-beet/">Sugar Beet</a></li>
+								<li><a href="/your-crop/top-fruit/">Top Fruit</a></li>
+								<li><a href="/your-crop/soft-fruit/">Soft Fruit</a></li>
+						</ul><!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/your-crop/potatoes/">Potatoes</a></li>
+								<li><a href="/your-crop/carrots/">Carrots</a></li>
+								<li><a href="/your-crop/brassicas/">Brassicas</a></li>
+								<li><a href="/your-crop/peas-and-beans/">Peas and Beans</a></li>
+								<li><a href="/your-crop/salad-crops/">Salad Crops</a></li>
+								<li><a href="/your-crop/leeks/">Leeks</a></li>
+								<li><a href="/your-crop/onions/">Onions</a></li>
+						</ul>
+            <!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/your-crop/crop-diseases-weeds-and-pests/">Crop Diseases, Weeds and Pests</a></li>
+								<li><a href="/our-products/document-store/">Document Store</a></li>
+								<li><a href="/your-crop/wheat/disease-management-in-wheat/technical-library/">Technical library</a></li>
+						</ul>
+            <!-- .col -->
+				</div>
+				<!-- .dropdown -->
+				<div class="dropdown js-dropdown" data-menu="our-products">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/our-products/">Our products</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/our-products/fungicides/">Fungicides</a></li>
+								<li><a href="/our-products/herbicides/">Herbicides</a></li>
+								<li><a href="/our-products/insecticides/">Insecticides</a></li>
+								<li><a href="/our-products/seeds/">Seeds</a></li>
+						</ul><!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/our-products/seed-treatment/">Seed Treatment</a></li>
+								<li><a href="/our-products/rodenticides/">Rodenticides</a></li>
+						</ul>
+            <!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/our-products/document-store/">Document Store</a></li>
+						</ul>
+            <!-- .col -->
+				</div>
+				<!-- .dropdown -->
+				<div class="dropdown js-dropdown" data-menu="tools-and-services">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/tools-and-services/">Tools and services</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/tools-and-services/mobile-app/">Mobile App</a></li>
+								<li><a href="/tools-and-services/phytobac/">Phytobac</a></li>
+								<li><a href="/tools-and-services/agronomy-online-tools-and-services/pollen-beetle-predictor/">Pollen Beetle Predictor</a></li>
+						</ul><!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/tools-and-services/bayer-surestart/">Bayer SureStart</a></li>
+								<li><a href="/tools-and-services/stewardship-food-and-environment/">Stewardship Food and Environment</a></li>
+								<li><a href="/tools-and-services/easyflow-m/">easyFlow M</a></li>
+						</ul>
+            <!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/tools-and-services/smartline-packaging/">SMARTline Packaging</a></li>
+								<li><a href="/our-products/document-store/">Document Store</a></li>
+						</ul>
+            <!-- .col -->
+				</div>
+				<!-- .dropdown -->
+				<div class="dropdown js-dropdown" data-menu="news-and-opinion">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/news-and-opinion/">News and opinion</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/news-and-opinion/categories/news-about-bayer-cropscience/">News about Bayer CropScience</a></li>
+								<li><a href="/news-and-opinion/categories/press-releases/">Press Releases</a></li>
+								<li><a href="/news-and-opinion/categories/product-and-agronomy-news/">Product and agronomy news</a></li>
+						</ul><!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/news-and-opinion/categories/farming-matters-blog/">Farming Matters blog</a></li>
+						</ul>
+            <!-- .col -->
+									</div>
+				<!-- .dropdown -->
+				<div class="dropdown js-dropdown" data-menu="about-us">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/about-us/">About Us</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/about-us/save-our-seed-treatments/">Save our seed treatments</a></li>
+						</ul><!-- .col -->
+											<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/about-us/commercial-training-programme/">Commercial Training programme</a></li>
+								<li><a href="/about-us/our-promise/">Our Promise</a></li>
+						</ul>
+            <!-- .col -->
+									</div>
+				<!-- .dropdown -->
+				<div class="dropdown js-dropdown" data-menu="events">
+					<div class="col-sm-3 js-equalize-child">
+						<h3><a href="/events/">Events</a></h3>
+					</div><!-- .col -->
+						<ul class="col-sm-3 divide js-equalize-child">
+								<li><a href="/events/">Events</a></li>
+						</ul><!-- .col -->
+														</div>
+				<!-- .dropdown -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</div><!-- .drawer -->
+
+<div class="generic-carousel push">
+
+  <ul>
+
+<li style="background-image: url(/media/101985415/will-and-adam-hp-flipped.jpg?preset=1920_x_440&amp;c.focus=440,221);" class="generic-carousel__item hero-image extra-large  light">
+		<a href="/about-us/monthly-updates-from-your-local-ctm/" data-xtredir="no" rel="">
+	<div class="grad-overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-md-6 col-lg-5">
+					<h2>
+						Crop Focus - local agronomy insight
+					</h2>
+
+						<span class="btn btn-block btn-blue">See what&#39;s happening in your area</span>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+		</a>
+</li><li style="background-image: url(/media/100476768/sprayer-hp.png?preset=1920_x_440&amp;c.focus=440,220);" class="generic-carousel__item hero-image extra-large  light">
+		<a href="/your-crop/wheat/autumn-cereals-2017/" data-xtredir="no" rel="">
+	<div class="grad-overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-md-6 col-lg-5">
+					<h2>
+						Get your cereals off to the best start while managing your workload this autumn
+					</h2>
+
+						<span class="btn btn-block btn-blue">Find out more</span>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+		</a>
+</li><li style="background-image: url(/media/101985521/header-1600x800.png?preset=1920_x_440&amp;c.focus=640,392);" class="generic-carousel__item hero-image extra-large  light">
+		<a href="/your-crop/oilseed-rape/autumn-osr-2017/" data-xtredir="no" rel="">
+	<div class="grad-overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-md-6 col-lg-5">
+					<h2>
+						Protect your OSR yield from the start for the best possible finish
+					</h2>
+
+						<span class="btn btn-block btn-blue">Find out more</span>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+		</a>
+</li><li style="background-image: url(/media/100476548/save-our-seed-treatments-carousel2.jpg?preset=1920_x_440&amp;c.focus=440,220);" class="generic-carousel__item hero-image extra-large  light">
+		<a href="/about-us/save-our-seed-treatments/act-now/" data-xtredir="no" rel="">
+	<div class="">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-md-6 col-lg-5">
+					<h2>
+						Save our seed treatments. Let’s stop the proposed neonicotinoids ban 
+					</h2>
+
+						<span class="btn btn-block btn-blue">Act now</span>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+		</a>
+</li>
+  </ul>
+
+  <div class="generic-carousel__controls">
+
+  </div>
+
+</div>
+
+
+<div class="breadcrumbs hidden-xs push">
+  <div class="container">
+    <ul>
+        <li>
+            <span>Home</span>
+        </li>
+    </ul>
+  </div><!-- .container -->
+</div><!-- .breadcrumbs -->
+
+	<div class="bg-wrap push">
+		
+	<div class="container">
+		<div class="row">
+			<section class="main-content col-sm-12 col-md-12">
+				
+
+<div class="row">
+  <ul class="promo-banners promo-banners-horizontal js-promo-banners-horizontal promo-banners-absolute width-100-perc">
+    <li class="col-sm-6 js-equalize-child pull-right">
+      <span class="red document quick-search equalize-me">
+        <h3>Document downloads</h3>
+        <p>You can also find labels, MSDS, tank-mixes and other key documents for all our products using our document search.</p>            
+        <form action="/our-products/document-store/" method="GET">
+          <label for="product" class="visuallyhidden">Product</label>
+          <div class="select">
+            <select name="DocumentTypeId" id="DocumentTypeId">
+                <option value="1674">Labels</option>
+                <option value="1675">EIS</option>
+                <option value="1676">MSDS</option>
+                <option value="1677">Seed Tags</option>
+                <option value="1678">SRC</option>
+                <option value="1679">Tank Mix</option>
+                <option value="1680">Expert Guide</option>
+                <option value="100000178">Product Support</option>
+            </select>
+          </div><!-- .select -->
+          <button class="btn btn-block btn-blue" type="submit">Show documents</button>
+        </form>
+        <a href="/our-products/document-store/?advanced=1">Advanced search</a>
+      </span>
+    </li>
+    <li class="col-sm-6 js-equalize-child pull-left">
+      <a class="green crop-leaf equalize-me" href="/tools-and-services/find-your-local-technical-manager/">
+        <h3>Find your local technical manager</h3>
+        <p>If you have a question about our products on your crops, please contact your nearest technical manager</p>
+        <span class="btn">
+          Get in touch
+        </span>
+      </a>
+    </li>
+  </ul>
+</div><!-- .row -->  
+
+    <div class="row">
+
+      <div class="promo-banners-relative">
+
+
+	<ul class="promo-banners-horizontal js-promo-banners-horizontal promo-banners">
+			<li class="col-xs-12 col-sm-6 col-md-3 js-equalize-child">
+				<a class="green-darker bgtf" href="/your-crop/wheat/herbicides/black-grass-task-force/"  >
+  <h3>Black-Grass Task Force</h3>
+  <p>Advice to help in the fight against black-grass</p>
+	<span class="btn">More information</span>
+</a>
+			</li>
+			<li class="col-xs-12 col-sm-6 col-md-3 js-equalize-child">
+				<a class="blue-darker seeds" href="/our-products/seeds/"  >
+  <h3>Seeds</h3>
+  <p>Browse our Oilseed Rape range</p>
+	<span class="btn">Browse Seeds</span>
+</a>
+			</li>
+			<li class="col-xs-12 col-sm-6 col-md-3 js-equalize-child">
+				<a class="olive pest" href="/your-crop/crop-diseases-weeds-and-pests/"  >
+  <h3>Pests, Weeds &amp; Diseases</h3>
+  <p>Identify crop protection problems and the solutions</p>
+	<span class="btn">Identify Problems</span>
+</a>
+			</li>
+			<li class="col-xs-12 col-sm-6 col-md-3 js-equalize-child">
+				<a class="blue-dark formulation-tech" href="/tools-and-services/mobile-app/"  >
+  <h3>Agri Services Apps</h3>
+  <p>Download our free Agronomy Tool app for iPhone or Android</p>
+	<span class="btn">View Apps</span>
+</a>
+			</li>
+	</ul>
+
+      </div>
+
+    </div><!-- .row -->	
+	
+
+			</section><!-- .main-content -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+
+
+
+		
+	
+
+  <div class="section section-grey">
+	  <div class="container">
+      <div class="row">
+		    
+        <div class="col-sm-8 col-md-9">			
+          <div class="homepage-articles-strips">
+  <div class="component">          
+    <div class="featured-articles articles-strips">
+
+      <h2>Latest topical news and guidance</h2>
+
+
+      <ul>
+          <li>
+<div class="article-img">
+  <a href="/news-and-opinion/articles/2017/10/spotcheck-check-your-leaves-for-light-leaf-spot/"><img alt="SpotCheck - Bayer Crop Science" class="unveil" data-src="/media/101985426/spotcheck-summary.png?preset=200_x_120&amp;c.focus=209,114" src="/_client/images/loader.gif" /><noscript><img alt="SpotCheck - Bayer Crop Science" class="unveil" src="/media/101985426/spotcheck-summary.png?preset=200_x_120&amp;c.focus=209,114" /></noscript></a>
+</div><!-- .article-img -->
+
+<div class="article-heading">
+  <h3><a href="/news-and-opinion/articles/2017/10/spotcheck-check-your-leaves-for-light-leaf-spot/">SpotCheck: Want to check your OSR leaves for light leaf spot (LLS)</a></h3>
+</div><!-- .article-heading -->
+
+<div class="article-summary">
+  <p>Well you can for free thanks to SpotCheck, a collaboration between Bayer and ADAS with extensive support from the Association of Independent Crop Consultants (AICC). ADAS will be undertaking leaf assessments sent in by growers to make a conclusive diagnosis on what is a very difficult disease to identify.</p>
+		<p class="article-meta">
+			<a href="/news-and-opinion/categories/product-and-agronomy-news/">Product and agronomy news</a>
+		</p>
+</div><!-- .article-summary -->
+          </li>
+          <li>
+<div class="article-img">
+  <a href="/news-and-opinion/articles/2017/09/why-buy-liberator/"><img alt="Pre-Emergence Spray Summary " class="unveil" data-src="/media/101985304/pre-em_spray_image_summary.jpg?preset=200_x_120&amp;c.focus=233,133" src="/_client/images/loader.gif" /><noscript><img alt="Pre-Emergence Spray Summary " class="unveil" src="/media/101985304/pre-em_spray_image_summary.jpg?preset=200_x_120&amp;c.focus=233,133" /></noscript></a>
+</div><!-- .article-img -->
+
+<div class="article-heading">
+  <h3><a href="/news-and-opinion/articles/2017/09/why-buy-liberator/">Why buy Liberator?</a></h3>
+</div><!-- .article-heading -->
+
+<div class="article-summary">
+  <p>Flufenacet-containing products, like Liberator, are a key building block to an effective black-grass herbicide programme.</p>
+		<p class="article-meta">
+			<a href="/news-and-opinion/categories/product-and-agronomy-news/">Product and agronomy news</a>
+		</p>
+</div><!-- .article-summary -->
+          </li>
+          <li>
+<div class="article-img">
+  <a href="/news-and-opinion/articles/2017/09/drilling-masterclass-how-to-drill-treated-seeds-effectively/"><img alt="Drilling wheat" class="unveil" data-src="/media/101985401/drilling-wheat-summary.jpg?preset=200_x_120&amp;c.focus=204,135" src="/_client/images/loader.gif" /><noscript><img alt="Drilling wheat" class="unveil" src="/media/101985401/drilling-wheat-summary.jpg?preset=200_x_120&amp;c.focus=204,135" /></noscript></a>
+</div><!-- .article-img -->
+
+<div class="article-heading">
+  <h3><a href="/news-and-opinion/articles/2017/09/drilling-masterclass-how-to-drill-treated-seeds-effectively/">Drilling Masterclass: How to drill treated seeds effectively</a></h3>
+</div><!-- .article-heading -->
+
+<div class="article-summary">
+  <p>Drilling is perhaps the most important day in the life of any crop. Get it right, and with quick germination and even establishment of plants you set the crop off with its maximum potential intact. </p>
+		<p class="article-meta">
+			<a href="/news-and-opinion/categories/product-and-agronomy-news/">Product and agronomy news</a>
+		</p>
+</div><!-- .article-summary -->
+          </li>
+      </ul>
+
+    </div><!-- .featured-articles -->
+
+  </div><!-- .component -->
+		
+          </div><!-- .articles-strips -->
+		    </div><!-- .col -->		
+		    
+        <div class="col-sm-4 col-md-3">	
+<ul class="related-content high-priority">
+  <li class="twitter-feed js-twitter-feed" data-twitter-feed-node-id="1250">
+    <div class="tweet-wrap">
+      <h3>Connect with us</h3>
+      <p class="description">Follow us online for the latest news and resources</p>
+      <div class="twitter-feed-social-links">
+        <h4><a href="https://twitter.com/bayer4cropsuk"><span><i class="glyph-twitter"></i></span></a></h4>
+        <h4><a href="https://www.youtube.com/user/BayerCropScienceUK"><span class="youtube"><i class="icon youtube"></i></span></a></h4>
+      </div>
+      <ul class="tweet-list js-tweet-feed-list"></ul>
+    </div>
+    <!-- .tweet-wrap -->
+  </li>
+</ul>
+		    </div><!-- .col -->		
+	    </div><!-- .row -->
+    </div><!-- .container -->
+  </div><!-- .section -->
+  
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+	<div class="graphical-promo component  has-text graphical-promo-sml has-text" data-url="/our-products/seed-treatment/raxil-star/" data-new-window="False"  onclick="return xt_adc(this, 'INT-1-')">
+		
+		<img alt="Raxil Star - Bayer Crop Science" class="unveil" data-src="/media/100476209/raxilstar_520x178.jpg" src="/_client/images/loader.gif" /><noscript><img alt="Raxil Star - Bayer Crop Science" class="unveil" src="/media/100476209/raxilstar_520x178.jpg" /></noscript>
+
+		<div class="container">
+
+				<h2>Raxil Star</h2>
+				<p>See why this barley fungicide seed treatment helps growers shine</p>
+
+<a class="btn" href="/our-products/seed-treatment/raxil-star/">Learn more</a>			</div>
+	</div>
+
+        </div><!-- .col-sm-6 -->
+        <div class="col-sm-6">
+	<div class="graphical-promo component  has-text graphical-promo-sml has-text" data-url="/your-crop/wheat/herbicides/black-grass-task-force/" data-new-window="False"  onclick="return xt_adc(this, 'PUB-1-')">
+		
+		<img alt="Black-Grass Task Force" class="unveil" data-src="/media/261487/bgtf-520.jpg" src="/_client/images/loader.gif" /><noscript><img alt="Black-Grass Task Force" class="unveil" src="/media/261487/bgtf-520.jpg" /></noscript>
+
+		<div class="container">
+
+				<h2>Atlantis and Liberator.</h2>
+				<p>Working together to tackle black-grass.</p>
+
+<a class="btn" href="/your-crop/wheat/herbicides/black-grass-task-force/">Black-Grass Task Force.</a>			</div>
+	</div>
+
+        </div><!-- .col-sm-6 -->
+      </div><!-- .row -->
+    </div><!-- .container -->
+  </div><!-- .section -->
+
+
+
+	</div>
+
+<div class="newsletter js-newsletter push">
+		<div class="container">
+
+				
+
+			<form class="newsletter-form js-newsletter-form" method="POST" action="">
+				<fieldset>
+					<legend>Sign up to our newsletter</legend>
+					<div class="signup-email">
+						<label for="email" class="visuallyhidden">Email address</label>
+						<input type="email" name="email" class="js-signup-email" id="email" placeholder="Your email address" required="required" />
+					</div>
+					<div class="signup-name">
+						<label for="name" class="visuallyhidden">Name</label>
+						<input type="text" name="name" class="js-signup-name" id="name" placeholder="Your name" />
+					</div>
+					<button type="submit" class="btn js-signup-submit">Sign me up</button>
+					<span class="spin js-spin hidden"></span>
+				</fieldset>
+			</form><!-- .newsletter-form -->
+		</div><!-- .container -->
+	</div><!-- .newsletter -->
+
+<footer class="footer js-footer push">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-12 col-md-3">
+        <i class="icon logo-footer"></i>
+      </div>
+      <div class="col-sm-3 col-md-2">
+        <dl>
+          <dt>United Kingdom</dt>
+          <dd>
+            <ul class="link-list">
+                <li><a href="/">Home</a></li>
+            </ul>
+          </dd>
+        </dl>
+      </div><!-- .col -->
+      <div class="col-sm-3 col-md-2">
+        <dl>
+          <dt>Worldwide</dt>
+          <dd>
+            <ul class="link-list">
+                <li><a href="http://www.cropscience.bayer.com/">Bayer CropScience</a></li>
+            </ul>
+          </dd>
+        </dl>
+      </div><!-- .col -->
+      <div class="col-sm-3 col-md-2">
+        <dl>
+          <dt>Contact</dt>
+          <dd>
+            <ul class="link-list">
+                <li><a href="#">Technical Helpline 0808 1969522</a></li>
+                <li><a></a></li>
+            </ul>
+          </dd>
+        </dl>
+      </div><!-- .col -->
+      <div class="col-sm-3">
+        <dl>
+          <dt>Follow Us</dt>
+          <dd>
+            <ul class="social-links">
+              
+              <li><a class="twitter" target="_blank" href="https://twitter.com/bayer4cropsuk"><i class="glyph-twitter"></i></a></li>
+              <li><a class="youtube" target="_blank" href="https://www.youtube.com/user/BayerCropScienceUK"><i class="glyph-youtube"></i></a></li>
+            </ul>
+          </dd>
+        </dl>
+      </div><!-- .col -->
+    </div><!-- .row -->
+
+    <nav class="footer-links">
+      <ul>
+          <li><a href="/about-us/accessibility/">Accessibility</a></li>
+          <li><a href="/about-us/privacy-statement/">Privacy Statement</a></li>
+          <li><a href="/about-us/imprint/">Imprint</a></li>
+          <li><a href="/about-us/modern-slavery-act-statement/">Modern Slavery Act Statement</a></li>
+          <li><a href="/about-us/media-centre/">Media Centre</a></li>
+          <li><a href="/about-us/compliance-hotline/">Compliance Hotline</a></li>
+          <li><a href="/about-us/pesticide-disclaimer/">Pesticide disclaimer</a></li>
+      </ul>
+    </nav>
+    <small>&copy; 2017 Bayer Crop Science</small>
+    <p class="made-with">Made with <a rel="nofollow" href="https://www.codecomputerlove.com">Computerlove</a></p>
+</div><!-- .container -->
+  <div class="cookie-directive push">
+    <div class="container">
+      <p>Cookies on cropscience.bayer.co.uk. Find out about <a style=”display:none;” href="https://cropscience.bayer.co.uk/about-us/Cookies">cookies and changing your settings</a>. If you continue without changing your settings, you are consenting to the use of cookies on our site.</p>
+    </div>
+  </div>
+</footer><!-- .footer --> 
+
+
+
+	<script src="/_client/scripts/jquery/jquery-1.11.0.min.js"> </script>
+
+
+<script src="/cassette.axd/script/f615979c0edb048f1b78137ce385f60e6bd6a85e/_client/scripts" type="text/javascript"></script>
+<script src="/cassette.axd/script/d0202ad1ba0d1fe6b558f2a964955d1f6ba7c644/field-days" type="text/javascript"></script>
+<script src="/cassette.axd/script/a9d59791db7795b3175630d3e7ff279211235930/_client/scripts/components" type="text/javascript"></script>
+
+
+    
+	
+    
+
+
+<script type="text/javascript">
+  var disqus_shortname = 'bayercropscience';
+
+  (function() {
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+  }());
+</script>
+
+
+
+<!---->
+
+
+    
+	
+   
+
+
+
+
+<script type="text/javascript">
+	setTimeout(function() {
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/7168.js?" + Math.floor(new Date().getTime() / 3600000);
+			a.async = true;
+			a.type = "text/javascript";
+			b.parentNode.insertBefore(a, b);
+		}, 1);
+</script>
+
+<script type="text/javascript">
+	(function($) {
+
+		if ($.validator.unobtrusive) {
+			$.validator.unobtrusive.adapters.addBool("booleanrequired", "required");
+		}
+	}(jQuery));
+</script>
+
+</body>
+</html>

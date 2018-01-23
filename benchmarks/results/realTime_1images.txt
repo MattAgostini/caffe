@@ -1,0 +1,2 @@
+realTime of image 1 is .720 seconds
+average real time of classifying an image over 1 images is ------------------------ .720 seconds

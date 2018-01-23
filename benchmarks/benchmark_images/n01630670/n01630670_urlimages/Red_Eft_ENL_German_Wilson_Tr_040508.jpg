@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>May Way ROP</title>
+<!-- Start meta data from idtheme.com core plugin -->
+<meta property="og:type" name="og:type" content="website" />
+<meta property="og:url" name="og:url" content="https://mwrop.org/" />
+<meta property="og:description" name="og:description" content="My Way Ring of Plan" />
+<meta property="og:locale" name="og:locale" content="en_US" />
+<meta property="og:site_name" name="og:site_name" content="My Way ROP" />
+<meta property="fb:app_id" name="fb:app_id" content="1703072823350490" />
+<meta name="twitter:url" content="https://mwrop.org/" />
+<meta name="twitter:description" content="My Way Ring of Plan" />
+<!-- End meta data from idtheme.com core plugin -->
+
+<!-- All in One SEO Pack 2.4.3 by Michael Torbert of Semper Fi Web Design[277,322] -->
+<meta name="description"  content="We will try to solve your problem as far as we can in our way, and you can ask us again and again if something happens in the future." />
+
+<meta name="keywords"  content="How To Use, How To Make, How To, Simple Way, How To Do, How To Repair, How To Fix, How To Be" />
+
+<link rel="canonical" href="https://mwrop.org/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="My Way ROP &raquo; Feed" href="https://mwrop.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="My Way ROP &raquo; Comments Feed" href="https://mwrop.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mwrop.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='idblog-core-css'  href='https://mwrop.org/wp-content/plugins/idblog-core/css/idblog-core.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='superfast-fonts-css'  href='https://fonts.googleapis.com/css?family=Nunito%3Aregular%2C700%2C300%26subset%3Dlatin%2C' type='text/css' media='all' />
+<link rel='stylesheet' id='superfast-style-css'  href='https://mwrop.org/wp-content/themes/superfast/style.css?ver=4.9' type='text/css' media='all' />
+<style id='superfast-style-inline-css' type='text/css'>
+body{color:#2c3e50;font-family:"Helvetica Neue",sans-serif;font-weight:500;font-size:13px;}kbd,a.button:hover,button:hover,.button:hover,button.button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:focus,button:focus,.button:focus,button.button:focus,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:active,button:active,.button:active,button.button:active,input[type="button"]:active,input[type="reset"]:active,input[type="submit"]:active,.tagcloud a:hover,.tagcloud a:focus,.tagcloud a:active{background-color:#1e73be;}a,a:hover,a:focus,a:active{color:#1e73be;}ul.page-numbers li span.page-numbers,ul.page-numbers li a:hover,.page-links a .page-link-number:hover,a.button,button,.button,button.button,input[type="button"],input[type="reset"],input[type="submit"],.tagcloud a,.sticky .gmr-box-content,.gmr-theme div.sharedaddy h3.sd-title:before,.gmr-theme div.idblog-related-post h3.related-title:before,.idblog-social-share h3:before,.bypostauthor > .comment-body{border-color:#1e73be;}.site-header{background-image:url();-webkit-background-size:auto;-moz-background-size:auto;-o-background-size:auto;background-size:auto;background-repeat:repeat;background-position:center top;background-attachment:scroll;background-color:#ffffff;}.site-title a{color:#1e73be;}.site-description{color:#999999;}.gmr-logo{margin-top:15px;}.gmr-menuwrap{background-color:#636363;}#gmr-responsive-menu,.gmr-mainmenu #primary-menu > li > a,.search-trigger .gmr-icon{color:#ffffff;}#primary-menu > li.menu-border > a span{border-color:#ffffff;}#gmr-responsive-menu:hover,.gmr-mainmenu #primary-menu > li:hover > a,.gmr-mainmenu #primary-menu .current-menu-item > a,.gmr-mainmenu #primary-menu .current-menu-ancestor > a,.gmr-mainmenu #primary-menu .current_page_item > a,.gmr-mainmenu #primary-menu .current_page_ancestor > a,.search-trigger .gmr-icon:hover{color:#1717e8;}.gmr-mainmenu #primary-menu > li.menu-border:hover > a span,.gmr-mainmenu #primary-menu > li.menu-border.current-menu-item > a span,.gmr-mainmenu #primary-menu > li.menu-border.current-menu-ancestor > a span,.gmr-mainmenu #primary-menu > li.menu-border.current_page_item > a span,.gmr-mainmenu #primary-menu > li.menu-border.current_page_ancestor > a span{border-color:#1717e8;}.gmr-mainmenu #primary-menu > li:hover > a,.gmr-mainmenu #primary-menu .current-menu-item > a,.gmr-mainmenu #primary-menu .current-menu-ancestor > a,.gmr-mainmenu #primary-menu .current_page_item > a,.gmr-mainmenu #primary-menu .current_page_ancestor > a{background-color:#636363;}.gmr-secondmenuwrap{background-color:#f6f4f1;}#gmr-secondaryresponsive-menu,.gmr-secondmenu #primary-menu > li > a,.gmr-social-icon ul > li > a{color:#333333;}.gmr-secondmenu #primary-menu > li.menu-border > a span{border-color:#333333;}#gmr-secondaryresponsive-menu:hover,.gmr-secondmenu #primary-menu > li:hover > a,.gmr-secondmenu #primary-menu .current-menu-item > a,.gmr-secondmenu #primary-menu .current-menu-ancestor > a,.gmr-secondmenu #primary-menu .current_page_item > a,.gmr-secondmenu #primary-menu .current_page_ancestor > a,.gmr-social-icon ul > li > a:hover{color:#1e73be;}.gmr-secondmenu #primary-menu > li.menu-border:hover > a span,.gmr-secondmenu #primary-menu > li.menu-border.current-menu-item > a span,.gmr-secondmenu #primary-menu > li.menu-border.current-menu-ancestor > a span,.gmr-secondmenu #primary-menu > li.menu-border.current_page_item > a span,.gmr-secondmenu #primary-menu > li.menu-border.current_page_ancestor > a span{border-color:#1e73be;}.gmr-content{background-color:#fff;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.site-title,#gmr-responsive-menu,#primary-menu > li > a{font-family:"Nunito","Helvetica Neue",sans-serif;}h1{font-size:30px;}h2{font-size:26px;}h3{font-size:24px;}h4{font-size:22px;}h5{font-size:20px;}h6{font-size:18px;}.widget-footer{background-color:#3d566e;color:#ecf0f1;}.widget-footer a{color:#f39c12;}.widget-footer a:hover{color:#f1c40f;}.site-footer{background-color:#2c3e50;color:#f1c40f;}.site-footer a{color:#ecf0f1;}.site-footer a:hover{color:#bdc3c7;}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://mwrop.org/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://mwrop.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://mwrop.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://mwrop.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mwrop.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mwrop.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<link rel='shortlink' href='https://wp.me/9pIjs' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style></head>
+
+<body class="home blog gmr-theme gmr-sticky gmr-fullwidth-layout hfeed" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div class="site inner-wrap" id="site-container">
+	
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+	
+					
+		
+		<header id="masthead" class="site-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+		
+						
+						<div class="container">
+					<div class="clearfix gmr-headwrapper">
+						<div class="gmr-logo"><div class="site-title" itemprop="headline"><a href="https://mwrop.org/" itemprop="url" title="My Way ROP">My Way ROP</a></div><span class="site-description" itemprop="description">My Way Ring of Plan</span></div>					</div>
+				</div>
+				
+					
+			<div class="top-header">
+									<div class="gmr-menuwrap clearfix">
+										<div class="container">
+											<a id="gmr-responsive-menu" href="#menus">
+							MENU						</a>
+						<nav id="site-navigation" class="gmr-mainmenu" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+							<ul id="primary-menu" class="menu"><li class="page_item page-item-7"><a href="https://mwrop.org/about/"><span itemprop="name">About</span></a></li>
+<li class="page_item page-item-9"><a href="https://mwrop.org/contact-us/"><span itemprop="name">Contact US</span></a></li>
+<li class="page_item page-item-6"><a href="https://mwrop.org/earnings-disclaimer/"><span itemprop="name">Earnings Disclaimer</span></a></li>
+<li class="page_item page-item-8"><a href="https://mwrop.org/privacy-policy/"><span itemprop="name">Privacy Policy</span></a></li>
+<li class="page_item page-item-10"><a href="https://mwrop.org/terms-of-use/"><span itemprop="name">Terms of Use</span></a></li>
+</ul>
+						</nav><!-- #site-navigation -->
+					</div>
+				</div>
+			</div><!-- .top-header -->
+		</header><!-- #masthead -->
+
+	
+			<div id="content" class="gmr-content">
+		
+					
+						<div class="container">
+				<div class="row">
+							
+<div id="primary" class="content-area col-md-8 gmr-default">
+
+	<main id="main" class="site-main" role="main">
+
+				<header>
+				<h1 class="page-title screen-reader-text">My Way ROP</h1>
+			</header>
+		
+<article id="post-15" class="gmr-smallthumb clearfix post-15 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-use tag-coffee-maker tag-coffee-maker-manual tag-how-coffee-maker-works tag-how-to-use-a-coffee-maker-the-right-way" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	
+	<div class="gmr-box-content">
+	
+			<div class="content-thumbnail"><a href="https://mwrop.org/how-to-use-a-coffee-maker/" itemprop="url" title="Permalink to: How to Use a Coffee Maker" rel="bookmark"><img width="200" height="135" src="https://mwrop.org/wp-content/uploads/2017/11/How-to-Use-a-Coffee-Maker-200x135.png" class="attachment-medium size-medium wp-post-image" alt="How to Use a Coffee Maker" itemprop="image" title="How to Use a Coffee Maker" /></a></div>	
+		<div class="item-article">
+			<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline">
+					<a href="https://mwrop.org/how-to-use-a-coffee-maker/" itemprop="url" title="Permalink to: How to Use a Coffee Maker" rel="bookmark">How to Use a Coffee Maker</a>
+				</h2>
+				
+									<div class="entry-meta">
+						<div class="gmr-metacontent"><span class="byline"> By <span class="entry-author vcard" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/person"><a class="url fn n" href="https://mwrop.org/author/howto/" title="Permalink to: Jhon Aiden" itemprop="url"><span itemprop="name">Jhon Aiden</span></a></span></span><span class="posted-on">Posted on <time class="entry-date published" itemprop="datePublished" datetime="2017-11-25T20:54:35+00:00">November 25, 2017</time><time class="updated" datetime="2017-11-26T04:38:10+00:00">November 26, 2017</time></span></div>					</div><!-- .entry-meta -->
+							</header><!-- .entry-header -->
+
+			<div class="entry-content" itemprop="text">
+				<p>How to Use a Coffee Maker &#8211; Simple Tips You Must Know &#8211; Do you want to learn how to use a coffee maker? There are some tips that you must <a class="read-more" href="https://mwrop.org/how-to-use-a-coffee-maker/" title="How to Use a Coffee Maker" itemprop="url">Read More</a></p>
+			</div><!-- .entry-content -->
+		</div><!-- .item-article -->
+		
+			
+	</div><!-- .gmr-box-content -->
+
+</article><!-- #post-## -->
+	</main><!-- #main -->
+</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-md-4" role="complementary" >
+	<div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://mwrop.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://mwrop.org/how-to-use-a-coffee-maker/">How to Use a Coffee Maker</a>
+									</li>
+					</ul>
+		</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="https://mwrop.org/category/how-to-use/" >How to Use</a>
+</li>
+		</ul>
+</div></aside><!-- #secondary -->					</div><!-- .row -->
+			</div><!-- .container -->
+			<div id="stop-container"></div>
+					</div><!-- .gmr-content -->
+		
+</div><!-- #site-container -->
+	
+
+	<div id="footer-container">
+		<div class="gmr-bgstripes">
+			<span class="gmr-bgstripe gmr-color1"></span><span class="gmr-bgstripe gmr-color2"></span>
+			<span class="gmr-bgstripe gmr-color3"></span><span class="gmr-bgstripe gmr-color4"></span>
+			<span class="gmr-bgstripe gmr-color5"></span><span class="gmr-bgstripe gmr-color6"></span>
+			<span class="gmr-bgstripe gmr-color7"></span><span class="gmr-bgstripe gmr-color8"></span>
+			<span class="gmr-bgstripe gmr-color9"></span><span class="gmr-bgstripe gmr-color10"></span>
+			<span class="gmr-bgstripe gmr-color11"></span><span class="gmr-bgstripe gmr-color12"></span>
+			<span class="gmr-bgstripe gmr-color13"></span><span class="gmr-bgstripe gmr-color14"></span>
+			<span class="gmr-bgstripe gmr-color15"></span><span class="gmr-bgstripe gmr-color16"></span>
+			<span class="gmr-bgstripe gmr-color17"></span><span class="gmr-bgstripe gmr-color18"></span>
+			<span class="gmr-bgstripe gmr-color19"></span><span class="gmr-bgstripe gmr-color20"></span>
+		</div>
+
+				
+		<footer id="colophon" class="site-footer" role="contentinfo" >
+			<div class="container">
+				<div class="site-info">
+				Powered by Google & Bing				</div><!-- .site-info -->
+							</div><!-- .container -->
+		</footer><!-- #colophon -->
+		
+	
+	</div><!-- #footer-container -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201747'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2017Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mwrop.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9'></script>
+<script type='text/javascript' src='https://mwrop.org/wp-content/themes/superfast/js/jquery.sidr.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://mwrop.org/wp-content/themes/superfast/js/customscript.js?ver=4.9'></script>
+<script type='text/javascript' src='https://mwrop.org/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://mwrop.org/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201747.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5.1',blog:'139115566',post:'0',tz:'7',srv:'mwrop.org'} ]);
+	_stq.push([ 'clickTrackerInit', '139115566', '0' ]);
+</script>
+
+</body>
+</html>

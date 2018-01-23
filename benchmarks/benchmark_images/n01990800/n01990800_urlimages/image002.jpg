@@ -1,0 +1,611 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        
+        <title>Marine Science - Coastal Carolina University</title>
+          
+        <!-- STANDARD DESCRIPTION META ID 12 -->
+        
+          
+        <!-- STANDARD KEYWORDS META ID 13 -->
+        
+          
+        <meta name="date" content="">
+          
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+
+        <link rel="stylesheet" href="/media/2015ccuwebsite/styleassets/css/main.css">
+        <link rel="stylesheet" href="/media/2015ccuwebsite/ccuassets/css/omnilertcss/omnilert.css"><!-- OMNILERT CSS -->
+        <link rel="stylesheet" href="/media/2015ccuwebsite/ccuassets/css/formstyles/global_form_styles.css"><!-- FORMS CSS -->
+        <link rel="stylesheet" href="/media/2015ccuwebsite/ccuassets/css/override/override.css"><!-- OVERRIDE CSS -->
+          
+        <script src="/media/2015ccuwebsite/styleassets/javascript/vendor/modernizr-2.8.3.min.js"></script>
+        <script type="text/javascript">var switchTo5x=true;</script>
+        <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+        <script type="text/javascript">stLight.options({publisher: "77956f75-4d53-4759-a8ba-a527a1af3037", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+          
+        <!-- Conversion Pixel - Student Targeting - student targeting - DO NOT MODIFY -->
+        <script type='text/javascript' src='//pool.admedo.com/pixel?id=7046&t=js'></script>
+        <!-- End of Conversion Pixel -->
+        
+        <!-- Segment Pixel - Student Retargeting - students - DO NOT MODIFY -->
+        <script type='text/javascript' src='//pool.admedo.com/pixel?id=7045&t=js'></script>
+        <!-- End of Segment Pixel —->
+        
+        <!-- Conversion Pixel - Online Targeting - online - DO NOT MODIFY -->
+        <script type="text/javascript" src="//pool.admedo.com/pixel?id=7099&t=js"></script>
+        <!-- End of Conversion Pixel -->
+         
+        <!-- Segment Pixel - Online Retargeting - Online Retargeting - DO NOT MODIFY -->
+        <script type="text/javascript" src="//pool.admedo.com/pixel?id=7100&t=js"></script>
+        <!-- End of Segment Pixel —->
+         
+        <!-- Conversion Pixel - Parents Targeting - Parents Targeting - DO NOT MODIFY -->
+        <script type="text/javascript" src="//pool.admedo.com/pixel?id=7101&t=js"></script>
+        <!-- End of Conversion Pixel -->
+         
+        <!-- Segment Pixel - Parents Retargeting - Parents Retargeting - DO NOT MODIFY -->
+        <script type="text/javascript" src="//pool.admedo.com/pixel?id=7102&t=js"></script>
+        <!-- End of Segment Pixel —->
+
+    </head>
+    <body class="landing-page">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+      	
+           <div class="omnilert_container">
+              <script type="text/javascript" src="http://widgets.omnilert.net/63293eda66881bf74a5ea08491c0a501-11081"></script>
+           </div>
+		   
+        <!-- Add your site or application content here -->
+        
+        <!---Header start -->
+        <header role="banner">
+            <div class="top-band-outer">
+                <div class="top-band">
+                  <div class="logo">
+    <a href="/" class="white">
+        <img src="/media/logo-masthead-white@2x.png" alt="Coastal Carolina logo">
+    </a>
+    <a href="/" class="black">
+        <img src="/media/logo-masthead-black@2x.png" alt="Coastal Carolina logo">
+    </a>
+    <a href="/" class="teal">
+        <img src="/media/logo-masthead-teal@2x.png" alt="Coastal Carolina logo">
+    </a>
+</div><!-- Header Logo Nav -->
+                    <div class="header-util">
+                        <a href="" class="search-icon"></a>
+                        <a href="" class="menu-icon"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="top-band-outer search">
+                <div class="top-band">
+                    <div class="logo">
+                        <a href="" class="green">
+                            <img src="/media/logo-masthead-teal@2x.png" alt="Coastal Carolina logo">
+                        </a>
+                    </div>
+                    <div class="header-util">
+                        <form role="search" action="http://www.coastal.edu/coastal-now/2015search" id="searchbox_010679160022105370014:inpgo1kqbpe" method="get">
+                            <input type="hidden" name="cof" value="FORID:11" />
+                            <input type="hidden" name="cx" value="010679160022105370014:inpgo1kqbpe">
+                            <input class="search-search" type="search" name="q"  placeholder="My Search">
+                            <input class="search-submit" type="submit" name="sa" onfocus="blank(this)" onblur="unblank(this)">
+                        </form>
+                        <a href="" class="search-close"></a>
+                    </div>
+                </div>
+            </div><!-- Header Search Nav -->
+          <nav class="main-nav-dropdown">
+                <div class="main-nav-inner scrollable" id="scrolly" role="navigation" aria-label="Primary Navigation">
+                    <div class="primary-links">
+                        <div class="section max-width-wrapper" >
+                            <div class="col span_1_of_4 mobile-accordion">
+                                <h4>
+                                    <span class="toggle"></span>
+                                    <a href="/aboutccu/">About CCU</a>
+                                </h4>
+                                <ul><li><a href="/map/">Campus Map</a></li><li><a href="http://www.coastal.edu/hreo/">Employment Opportunities</a></li><li><a href="/endowment/">Endowment Campaign</a></li><li><a href="/hacklercourse/">Hackler Golf Course</a></li><li><a href="/aboutccu/historytraditions/">History &amp; Traditions</a></li><li><a href="/aboutccu/visitcampus/">Visit the Campus</a></li><li><a href="/coastal-now/">News and Events</a></li><li><a href="/aboutccu/leadership/">University Leadership</a></li></ul>
+                            </div>
+                            <div class="col span_1_of_4 mobile-accordion">
+                                <h4>
+                                    <span class="toggle"></span>
+                                    <a href="/admissionsaid/">Admissions &amp; Aid</a>
+                                </h4>
+                                <ul><li><a href="/admissions/">Admissions</a></li><li><a href="/financialaid/">Financial Aid</a></li><li><a href="/admissions/staff.html">Meet Your Counselors</a></li><li><a href="/meritawards/">Merit Awards</a></li><li><a href="/nsfp/orientation/">Orientation</a></li><li><a href="/admissionsaid/residency/">Residency</a></li><li><a href="/admissionsaid/scholarships/">Scholarships</a></li><li><a href="/admissionsaid/tuitionfees/">Tuition &amp; Fees</a></li></ul>
+                            </div>
+                            <div class="col span_1_of_4 mobile-accordion">
+                                <h4>
+                                    <span class="toggle"></span>
+                                    <a href="/academics/">Academics</a>
+                                </h4>
+                                <ul><li><a href="/academics/academicprograms/">Academic Programs</a></li><li><a href="/academics/colleges/">Colleges</a></li><li><a href="http://www.coastal.edu/online">Coastal Online</a></li><li><a href="/academics/experientiallearning/">Experiential Learning</a></li><li><a href="/academics/graduatestudies/">Graduate Studies</a></li><li><a href="http://www.coastal.edu/library">Library</a></li><li><a href="/academics/research/">Research</a></li><li><a href="/studyabroad/">Study Abroad</a></li></ul>
+                            </div>
+                            <div class="col span_1_of_4 mobile-styles">
+                                <ul class="link-block-list hide-on-mobile">
+                                    <li><a href="/apply/">Apply to CCU</a></li><li><a href="/admissions/visits.html">Visit</a></li><li><a href="/admissionsaid/requestinformation/">Request Information</a></li><li><a href="/endowment/givenow/">Give to CCU</a></li><li><a href="/academics/academicprograms/explore/">Explore Programs</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="secondary-links">
+                        <div class="section max-width-wrapper">
+                            <div class="col span_1_of_4 mobile-accordion">
+                                <h4>
+                                    <span class="toggle"></span>
+                                    <a href="/campuslife/">Campus Life</a> <!-- Campus Life Link to Section Nav -->
+                                </h4>
+                                <ul><li><a href="/osl/">Activities &amp; Organizations</a></li><li><a href="/campuslife/aroundccu/">Around CCU</a></li><li><a href="http://www.goccusports.com/" target="_blank">Athletics</a></li><li><a href="http://www.coastal.bncollege.com">Bookstore</a></li><li><a href="http://coastalcarolina.campusdish.com/" target="_blank">Campus Dining</a></li><li><a href="/housing/">Housing</a></li><li><a href="/campuslife/ljsu/">Lib Jackson Student Union</a></li><li><a href="/multiculturalservices/">Multicultural Services</a></li><li><a href="/recreation/">Recreation</a></li><li><a href="/campuslife/shuttle/">Shuttle</a></li></ul> <!-- Campus Life Link Menu Nav -->
+                            </div>
+                            <div class="col span_1_of_4 mobile-accordion">
+                                <h4>
+                                    <span class="toggle"></span>
+                                    <a href="/services/">Services &amp; Support</a> <!-- Services and Support Link to Section Nav -->
+                                </h4>
+                                <ul><li><a href="/disabilityservices/">Accessibility &amp; Disability</a></li><li><a href="/career/">Career Services</a></li><li><a href="/chant411/">CHANT411</a></li><li><a href="/counseling/">Counseling</a></li><li><a href="/internationalstudents/">International Students</a></li><li><a href="/services/safety_and_security/">Safety &amp; Security</a></li><li><a href="/services/studenthealth/">Student Health</a></li><li><a href="/services/scs/">Student Technology</a></li><li><a href="/sustain/">Sustainability</a></li><li><a href="/services/veteranstudents/">Veteran Students</a></li></ul> <!-- Services and Support Link Menu Nav -->
+                            </div>
+                            <div class="col span_2_of_4 mobile-accordion mobile-styles">
+                                <ul class="link-block-list show-on-mobile">
+                                    <li><a href="/apply/">Apply to CCU</a></li><li><a href="/admissions/visits.html">Visit</a></li><li><a href="/admissionsaid/requestinformation/">Request Information</a></li><li><a href="/endowment/givenow/">Give to CCU</a></li><li><a href="/academics/academicprograms/explore/">Explore Programs</a></li>
+                                </ul>
+                                <div class="nav-block">
+                                    <h4 class="info-for active">
+                                        <span class="toggle"></span>
+                                        Information For
+                                    </h4>
+                                    <ul style="display:block"><li><a href="/admissions/enrollment.html">Accepted Students</a></li><li><a href="/info/community/">Community</a></li><li><a href="/info/students/">Current Students</a></li><li><a href="/endowment/">Donors</a></li><li><a href="/family/">Families</a></li><li><a href="/career/foremployers/">Employers</a></li><li><a href="/alumni/">Alumni</a></li><li><a href="/info/facstaff/">Faculty &amp; Staff</a></li><li><a href="/info/chantfans/">Sports Fans</a></li></ul>
+                                </div>
+                                <div class="social-block-wrapper">
+                                    <div class="social-block">
+                                <a href="/coastal-now/" class="coastal-now">
+                                    <img src="/media/2015ccuwebsite/ccuassets/images/coastal_now_footer_button_new.png">
+                                </a>
+
+                                <a target="_blank" href="https://www.facebook.com/CoastalCarolinaUniversity" class="circle facebook" title="CCU on Facebook">Facebook</a>
+                                <a target="_blank"  href="https://twitter.com/CCUchanticleers" class="circle twitter" title="CCU on Twitter">Twitter</a>
+                                <a target="_blank"  href="https://www.youtube.com/user/ccuchanticleers" class="circle youtube" title="CCU on YouTube">YouTube</a>
+                                <a target="_blank"  href="https://instagram.com/ccuchanticleers/?hl=en" class="circle instagram" title="CCU on Instagram">Instagram</a>
+                                <a target="_blank"  href="https://www.pinterest.com/explore/coastal-carolina-university/" class="circle pinterest" title="CCU on Pinterest">Pinterest</a>
+                                <a target="_blank"  href="https://www.linkedin.com/company/coastal-carolina-university" class="circle linkedin" title="CCU on LinkedIn">LinkedIn</a>
+                                <a href="/media/social/boo-r-code.jpg" class="circle snapchat" title="Follow us on Snapchat">Snapchat</a>
+                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Duplicate content for tablet/mobile -->
+                    <div class="mobile-header-bottom">
+                        <div class="table-style">
+                            <div class="td-style">
+                                <ul class="link-block-list hide-on-mobile">
+                                    <li><a href="/apply/">Apply to CCU</a></li><li><a href="/admissions/visits.html">Visit</a></li><li><a href="/admissionsaid/requestinformation/">Request Information</a></li><li><a href="/endowment/givenow/">Give to CCU</a></li><li><a href="/academics/academicprograms/explore/">Explore Programs</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="td-style">
+                                <div class="social-block mobile-only">
+                                <a href="/coastal-now/" class="coastal-now">
+                                    <img src="/media/2015ccuwebsite/ccuassets/images/coastal_now_footer_button_new.png">
+                                </a>
+                                
+                                <div class="social-block-section">
+                                    <a target="_blank" href="https://www.facebook.com/CoastalCarolinaUniversity" class="circle facebook" title="CCU on Facebook">Facebook</a>
+                                    <a target="_blank" href="https://twitter.com/CCUchanticleers" class="circle twitter" title="CCU on Twitter">Twitter</a>
+                                    <a target="_blank" href="https://www.youtube.com/user/ccuchanticleers" class="circle youtube" title="CCU on YouTube">YouTube</a>
+                                    <a target="_blank" href="https://instagram.com/ccuchanticleers/?hl=en" class="circle instagram" title="CCU on Instagram">Instagram</a>
+                                </div>
+                                <div class="social-block-section">
+                                    <a target="_blank" href="https://www.pinterest.com/explore/coastal-carolina-university/" class="circle pinterest" title="CCU on Pinterest">Pinterest</a>
+                                    <a target="_blank" href="https://www.linkedin.com/company/coastal-carolina-university" class="circle linkedin" title="CCU on LinkedIn">LinkedIn</a>
+                                    <a href="/media/social/boo-r-code.jpg" class="circle snapchat" title="Follow us on Snapchat">Snapchat</a>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav><!-- Main Nav Menu -->
+        </header>
+        <!-- end header -->
+      <div class="util-bar">
+            <div class="util-bar-inner">
+                <a href="#" class="in-this-section-toggle">In This Section</a>
+            
+                <div class="table-style">
+                    <div class="td-style">
+                      <nav class="breadcrumb"><a href="/">CCU Home</a><a href="/academics/">Academics</a><a href="/academics/colleges/">Colleges</a><a href="/academics/colleges/science/">Science</a><a href="/academics/colleges/science/departments/">Departments</a></nav> <!-- Breadcrumbs Navigation Nav -->
+                    </div>
+                    <div class="td-style">
+                        <div class="cta-group-wrapper">
+                                    <div class="cta-group-inner">
+                                        <div class="cta-group">
+                                            <a href="/apply/" class="apply circle" title="Apply">Apply</a>
+                                            <a href="/admissions/visits.html" class="visit circle" title="Visit">Visit</a>
+                                            <a href="/admissionsaid/requestinformation/" class="info circle" title="Info">Info</a>
+                                        </div>
+                                    </div>
+                                </div><!-- Header Persistant CTAs Nav -->
+                    </div>
+                </div>
+            </div>
+        </div>
+       <!-- Hero Inner nav -->
+      
+      
+        
+       <div class="main-content">
+        	<div class="section group inner">
+        		<!-- Start sidebar -->
+                <div class="col span_1_of_4 left-nav">
+                    <a href="" class="section-menu-close">In This Section</a>
+                    <nav class="m-landing-2">
+                      <ul class="mainMenu">
+<!-- Do We Exist -->
+<li><a href="/aboutccu/">About CCU</a></li><li><a href="/admissionsaid/">Admissions &amp; Aid</a></li><li><a href="/academics/">Academics</a>
+<ul class="multilevel-linkul-0">
+<li><a href="/academics/academicprograms/">Academic Programs</a></li>
+<li><a href="/academics/colleges/">Colleges</a>
+<ul class="multilevel-linkul-1">
+<li><a href="/academics/colleges/business/">Business</a></li>
+<li><a href="/academics/colleges/education/">Education</a></li>
+<li><a href="/humanities/">Humanities and Fine Arts</a></li>
+<li><a href="/academics/colleges/science/">Science</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/academics/colleges/science/academicprograms/">Academic Programs</a></li>
+<li><a href="/academics/colleges/science/departments/">Departments</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/academics/colleges/science/departments/biology/">Biology</a></li>
+<li><a href="/academics/colleges/science/departments/chemphys/">Chemistry and Physics</a></li>
+<li><a href="/cmss/">Coastal and Marine Systems Science</a></li>
+<li><a href="/academics/colleges/science/departments/cs/">Computing Sciences</a></li>
+<li><a href="/healthsciences/">Health Sciences</a></li>
+<li><a href="/academics/colleges/science/departments/kinesiology/">Kinesiology</a></li>
+<li><span class="currentsection">Marine Science</span>
+<ul class="multilevel-linkul-4">
+<li><a href="/academics/colleges/science/departments/marine/academicprograms/">Academic Programs</a></li>
+<li><a href="/academics/colleges/science/departments/marine/facultyandstaff/">Faculty and Staff</a></li>
+<li><a href="/academics/colleges/science/departments/marine/research/">Research</a></li>
+<li><a href="/academics/colleges/science/departments/marine/studentorganizations/">Student Organizations</a></li>
+
+</ul>
+</li>
+<li><a href="/math/">Mathematics and Statistics</a></li>
+<li><a href="/academics/colleges/science/departments/psych/">Psychology</a></li>
+<li><a href="/academics/colleges/science/departments/recreationandsportmanagement/">Recreation and Sport Management</a></li>
+<li><a href="/academics/colleges/science/departments/sociology/">Sociology</a></li>
+
+</ul>
+</li>
+<li><a href="/sce/">School of the Coastal Environment</a></li>
+<li><a href="/academics/colleges/science/centersandinitiatives/">Centers and Initiatives</a></li>
+<li><a href="/academics/colleges/science/fromthedean/">From the Dean</a></li>
+<li><a href="/academics/colleges/science/advisingcenter/">Advising Center</a></li>
+
+</ul>
+</li>
+<li><a href="/academics/colleges/uc/">University College</a></li>
+<li><a href="/academics/graduatestudies/">Graduate Studies</a></li>
+
+</ul>
+</li>
+<li><a href="http://www.coastal.edu/online">Coastal Online</a></li>
+<li><a href="/academics/experientiallearning/">Experiential Learning</a></li>
+<li><a href="/academics/graduatestudies/">Graduate Studies</a></li>
+<li><a href="http://www.coastal.edu/library">Library</a></li>
+<li><a href="/academics/research/">Research</a></li>
+<li><a href="/studyabroad/">Study Abroad</a></li>
+
+</ul>
+</li><li><a href="/campuslife/">Campus Life</a></li><li><a href="/services/">Services &amp; Support</a></li><li><a href="/coastal-now/">Coastal Now</a></li></ul> <!-- Inner Navigation Menu Nav -->
+                    </nav>
+                    
+                    <div class="sticky-wrapper">
+                      <div class="sidebar-social">
+                        <ul>
+                            <li>
+                                <span class='st_facebook_large circle facebook' title="Share this page to Facebook" displayText='Facebook'></span>
+                            </li>
+                            <li>
+                                <span class='st_twitter_large circle twitter' title="Tweet this page" displayText='Tweet'></span>
+                            </li>
+                            <li>
+                                <span class='st_linkedin_large circle linkedin' title="Share this page to LinkedIn" displayText='LinkedIn'></span>
+                            </li>
+                            <li>
+                                <span class='st_email_large circle mail' title="Email this page" displayText='Email'></span>
+                            </li>
+                        </ul>
+                    </div>
+ <!-- Inner Sidebar Social Share Buttons Nav -->
+                  	</div>
+                </div>
+                <!-- end sidebar -->
+        		
+        		<!-- main page content-->
+        		<div class="col span_3_of_4 content">
+        			<main role="main">
+                      <!--<t/4 type="navigation" id="173" />--> <!-- Output 2015-html-landing-page -->
+                      <!--<t/4 type="navigation" id="209" />--> <!-- 'Inner Events Getter' getter Nav -->       
+        			<h1>Marine Science</h1>
+
+
+
+                        <section class="module ">
+                        
+
+                            <p class="large-text">Coastal Carolina University boasts the largest undergraduate marine science program on the East Coast.</p>
+
+                            <div class="tiles no-tile-large-bg">
+                                
+                                
+
+                                <div class="tile">
+                                    <div class="tile-inner">
+                                        <span class="shadow"></span>
+                                        <a href="/academics/colleges/science/departments/marine/academicprograms/" class="link-overlay">
+                                            <p class="tile-title">Academic Program</p>
+                                        </a>
+                                        <div class="image-wrap">
+                                            <img src="/media/2015ccuwebsite/contentassets/images/science/marinescience/760x760/DSCN0173.JPG" alt="Interdisciplinary Studies" class="tile-image">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+
+                                
+
+                                
+
+                                <div class="tile">
+                                    <div class="tile-inner">
+                                        <span class="shadow"></span>
+                                        <a href="/academics/colleges/science/departments/marine/research/" class="link-overlay">
+                                            <p class="tile-title">Research</p>
+                                        </a>
+                                        <div class="image-wrap">
+                                            <img src="/media/2015ccuwebsite/contentassets/images/science/marinescience/8928.jpg" alt="Interdisciplinary Studies" class="tile-image">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+
+                                
+
+
+
+
+                                <div class="tile">
+                                    <div class="tile-inner">
+                                        <span class="shadow"></span>
+                                        <a href="/academics/colleges/science/departments/marine/facultyandstaff/" class="link-overlay">
+                                            <p class="tile-title">Faculty & Staff</p>
+                                        </a>
+                                        <div class="image-wrap">
+                                            <img src="/media/2015ccuwebsite/contentassets/images/science/marinescience/760x760/Brooks_McIntyre.JPG" alt="Interdisciplinary Studies" class="tile-image">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                
+
+                                
+
+
+
+                                <div class="tile">
+    <div class="tile-inner">
+        <span class="shadow"></span>
+        <a href="/academics/colleges/science/departments/marine/studentorganizations/" class="link-overlay">
+            <p class="tile-title">Student Organizations</p>
+        </a>
+        <div class="image-wrap">
+            <img src="/media/2015ccuwebsite/contentassets/images/science/marinescience/760x760/Jessie_with_Shark.JPG" alt="Interdisciplinary Studies" class="tile-image">
+        </div>
+    </div>
+</div>
+
+                                
+
+                                
+
+
+
+
+                                <div class="tile">
+    <div class="tile-inner">
+        <span class="shadow"></span>
+        <a href="/sce/research/" class="link-overlay">
+            <p class="tile-title">Research and Outreach Center</p>
+        </a>
+        <div class="image-wrap">
+            <img src="/media/2015ccuwebsite/contentassets/images/science/marinescience/760x760/bccmws.jpg" alt="Interdisciplinary Studies" class="tile-image">
+        </div>
+    </div>
+</div>
+
+                                
+
+                                
+
+
+                                <!-- 
+
+                                <div class="tile">
+    <div class="tile-inner">
+        <span class="shadow"></span>
+        <a href="/admissionsaid/" class="link-overlay">
+            <p class="tile-title">Apply Now!</p>
+        </a>
+        <div class="image-wrap">
+            <img src="" alt="Interdisciplinary Studies" class="tile-image">
+        </div>
+    </div>
+</div>
+                                 --> 
+
+                                <div class="tile feature-tile">
+                                    <div class="tile-inner">
+                                        <span class="shadow"></span>
+                                        <a href="/admissionsaid/" class="link-overlay">
+                                            <div class="table-style">
+                                                <div class="td-style">
+                                                    <p class="tile-title">Apply Now!</p>
+                                                </div>
+                                            </div>
+                                        </a>                                
+                                    </div>
+                                </div>
+
+
+
+
+                            </div>
+                        </section>
+
+
+
+
+<h2 style="text align: left;">&zwnj;Department of Marine Science</h2>
+<p style="text align: left;">Coastal Carolina University boasts the largest undergraduate <strong>marine science</strong> program on the East Coast and one of the lead departments in CCU's Coastal Marine and Wetland Studies graduate program. With our ideal location near the coast and collection of research-active faculty committed to undergraduate teaching, our strength is in providing individual attention and hands-on opportunities for students.</p>
+<h6 class="related-links-heading">Related Links</h6>
+<ul>
+<li><a title="Link to Research" href="/sce/research/">Center for Marine and Wetland Studies</a></li>
+<li><a title="Link to Environmental Quality Lab" href="/test/sitesunderconstruction/environmentalqualitylab/">Environmental Quality Lab</a></li>
+<li><a title="Link to Waccamaw Watershed Academy" href="/test/sitesunderconstruction/wwa/">Waccamaw Watershed Academy</a></li>
+</ul>
+<p style="text-align: left;">Marine science is an interdisciplinary field that employs aspects of biology, chemistry, geology and physical oceanography/atmospheric science toward the study of the ocean environment. Lecture, laboratory and field experiences are integrated to provide an outstanding and well-rounded academic program. Within marine science, you may choose to concentrate your studies in one of the following areas: marine biology, coastal geology, marine chemistry, atmosphere/ocean dynamics or marine analytical technology.</p>
+<p style="text-align: left;">You are encouraged to get involved with research or internship experiences, which can help you get into graduate school, get a job, or make contacts in the field. Each year, approximately 50 students work individually with faculty to complete semester-long independent research projects for credit. More than half of these present their findings at state, regional, national, and international scientific conferences - activities usually associated with graduate students. Well over 100 students take advantage of off-campus internships locally and around the country, and participate in faculty research outside of the classroom.</p>
+<p>Two major national reports, the Pew Oceans Commission and U.S. Commission on Ocean Policy, have documented the critical importance of marine science to our national health and well-being and called for increased efforts in marine science education, research and funding. This is truly an exciting and dynamic time. Please take a few moments to check our web pages for additional information and we hope to hear from you.</p>
+<p><strong>Jane L. Guentzel</strong>, Ph.D.<br /><em>Professor of Marine Chemistry</em><br /><em>Chair, Department of Marine Science</em><br />Science Annex II -102 J<br />843-349-2374<br /><a href="mailto:jguentze@coastal.edu" title="Email to Jane Guentzel">jguentze@coastal.edu</a></p></main>
+        		<!-- end col span -->
+        		</div>
+        	<!-- end section group -->
+        	</div>
+        <!-- end main content -->
+        </div>
+
+		<footer role="contentinfo">
+            <div class="white-band">
+                <div class="inner">
+                    <div class="table-style">
+                        <div class="td-style">
+                          <div class="footer-logo">
+                                <a href="/">
+                                    <img src="/media/logo-footer-primary@2x.png" alt="Coastal Carolina logo">
+                                </a>
+                            </div> <!-- Footer Logo Nav -->
+                        </div>
+                        <div class="td-style">
+                            <div class="social-block">
+                                <a href="/coastal-now/" class="coastal-now">
+                                    <img src="/media/2015ccuwebsite/ccuassets/images/coastal_now_footer_button_new.png">
+                                </a>
+
+                                <a target="_blank" href="https://www.facebook.com/CoastalCarolinaUniversity" class="circle facebook" title="CCU on Facebook">Facebook</a>
+                                <a target="_blank"  href="https://twitter.com/CCUchanticleers" class="circle twitter" title="CCU on Twitter">Twitter</a>
+                                <a target="_blank"  href="https://www.youtube.com/user/ccuchanticleers" class="circle youtube" title="CCU on YouTube">YouTube</a>
+                                <a target="_blank"  href="https://instagram.com/ccuchanticleers/?hl=en" class="circle instagram" title="CCU on Instagram">Instagram</a>
+                                <a target="_blank"  href="https://www.pinterest.com/explore/coastal-carolina-university/" class="circle pinterest" title="CCU on Pinterest">Pinterest</a>
+                                <a target="_blank"  href="https://www.linkedin.com/company/coastal-carolina-university" class="circle linkedin" title="CCU on LinkedIn">LinkedIn</a>
+                                <a href="/media/social/boo-r-code.jpg" class="circle snapchat" title="Follow us on Snapchat">Snapchat</a>
+                            </div> <!-- Coastal Now Social Media Nav 157 -->
+
+                            <div class="social-block mobile-only">
+                                <a href="/coastal-now/" class="coastal-now">
+                                    <img src="/media/2015ccuwebsite/ccuassets/images/coastal_now_footer_button_new.png">
+                                </a>
+                                
+                                <div class="social-block-section">
+                                    <a target="_blank" href="https://www.facebook.com/CoastalCarolinaUniversity" class="circle facebook" title="CCU on Facebook">Facebook</a>
+                                    <a target="_blank" href="https://twitter.com/CCUchanticleers" class="circle twitter" title="CCU on Twitter">Twitter</a>
+                                    <a target="_blank" href="https://www.youtube.com/user/ccuchanticleers" class="circle youtube" title="CCU on YouTube">YouTube</a>
+                                    <a target="_blank" href="https://instagram.com/ccuchanticleers/?hl=en" class="circle instagram" title="CCU on Instagram">Instagram</a>
+                                </div>
+                                <div class="social-block-section">
+                                    <a target="_blank" href="https://www.pinterest.com/explore/coastal-carolina-university/" class="circle pinterest" title="CCU on Pinterest">Pinterest</a>
+                                    <a target="_blank" href="https://www.linkedin.com/company/coastal-carolina-university" class="circle linkedin" title="CCU on LinkedIn">LinkedIn</a>
+                                    <a href="/media/social/boo-r-code.jpg" class="circle snapchat" title="Follow us on Snapchat">Snapchat</a>
+                                </div>
+                            </div> <!-- Coastal Now Social Media Mobile Nav 158 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+           <div class="teal-band">
+                <div class="inner">
+                    <nav role="navigation" aria-label="Footer Navigation ">
+                        <div class="footer-list-primary">
+                            <a href="/aboutccu/">About CCU</a><a href="/academics/">Academics</a><a href="/admissionsaid/">Admissions &amp; Aid</a><a href="http://www.goccusports.com">Athletics</a><a href="/campuslife/">Campus Life</a> <!-- Utility - Left Links Nav -->
+                        </div>
+                        <div class="footer-list-secondary">
+                            <a href="/services/">Services &amp; Support</a><a href="/aboutccu/sitepolicy/">Site Policy</a><a href="/aboutccu/contactus/">Contact Us</a> <!-- Utility - Right Links Nav -->
+                        </div>
+                    </nav>
+                    
+                    <p class="copyright">&copy; 2016 Coastal Carolina University</p>
+                </div>
+            </div> <!-- Footer Utility Links -->
+            
+        </footer>
+
+        <!-- Must be on pages with sidebar nav -->
+        <div class="menu-pushout">
+        </div>
+        <!-- Must be on pages with sidebar nav -->
+        <div class="main-overlay"></div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/media/2015ccuwebsite/styleassets/javascript/vendor/jquery-1.11.3.min.js"><\/script>')</script>
+        <script src="/media/2015ccuwebsite/styleassets/javascript/plugins.js"></script>
+        <script src="/media/2015ccuwebsite/styleassets/javascript/main.js"></script>
+        <script src="/media/2015ccuwebsite/styleassets/javascript/t4Additions.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<!-- 
+<script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='https://www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+</script>
+ -->
+
+<script>
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+{
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(
+a,m)
+
+})(window,document,'script','https://www.google-analytics.com/analytics.js'
+,'ga');
+
+ ga('create', 'UA-3417679-1', 'auto');
+ ga('send', 'pageview');
+
+</script> <!-- Google Analytics Nav -->
+
+    </body>
+</html>

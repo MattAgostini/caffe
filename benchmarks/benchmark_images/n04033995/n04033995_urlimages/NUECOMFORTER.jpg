@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>We're upgrading our website</title>
+		<meta name="author" content="American Hotel Register Company">
+		
+		<link rel="stylesheet" href="style.css">
+
+	</head>
+	<body>
+		<div id="page" class="wrap clearfix">
+			<div class="container">
+				<main id="main" class="clearfix">
+					<div class="logo">
+						<img src="logo.png" />
+					</div>
+					<div class="text-wrap">
+						<h1>We're updating our technology</h1>
+						<p>We are currently integrating new technology to provide a best-in-class platform.<br>
+						  As a result, our site will be down from 1:00 am CST on 
+						  Wednesday, November 22, to 3:00<br>
+						  am on Monday, November 27. 
+						  For orders or inquiries, please email us at <a href="mailto:webspecialist@americanhotel.com">webspecialist@americanhotel.com</a> or call 1-800-323-5686.<br>
+					  Thank you for your patience and your continued business! </p>
+					</div>
+				</main>
+			</div>
+		</div>
+		<footer id="footer" class="wrap">
+			<div class="container">
+				<div class="footer-img">
+					<img src="footer.png" alt="testing">
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="de-DE" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="de-DE" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="de-DE" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="de-DE" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<title>
+Foto download - Stock-Photography.bz</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/framework.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/custom.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/form.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/theme_css_appendix.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/navigation/ddsmoothmenu.css" />
+
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/?dynamic_css=css" />
+
+    <link rel="stylesheet" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/nivo_slider/nivo-slider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/nivo_slider/themes/default/default.css" type="text/css" media="screen" />
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/IE7.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/IE8.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_css/IE9.css" />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="shortcut icon" href="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/images/favicon.ico" type="image/x-icon" />
+
+<link rel="pingback" href="http://stock-photography.bz/xmlrpc.php" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Foto download - Stock-Photography.bz</title>
+<meta name="description" content="Architekturfotos, Objektfotos, Lebensmittelfotos, Naturfotos, Tierfotos und mehr. NEU: Fotografie Tutorials von Stock-Photography.bz"/>
+<link rel="canonical" href="http://stock-photography.bz/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Foto download - Stock-Photography.bz" />
+<meta property="og:description" content="Architekturfotos, Objektfotos, Lebensmittelfotos, Naturfotos, Tierfotos und mehr. NEU: Fotografie Tutorials von Stock-Photography.bz" />
+<meta property="og:url" content="http://stock-photography.bz/" />
+<meta property="og:site_name" content="Stock Photography" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/stock-photography.bz\/","name":"Stock Photography","potentialAction":{"@type":"SearchAction","target":"http:\/\/stock-photography.bz\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Stock Photography &raquo; Feed" href="http://stock-photography.bz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stock Photography &raquo; Kommentar-Feed" href="http://stock-photography.bz/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/stock-photography.bz\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='colorbox-theme1-css'  href='http://stock-photography.bz/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6.2' type='text/css' media='screen' />
+<script type='text/javascript' src='http://stock-photography.bz/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"false","colorboxPreloading":"false","colorboxOverlayClose":"false","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"Schlie\u00dfen","colorboxNext":"Vor","colorboxPrevious":"Zur\u00fcck","colorboxSlideshowStart":"Slideshow starten","colorboxSlideshowStop":"Slideshow beenden","colorboxCurrent":"{current} von {total} Bildern","colorboxXhrError":"Der Inhalt konnte nicht geladen werden","colorboxImgError":"Das Bild konnte nicht geladen werden.","colorboxImageMaxWidth":"false","colorboxImageMaxHeight":"false","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"false","colorboxLinkWidth":"false","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"true","autoHideFlash":"true","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.4.33'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.tools.min.js?ver=4.9'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.easing.1.3.js?ver=4.9'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.preloader.js?ver=4.9'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/navigation/ddsmoothmenu.js?ver=4.9'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.ui.widget.js?ver=4.9'></script>
+<script type='text/javascript' src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.notify.min.js?ver=4.9'></script>
+<link rel='https://api.w.org/' href='http://stock-photography.bz/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://stock-photography.bz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://stock-photography.bz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+
+<script type="text/javascript">
+
+// main menu
+/***********************************************
+* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+ddsmoothmenu.init( {
+	
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal only for this theme
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup", //"markup" or ["container_id", "path_to_menu_file"]
+		downarrowpath: "http://stock-photography.bz/wp-content/themes/sofa_downloadshop/navigation/down.png",
+	rightarrowpath: "http://stock-photography.bz/wp-content/themes/sofa_downloadshop/navigation/right.png"
+		
+} );
+
+</script>
+
+	
+<script type="text/javascript" src="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/nivo_slider/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">	
+
+	jQuery( window ).load( function() {
+		jQuery( '#slider' ).nivoSlider( {
+			effect: "sliceDown", // Specify sets like: 'fold,fade,sliceDown'
+			slices: 10, // For slice animations
+			boxCols: 8, // For box animations
+			boxRows: 4, // For box animations
+			animSpeed: 300, // Slide transition speed
+			pauseTime: 3000, // How long each slide will show
+			startSlide: 0, // Set starting Slide (0 index)
+			directionNav: true, // Next & Prev navigation
+			directionNavHide: true, // Only show on hover
+			controlNav: true, // 1,2,3... navigation
+			keyboardNav: true, // Use left & right arrows
+			pauseOnHover: true, // Stop animation while hovering
+			manualAdvance: true, // Force manual transitions
+			captionOpacity: 0.8, // Universal caption opacity
+			prevText: "Previous", // Prev directionNav text
+			nextText: "Next", // Next directionNav text
+			captionOpacity: 0.6 			
+		} );
+		jQuery( '#slider' ).css( 'visibility', 'visible' ).css( "height", "350px" );
+		
+	} );
+	
+</script>	
+
+
+
+<script type="text/javascript" src="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/jquery.preloader.js"></script>
+
+<script type="text/javascript" src="http://stock-photography.bz/wp-content/themes/sofa_downloadshop/theme_script/theme.helpers.js"></script>
+
+<script type="text/javascript">
+	jQuery( document ).ready( function() {
+		// preload all images
+		jQuery( '.box, .col' ).preloader( "http://stock-photography.bz/wp-content/themes/sofa_downloadshop/images/loader.gif" );
+	} );
+</script>
+
+</head>
+
+<body class="home blog">
+
+	<!-- FUNCTIONAL STUFF -->
+    
+    <div id="functional">
+    
+    	<ul id="functional-navig">
+        
+                
+		<!-- main search start -->
+
+		<li id="main-search">
+        
+            <form class="searchform textright" method="get" action="http://stock-photography.bz">
+                <div id="sfdiv">
+                <input 
+                class="search" 
+                name="s" 
+                type="text" 
+                id="wpsrch" 
+                value="" 
+                tabindex="1" />
+                <input type="submit" class="search-btn" name="submit" value="" />
+                </div>
+                <div id="search-options">
+                	<span class="search-extended-options-title inset-line clearfix">Show search results for: </span>
+          			<span class="wrap-radio clearfix inset-line">
+          			<input type="radio" name="srchtype" id="search-products" value="product" />
+          			<label for="search-products">Products</label>
+          			</span>
+                	<span class="wrap-radio clearfix inset-line">
+          			<input type="radio" name="srchtype" id="search-news" value="post" checked="checked" />
+          			<label for="search-news">News or Blog</label>
+          			</span>
+          			<span class="wrap-radio clearfix inset-line">
+          			<input type="checkbox" id="search-in-tags" name="srchtags" value="1" checked="checked" />
+             		<label for="search-in-tags">Search keywords/tags</label>
+             		</span>
+          			
+          			<span class="search-extended-close clearfix"><a href="javascript:;" class="mini-butt close">CLOSE OPTIONS</a></span>
+                </div>
+            </form>
+        
+        </li>
+        
+        <!-- main search end -->
+        
+        <!-- basket link start -->
+        
+		<li>
+            <a id="mb" href="http://stock-photography.bz/checkout/">CART: &euro; 0.00 (0 items)</a>        
+        </li>
+        
+        <!-- basket link end -->
+        
+        <li>        
+            <a class="adminlinks" rel="nofollow" href="http://stock-photography.bz/wp-login.php" title="SignUp/SignIn">
+                &bull; SignUp/SignIn            </a>
+        
+        </li>        
+        </ul>
+    
+    </div>
+    
+    <!-- END FUNCTIONAL STUFF -->
+
+	<!-- WRAP ALL -->
+    
+	<div id="main-content" class="wrapper w_960 content-border-white clearfix">
+    
+    	<!-- LOGO and NAVIGATION -->
+        
+        <div id="smoothmenu1" class="ddsmoothmenu">
+        
+        <div id="logo">
+        
+            <a href="http://stock-photography.bz/">
+            
+                                
+                <img src="http://stock-photography.bz/wp-content/uploads/2011/10/stock-photography_logo1.png" title="Stock Photography" alt="Stock Photography" />
+                
+                                
+            </a>
+        
+        </div>
+        
+		<ul id="menu-main-menu" class="navigation"><li id="menu-item-516" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-516"><a title="stock photography" href="/">Startseite</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-546"><a title="Tipps &#038; Tricks zum Thema Fotografie" href="http://stock-photography.bz/category/tipps/">Fotografie Tipps</a>
+<ul class="sub-menu">
+	<li id="menu-item-732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-732"><a title="Tutorials: Bildbearbeitung mit Photoshop" href="http://stock-photography.bz/category/tutorials/">Tutorials</a></li>
+</ul>
+</li>
+<li id="menu-item-592" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-has-children menu-item-592"><a href="http://stock-photography.bz/catalog/fotos/">Fotos</a>
+<ul class="sub-menu">
+	<li id="menu-item-612" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-612"><a href="http://stock-photography.bz/catalog/natur/">Natur</a></li>
+	<li id="menu-item-617" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-617"><a href="http://stock-photography.bz/catalog/lebensmittel/">Lebensmittel</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-613"><a href="http://stock-photography.bz/catalog/tiere-downloads/">Tiere</a></li>
+	<li id="menu-item-618" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-618"><a href="http://stock-photography.bz/catalog/menschen/">Menschen</a></li>
+	<li id="menu-item-614" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-614"><a href="http://stock-photography.bz/catalog/architektur/">Architektur</a></li>
+	<li id="menu-item-616" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-616"><a href="http://stock-photography.bz/catalog/industrie/">Industrie</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-615"><a href="http://stock-photography.bz/catalog/objektfotos/">Objekte</a></li>
+	<li id="menu-item-643" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-643"><a href="http://stock-photography.bz/catalog/fahrzeuge/">Fahrzeuge</a></li>
+</ul>
+</li>
+<li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-548"><a title="FAQ" href="http://stock-photography.bz/download/">FAQ</a>
+<ul class="sub-menu">
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="http://stock-photography.bz/download/">Download</a></li>
+</ul>
+</li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a title="Kontakt" href="http://stock-photography.bz/kontakt/">Kontakt</a></li>
+</ul>        
+        </div>
+        
+        <div class="clearfix">&nbsp;</div>
+        
+        <!-- END LOGO and NAVIGATION -->
+        
+    
+    <!-- Call-out conditional -->
+    
+        
+    	<div id="call-out" class="inset-line-top call-out-above clearfix">
+        
+        <h1>Stock-Photography.bz -  Die günstige und legale Quelle für Fotos</h1>        
+        </div>
+    
+        
+    <!-- End Call-out conditional -->
+        
+	<!-- Nivo slider start -->
+
+	    
+    	    
+        <div id="slider" class="theme-default rounded">
+        
+                        
+                        
+            <img src="http://stock-photography.bz/wp-content/uploads/2012/02/envato0311.jpg" title="<mark>Fotos ab: €0.19</mark>
+Mauris semper nisl in nibh sodales egestas" />            
+                        
+            <a class="noshadow" href="http://downloadshop.sofarider.com/product/yellow-flower/"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/madness_flower1.jpg" title="<mark>Another featured Product slide: $29.99</mark>
+Slides can be linked to whichever page you like! That's a great method to advertise your products." /></a>            
+                        
+            <img src="http://stock-photography.bz/wp-content/uploads/2012/02/envato051.jpg" title="<mark>Discounted Package - $ 12.99</mark>
+You can easily add HTML formatted text to Nivo slides, make them interesting for your customers.
+<ul>
+<li>Nam ac viverra purus.</li>
+<li>Duis rhoncus fermentum nisl a sodales.</li>
+<li>Proin ut purus magna.</li>
+</ul>" />            
+                        
+            <a class="noshadow" href="http://www.freepixels.com/download.php?cat=7&amp;pic=2776"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/envato039.jpg" title="<mark>Download - FREE!</mark>
+Slides can even become download links. Share some stuff for free!" /></a>            
+                        
+            <img src="http://stock-photography.bz/wp-content/uploads/2012/02/scottwills_makeawish1.jpg" title="<mark>Fully implemented: $ 29.95</mark>
+Nivo slider is fully implemented to Sofa DownloadShop theme options which means that you can easily<br />
+set it up without even touching the code!" />            
+                        
+        </div>
+        
+        <div class="nivo-directionNav" style="display: none;">
+            <a href="#" class="nivo-prevNav">Previous</a>
+            <a href="#" class="nivo-nextNav">Next</a>
+        </div>
+    
+    
+	<!-- Nivo slider end -->
+	
+    <!-- Call-out conditional -->
+    
+        
+    <!-- End Call-out conditional -->
+
+	<!-- Home page Widgets -->
+
+	
+	<!-- End Home page Widgets -->
+
+	<!-- breadcrumbs start -->
+
+	
+	<!-- breadcrumbs end -->
+
+<!-- main content start -->
+
+	    
+	    
+	
+    <div id="featured" class="box clearfix full">
+    
+    	<!-- title start -->
+    	
+    	        
+        <h1 class="main center">Stock Photography</h1>
+        
+                
+        <!-- title end -->
+        
+        <!-- wordpress loop start -->
+    
+    	    
+    	    
+        <div id="post-393" class="product-box col c1 first_col post-393 product type-product status-publish has-post-thumbnail hentry tag-gelber-hydrant tag-hydrant catalog-fotos catalog-objektfotos">
+        
+            <a href="http://stock-photography.bz/product/yellow-hydrant/" rel="limited~LIMITED OFFER!"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/scottwills_hydrant1-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Yellow hydrant</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.29</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/yellow-hydrant/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-386" class="product-box col c1 post-386 product type-product status-publish has-post-thumbnail hentry tag-fische tag-hai tag-tierefotos tag-unterwasserfotos catalog-fotos catalog-tiere-downloads">
+        
+            <a href="http://stock-photography.bz/product/shark-underwater-king/"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/scottwills_underwater2-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Shark underwater king</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/shark-underwater-king/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-383" class="product-box col c1 post-383 product type-product status-publish has-post-thumbnail hentry tag-altes-auto tag-auto tag-verrostetes-auto catalog-fahrzeuge catalog-fotos">
+        
+            <a href="http://stock-photography.bz/product/old-lady-driver/"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/envato031-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Old Lady Driver</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/old-lady-driver/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-380" class="product-box col c1 post-380 product type-product status-publish has-post-thumbnail hentry tag-pflanzenfotos tag-tabasco catalog-fotos catalog-natur">
+        
+            <a href="http://stock-photography.bz/product/tabasco-party/"><img src="http://stock-photography.bz/wp-content/uploads/2012/02/scottwills_makeawish-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Tabasco party</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.49</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/tabasco-party/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-86" class="product-box col c1 post-86 product type-product status-publish has-post-thumbnail hentry tag-eule tag-tierefotos tag-vogel catalog-fotos catalog-tiere-downloads">
+        
+            <a href="http://stock-photography.bz/product/birdie/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/cyan_hawk-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Birdie</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/birdie/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-83" class="product-box col c1 last_col post-83 product type-product status-publish has-post-thumbnail hentry tag-fische tag-koi tag-tierefotos catalog-fotos catalog-tiere-downloads">
+        
+            <a href="http://stock-photography.bz/product/lucky-fish/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/scottwills_fish-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Lucky fish</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/lucky-fish/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+        <div class="clearfix"></div>        
+            
+    	    
+        <div id="post-81" class="product-box col c1 first_col post-81 product type-product status-publish has-post-thumbnail hentry tag-stadt catalog-architektur catalog-fotos">
+        
+            <a href="http://stock-photography.bz/product/cityscape/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/scottwills_cityscape2-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Cityscape</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/cityscape/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-77" class="product-box col c1 post-77 product type-product status-publish has-post-thumbnail hentry tag-architekturfotos tag-gebaude catalog-architektur catalog-fotos">
+        
+            <a href="http://stock-photography.bz/product/architecture/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/madness_arch2-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Architecture</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/architecture/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-74" class="product-box col c1 post-74 product type-product status-publish has-post-thumbnail hentry tag-pflanzenfotos catalog-fotos catalog-natur">
+        
+            <a href="http://stock-photography.bz/product/greenery/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/envato058-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Greenery</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.29</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/greenery/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-71" class="product-box col c1 post-71 product type-product status-publish has-post-thumbnail hentry tag-blumenfotos tag-pflanzenfotos catalog-fotos catalog-natur">
+        
+            <a href="http://stock-photography.bz/product/plimper-bud/" rel="newmodel~REDUCED"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/envato075-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Plimper bud</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 00.49</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/plimper-bud/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-69" class="product-box col c1 post-69 product type-product status-publish has-post-thumbnail hentry tag-schneefotos tag-strase tag-winterfotos catalog-fotos catalog-natur">
+        
+            <a href="http://stock-photography.bz/product/winter-moods/"><img src="http://stock-photography.bz/wp-content/uploads/2011/11/scottwills_bussnow-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Winter moods</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 0.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/winter-moods/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+                
+            
+    	    
+        <div id="post-550" class="product-box col c1 last_col post-550 product type-product status-publish has-post-thumbnail hentry tag-blumenfotos tag-pflanzenfotos catalog-fotos catalog-natur">
+        
+            <a href="http://stock-photography.bz/product/yellow-flower/"><img src="http://stock-photography.bz/wp-content/uploads/2011/10/madness_flower1-135x90.jpg" width="135" height="90" /></a>            
+        	<span class="prodtitle inset-line">Yellow Flower</span>
+            
+                        
+            <div class="prodinfo">
+            
+            	<span class="prodprice">&euro; 00.19</span>
+                <span class="addtocart">
+                	<a class="mini-butt" href="http://stock-photography.bz/product/yellow-flower/" title="Buy Now" rel="nofollow">Buy Now</a>
+                </span>
+            
+            </div>
+            
+        </div>
+        
+        <div class="clearfix"></div>        
+                
+        <!-- wordpress loop end -->
+        
+        <!-- pagination start -->
+        
+		        
+        <!-- pagination end -->
+        
+    </div>
+    
+        
+<!-- main content end -->
+    
+        
+<!-- include sidebar start -->
+
+    
+<!-- include sidebar end -->
+
+
+</div>
+
+<!-- WRAP ALL END -->
+
+<!-- Footer -->
+
+<div id="footer" class="wrapper w_960 content-border-dynamic clearfix bt-shadow bt-shadow-small bt-shadow-light">
+
+	<!-- Footer Widgets -->
+
+	
+	<div id="footer-widgets" class="box clearfix full">
+    
+        <ul id="footerLeft" class="b_fourth_col col first_col clearfix">
+            <li id="nav_menu-5" class="widget-container widget_nav_menu"><h2 class="widget-title">Stock Photography</h2><div class="menu-stockphotos-container"><ul id="menu-stockphotos" class="menu"><li id="menu-item-634" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-634"><a title="Architekturfotos" href="http://stock-photography.bz/catalog/architektur/">Architekturfotos</a></li>
+<li id="menu-item-640" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-640"><a title="Objektfotos" href="http://stock-photography.bz/catalog/objektfotos/">Objektfotos</a></li>
+<li id="menu-item-637" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-637"><a title="Lebensmittelfotos" href="http://stock-photography.bz/catalog/lebensmittel/">Lebensmittelfotos</a></li>
+<li id="menu-item-639" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-639"><a title="Naturfotos" href="http://stock-photography.bz/catalog/natur/">Naturfotos</a></li>
+<li id="menu-item-641" class="menu-item menu-item-type-taxonomy menu-item-object-catalog menu-item-641"><a title="Tierfotos" href="http://stock-photography.bz/catalog/tiere-downloads/">Tierfotos</a></li>
+</ul></div></li>        </ul>
+        
+        <ul id="footerCenterLeft" class="b_fourth_col col clearfix">
+            <li id="text-7" class="widget-container widget_text"><h2 class="widget-title">Feedback</h2>			<div class="textwidget"><div class="feedback">
+<div class="feedback-content rounded">
+<div class="feedback-p">
+<p>Nur geschenkt ist billiger!</p>
+</div>
+</div>
+<p><span class="feedback-tit">&nbsp;</span><span class="feedback-meta"><span class="feedback-name">Steffen Schnayder</span><span class="feedback-profession">Blogger, ima</span></span></p></div></div>
+		</li>        </ul>
+        
+        <ul id="footerCenterRight" class="b_fourth_col col clearfix">
+            <li id="text-9" class="widget-container widget_text"><h2 class="widget-title">Fotografie Tipps</h2>			<div class="textwidget"><div class="list-watch"><ul>
+<li><a href="http://stock-photography.bz/tag/naturfotografie/">Naturfotografie</a></li>
+<li><a href="http://stock-photography.bz/tag/tierfotografie/">Tierfotografie</a></li>
+<li><a href="http://stock-photography.bz/tag/architekturfotografie/">Architekturfotografie</a></li>
+<li><a href="http://stock-photography.bz/tag/industiefotografie/">Industiefotografie</a></li>
+<li><a href="http://stock-photography.bz/tag/objektfotografie/">Objektfotografie</a></li>
+<li><a href="http://stock-photography.bz/tag/menschenfotografie/">Menschenfotografie</a></li>
+</ul></div></div>
+		</li>        </ul>
+        
+        <ul id="footerRight" class="b_fourth_col col last_col clearfix">
+            <li id="sofa_recentposts-9" class="widget-container widget_sofa_recentposts"><h2 class="widget-title">Neue Fotografie Tutorials</h2><div class="clearfix"><p><span class="small">Februar 8, 2016</span> &bull; <a href="http://stock-photography.bz/panoramafreiheit-bei-architekturfotografie/"><img class="alignright" src="http://stock-photography.bz/wp-content/uploads/2013/02/Architekturfotografie-90x90.jpg" width="90" height="90" /></a><a href="http://stock-photography.bz/panoramafreiheit-bei-architekturfotografie/" rel="nofollow">Panoramafreiheit bei Architekturfotografie</a></p></div><div class="clearfix"><p><span class="small">Dezember 11, 2015</span> &bull; <a href="http://stock-photography.bz/aussergewoehnliche-und-lustige-pics-fuer-das-gaestebuch/"><img class="alignright" src="http://stock-photography.bz/wp-content/uploads/2013/12/lustige-pics-fuer-das-gaestebuch-90x90.jpg" width="90" height="90" /></a><a href="http://stock-photography.bz/aussergewoehnliche-und-lustige-pics-fuer-das-gaestebuch/" rel="nofollow">Außergewöhnliche und lustige Pics für das Gästebuch</a></p></div></li>        </ul>
+
+	</div>
+
+		
+</div>
+
+<!-- End Footer Widgets -->
+	
+<!-- Footer Copyright section -->
+	
+<div id="copyright"  class="wrapper w_960 clearfix">
+
+	
+	<div id="social-profiles">
+		
+		<p><a href='http://twitter.com/seoagentur'>
+	<img src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/images/twitter.png' />
+</a>
+<a href='http://www.facebook.com/agentur.seo'>
+	<img src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/images/facebook.png' />
+</a>
+<a href='http://stock-photography.bz/feed'>
+	<img src='http://stock-photography.bz/wp-content/themes/sofa_downloadshop/images/rss.png' />
+</a>
+			</p>
+		
+	</div>
+	
+		
+	<div id="copy-text">
+		
+		<p>&copy; stock-photography.bz  2012 All rights reserved. <a href="http://stock-photography.bz/impressum/">impressum</a></p>
+		
+	</div>
+	
+</div>
+	
+<!-- End Footer Copyright section -->
+
+<div id="toTop">&nbsp;</div>
+    
+<!-- End Footer -->
+
+<script type='text/javascript' src='http://stock-photography.bz/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+
+</body>
+</html>

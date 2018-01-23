@@ -1,0 +1,769 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES">
+	<head profile="http://gmpg.org/xfn/11">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>El espacio de MrMx v3.0 | Bitácora personal de Mr.Mx. un tecnócrata, audiófilo, melómano ..</title>
+		<link  rel="pingback" href="https://mrmx.wordpress.com/xmlrpc.php" />
+		<meta name="google-site-verification" content="1acc9a5f-3659-32ac-99d8-4660cd841d7f" />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel="alternate" type="application/rss+xml" title="El espacio de MrMx v3.0 &raquo; Feed" href="https://mrmx.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="El espacio de MrMx v3.0 &raquo; RSS de los comentarios" href="https://mrmx.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1505864856h&ver=4.9-20171120"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJyNkN0OgjAMhV/IuagE9cL4LNuoOF23hhYJb++QoIkY4k3TNufrz9EdKZeiQBSNraLQ1j6y7sglVIw+QP9VrR3zSv/Ggr8D6xsIGXdXr2omtyHVnz2pqUzFug7JmvCfNiYBMpV6bJdO8fHio5f+nfwllitg/oBaO61ZwlxqIPeRjAwKhMobCHlClCUMqZyoIb1mrxZdHe23lhpgVjmib1GNp864+QeapQ8wCM942hSH/a7cFMfi9gQR4r5w' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-1-1' href='https://s2.wp.com/wp-content/themes/pub/notepad/css/print.css?m=1271364477h' type='text/css' media='print' />
+<!--[if IE]>
+<link rel='stylesheet' id='notepad-ie-css'  href='https://s0.wp.com/wp-content/themes/pub/notepad/ie.css?m=1273001598h&#038;ver=4.9-20171120' type='text/css' media='all' />
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel='stylesheet' id='notepad-ie6-css'  href='https://s0.wp.com/wp-content/themes/pub/notepad/ie6.css?m=1273001598h&#038;ver=4.9-20171120' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??-eJx9kN0OgjAMRl/I2RDw78L4LGOOUS0rWUuIby8EjBKTXe37snO6ZjD2xnFUHxW6wfQ0BIwCI96DV4GG0D0TiL7I753IDvK8sENLBidkWxYZIbIul5+Qmxo8G2JnFTluimnIYsqpydfEYYoBJuqn5iTr5uG1Td+Uw3sWXTYBaW2a31rPnLX+yrQOb8ufpK3vvEBbQSCuLc3ArbsW1eV8OpbloXi8Ad4/px8=' type='text/css' media='all' />
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyF0G0KwjAMBuAL2dXJxP0Rz1Lr60hdP2zaDT29FSYiVIVAIHkISeQcBDk95hNYmhLXjHhbUmN4JX8BYWmIKqGx5F5Ye5fg0tNaf6QRIjOiGkqtDDr7iguekwVzQZXu50rkJsL8lxmkoPRFRDDdUTuEw3vn7x9Y1MHu267fbfp2263NA675cvs='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mrmx.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='https://wp.me/KOMh' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="El espacio de MrMx v3.0" />
+<meta property="og:description" content="Bitácora personal de Mr.Mx. un tecnócrata, audiófilo, melómano .." />
+<meta property="og:url" content="https://mrmx.wordpress.com/" />
+<meta property="og:site_name" content="El espacio de MrMx v3.0" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="es_ES" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://mrmx.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://mrmx.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://mrmx.wordpress.com/osd.xml" title="El espacio de MrMx v3.0" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style id="wpcom-hotfix-masterbar-style">
+			@media screen and (min-width: 783px) {
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+					margin-top: 5px;
+				}
+			}
+		</style>
+		<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta name="application-name" content="El espacio de MrMx v3.0" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Bitácora personal de Mr.Mx. un tecnócrata, audiófilo, melómano .." /><meta name="msapplication-task" content="name=Suscribirse;action-uri=https://mrmx.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Registrar un blog gratuito;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Ayuda de WordPress.com;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Foros de WordPress.com;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="El espacio de MrMx v3.0 in WordPress.com" />
+<meta name="description" content="Bitácora personal de Mr.Mx. un tecnócrata, audiófilo, melómano .." />
+		<script type="text/javascript">
+		var __ATA_PP = { pt: 0, ht: 0, tn: 'notepad', amp: false };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript" src="//s.pubmine.com/head.js" async></script><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+	</head>
+	<body class="home blog mp6 customizer-styles-applied highlander-enabled highlander-light infinite-scroll neverending">
+		<div id="pagewrapper">
+				<div id="header">
+			<h1 id="logo">
+				<a href="https://mrmx.wordpress.com/">El espacio de MrMx v3.0</a>
+			</h1>
+			<p class="description">Bitácora personal de Mr.Mx. un tecnócrata, audiófilo, melómano ..</p>
+
+			<p class="socialmedia">
+				
+									<a href="http://twitter.com/mrmx"><img alt="Twitter" src="https://s0.wp.com/wp-content/themes/pub/notepad/img/socialmedia/twitter.png"></a>
+				
+									<a href="http://facebook.com/manuel.polo"><img alt="Facebook" src="https://s0.wp.com/wp-content/themes/pub/notepad/img/socialmedia/facebook.png"></a>
+				
+									<a href="http://www.flickr.com/photos/mrmx/"><img alt="Flickr" src="https://s0.wp.com/wp-content/themes/pub/notepad/img/socialmedia/flickr.png"></a>
+				
+									<a href="https://mrmx.wordpress.com/feed/"><img alt="RSS" src="https://s0.wp.com/wp-content/themes/pub/notepad/img/socialmedia/rss.png"></a>
+							</p><!-- socialmedia -->
+
+			<div class="menu"><ul class="menu">
+<li class="current_page_item"><a href="https://mrmx.wordpress.com/">Inicio</a></li><li class="page_item page-item-82"><a href="https://mrmx.wordpress.com/acerca-del-espacio-de-mrmx/">Acerca del espacio de&nbsp;MrMx</a></li>
+</ul></div>
+
+		</div>
+		<!--/header -->
+
+		
+		<div id="wrapper">
+
+
+	<div id="content">
+
+	
+		
+				<div class="post-115 post type-post status-publish format-standard hentry category-blog category-proyectos category-wordpress tag-blog tag-servidor tag-wordpress" id="post-115">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2009/12/29/moviendo-blog/" title="Moviendo blog..">Moviendo blog..</a>
+			</h2>
+			<p class="post-date">
+				29/12/2009			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/blog/" rel="category tag">blog</a>, <a href="https://mrmx.wordpress.com/category/proyectos/" rel="category tag">Proyectos</a>, <a href="https://mrmx.wordpress.com/category/wordpress/" rel="category tag">Wordpress</a>				</span>
+				<span class="posttag"><a href="https://mrmx.wordpress.com/tag/blog/" rel="tag">blog</a>, <a href="https://mrmx.wordpress.com/tag/servidor/" rel="tag">servidor</a>, <a href="https://mrmx.wordpress.com/tag/wordpress/" rel="tag">Wordpress</a></span>				<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2009/12/29/moviendo-blog/#respond">Deja un comentario</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>He movido <span style="text-decoration:line-through;">Estoy moviendo</span> mis entradas antiguas al servidor de wordpress.com &#8230; pronto retomaremos el blog aprovechando las ventajas de wordpress.com: velocidad, velocidad, y 0.0 mantenimiento.</p>
+		<div class="wpcnt">
+			<div class="wpa wpmrec">
+				<span class="wpa-about">Anuncios</span>
+				<div class="u">		<div id="atatags-26942" style="width:300px;height:250px;float:left;margin-right:5px;margin-top:0px">
+			<script type="text/javascript">
+			__ATA.cmd.push(function() {
+				__ATA.initSlot('atatags-26942',  {
+					collapseEmpty: 'before',
+					sectionId: '26942',
+					width: 300,
+					height: 250
+				});
+			});
+			</script>
+		</div>		<div id="atatags-114160" style="width:300px;height:250px;">
+			<script type="text/javascript">
+			__ATA.cmd.push(function() {
+				__ATA.initSlot('atatags-114160',  {
+					collapseEmpty: 'before',
+					sectionId: '114160',
+					width: 300,
+					height: 250
+				});
+			});
+			</script>
+		</div></div>
+						<div id="crt-270737235" style="width:300px;height:250px;display:none !important;"></div>
+		<script type="text/javascript">
+(function(){var c=function(){var a=document.getElementById("crt-270737235");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:388248,containerid:"crt-270737235",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		</script>		<div id="crt-1457790022" style="width:300px;height:250px;display:none !important;"></div>
+		<script type="text/javascript">
+(function(){var c=function(){var a=document.getElementById("crt-1457790022");window.Criteo?(a.parentNode.style.setProperty("display","inline-block","important"),a.style.setProperty("display","block","important"),window.Criteo.DisplayAcceptableAdIfAdblocked({zoneid:837497,containerid:"crt-1457790022",collapseContainerIfNotAdblocked:!0,callifnotadblocked:function(){a.style.setProperty("display","none","important");a.style.setProperty("visbility","hidden","important")}})):(a.style.setProperty("display","none","important"),a.style.setProperty("visibility","hidden","important"))};if(window.Criteo)c();else{if(!__ATA.criteo.script){var b=document.createElement("script");b.src="//static.criteo.net/js/ld/publishertag.js";b.onload=function(){for(var a=0;a<__ATA.criteo.cmd.length;a++){var b=__ATA.criteo.cmd[a];"function"===typeof b&&b()}};(document.head||document.getElementsByTagName("head")[0]).appendChild(b);__ATA.criteo.script=b}__ATA.criteo.cmd.push(c)}})();
+		</script>
+			</div>
+		</div><div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-115" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/29/moviendo-blog/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-115" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/29/moviendo-blog/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/29/moviendo-blog/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-115-5a19a1221fd48' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=115&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-115-5a19a1221fd48' data-name='like-post-frame-11158281-115-5a19a1221fd48'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-112 post type-post status-publish format-standard hentry category-documentos category-general category-imagenes category-retro category-tecno tag-150851 tag-commodore tag-retro" id="post-112">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/" title="Un anuncio de un ordenador en los&nbsp;80">Un anuncio de un ordenador en los&nbsp;80</a>
+			</h2>
+			<p class="post-date">
+				26/12/2009			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/documentos/" rel="category tag">Documentos</a>, <a href="https://mrmx.wordpress.com/category/general/" rel="category tag">General</a>, <a href="https://mrmx.wordpress.com/category/documentos/imagenes/" rel="category tag">Imágenes</a>, <a href="https://mrmx.wordpress.com/category/retro/" rel="category tag">retro</a>, <a href="https://mrmx.wordpress.com/category/tecno/" rel="category tag">Tecno</a>				</span>
+				<span class="posttag"><a href="https://mrmx.wordpress.com/tag/80/" rel="tag">80</a>, <a href="https://mrmx.wordpress.com/tag/commodore/" rel="tag">commodore</a>, <a href="https://mrmx.wordpress.com/tag/retro/" rel="tag">retro</a></span>				<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/#respond">Deja un comentario</a>				</span>
+							</p>
+			<div class="post-content">
+				<div data-shortcode="caption" id="attachment_112" style="max-width: 160px" class="wp-caption aligncenter"><a href="https://mrmx.files.wordpress.com/2009/01/anuncio-commodore-198x-480.jpg"><img data-attachment-id="112" data-permalink="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/" data-orig-file="" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="Un anuncio de un ordenador en los 80" data-image-description="&lt;p&gt;[caption id=&quot;attachment_112&quot; align=&quot;aligncenter&quot; width=&quot;212&quot; caption=&quot;Anuncio Commodore España&quot;]&lt;a href=&quot;https://mrmx.files.wordpress.com/2009/01/anuncio-commodore-198x-480.jpg&quot;&gt;&lt;img class=&quot;size-thumbnail wp-image-112 &quot; title=&quot;Anuncio Commodore España&quot; src= alt=&quot;Anuncio Commodore España&quot; width=&quot;212&quot; height=&quot;216&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;Este es un anuncio de un ordenador Commodore CBM (¿&lt;a title=&quot;Commodore CMB 3001 series&quot; href=&quot;http://www.zimmers.net/cbmpics/cp3001.html&quot; target=&quot;_self&quot;&gt;Series 3001&lt;/a&gt;?) que me he encontrado entre mis catálogos antiguos, que creo que a partir de ahora iré subiendo. Como ha cambiado la tecnología y el precio: 500.000 pesetas de la época (ahora 3000€ pero para entonces ¡uff!). Mirando en ebay me lo encuentro por 50€ mas gastos de envío. No se exactamente la fecha pero creo que será por 1986.&lt;/p&gt;
+" data-medium-file="" data-large-file="" class="size-thumbnail wp-image-112 " title="Anuncio Commodore España" src="https://mrmx.files.wordpress.com/2009/01/anuncio-commodore-198x-480.jpg?w=150" alt="Anuncio Commodore España"   /></a><p class="wp-caption-text">Anuncio Commodore España</p></div>
+<p>Este es un anuncio de un ordenador Commodore CBM (¿<a title="Commodore CMB 3001 series" href="http://www.zimmers.net/cbmpics/cp3001.html" target="_self">Series 3001</a>?) que me he encontrado entre mis catálogos antiguos, que creo que a partir de ahora iré subiendo. Como ha cambiado la tecnología y el precio: 500.000 pesetas de la época (ahora 3000€ pero para entonces ¡uff!). Mirando en ebay me lo encuentro por 50€ mas gastos de envío. No se exactamente la fecha pero creo que será por 1986.</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-112" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-112" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2009/12/26/un-anuncio-ordenador-80/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-112-5a19a12221410' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=112&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-112-5a19a12221410' data-name='like-post-frame-11158281-112-5a19a12221410'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-109 post type-post status-publish format-standard hentry category-general category-gnu category-linux category-noticias category-sistemas-operativos category-software category-software-libre" id="post-109">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2007/11/01/la-carta-abierta-a-steve-ballmer/" title="La carta &quot;abierta&quot; a Steve&nbsp;Ballmer">La carta &quot;abierta&quot; a Steve&nbsp;Ballmer</a>
+			</h2>
+			<p class="post-date">
+				01/11/2007			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/general/" rel="category tag">General</a>, <a href="https://mrmx.wordpress.com/category/gnu/" rel="category tag">GNU</a>, <a href="https://mrmx.wordpress.com/category/so/linux/" rel="category tag">Linux</a>, <a href="https://mrmx.wordpress.com/category/noticias/" rel="category tag">Noticias</a>, <a href="https://mrmx.wordpress.com/category/sistemas-operativos/" rel="category tag">Sistemas Operativos</a>, <a href="https://mrmx.wordpress.com/category/software/" rel="category tag">Software</a>, <a href="https://mrmx.wordpress.com/category/software-libre/" rel="category tag">Software-Libre</a>				</span>
+								<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2007/11/01/la-carta-abierta-a-steve-ballmer/#respond">Deja un comentario</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>Hace mucho que no escribo en mi blog, por que no he encontrado tiempo o algo interesante sobre lo que merezca la pena escribir o publicar. Este es el momento de volver la cara al mundo y apoyar la difusión de algo que huele a corrupto y no va ha salir en la prensa o medios tradicionales. Aunque a alguien no le parezca así, o que opine que el mundo es algo mas libre que antes, siguen lagunas y sombras sobre la libertad. En este caso hablamos de la libertad de elección, más concretamente: libertad de elección del sistema sobre el que basar el conocimiento de todo un país en desarrollo, como es el caso de <a href="http://es.wikipedia.org/wiki/Nigeria" title="Nigeria en la Wikipedia" target="_blank">Nigeria</a>.</p>
+<p>La historia es simple, el gobierno de <a href="http://es.wikipedia.org/wiki/Nigeria" title="Nigeria en la Wikipedia" target="_blank">Nigeria</a> decide comprar una partida de 17 mil ordenadores nuevos, <a href="http://www.intel.com/cd/corporate/pressroom/emea/spa/364219.htm" title="Intel se une al proyecto OLPC" target="_blank">proveídos por Intel</a>  denominados <a href="http://www.classmatepc.com/espanol/classmate-pc-que-es.html" title="Que es un ClassMate PC" target="_blank">ClassMate PC</a> para centros educativos y equiparlos con un sistema libre y moderno como es la distribución francesa de <a href="http://es.wikipedia.org/wiki/Linux" title="Linux en la Wikipedia" target="_blank">Linux</a> <a href="http://es.wikipedia.org/wiki/Mandriva_Linux" title="Mandriva Linux en la Wikipedia" target="_blank">Mandriva</a>. Pues bien, <a href="http://www.mandriva.com/enterprise/en/company/press/nigerian-education-selects-intel-powered-classmate-pc-with-mandriva-linux" title="Nota de prensa del acuerdo Mandriva Nigeria del 30 de Octubre de 2007" target="_blank">cerrado el trato</a> y el envío realizado, &#8220;entran a saco &#8221; los señores de Microsoft y consiguen, de algún sutil modo, que el gobierno sustituya Mandriva por <a href="http://es.wikipedia.org/wiki/Microsoft_Windows" title="Ms Windows en la Wikipedia" target="_blank">Windows</a>. Ante este cambio repentino, el director de Mandriva, François Bancilhon,  le envía esta carta al director actual de Microsoft, <a href="http://es.wikipedia.org/wiki/Steve_Ballmer" title="Steve Ballmer en la Wikipedia" target="_blank">Steve Ballmer</a>:</p>
+<blockquote><p><em>Querido Steve:</em></p>
+<p><em>Hola! Soy François, de Mandriva</em></p>
+<p><em>Estoy seguro que todavía somos algo muy pequeño para que nos conozcas. Sabes, somos una de esas pequeñas compañías de Linux trabajando duro por un lugar en el mercado. Producimos una distribución de Linux, Mandriva Linux. La última edición, Mandriva 2008, ha sido vista como una muy buena versión y estamos orgullosos de ello. Deberías darle un vistazo, seguro que te gustaría. También ha pasado que somos una de las compañías Linux que no hemos firmado un acuerdo con su compañía (nadie es perfecto).</em></p>
+<p><em>Recientemente hemos llegado a un acuerdo con el Gobierno de Nigeria. Quizá has oído hablar algo de eso, Steve. Buscábamos una solución de hardware-software económica para sus escuelas. El encargo inicial era de 17,000 máquinas. Teníamos una buena oferta para sus necesidades: el Classmate PC de Intel, con una versión adaptada de Mandriva Linux. Presentamos la solución al gobierno local, y les gustó la máquina, nuestro sistema operativo; les gustó lo que le ofrecimos. el hecho de que fuera código abierto, de que podíamos adaptarlo para su país, etc.</em></p>
+<p><em>Entonces, su gente entró en el juego y el trato resultó más difícil. Yo no diría que más sucio, pero alguien podría haberlo dicho. Ellos lucharon y lucharon por un acuerdo pero el cliente estaba contento de conseguir CMPC y Mandriva.</em></p>
+<p><em>Así que cerramos el trato. conseguimos el encargo, calificamos el software, facturamos las máquinas. En otras palabras, hicimos nuestro trabajo. Creo que las máquinas están siendo entregadas ahora mismo. </em></p>
+<p><em>Y entonces, hoy, oímos del cliente una historia totalmente diferente: “Pagaremos por el Software de Mandriva como estaba estipulado, pero lo cambiaremos por Windows después.”</em></p>
+<p><em>Guau! ¡Estoy impresionado, Steve! ¿Qué has hecho para que esos tipos cambien de parecer de esa manera? Está bastante claro para mí, y probablemente para cualquiera. ¿Cómo decís donde tú vives lo que has hecho, Steve? En mi país, le dicen varios nombres, estoy seguro que los conoces.</em></p>
+<p><em>Eh Steve, ¿cómo te sientes por la mañana mirándote al espejo?</em></p>
+<p><em>Por supuesto, seguiré luchando esta vez y la próxima, y la próxima también. Tienes dinero, el poder y, probablemente, tenemos un significado para la ética muy distinto del tuyo, pero creo que el trabajo duro, la buena tecnología y la ética puede ganar también.</em></p>
+<p><em>Saludos</em></p>
+<p><em>François</em></p>
+<p><em>PD: Un mensaje para nuestros amigos en Nigeria: todavía hay tiempo para hacer lo correcto y elegir bien, ¡obtendréis un montón de soporte y excelentes servicios!</em></p></blockquote>
+<p>Creo que después de esta y otras más actuaciones contra el <a href="http://es.wikipedia.org/wiki/Software_libre" title="SL en la Wikipedia" target="_blank">software libre</a> y <a href="http://es.wikipedia.org/wiki/GNU/Linux" title="GNU-Linux en la Wikipedia">GNU/Linux</a> en particular, se va cumpliendo lo que <a href="http://es.wikiquote.org/wiki/Mohandas_Gandhi" title="Citas de M. Gandhi" target="_blank">Gandhi ya postuló</a>:</p>
+<p align="center"><em>&#8220;Primero te ignoran, después se ríen de ti, luego te atacan, entonces ganas.&#8221;</em></p>
+<p>Ya estamos ganando. 😀</p>
+<p>Puedes apoyar el meneo de está noticia en <a href="http://meneame.net/story/carta-abierta-mandriva-microsoft-ing" title="Menea la noticia" target="_blank">menéame</a>.</p>
+<p>La versión original en inglés está en el <a href="http://blog.mandriva.com" title="Blog de Mandriva" target="_blank">blog de Mandriva</a> en la entrada: <a href="http://blog.mandriva.com/2007/10/31/an-open-letter-to-steve-ballmer/" rel="bookmark" title="Permanent link to An open letter to Steve Ballmer">An open letter to Steve Ballmer</a></p>
+<p>La traducción inicial ha sido obtenida del blog Blogdrake en la entrada <a href="http://blogdrake.net/node/9488" title="http://blogdrake.net/node/9488" target="_blank">Carta abierta a Steve Ballmer</a> y <a href="http://blogdrake.net/node/9488#comment-42451" title="Traducción en Blogdrake de la Carta abierta a Steve Ballmer">el comentario con la traducción</a>.</p>
+<p>Leido en Barrapunto: <a href="http://softlibre.barrapunto.com/article.pl?sid=07/11/01/1320219" title=" Microsoft frustra la compra de 17.000 PC con Mandriva Linux" target="_blank">Microsoft frustra la compra de 17.000 PC con Mandriva Linux</a>.</p>
+<p>Actualización: Al parecer, <a href="http://www.computerworlduk.com/management/government-law/public-sector/news/index.cfm?newsid=6124" target="_blank">el gobierno de Nigeria ha impedido la operación de Microsoft y se vuelve a la oferta de Mandriva</a>.</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-109" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/11/01/la-carta-abierta-a-steve-ballmer/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-109" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/11/01/la-carta-abierta-a-steve-ballmer/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/11/01/la-carta-abierta-a-steve-ballmer/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-109-5a19a12222ecb' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=109&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-109-5a19a12222ecb' data-name='like-post-frame-11158281-109-5a19a12222ecb'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-108 post type-post status-publish format-standard hentry category-blog category-espana category-internet category-seguridad category-servicios category-software category-utilidad category-web category-wordpress" id="post-108">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2007/04/26/ya-uso-openid-%c2%bfy-tu/" title="Ya uso OpenID ¿y&nbsp;tu?">Ya uso OpenID ¿y&nbsp;tu?</a>
+			</h2>
+			<p class="post-date">
+				26/04/2007			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/blog/" rel="category tag">blog</a>, <a href="https://mrmx.wordpress.com/category/espana/" rel="category tag">España</a>, <a href="https://mrmx.wordpress.com/category/internet/" rel="category tag">Internet</a>, <a href="https://mrmx.wordpress.com/category/seguridad/" rel="category tag">Seguridad</a>, <a href="https://mrmx.wordpress.com/category/servicios/" rel="category tag">Servicios</a>, <a href="https://mrmx.wordpress.com/category/software/" rel="category tag">Software</a>, <a href="https://mrmx.wordpress.com/category/utilidad/" rel="category tag">Utilidad</a>, <a href="https://mrmx.wordpress.com/category/programacion/web/" rel="category tag">web</a>, <a href="https://mrmx.wordpress.com/category/wordpress/" rel="category tag">Wordpress</a>				</span>
+								<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2007/04/26/ya-uso-openid-%c2%bfy-tu/#comments">1 comentario</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>¿No estas cansado de usar diversos usuarios y contraseñas (o lo que es peor usar el mismo usuario y contraseña) en diversos servicios en internet?</p>
+<p>Hace tiempo que ha habido soluciones al tema (<a href="http://es.wikipedia.org/wiki/Microsoft_Passport" title="Microsoft Passport en la Wikipedia">M$ Passport</a>, <a href="http://www.projectliberty.org/" title="Proyecto Liberty Alliance" target="_blank">Liberty Alliance</a>) pero me quedo con la mas libre y abierta: <a href="http://es.wikipedia.org/wiki/OpenID" title="OpenID en la wikipedia" target="_blank">OpenID</a>. Significa que usaré un identificador único (ID) en forma de dirección web (URL) e independiente de un solo proveedor (la especificación es abierta -Open-) para decir quien soy yo en todos los sitios donde se soporte este sistema.</p>
+<p>Concretamente mi provedor de identidad esta en <a href="http://www.myopenid.com" title="Proveedor OpenID myopenid.com" target="_blank">www.myopenid.com</a> y mi identidad es <a href="http://mrmx.myopenid.com" title="OpenID de mrmx" target="_blank">mrmx.myopenid.com</a>. Más aún, <a href="http://www.openidenabled.com/openid/use-your-own-url-as-an-openid" title="Usa tu propia URL como una OpenID" target="_blank">he hecho que mi dominio mrmx.org sea un alias de mi identidad</a> (mrmx.myopenid.com) y desde hace un mes, instalé un <a href="http://sourceforge.net/projects/wpopenid/" title="Plugin OpenID para WordPress">plugin OpenID</a> para <a href="http://wordpress.org" title="Wordpress un software para blogs" target="_blank">wordpress</a> para autenticarme a mi mismo en mi blog, algo que me viene de perlas, por que no tengo zona segura por ahora, y usando este proveedor si tengo zona segura para autenticarme.</p>
+<p>Cada vez son mas <a href="http://openid.net/wiki/index.php/Public_OpenID_providers" title="Proveedores OpenID" target="_blank">proveedores OpenID</a> y los sitios  que empiezan a soportar este sistema como <a href="http://ma.gnolia.com" title="ma.gnolia.com es un manejador de favoritos en línea" target="_blank">ma.gnolia.com</a> , <a href="http://wordpress.com/blog/2007/03/06/openid/" title="OpenID en los blogs WordPress.com" target="_blank">wordpress.com</a>, <a href="http://www.error500.net/digg-openid" title="Digg usará OpenID" target="_blank">Digg</a> , <a href="http://dev.aol.com/aol-and-63-million-openids" title="AOL y 63 millones de de OpenIDs">AOL</a> incluso <a href="http://www.error500.net/windows-cardspace-openid" title="Windows Cardspace y OpenID">MicroSoft</a>, y como excepción, se rumorea que <a href="http://noticiastech.com/wordpress/?p=142" title="Porque Google dice que no al OpenID" target="_blank">Google no usara OpenID</a> .</p>
+<p>Aquí en España comenzaron la gente de <a href="http://www.weblogssl.com/2007/02/14-openid-en-weblogs-sl" title="Proveedor OpenID openid.blogs.es">Weblogs SL</a>, seguidos por la empresa <a href="http://www.ferca.com/" title="Empresa Ferca Network" target="_blank">Ferca Network</a> con su servidor <a href="http://openid.es/" title="Proveedor español OpenID" target="_blank">openid.es</a> (<a href="http://www.loogic.com/index.php/2007/04/26/openides/" title="Noticia sobre OpenID.es en Loogic.com" target="_blank">Visto en Loogic.com</a>)</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-108" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/04/26/ya-uso-openid-%c2%bfy-tu/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-108" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/04/26/ya-uso-openid-%c2%bfy-tu/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/04/26/ya-uso-openid-%c2%bfy-tu/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-108-5a19a12223ed2' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=108&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-108-5a19a12223ed2' data-name='like-post-frame-11158281-108-5a19a12223ed2'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-106 post type-post status-publish format-standard hentry category-blog category-eventos category-general category-gente category-zaragoza" id="post-106">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2007/02/04/cronica-post-bloggellon/" title="Crónica post-bloggellon">Crónica post-bloggellon</a>
+			</h2>
+			<p class="post-date">
+				04/02/2007			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/blog/" rel="category tag">blog</a>, <a href="https://mrmx.wordpress.com/category/eventos/" rel="category tag">Eventos</a>, <a href="https://mrmx.wordpress.com/category/general/" rel="category tag">General</a>, <a href="https://mrmx.wordpress.com/category/gente/" rel="category tag">Gente</a>, <a href="https://mrmx.wordpress.com/category/espana/aragon/zaragoza/" rel="category tag">Zaragoza</a>				</span>
+								<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2007/02/04/cronica-post-bloggellon/#comments">1 comentario</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>A pesar de haber pasado más de <strike>una semana</strike> un mes y pico, del <a href="http://www.bloggellon.com/?p=15">éxitoso bloggellón 5</a> en el que <a href="http://www.mrmx.org/2007/01/26/estuve-en-el-bloggellon-5/">estuve</a>, quedaba pendiente una mini crónica. Aunque últimamente por cambio de trabajo y otros menesteres, vuelvo a estar bastante liado, así que resumiré y dejaré constancia como micro-crónica:</p>
+<p>El evento comenzaba a eso de las 19h, y desde mi trabajo me pasé a eso de las 19:30, allí me encontré a un grupo de personas, busqué un hueco al final de la barra y ahí estaba mi primera cara conocida, la de <a href="http://fernand0.blogalia.com/historias/46580" title="Fernando Tricas en el Bloggellon 5.0" target="_blank">Fernando Tricas</a>, y casi única por que a pocos bloggeros he visto su cara en la web (yo mismo por ahora no muestro mi careto).</p>
+<p>Tomamos unas cañas y comentamos alguna cuestión sobre RSS, las islas de información y alguna cosa más que no recuerdo (la próxima vez no tardaré tanto en escribir una crónica), mientras la afluencia de asistentes al evento empezaba a abarrotar el la entrada del <a href="http://www.masterpool.es/sp_html/clubes/zazAranda.html" title="Master Pool en la calle Conde de Aranda, Zaragoza">sitio elegido para el bloggellón 5</a>.</p>
+<p>Como no quiere la cosa, conocí a <a href="http://people.warp.es/~nacho/blog/" title="Blog de Nacho Correas" target="_blank">Nacho Correas</a> de la empresa <a href="http://warp.es" title="Warp Networks" target="_blank">Warp Networks</a> (Al final me sonaba su cara de salir en su <a href="http://planet.warp.es" title="Planeta de noticias de Warp Networks">planeta de noticias de Warp</a>) y hablamos de bitácoras, software libre (a lo que se dedican ellos) continuando con las cervezas. A esto se unió Teresa, y luego <a href="http://arivero.ciberpunk.net/" title="El último hovercraft">Alejandro Rivero</a>.</p>
+<p>Teresa es <a href="http://www.zaragozamonamour.blogspot.com" title="Blog de Teresa">una enamorada de Zaragoza</a>, ha estado viviendo en <a href="http://www.labuhardilladechamartin.blogspot.com/" title="Blog de Teresa en Madrid" target="_blank">Madrid</a>, ¿Barcelona? y al final parece que se nos hace <a href="http://es.wikipedia.org/wiki/Ma%C3%B1o" title="Maño/a en la Wikipedia" target="_blank">mañica </a>por una buena temporada, espero que pintando con más colores que el <a href="http://www.zaragozaenblanco.blogspot.com" title="Otro blog de Teresa" target="_blank">blanco</a>, si la física no lo impide, a nuestra querida ciudad. Teresa, no cambies tanto de ciudad, asienta la cabeza con nos ;-).</p>
+<p>Alejandro es un hombre con múltiples inquietudes, desde los <a href="http://es.wikipedia.org/wiki/Aerodeslizador" title="Hovercraft en la Wikipedia">hovercrafts</a> que ya no pasan, pasando por otros artefactos, al podcasting condensado ;-).</p>
+<p>Al final conocí en persona a otro blogger famoso por salir en la televisión de Aragón en un fenomenal y extinto programa sobre tecnología e internet, llamado <a href="http://generacionred.net" title="Programa de TV Aragón sobre internet y nuevas tecnologías" target="_blank">Generación Red</a> . Me estoy refiriendo, por supuesto, a <a href="http://gistain.net" title="Blog de Mariano Gistain" target="_blank">Mariano Gistain</a>. Un hombre tan campechano y afable como se evidenciaba en aquel programa.</p>
+<p>En definitiva un evento para repetir, que repetiremos y con buen sabor de boca de los que duran. Podría extenderme más hablando de los temas tratados pero los iré mencionando en próximos artículos (me niego al palabro &#8220;posts&#8221;), como son la comparativa de <a href="http://es.wikipedia.org/wiki/BBS" title="BBS en la Wikipedia" target="_blank">bbs</a> con blogs y los tiempos del pseudo <a href="http://es.wikipedia.org/wiki/Phreaking" title="Phreaking en la Wikipedia">phreaking</a> y <a href="http://es.wikipedia.org/wiki/Hacking" title="Hacking en la Wikipedia" target="_blank">hacking</a> en los tiempos de los &#8220;flamantes&#8221; 14.400 bps.</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-106" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/02/04/cronica-post-bloggellon/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-106" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/02/04/cronica-post-bloggellon/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/02/04/cronica-post-bloggellon/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-106-5a19a1222511d' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=106&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-106-5a19a1222511d' data-name='like-post-frame-11158281-106-5a19a1222511d'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-105 post type-post status-publish format-standard hentry category-blog category-eventos category-gente category-zaragoza" id="post-105">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2007/01/26/estuve-en-el-bloggellon-5/" title="Estuve en el Bloggellon&nbsp;5">Estuve en el Bloggellon&nbsp;5</a>
+			</h2>
+			<p class="post-date">
+				26/01/2007			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/blog/" rel="category tag">blog</a>, <a href="https://mrmx.wordpress.com/category/eventos/" rel="category tag">Eventos</a>, <a href="https://mrmx.wordpress.com/category/gente/" rel="category tag">Gente</a>, <a href="https://mrmx.wordpress.com/category/espana/aragon/zaragoza/" rel="category tag">Zaragoza</a>				</span>
+								<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2007/01/26/estuve-en-el-bloggellon-5/#comments">11 comentarios</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>Pues sí, a pesar de no conocer físicamente a ninguno, el evento fue memorable&#8230;</p>
+<p>En otro ratico comentaré las personas que conocí, los temas que tratamos (si se puede, que fueron bastantes) etc..</p>
+<p>¡Felicidades a tod@s y en especial a <a target="_blank" title="Blog de Camyna" href="http://www.camyna.com/wordpress/">Gabríel</a> de <a target="_blank" title="Camyna" href="http://www.camyna.com">Camyna</a> por organizar tal evento! Las primeras fotos las podemos ver ya en su <a target="_blank" title="Éxito del Bloggellon 5" href="http://www.camyna.com/wordpress/2007/01/25/exito-del-5%c2%ba-bloggellon/">crónica inicial del Bloggellon 5</a>.</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-105" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/26/estuve-en-el-bloggellon-5/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-105" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/26/estuve-en-el-bloggellon-5/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/26/estuve-en-el-bloggellon-5/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-105-5a19a12225acc' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=105&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-105-5a19a12225acc' data-name='like-post-frame-11158281-105-5a19a12225acc'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+				<div class="post-103 post type-post status-publish format-standard hentry category-blog category-general category-zaragoza" id="post-103">
+			<h2 class="post-title">
+				<a href="https://mrmx.wordpress.com/2007/01/18/bloggellon-50/" title="Bloggellon 5.0">Bloggellon 5.0</a>
+			</h2>
+			<p class="post-date">
+				18/01/2007			</p>
+			<p class="post-data">
+				<span class="postauthor">
+					<a href="http://mrmx.org/" title="Visitar el sitio de mrmx" rel="author external">mrmx</a>				</span>
+				<span class="postcategory">
+					<a href="https://mrmx.wordpress.com/category/blog/" rel="category tag">blog</a>, <a href="https://mrmx.wordpress.com/category/general/" rel="category tag">General</a>, <a href="https://mrmx.wordpress.com/category/espana/aragon/zaragoza/" rel="category tag">Zaragoza</a>				</span>
+								<span class="postcomment">
+					<a href="https://mrmx.wordpress.com/2007/01/18/bloggellon-50/#comments">2 comentarios</a>				</span>
+							</p>
+			<div class="post-content">
+				<p>Tomo nota y replico la quedada bloguera que fomenta <a href="http://www.camyna.com/wordpress/">Gabriel del Molino</a> en Zaragoza y bautizada <a title="Bloggellón" target="_blank" href="http://www.bloggellon.com/">Bloggellón</a>:</p>
+<blockquote>
+<p class="MsoNormal">Ya tengo fecha para la quinta edición del Bloggellón.</p>
+<p class="MsoNormal">Será el próximo día 25, jueves, a las 19 horas en el lugar habitual (<a target="_blank" href="http://www.masterpool.es/sp_html/clubes/zazAranda.html#">Master Pool en Conde Aranda</a>).</p>
+<p class="MsoNormal">Volveremos a hacer lo del intercambio de libros. Los que tengáis el que cambiamos en la 3.0 lo podéis traer para volverlo a cambiar. Los que seáis nuevos, y no tengáis de la otra vez, podéis traer un libro cualquiera que se intercambiará con otro blogger.</p>
+<p class="MsoNormal">Me gustaría para esta vez, que de nuevo batiésemos un record de participantes, y que las mujeres blogger  superen a las de otras veces.</p>
+<p class="MsoNormal">Hay montado un wiki para que os podáis apuntar (<a href="http://www.bloggellon.com/wiki">http://www.bloggellon.com/wiki</a>), aunque no es obligatorio.</p>
+<p class="MsoNormal">Nos reunimos , hablamos, nos tomamos unas cervezas, y “arreglamos el mundo”</p>
+<p class="MsoNormal">Cualquier novedad al respecto, se anunciará por estos medios.</p>
+<p class="MsoNormal">Se ruega difusión de esta noticia.</p>
+<p class="MsoNormal">Nos vemos.</p>
+</blockquote>
+<p class="MsoNormal">Será mi primera quedada con mis convecinos blogueros y todos aquellos que vengan de otros lugares. 🙂</p>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-103" class="share-twitter sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/18/bloggellon-50/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span></span><span class="sharing-screen-reader-text">Haz clic para compartir en Twitter (Se abre en una ventana nueva)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-103" class="share-facebook sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/18/bloggellon-50/?share=facebook" target="_blank" title="Comparte en Facebook"><span></span><span class="sharing-screen-reader-text">Comparte en Facebook (Se abre en una ventana nueva)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="https://mrmx.wordpress.com/2007/01/18/bloggellon-50/?share=email" target="_blank" title="Click to email"><span></span><span class="sharing-screen-reader-text">Click to email (Se abre en una ventana nueva)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-11158281-103-5a19a122266bd' data-src='//widgets.wp.com/likes/#blog_id=11158281&amp;post_id=103&amp;origin=mrmx.wordpress.com&amp;obj_id=11158281-103-5a19a122266bd' data-name='like-post-frame-11158281-103-5a19a122266bd'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>			</div>
+		</div>
+		<!--/post -->
+		
+		<p class="post-nav">
+			<span class="previous"><a href="https://mrmx.wordpress.com/page/2/" >Older Entries</a></span>
+			<span class="next"></span>
+		</p>
+
+	
+	</div>
+	<!--/content -->
+
+	<div id="sidebar">
+	
+<div id="pages-2" class="widget widget_pages"><h4 class="widgettitle">Páginas</h4>		<ul>
+			<li class="page_item page-item-82"><a href="https://mrmx.wordpress.com/acerca-del-espacio-de-mrmx/">Acerca del espacio de&nbsp;MrMx</a></li>
+		</ul>
+		</div><div id="search-3" class="widget widget_search"><h4 class="widgettitle">Buscar</h4><form method="get" id="searchform" action="https://mrmx.wordpress.com/">
+	<input type="text" value="Buscar..." name="s" id="s"  />
+	<input type="hidden" id="searchsubmit" />
+</form></div><div id="tag_cloud-2" class="widget widget_tag_cloud"><h4 class="widgettitle"></h4><div style="overflow: hidden;"><a href="https://mrmx.wordpress.com/category/diseno/2d/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="2D (8)">2D</a> <a href="https://mrmx.wordpress.com/category/animales/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="animales (2)">animales</a> <a href="https://mrmx.wordpress.com/category/documentos/articulos/" style="font-size: 114%; padding: 1px; margin: 1px;"  title="Artículos (4)">Artículos</a> <a href="https://mrmx.wordpress.com/category/blog/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="blog (8)">blog</a> <a href="https://mrmx.wordpress.com/category/diseno/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="Diseño (8)">Diseño</a> <a href="https://mrmx.wordpress.com/category/diversion/" style="font-size: 135%; padding: 1px; margin: 1px;"  title="Diversión (7)">Diversión</a> <a href="https://mrmx.wordpress.com/category/documentos/" style="font-size: 226%; padding: 1px; margin: 1px;"  title="Documentos (20)">Documentos</a> <a href="https://mrmx.wordpress.com/category/espana/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="España (2)">España</a> <a href="https://mrmx.wordpress.com/category/eventos/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Eventos (2)">Eventos</a> <a href="https://mrmx.wordpress.com/category/general/" style="font-size: 275%; padding: 1px; margin: 1px;"  title="General (27)">General</a> <a href="https://mrmx.wordpress.com/category/gente/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Gente (2)">Gente</a> <a href="https://mrmx.wordpress.com/category/gnu/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="GNU (8)">GNU</a> <a href="https://mrmx.wordpress.com/category/documentos/imagenes/" style="font-size: 149%; padding: 1px; margin: 1px;"  title="Imágenes (9)">Imágenes</a> <a href="https://mrmx.wordpress.com/category/internet/" style="font-size: 100%; padding: 1px; margin: 1px;"  title="Internet (2)">Internet</a> <a href="https://mrmx.wordpress.com/category/programacion/java/j2me/" style="font-size: 156%; padding: 1px; margin: 1px;"  title="J2ME (10)">J2ME</a> <a href="https://mrmx.wordpress.com/category/programacion/java/" style="font-size: 170%; padding: 1px; margin: 1px;"  title="Java (12)">Java</a> <a href="https://mrmx.wordpress.com/category/juegos/" style="font-size: 114%; padding: 1px; margin: 1px;"  title="Juegos (4)">Juegos</a> <a href="https://mrmx.wordpress.com/category/so/linux/" style="font-size: 121%; padding: 1px; margin: 1px;"  title="Linux (5)">Linux</a> <a href="https://mrmx.wordpress.com/category/multimedia/" style="font-size: 107%; padding: 1px; margin: 1px;"  title="Multimedia (3)">Multimedia</a> <a href="https://mrmx.wordpress.com/category/movil/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="Móvil (8)">Móvil</a> <a href="https://mrmx.wordpress.com/category/naturaleza/" style="font-size: 121%; padding: 1px; margin: 1px;"  title="Naturaleza (5)">Naturaleza</a> <a href="https://mrmx.wordpress.com/category/programacion/" style="font-size: 212%; padding: 1px; margin: 1px;"  title="Programación (18)">Programación</a> <a href="https://mrmx.wordpress.com/category/sindicacion/" style="font-size: 135%; padding: 1px; margin: 1px;"  title="Sindicación (7)">Sindicación</a> <a href="https://mrmx.wordpress.com/category/sistemas-operativos/" style="font-size: 107%; padding: 1px; margin: 1px;"  title="Sistemas Operativos (3)">Sistemas Operativos</a> <a href="https://mrmx.wordpress.com/category/software/" style="font-size: 107%; padding: 1px; margin: 1px;"  title="Software (3)">Software</a> <a href="https://mrmx.wordpress.com/category/tecno/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="Tecno (8)">Tecno</a> <a href="https://mrmx.wordpress.com/category/documentos/tutorial/" style="font-size: 121%; padding: 1px; margin: 1px;"  title="Tutorial (5)">Tutorial</a> <a href="https://mrmx.wordpress.com/category/utilidad/" style="font-size: 135%; padding: 1px; margin: 1px;"  title="Utilidad (7)">Utilidad</a> <a href="https://mrmx.wordpress.com/category/programacion/web/" style="font-size: 142%; padding: 1px; margin: 1px;"  title="web (8)">web</a> <a href="https://mrmx.wordpress.com/category/espana/aragon/zaragoza/" style="font-size: 114%; padding: 1px; margin: 1px;"  title="Zaragoza (4)">Zaragoza</a> </div></div><div id="twitter-2" class="widget widget_twitter"><h4 class="widgettitle"><a href='http://twitter.com/mrmx'>Twitter</a></h4><ul class='tweets'>
+			<li>
+				RT @<a href='http://twitter.com/BitcoinJedi'>BitcoinJedi</a>: @<a href='http://twitter.com/LTCFoundation'>LTCFoundation</a> Bitcoin is for store value of wealth like a savings account or gold. Litecoin is for payments/low fees &amp; sp… 				<a href="http://twitter.com/mrmx/statuses/934152640304427010" class="timesince">20&nbsp;hours&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/TheRealXinxi'>TheRealXinxi</a>: If I remember correctly, 1 year ago, Litecoin had only a few thousands nodes. Now it’s 14339, 23% of Bitcoin’s 62144 node… 				<a href="http://twitter.com/mrmx/statuses/934152319138136064" class="timesince">20&nbsp;hours&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/slcuervo'>slcuervo</a>: <a href="https://t.co/sZaYNbwFFE" rel="nofollow">https://t.co/sZaYNbwFFE</a> 				<a href="http://twitter.com/mrmx/statuses/933771055507832832" class="timesince">1&nbsp;day&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/Blockchainlife'>Blockchainlife</a>: The Pope gives advice and writes &#039;&#039;Buy Bitcoin&#039;&#039; on his Lambhorgini. He&#039;s auctioning the Lambo for charity. <a href='http://twitter.com/search?q=%23Bitcoin'>#Bitcoin</a> <a href='http://twitter.com/search?q=%23C'>#C</a>… 				<a href="http://twitter.com/mrmx/statuses/933770891892330497" class="timesince">1&nbsp;day&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/TuurDemeester'>TuurDemeester</a>: When the Yen was born in 1871, it was 24 grams of silver or 1.5 grams of gold. Now it&#039;s a 1 gram aluminum coin, so light… 				<a href="http://twitter.com/mrmx/statuses/933769403497361408" class="timesince">1&nbsp;day&nbsp;ago</a>
+			</li>
+
+			</ul></div><div id="delicious-2" class="widget widget_delicious"><h4 class="widgettitle">				<a href="http://del.icio.us/manuel_polo">Favoritos</a>
+				</h4>			<div id="delicious-box" style="margin: 0; padding: 0; border: none;"> </div>
+			<script type="text/javascript">
+				function render_delicious( data ) {
+					var ul = document.createElement( 'ul' );
+					for ( var i = 0, post; post = data[i]; i++ ) {
+						var li = document.createElement( 'li' );
+						var a  = document.createElement( 'a' );
+						a.setAttribute( 'href', post.u );
+						a.appendChild( document.createTextNode( post.d ) );
+						li.appendChild( a );
+						ul.appendChild( li );
+					}
+					ul.setAttribute( 'id', 'delicious-list' );
+					document.getElementById( 'delicious-box' ).appendChild( ul );
+				}
+			</script>
+			<script type="text/javascript" src="https://delicious.com/v2/json/manuel_polo?count=10&#038;callback=render_delicious"></script>
+			</div><div id="flickr-2" class="widget widget_flickr"><h4 class="widgettitle">Flickr</h4><!-- Start of Flickr Widget -->
+<div class="flickr-wrapper flickr-size-thumbnail">
+	<div class="flickr-images">
+		<a href="https://www.flickr.com/photos/mrmx/4012263310/"><img src="https://farm3.staticflickr.com/2547/4012263310_aa3bb48a8d_s.jpg" alt="Tristan the cat-dog" title="Tristan the cat-dog"  /></a><a href="https://www.flickr.com/photos/mrmx/3319526721/"><img src="https://farm4.staticflickr.com/3588/3319526721_d9da1e9fe8_s.jpg" alt="P1012057" title="P1012057"  /></a><a href="https://www.flickr.com/photos/mrmx/3314608462/"><img src="https://farm4.staticflickr.com/3523/3314608462_667ec42234_s.jpg" alt="P1012021" title="P1012021"  /></a>	</div>
+
+			<a class="flickr-more" href="https://www.flickr.com/photos/mrmx/">
+			Más fotos		</a>
+	</div>
+<!-- End of Flickr Widget -->
+</div><div id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>noviembre 2017</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Lunes">L</th>
+		<th scope="col" title="Martes">M</th>
+		<th scope="col" title="Miércoles">X</th>
+		<th scope="col" title="Jueves">J</th>
+		<th scope="col" title="Viernes">V</th>
+		<th scope="col" title="Sábado">S</th>
+		<th scope="col" title="Domingo">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://mrmx.wordpress.com/2009/12/">&laquo; Dic</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td id="today">25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div><div id="archives-3" class="widget widget_archive"><h4 class="widgettitle">Archivo</h4>		<ul>
+			<li><a href='https://mrmx.wordpress.com/2009/12/'>diciembre 2009</a>&nbsp;(2)</li>
+	<li><a href='https://mrmx.wordpress.com/2007/11/'>noviembre 2007</a>&nbsp;(1)</li>
+	<li><a href='https://mrmx.wordpress.com/2007/04/'>abril 2007</a>&nbsp;(1)</li>
+	<li><a href='https://mrmx.wordpress.com/2007/02/'>febrero 2007</a>&nbsp;(1)</li>
+	<li><a href='https://mrmx.wordpress.com/2007/01/'>enero 2007</a>&nbsp;(6)</li>
+	<li><a href='https://mrmx.wordpress.com/2006/12/'>diciembre 2006</a>&nbsp;(4)</li>
+	<li><a href='https://mrmx.wordpress.com/2006/04/'>abril 2006</a>&nbsp;(2)</li>
+	<li><a href='https://mrmx.wordpress.com/2006/03/'>marzo 2006</a>&nbsp;(3)</li>
+	<li><a href='https://mrmx.wordpress.com/2006/02/'>febrero 2006</a>&nbsp;(3)</li>
+	<li><a href='https://mrmx.wordpress.com/2006/01/'>enero 2006</a>&nbsp;(1)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/12/'>diciembre 2005</a>&nbsp;(10)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/05/'>mayo 2005</a>&nbsp;(2)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/04/'>abril 2005</a>&nbsp;(4)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/03/'>marzo 2005</a>&nbsp;(1)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/02/'>febrero 2005</a>&nbsp;(2)</li>
+	<li><a href='https://mrmx.wordpress.com/2005/01/'>enero 2005</a>&nbsp;(14)</li>
+	<li><a href='https://mrmx.wordpress.com/2004/12/'>diciembre 2004</a>&nbsp;(2)</li>
+	<li><a href='https://mrmx.wordpress.com/2004/11/'>noviembre 2004</a>&nbsp;(8)</li>
+		</ul>
+		</div>
+	</div>
+	<!--/sidebar --></div>
+<!--/wrapper -->
+
+<div id="footer">
+	<p class="generator">
+		<a href="https://wordpress.com/?ref=footer_website">Crea un blog o un sitio web gratuitos con WordPress.com.</a>
+	</p>
+	<p class="credits">
+			</p>
+</div>
+<!--/footer -->
+
+</div>
+<!--/pagewrapper -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+if(document.getElementById("s")) {
+	document.getElementById("s").onfocus = function() {
+		if (this.value == "Buscar...")
+			this.value = "";
+	}
+	document.getElementById("s").onblur = function() {
+		if (this.value == '')
+			this.value = "Buscar...";
+	}
+}
+/* ]]> */
+</script>
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\/\/mrmx.wordpress.com\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":true,"click_handle":"1","text":"Entradas antiguas","totop":"Ir arriba","currentday":"18.01.07","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"mrmx.wordpress.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2007-01-18 00:56:06","stats":"blog=11158281&v=wpcom&tz=1&user_id=0&subd=mrmx&x_pagetype=infinite"}};
+		//]]>
+		</script>
+		<!--  -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201747y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Iniciando sesi\u00f3n\u2026","submittingText":"Publicando comentario\u2026","postCommentText":"Publicar comentario","connectingToText":"Conectando a %s","commentingAsText":"%1$s: Est\u00e1s comentando usando tu cuenta de %2$s.","logoutText":"Cerrar sesi\u00f3n","loginText":"Acceder","connectURL":"https:\/\/mrmx.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/mrmx.wordpress.com\/wp-login.php?action=logout&_wpnonce=2a257139d7","homeURL":"https:\/\/mrmx.wordpress.com\/","postID":"115","gravDefault":"identicon","enterACommentError":"Por favor, introduce un comentario","enterEmailError":"Por favor introduce tu direcci\u00f3n de correo electr\u00f3nico aqu\u00ed","invalidEmailError":"Direcci\u00f3n de correo electr\u00f3nico no v\u00e1lida","enterAuthorError":"Por favor, introduce tu nombre aqu\u00ed","gravatarFromEmail":"Esta imagen se mostrar\u00e1 cuando dejes un comentario. Haz clic para cambiarla.","logInToExternalAccount":"Inicia sesi\u00f3n para usar los datos de una de estas cuentas.","change":"Cambiar","changeAccount":"Cambiar cuenta","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479964158j'></script>
+		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://mrmx.wordpress.com/" rel="home">
+						El espacio de MrMx v3.0					</a>
+				</div>
+				<div class="blog-credits">
+					<a href="https://wordpress.com/?ref=footer_website">Crea un blog o un sitio web gratuitos con WordPress.com.</a> 				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/mrmx.wordpress.com\/2009\/12\/29\/moviendo-blog\/":115,"https:\/\/mrmx.wordpress.com\/2009\/12\/26\/un-anuncio-ordenador-80\/":112,"https:\/\/mrmx.wordpress.com\/2007\/11\/01\/la-carta-abierta-a-steve-ballmer\/":109,"https:\/\/mrmx.wordpress.com\/2007\/04\/26\/ya-uso-openid-%c2%bfy-tu\/":108,"https:\/\/mrmx.wordpress.com\/2007\/02\/04\/cronica-post-bloggellon\/":106,"https:\/\/mrmx.wordpress.com\/2007\/01\/26\/estuve-en-el-bloggellon-5\/":105,"https:\/\/mrmx.wordpress.com\/2007\/01\/18\/bloggellon-50\/":103};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/" method="post">
+			<label for="target_email">Enviar a dirección de correo electrónico</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Su Nombre</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Tu dirección de correo electrónico</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Enviar correo electrónico" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancelar</a>
+
+			<div class="errors errors-1" style="display: none;">
+				La entrada no fue enviada. ¡Comprueba tus direcciones de correo electrónico!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Error en la comprobación de email. Por favor, vuelve a intentarlo			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Lo sentimos, tu blog no puede compartir entradas por correo electrónico.			</div>
+		</form>
+	</div>
+
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Añade tus pensamientos aquí... (opcional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Publicar en</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">Cancelar</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Rebloguear entrada" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="11158281" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://mrmx.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="El espacio de MrMx v3.0" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="b4a27eef4e" /><input type="hidden" name="_wp_http_referer" value="/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1481571546h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2-3' href='https://s1.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"11158281","siteName":"El espacio de MrMx v3.0","siteURL":"http:\/\/mrmx.wordpress.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/notepad","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/mrmx.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmrmx.wordpress.com%2F2009%2F12%2F29%2Fmoviendo-blog%2F","themeURL":"","xhrURL":"https:\/\/mrmx.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"99aeb5ce34","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"cc08827a39\" \/>","referer":"https:\/\/mrmx.wordpress.com\/","canFollow":"1","feedID":"21365618","statusMessage":"","customizeLink":"https:\/\/mrmx.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fmrmx.wordpress.com%2F","i18n":{"view":"Ver sitio","follow":"Seguir","following":"Siguiendo","edit":"Editar","login":"Acceder","signup":"Registrarse","customize":"Personalizar","report":"Denunciar este contenido","themeInfo":"Obtener el tema: Notepad","shortlink":"Copiar enlace corto","copied":"Copiado","followedText":"Las nuevas publicaciones de este sitio aparecer\u00e1n ahora en tu <a href=\"https:\/\/wordpress.com\/\">Lector<\/a>","foldBar":"Contraer esta barra","unfoldBar":"Expandir esta barra","editSubs":"Gestionar las suscripciones","viewReader":"Ver sitio en el Lector","viewReadPost":"View post in Reader","subscribe":"Suscr\u00edbeme","enterEmail":"Introduce tu direcci\u00f3n de correo electr\u00f3nico","followers":"","alreadyUser":"\u00bfYa tienes una cuenta de WordPress.com? <a href=\"https:\/\/mrmx.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmrmx.wordpress.com%2F2009%2F12%2F29%2Fmoviendo-blog%2F\">Accede ahora<\/a>.","stats":"Estad\u00edsticas"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/mrmx.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"d2d5468f47","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comentario","post_comment":"Publicar comentario","write_comment":"Escribir un Comentario...","loading_comments":"Cargando comentarios...","download_original":"Ver tama\u00f1o completo <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Por favor, aseg\u00farate de enviar el texto con tu comentario.","no_comment_email":"Por favor, proporciona una direcci\u00f3n de correo electr\u00f3nico para comentar.","no_comment_author":"Por favor, a\u00f1ade tu nombre al comentario.","comment_post_error":"Lo sentimos, pero hubo un error al publicar tu comentario. Por favor, vuelve a intentarlo m\u00e1s tarde.","comment_approved":"Se aprob\u00f3 tu comentario.","comment_unapproved":"Tu comentario est\u00e1 en moderaci\u00f3n.","camera":"C\u00e1mara","aperture":"Abertura","shutter_speed":"Velocidad de obturaci\u00f3n","focal_length":"Longitud focal","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/mrmx.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fmrmx.wordpress.com%2F2009%2F12%2F26%2Fun-anuncio-ordenador-80%2F","blog_id":"11158281","local_comments_commenting_as":"<fieldset><label for=\"email\">Correo electr\u00f3nico (Obligatorio)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Nombre (Obligatorio)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Web<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Rebloguear","reblogged":"Reblogueado","reblog_add_thoughts":"A\u00f1ade tus pensamientos aqu\u00ed... (opcional)","reblogging":"Reblogueando...","post_reblog":"Reblog de entrada","stats_query_args":"blog=11158281&v=wpcom&tz=1&user_id=0&subd=mrmx","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVUNFOwzAM/KFlBkGH9jDxLVnqDqeJE2Knhb8nrdQK8VCJt7N9dz4b5mxcYkVW8AI9TuQwf529nODXKFaTQ30QCwQaUeCzYsUPy33AckAmHohJv3dwwLV9JDZ3WyBaUSwNmTRhKdS3hXvvnw5arBvlSOSUEi+iHR2wnS2pCgbwqLk5m62xaYhdqEvg9k2Zh3T36PSv4eY2tdMSWBHUVbDWuaAsgd/j7bl7ur68vXaXzv8AT9WfzA=='></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"es","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVzTEOwjAMheELYQwSEBgQZ0kbE1xcN3Jcqt6+XRhYQExP//Dp4VSgHdRJHfsRioyZtaJP7E4GjcT22bAlKEyo9CIjTax529UN/mPLb8dCCXIUIZs/64sqQ3W4S2TD+oi2Xrx3Rbf+uj+cL7twCsfQLZZaV/w='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "mrmx.wordpress.com";
+	</script>
+	<script type="text/javascript" defer src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery-core","jquery-migrate","jquery","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","wpcom-masterbar-js","wpcom-masterbar-tracks-js","wpcom-actionbar-bar","jetpack-carousel","swfobject","videopress","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery","sharing-js"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","wordads-global","wordads-notepad","the-neverending-homepage","infinity-notepad","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","notepad","notepad-print","flickr-widget-style","jetpack-widget-social-icons-styles","noticons","geo-location-flair","reblogging","wpcom-actionbar-bar","sharedaddy","social-logos","h4-global","notepad-ie","notepad-ie6","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20170206#ver=20170206&amp;lang=es' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text">A <span>%d</span> blogueros les gusta esto:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'11158281','blog_tz':'1','user_lang':'es','blog_lang':'es','user_id':'0'}]);
+_stq.push(['view', {'blog':'11158281','v':'wpcom','tz':'1','user_id':'0','subd':'mrmx'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRPUJGYUFhNUdZYm9ocGRCcHNxMjRrYkJ6LSttc3JUP0E0dF9IajNvW1lsV1h2XW1kZVtiQTNpN2s/OFAtdUhBKzltdzV0TEZdeVhkb1BZZXpUfGR6Nng9bHQsekpEYjVBSiU/d0xqX0tsTnE3bHpybGUwRmdGOGFWP0paTnhURzguPzBzbDZtajQ3fmNHeVhOc18xK3hSQ1Jkd1lxSFJELzhJVE03REksNzE9MTZTWnFvSGMlZy1ZQnNBd0VyTlkwdC0vJWk1ZlYrSyZwSXIwakppQlt3JTlrY2NyUC5Bbl9ubw=='}]);
+_stq.push([ 'clickTrackerInit', '11158281', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

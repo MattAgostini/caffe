@@ -1,0 +1,714 @@
+<!DOCTYPE html> 
+<!-- TEST -->
+<!--[if lte IE 8]>     <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gte IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		
+		<title>All Kitchen Appliances from GE Appliances | GE Appliances</title>
+		
+		<meta name="description" content="Explore the full line of stylish, functional, and high-tech kitchen appliances from GE Appliances.">
+		
+		<link rel="canonical" href="http://www.geappliances.com/ge/appliances.htm">
+		
+		<script src="/assets/js/modernizr.js"></script>
+
+		<link rel="stylesheet" href="/assets/css/global.css">
+
+		<!--[if lte IE 8]>
+			<link rel="stylesheet" href="/assets/css/ie.css">
+			<![endif]-->
+		
+		<script src="/assets/js/jquery.js"></script>
+		<script src="/assets/js/jquery.hammer.min.js"></script>
+		<script src="/assets/js/main.js"></script>
+
+		<meta name="google-site-verification" content="2ikrhXKhSBqxRbnGuftAfegdHziXaDsawae7RwDmubA" /> <!-- RITM0189969 for this page -->
+
+		<style>
+			.dark-dashed-border-top { border-top: 1px dashed #555; }
+			.dark-dashed-border-btm { border-bottom: 1px dashed #555; }
+			.no-uppercase { text-transform: none !important; }
+			.escrow { font-weight: normal; }
+
+			.premium-finishes-small {
+				background-image: url(/assets/images/products/finishes-premium-trends-mobile.jpg);
+				height: 0;
+				background-position: center;
+				background-size: cover;
+				position: relative;
+				background-repeat: no-repeat;
+				padding-bottom: 60%;
+			}
+			.premium-finishes-small > .column {
+				position: absolute;
+				bottom: 10%;
+				left: 0;
+				width: 100%;
+			}
+			.claim-or-certification {
+				padding: 1rem;
+				border: 1px solid #555;
+			}
+			.claim-or-certification p.subhero {
+				margin-left: -1rem;
+				margin-right: -1rem;
+				margin-top: -1rem;
+			}
+			.claim-or-certification p.subhero > a > img {
+				width: 100%;
+			}
+			@media only print, only screen and (min-width: 600px) {
+				.claim-or-certification .fixed-height { height: 32rem; }
+			}
+			@media only print, only screen and (min-width: 768px) {
+				.claim-or-certification .fixed-height { height: 22rem; }
+			}
+			@media only print, only screen and (min-width: 960px) {
+				.claim-or-certification .fixed-height { height: 16rem; }
+			}
+			.linkWithUpArrow:after {
+				content: "\00a0\00a0\f0d8"; /* U+00A0 = NO-BREAK SPACE; U+F0D8 = FontAwesome caret-up */
+				font-family: "FontAwesome";
+			}
+			.parts-slider-item img.product-photo {
+				width: 100%;
+			}
+			@media only print, only screen and (min-width: 600px) {
+				.parts-slider-item img.product-photo {
+					width: 80%;
+				}	
+			}
+		</style>
+			
+		<style>
+			@media only print, only screen and (max-width: 599px) {
+				.claim-or-certification div.expanded { display: none; }
+				.claim-or-certification div.expand { display: block; }
+				.claim-or-certification div.collapse { display: none; }
+				.claim-or-certification.expanded div.expanded { display: block; }
+				.claim-or-certification.expanded div.expand { display: none; }
+				.claim-or-certification.expanded div.collapse { display: block; }
+			}
+			@media only print, only screen and (min-width: 600px) {
+				.claim-or-certification div.expanded { display: block; }
+				.claim-or-certification div.expand   { display: none; }
+				.claim-or-certification div.collapse { display: none; }
+			}
+		</style>
+		<script>
+			jQuery(function($) {
+				$(".claim-or-certification").each(function(index, coc) {
+					console.log("coc");
+					var $coc = $(coc);
+					var $expand_link = $coc.find("a.expand");
+					var $collapse_link = $coc.find("a.collapse");
+					$expand_link.click(function() {
+						console.log("expand link");
+						$coc.toggleClass("expanded");
+						return false;
+					});
+					$collapse_link.click(function() {
+						console.log("collapse link");
+						$coc.toggleClass("expanded");
+						return false;
+					});
+				});
+			});
+		</script>
+
+		<link rel="stylesheet" href="/assets/css/slick.css">
+		<script src="/assets/js/slick.js"></script>
+		<style>
+			.parts-slider {
+				position: relative;
+			}
+			.parts-slider-item {
+				padding-right: 1rem;
+				padding-left: 1rem;
+			}
+			.slick-prev, .slick-next {
+				background: transparent;
+				border-width: 0;
+				text-align: center;
+				position: absolute;
+				height: 40px;
+				width: 40px;
+				top: 25%;
+				transform: translateY(-50%);
+				font-size: 0px;
+				z-index: 2;
+			}
+			.slick-prev {
+				left: -0.5rem;
+			}
+			.slick-next {
+				right: -0.5rem;
+			}
+			.slick-prev:after {
+				content: "\f137";
+			}
+			.slick-next:after {
+				content: "\f138";
+			}
+			.slick-prev:focus, .slick-next:focus {
+				outline: none;
+			}
+			.slick-next:after, .slick-prev:after {
+				font-family: fontawesome;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				padding: 4px;
+				display: block;
+				color: #c4c4c4;
+				font-size: 2rem;
+				line-height: 100%;
+				display: inline-block;
+				text-align: center;
+			}
+
+			/* Dots */
+			.slick-slider {
+				margin-bottom: 30px;
+			}
+			.slick-dots {
+				position: absolute;
+				bottom: -45px;
+				display: block;
+				width: 100%;
+				padding: 0;
+				list-style: none;
+				text-align: center;
+			}
+			.slick-dots li {
+				position: relative;
+				display: inline-block;
+				width: 20px;
+				height: 20px;
+				margin: 0 5px;
+				padding: 0;
+				cursor: pointer;
+			}
+			.slick-dots li button {
+				font-size: 0;
+				line-height: 0;
+				display: block;
+				width: 20px;
+				height: 20px;
+				padding: 5px;
+				cursor: pointer;
+				color: transparent;
+				border: 0;
+				outline: none;
+				background: transparent;
+			}
+			.slick-dots li button:hover, .slick-dots li button:focus {
+				outline: none;
+			}
+			.slick-dots li button:hover:before, .slick-dots li button:focus:before {
+				opacity: 1;
+			}
+			.slick-dots li button:before {
+				font-family: 'FontAwesome';
+				font-size: 14px;
+				line-height: 20px;
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 20px;
+				height: 20px;
+				content: '\f10c'; /* fa-circle-o */
+				text-align: center;
+				color: #555;
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+			.slick-dots li.slick-active button:before {
+				content: '\f111'; /* fa-circle */
+			}
+		</style>
+		<script>
+			jQuery(function($) {
+				$('.parts-slider').slick({
+					mobileFirst: true,
+					infinite: true,
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					dots: true,
+					responsive: [
+						{
+							breakpoint: 599, // *above* this many pixels...
+							settings: {
+								slidesToShow: 2,
+								slidesToScroll: 1,
+							}
+						}
+					]
+				});
+			});
+		</script>
+
+	</head>
+	<body>
+
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MWMJCF"
+						  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-MWMJCF');</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Omniture. Every page unique. Consult spreadsheet for variables and values. -->
+		<p style="display:none;">
+			<script type="text/javascript" src="/assets/js/omniture/s_code.js"></script>
+			<script type="text/javascript" src="/assets/js/omniture/s_default_support.js"></script>
+			<script type="text/javascript">
+				// Manipulate variables
+				s.channel = "Products";
+				s.prop3 = s.channel; 
+				s.prop4 = s.prop3; 
+				s.prop5 = s.prop4;
+				s.prop16 = "Product Landing";
+				s.prop43 = "Responsive";
+				s.hier1 = s.prop5;
+				// Image call
+				var s_code=s.t();if(s_code)document.write(s_code);
+			</script>
+		</p>
+		<!-- / Omniture --> 
+
+		<div id="document" class="clearfix">
+
+			<script src="/assets/includes/masthead.js"></script>
+			
+			<div id="content">
+
+				<script src="/assets/includes/mobile-header.js"></script>
+				
+				<div class="row breadcrumb">
+					<div class="column">
+						<a href="/">Home</a>
+						GE Appliance Products
+					</div>
+				</div><!-- .row -->
+				
+				<div id="mainContent" role="main">
+
+					
+					<div class="row">
+						<div class="small-12 medium-5 large-3 columns medium-push-7 large-push-9">
+							<a class="btn share small-9 medium-11 large-11 text-center" href="#" data-tip="true" data-id="share-tooltip" data-center="true" data-params='{"background":true}'>
+								<img src="/assets/images/common/icons/sprite-social_media-2x.png" width="150" alt="Share" title="Share">
+							</a>
+						</div>
+						<div class="small-12 medium-7 large-9 columns medium-pull-5 large-pull-3">
+							<h1>GE Kitchen Appliances</h1>
+						</div>
+					</div><!-- .row -->	
+					
+					<div class="row">
+						<div class="columns bdr-dot-top pad-t-1em display-table">
+							<div class="display-table-row">
+								<div class="display-table-cell small-6 medium-4 valign-bottom pad-b-1em">
+									<div><img class="show-for-small"    src="/assets/images/products/img-products-refrigeration.jpg" width="120" alt="Refrigeration Products" title="Refrigeration Products"></div>
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-refrigeration.jpg" width="150" alt="Refrigeration Products" title="Refrigeration Products"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-refrigeration.jpg" width="224" alt="Refrigeration Products" title="Refrigeration Products"></div>
+								</div>
+								<div class="display-table-cell small-6 medium-3 large-4 valign-bottom pad-b-1em">
+									<div><img class="show-for-medium-down" src="/assets/images/products/img-products-cleaning.jpg" width="90"  alt="Cleaning Products" title="Cleaning Products"></div>
+									<div><img class="show-for-large-up"    src="/assets/images/products/img-products-cleaning.jpg" width="147" alt="Cleaning Products" title="Cleaning Products"></div>
+								</div>
+								<div class="display-table-cell medium-5 large-4 valign-bottom pad-b-1em hide-for-small">
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-cooking.jpg" width="155" alt="Cooking Products" title="Cooking Products"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-cooking.jpg" width="261" alt="Cooking Products" title="Cooking Products"></div>
+								</div>
+							</div>
+							<div class="display-table-row show-for-medium-up">
+								<div class="display-table-cell small-6 medium-4 valign-top">
+									<h3>Refrigeration Products</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/refrigerators.htm">Refrigerators</a></li>
+										<li><a href="/ge/freezer.htm">Freezers</a></li>
+										<li><a href="http://products.geappliances.com/appliance/gea-category/ice-makers">Ice Makers</a></li>
+									</ul>
+								</div>
+								<div class="display-table-cell small-6 medium-3 large-4 valign-top">
+									<h3>Cleaning Products</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/dishwasher.htm">Dishwashers</a></li>
+										<li><a href="https://www.geapplianceparts.com/store/parts/category/disposers">Disposers</a></li>
+										<li><a href="http://products.geappliances.com/appliance/gea-category/compactors">Trash Compactors</a></li>
+									</ul>
+								</div>
+
+								<!-- Cooking Products View for Medium and Large -->
+								<div class="display-table-cell medium-5 large-4 valign-top hide-for-small">
+									<h3>Cooking Products</h3>
+									<div class="row">
+										<div class="small-6 columns">
+											<ul class="blue-bullets list-space-1em">
+												<li><a href="/ge/range-stove.htm">Ranges</a></li>
+												<li><a href="/ge/wall-oven.htm">Wall Ovens</a></li>
+												<li><a href="/ge/advantium-oven.htm">Advantium Ovens</a></li>
+												<li><a href="/ge/vent-range-hood.htm">Range Hoods &amp; Vents</a></li>
+											</ul>
+										</div>
+										<div class="small-6 columns">
+											<ul class="blue-bullets list-space-1em">
+												<li><a href="/ge/cooktop.htm">Cooktops</a></li>
+												<li><a href="/ge/microwave-oven.htm">Microwaves</a></li>
+												<li><a href="http://products.geappliances.com/appliance/gea-category/warming-drawers">Warming Drawers</a></li>
+											</ul>
+										</div>
+									</div><!-- .row -->
+								</div>
+
+							</div>
+						</div>
+					</div><!-- .row -->
+					
+					<!-- Cooking Products View for Small -->
+					<div class="row show-for-small">
+						<div class="columns pad-t-1em display-table">
+							<div class="display-table-row">
+								<div class="display-table-cell small-12 valign-bottom pad-b-1em">
+									<img src="/assets/images/products/img-products-cooking.jpg" width="155" alt="Cooking Products" title="Cooking Products">
+								</div>
+							</div>
+							<div class="display-table-row">
+								<div class="display-table-cell small-12 valign-top pad-b-1em">
+									<h3>Cooking Products</h3>
+									
+									<div class="row">
+										<div class="small-6 columns">
+											<ul class="blue-bullets list-space-1em">
+												<li><a href="/ge/range-stove.htm">Ranges</a></li>
+												<li><a href="/ge/wall-oven.htm">Wall Ovens</a></li>
+												<li><a href="/ge/advantium-oven.htm">Advantium Ovens</a></li>
+												<li><a href="/ge/vent-range-hood.htm">Range Hoods &amp; Vents</a></li>
+											</ul>
+										</div>
+										<div class="small-6 columns">
+											<ul class="blue-bullets list-space-1em">
+												<li><a href="/ge/cooktop.htm">Cooktops</a></li>
+												<li><a href="/ge/microwave-oven.htm">Microwaves</a></li>
+												<li><a href="http://products.geappliances.com/appliance/gea-category/warming-drawers">Warming Drawers</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!-- .row -->
+					
+
+					<div class="row pad-t-1em">
+						<div class="column">
+							<h1>GE Laundry &amp; Home Appliances</h1>
+						</div>
+					</div><!-- .row -->	
+					
+					<div class="row margin-btm-1em">
+						<div class="columns bdr-dot-top pad-t-1em display-table">
+							<div class="display-table-row">
+								<div class="display-table-cell small-6 medium-3 large-4 valign-bottom pad-b-1em">
+									<div><img class="show-for-small"    src="/assets/images/products/img-products-laundry.jpg" width="120" alt="Laundry Products" title="Laundry Products"></div>
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-laundry.jpg" width="130" alt="Laundry Products" title="Laundry Products"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-laundry.jpg" width="195" alt="Laundry Products" title="Laundry Products"></div>
+								</div>
+								<div class="display-table-cell small-6 medium-3 valign-bottom pad-b-1em">
+									<div><img class="show-for-small"    src="/assets/images/products/img-products-water.jpg" width="70"  alt="Water Products" title="Water Products"></div>
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-water.jpg" width="80"  alt="Water Products" title="Water Products"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-water.jpg" width="128" alt="Water Products" title="Water Products"></div>
+								</div>
+								<div class="display-table-cell medium-3 valign-bottom pad-b-1em hide-for-small">
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-home.jpg" width="102" alt="Home Products" title="Home Products"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-home.jpg" width="144" alt="Home Products" title="Home Products"></div>
+								</div>
+								<div class="display-table-cell medium-3 large-2 valign-bottom pad-b-1em hide-for-small">
+									<div><img class="show-for-medium"   src="/assets/images/products/img-products-small_electronics.jpg" width="82"  alt="Small Electronics" title="Small Electronics"></div>
+									<div><img class="show-for-large-up" src="/assets/images/products/img-products-small_electronics.jpg" width="108" alt="Small Electronics" title="Small Electronics"></div>
+								</div>
+							</div>
+							<div class="display-table-row show-for-large-up">
+								<div class="display-table-cell small-6 medium-3 large-4 valign-top">
+									<h3>Laundry Products</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/washer.htm">Washers</a></li>
+										<li><a href="/ge/dryer.htm">Dryers</a></li>
+										<li><a href="http://products.geappliances.com/appliance/gea-category/washers?TYPE=Stacked+Washer+%26+Dryer+Combo">Space-Saving Laundry Units</a></li>
+									</ul>
+								</div>
+								<div class="display-table-cell small-6 medium-3 large-3 valign-top">
+									<h3>Water Products</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/parts/refrigerator-icemaker-replacement-filters.htm">Replacement Filters</a></li>
+										<li><a href="/ge/heat-pump-hot-water-heater.htm">Water Heaters</a></li>
+										<li><a href="/ge/water-softeners.htm">Water Softeners</a></li>
+										<li><a href="/ge/water-filtration-systems.htm">Water Filtration Systems</a></li>
+									</ul>
+								</div>
+
+								<!-- Home Products + Small Electronics View for Medium and Large -->
+								<div class="display-table-cell medium-3 large-3 valign-top hide-for-small">
+									<h3>Home Products</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/room-air-conditioner.htm">Residential Air Conditioners</a></li>
+										<li><a href="/ge/zoneline.htm">Commercial Air Conditioners</a></li>
+										<li><a href="http://products.geappliances.com/appliance/gea-category/dehumidifiers">Dehumidifiers</a></li>
+										<li><a href="http://www.gegenerators.com/" target="_blank">Home Generators</a></li>
+									</ul>
+								</div>
+								<div class="display-table-cell medium-3 large-2 valign-top hide-for-small">
+									<h3>Small Electronics</h3>
+									
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="http://www.jascoproducts.com/" target="_blank">Electronic Accessories</a></li>
+									</ul>
+								</div>
+								
+							</div>
+						</div>
+					</div><!-- .row -->
+
+					<!-- Home Products + Small Electronics View for Small -->
+					<div class="row show-for-small margin-btm-1em">
+						<div class="columns pad-t-1em display-table">
+							<div class="display-table-row">
+								<div class="display-table-cell small-6 valign-bottom pad-b-1em">
+									<img src="/assets/images/products/img-products-home.jpg" width="120" alt="Home Products" title="Home Products">
+								</div>
+								<div class="display-table-cell small-6 valign-bottom pad-b-1em">
+									<img src="/assets/images/products/img-products-small_electronics.jpg" width="90" alt="Small Electronics" title="Small Electronics">
+								</div>
+							</div>
+							<div class="display-table-row">
+								<div class="display-table-cell small-6 valign-top pad-b-1em">
+									<h3>Home Products</h3>								
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="/ge/room-air-conditioner.htm">Residential Air Conditioners</a></li>
+										<li><a href="/ge/zoneline.htm">Commercial Air Conditioners</a></li>
+										<li><a href="http://products.geappliances.com/appliance/gea-category/dehumidifiers">Dehumidifiers</a></li>
+										<li><a href="http://www.gegenerators.com/" target="_blank">Home Generators</a></li>
+									</ul>
+								</div>
+								<div class="display-table-cell small-6 valign-top pad-b-1em">
+									<h3>Small Electronics</h3>
+									<ul class="blue-bullets list-space-1em">
+										<li><a href="http://www.general-imaging.com/us/" target="_blank">Cameras</a></li>
+										<li><a href="http://www.jascoproducts.com/" target="_blank">Electronic Accessories</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div><!-- .row -->
+
+
+					<div class="row pad-t-1em pad-b-1em margin-top-2em margin-btm-2em dark-dashed-border-top dark-dashed-border-btm">
+						<div class="column">
+
+							<h2 class="escrow bold italic margin-btm-0">Find the right appliances to fit your lifestyle</h2>
+
+							<p>Each of our collections has a distinct appearance and personality, so it's never been easier to choose the suite that suits you.</p>
+
+							<p class="margin-btm-0"><a class="gotham-bold" href="/ge/ge-appliance-collections.htm">View All GE Appliance Collections</a></p>
+
+						</div>
+					</div>
+
+
+					<div class="row margin-top-2em">
+						<div class="column">
+							<h1>GE Premium Finishes &mdash; <span class="escrow italic no-uppercase">GE Appliances is the leader in premium finish choices</span></h1>
+						</div>
+					</div>
+
+					<div class="row hide-for-small">
+						<div class="column">
+							<a href="/ge/appliance-finish-trends.htm">
+								<img src="/assets/images/products/finishes-premium-trends.jpg" alt="GE Trend-Setting Premium Appliance Finishes">
+							</a>
+						</div>
+					</div>
+					<div class="row premium-finishes-small show-for-small">
+						<div class="column text-center">
+							<a class="btn small-10 medium-7 large-4" href="/ge/appliance-finish-trends.htm">Explore Premium Finishes</a>
+						</div>
+					</div>
+
+					<div class="bisect-title margin-top-2em margin-btm-1em">
+						<div>
+							<h5>Claims &amp; Certifications</h5>
+						</div>
+					</div>
+
+					<div class="row margin-btm-2em">
+						<div class="small-12 medium-4 columns">
+							<div class="claim-or-certification margin-btm-2em">
+								<p class="subhero"><a href="/ge/energy-star-appliances/"><img src="/assets/images/products/energy-star.jpg" alt="Make The Change to ENERGY STAR&reg;" title="Make The Change to ENERGY STAR&reg;"></a></p>
+								<div class="fixed-height">
+									<h3 class="margin-btm-0">Make The Change to ENERGY STAR&reg;</h3>
+									<div class="expanded">
+										<p>GE ENERGY STAR qualified appliances offer the benefits of efficiency without sacrificing features, performance, style or convenience.</p>
+										<p class="margin-btm-0"><a class="gotham-bold" href="/ge/energy-star-appliances/">Energy Efficient Products</a></p>
+									</div>
+									<div class="expand">
+										<p class="margin-top-1em margin-btm-0"><a class="expand gotham-bold" href="#">Read More</a></p>
+									</div>
+									<div class="collapse">
+										<p class="margin-top-1em margin-btm-0"><a class="font-blue collapse gotham-bold linkWithUpArrow" href="#">Less</a></p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="small-12 medium-4 columns">
+							<div class="claim-or-certification margin-btm-2em">
+								<p class="subhero"><a href="/ge/usa/"><img src="/assets/images/products/made-in-america.jpg" alt="Made in America" title="Made in America"></a></p>
+								<div class="fixed-height">
+									<h3 class="margin-btm-0">Made in America</h3>
+									<div class="expanded">
+										<p>Many GE appliances are designed, engineered and built by thousands of employees in the U.S. When you buy a GE appliance, you're investing in the livelihood of these hardworking Americans. Thank you!</p>
+										<p class="margin-btm-0"><a class="gotham-bold" href="/ge/usa/">Appliances Made in the USA</a></p>
+									</div>
+									<div class="expand">
+										<p class="margin-top-1em margin-btm-0"><a class="expand gotham-bold" href="#">Read More</a></p>
+									</div>
+									<div class="collapse">
+										<p class="margin-top-1em margin-btm-0"><a class="font-blue collapse gotham-bold linkWithUpArrow" href="#">Less</a></p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="small-12 medium-4 columns">
+							<div class="claim-or-certification margin-btm-2em">
+								<p class="subhero"><a href="/ge/ada-compliant/"><img src="/assets/images/products/ada-compliant.jpg" alt="Let Us Help Make Your Kitchen Accessible" title="Let Us Help Make Your Kitchen Accessible"></a></p>
+								<div class="fixed-height">
+									<h3 class="margin-btm-0">Let Us Help Make Your Kitchen Accessible</h3>
+									<div class="expanded">
+										<p>GE Appliances offers an array of products for the home that meet the requirements for accessibility guidelines established by the Americans with Disabilities Act.</p>
+										<p class="margin-btm-0"><a class="gotham-bold" href="/ge/ada-compliant/">ADA Compliant Appliances</a></p>
+									</div>
+									<div class="expand">
+										<p class="margin-top-1em margin-btm-0"><a class="expand gotham-bold" href="#">Read More</a></p>
+									</div>
+									<div class="collapse">
+										<p class="margin-top-1em margin-btm-0"><a class="font-blue collapse gotham-bold linkWithUpArrow" href="#">Less</a></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="margin-top-2em margin-btm-2em">
+						<div class="row">
+							<div class="small-12 medium-4 columns">
+								<p><a href="/ge/connected-appliances/"><img class="width-100" src="/assets/images/products/wifi-connect-appliances.jpg" alt="GE WiFi Connect Appliances" title="GE WiFi Connect Appliances"></a></p>
+							</div>
+							<div class="small-12 medium-8 columns">
+								<h1>GE WiFi Connect Appliances</h1>
+								<p>Now you can have a full suite of WiFi-enabled smart appliances to help you stay connected to your home, no matter where you are.</p>
+								<p><a class="btn active small-10 large-8" href="/ge/connected-appliances/">WiFi Connect Appliances</a></p>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="margin-top-2em margin-btm-2em">
+						<div class="row">
+							<div class="small-12 medium-4 columns">
+								<p><a href="/ge/kitchen-photos/"><img class="width-100" src="/assets/images/products/kitchen-photo-gallery.jpg" alt="Kitchen Photo Gallery" title="Kitchen Photo Gallery"></a></p>
+							</div>
+							<div class="small-12 medium-8 columns">
+								<h1>Kitchen Photo Gallery</h1>
+								<p>Explore our kitchen photos featuring different styles in kitchen and home design.</p>
+								<p><a class="btn active small-10 large-8" href="/ge/kitchen-photos/">Kitchen Photo Gallery</a></p>
+							</div>
+						</div>
+					</div>
+
+
+					<div class="row">
+						<div class="column">
+							<h1>GE Appliances Parts &amp; Accessories</h1>
+						</div>
+					</div><!-- .row -->
+
+
+					<div class="row margin-btm-2em">
+						<div class="columns">
+
+							<div class="parts-slider">
+								<div class="parts-slider-item">
+
+									<p><img class="product-photo" src="/assets/images/products/img-parts-all-parts-accessories.jpg" alt="All Parts &amp; Accessories" title="All Parts &amp; Accessories"></p>
+									<h3>All Parts &amp; Accessories</h3>
+									<ul class="blue-bullets">
+										<li><a href="/ge/parts/">GE Appliance Parts</a></li>
+										<li><a href="/ge/parts/smartorder/">Smart Order Parts Auto Delivery Program</a></li>
+									</ul>
+
+								</div>
+								<div class="parts-slider-item">
+
+									<p><img class="product-photo" src="/assets/images/products/img-parts-water-filters.jpg" alt="Water Filters" title="Water Filters"></p>
+									<h3>Water Filters</h3>
+									<ul class="blue-bullets">
+										<li><a href="/ge/parts/refrigerator-icemaker-replacement-filters.htm">All Water Filters</a></li>
+										<li><a href="https://www.geapplianceparts.com/store/parts/category/water-filters?Part+Type=Refrigerator+and+Icemaker+Filters">Refrigerator Replacement Water Filters</a></li>
+										<li><a href="/ge/parts/refrigerator-mwf-replacement-water-filter.htm">MWF Water Filters</a></li>
+									</ul>
+
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					
+
+					<div class="row margin-btm-2em pad-t-2em bdr-dot-top">
+						<div class="column">
+
+							<h2>Our American Kitchen</h2>
+
+							<div class="margin-btm-half-em">
+								<div class="show-for-small">
+									<a href="/ge/great-american-kitchen/"><img class="width-100" src="/assets/images/products/our-american-kitchen-collage-small.jpg" title="Our American Kitchen"></a>
+								</div>
+								<div class="hide-for-small">
+									<a href="/ge/great-american-kitchen/"><img class="width-100" src="/assets/images/products/our-american-kitchen-collage.jpg" title="Our American Kitchen"></a>
+								</div>
+							</div>
+
+							<h5 class="margin-0">A series exploring the heart of American life.</h5>
+
+							<a class="blue-bullet-before" href="/ge/great-american-kitchen/">Read stories from real American kitchens</a>
+
+						</div>
+					</div><!-- .row -->
+					
+
+				</div><!-- #mainContent -->
+				
+				<script src="/assets/includes/footer.js"></script>
+				
+			</div><!-- #content -->		
+		</div><!-- #document -->
+
+		<script src="/assets/includes/modal-share.js"></script>
+		
+	</body>
+</html>

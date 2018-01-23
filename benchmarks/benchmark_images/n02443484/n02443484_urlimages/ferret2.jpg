@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang=en dir=ltr prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset=utf-8 />
+<meta property=fb:pages content=6204742571 />
+<link rel="shortcut icon" href="https://www.sierraclub.org/sites/www.sierraclub.org/themes/dotOrg/favicon.ico" type="image/vnd.microsoft.icon"/>
+<meta name=description content="Explore, enjoy, and protect the planet."/>
+<meta name=generator content="Drupal 7 (http://drupal.org)"/>
+<link rel=canonical href="http://www.sierraclub.org/"/>
+<link rel=shortlink href="https://www.sierraclub.org/"/>
+<meta property=fb:admins content=710072041 />
+<meta property=fb:admins content=583449820 />
+<meta property=fb:admins content=594919533 />
+<meta property=fb:admins content=841760382 />
+<meta property=fb:admins content=1032030069 />
+<meta property=fb:app_id content=9758378218 />
+<meta property=og:type content=website />
+<meta property=og:site_name content="Sierra Club"/>
+<meta property=og:url content="http://www.sierraclub.org/"/>
+<meta property=og:title content="Sierra Club Home Page: Explore, Enjoy and Protect the Planet"/>
+<meta property=og:description content="Explore, enjoy and protect the planet."/>
+<meta property=og:image content="http://www.sierraclub.org/sites/www.sierraclub.org/files/styles/homepage/public/homepage-top/clear-air-canyon-hiker.jpg"/>
+<meta property=og:image:secure_url content="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/homepage/public/homepage-top/clear-air-canyon-hiker.jpg"/>
+<meta property=og:image:type content="image/png"/>
+<meta property=og:image:width content=1072 />
+<meta property=og:image:height content=561 />
+<title>Sierra Club Home Page: Explore, Enjoy, and Protect the Planet</title>
+<link rel=apple-touch-icon-precomposed sizes=57x57 href="sites/www.sierraclub.org/themes/dotOrg/apple-touch-icon-precomposed-iphone.png">
+<link rel=apple-touch-icon-precomposed sizes=114x114 href="sites/www.sierraclub.org/themes/dotOrg/apple-touch-icon-precomposed-iphone4.png">
+<link rel=apple-touch-icon-precomposed sizes=72x72 href="sites/www.sierraclub.org/themes/dotOrg/apple-touch-icon-precomposed-ipad.png">
+<link rel=apple-touch-icon-precomposed sizes=144x144 href="sites/www.sierraclub.org/themes/dotOrg/apple-touch-icon-precomposed-ipad3.png">
+<link rel=preconnect href="https://sierra.secure.force.com"/>
+<meta name=google-site-verification content=MMsOiRjHv-wqMziNwrQ0EOsi3w-vUBhUde45i4E0Upo />
+<meta property=fb:pages content=6204742571 />
+<meta name=MobileOptimized content=width>
+<meta name=HandheldFriendly content=true>
+<meta name=viewport content="width=device-width,initial-scale=1.0">
+<meta http-equiv=cleartype content=on>
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media=all />
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_USiSXeM0LidzD64OPCLMGszJIpvDtA23C_JTXpFu92g.css" media=screen />
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_UKeIB9-FA_Ltz1RsfIJ_jB1JB0nEvKHKpLAfVr59GVg.css" media=all />
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_y4tuQ3JneqvxrHnPc_PNWuvpORvoIyzFWiNyXAzLoac.css" media=all />
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_6rK0FeCTrOpGsZIfflKRaJnCNdKXZBE0VWw9upEtkjo.css" media=all />
+<link type="text/css" rel=stylesheet href="https://www.sierraclub.org/sites/www.sierraclub.org/files/css/css_LIpTYVoZ0RnvyDEEK6a0YhMeQPm1UO8eJdiYhuQhxZo.css" media=all />
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/files/google_tag/google_tag.script.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.sierraclub.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.sierraclub.org/misc/drupal.js?ozzh0q"></script>
+<script src="//cdn.optimizely.com/js/201252808.js"></script>
+<script src="https://www.sierraclub.org/sites/all/libraries/flexslider/jquery.flexslider-min.js?v=2.2.2"></script>
+<script src="https://www.sierraclub.org/sites/all/modules/contrib/fb_instant_articles/modules/fb_instant_articles_display/js/admin.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/all/modules/custom/sclib_sf_email_subscription/js/subscription.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/all/modules/custom/sclib_user_state/js/sclib_user_state.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/modules/custom/sclib_counters/sc-counters-default.js?ozzh0q"></script>
+<script src="/sites/all/libraries/sc_lightbox/lightbox.js?ozzh0q"></script>
+<script src="//js.maxmind.com/js/apis/geoip2/v2.0/geoip2.js"></script>
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCtCLqOQ0XznFQtcVr1OGTELt6XMuae7i8"></script>
+<script src="https://use.typekit.com/sew5odh.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<script src="https://www.sierraclub.org/sites/all/themes/scstandard/js/script.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/all/themes/scstandard/js/yepnope.1.5.4-min.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/themes/dotOrg/js/extended-script.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/files/js_injector/js_injector_1.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/files/js_injector/js_injector_5.js?ozzh0q"></script>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/files/js_injector/js_injector_6.js?ozzh0q"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dotOrg","theme_token":"EBWh2Sev6lH8DI1T_3FRWW5QW-0Oug4ECth5OfBfaYM","js":{"sites\/www.sierraclub.org\/files\/js_injector\/js_injector_19.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.optimizely.com\/js\/201252808.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/contrib\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"sites\/all\/modules\/custom\/sclib_sf_email_subscription\/js\/subscription.js":1,"sites\/all\/modules\/custom\/sclib_user_state\/js\/sclib_user_state.js":1,"sites\/www.sierraclub.org\/modules\/custom\/sclib_counters\/sc-counters-default.js":1,"\/sites\/all\/libraries\/sc_lightbox\/lightbox.js":1,"\/\/js.maxmind.com\/js\/apis\/geoip2\/v2.0\/geoip2.js":1,"\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyCtCLqOQ0XznFQtcVr1OGTELt6XMuae7i8":1,"https:\/\/use.typekit.com\/sew5odh.js":1,"0":1,"sites\/all\/themes\/scstandard\/js\/script.js":1,"sites\/all\/themes\/scstandard\/js\/yepnope.1.5.4-min.js":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/js\/extended-script.js":1,"sites\/www.sierraclub.org\/files\/js_injector\/js_injector_1.js":1,"sites\/www.sierraclub.org\/files\/js_injector\/js_injector_5.js":1,"sites\/www.sierraclub.org\/files\/js_injector\/js_injector_6.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/sclib_sf_email_subscription\/css\/subscription.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/threecol_33_34_33_stacked\/threecol_33_34_33_stacked.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/74f9fe56d24868b344fcf9591f89a846.css":1,"sites\/www.sierraclub.org\/modules\/custom\/sclib_counters\/sc-counters-default.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/libraries\/font-awesome\/css\/font-awesome.min.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/program-full-width.css":1,"sites\/all\/themes\/scstandard\/system.menus.css":1,"sites\/all\/themes\/scstandard\/css\/normalize.css":1,"sites\/all\/themes\/scstandard\/css\/wireframes.css":1,"sites\/all\/themes\/scstandard\/css\/layouts\/responsive-sidebars.css":1,"sites\/all\/themes\/scstandard\/css\/page-backgrounds.css":1,"sites\/all\/themes\/scstandard\/css\/tabs.css":1,"sites\/all\/themes\/scstandard\/css\/pages.css":1,"sites\/all\/themes\/scstandard\/css\/blocks.css":1,"sites\/all\/themes\/scstandard\/css\/navigation.css":1,"sites\/all\/themes\/scstandard\/css\/views-styles.css":1,"sites\/all\/themes\/scstandard\/css\/nodes.css":1,"sites\/all\/themes\/scstandard\/css\/comments.css":1,"sites\/all\/themes\/scstandard\/css\/forms.css":1,"sites\/all\/themes\/scstandard\/css\/fields.css":1,"sites\/all\/themes\/scstandard\/css\/print.css":1,"sites\/all\/themes\/scstandard\/non-sass-css\/MyFontsWebfontsKit.css":1,"sites\/all\/themes\/scstandard\/non-sass-css\/wysiwig-common.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/blogs.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/page_menus.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/extended-pages.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/extended-views-styles.css":1,"sites\/www.sierraclub.org\/themes\/dotOrg\/css\/layouts\/extended-responsive-sidebars.css":1,"sites\/www.sierraclub.org\/files\/fontyourface\/font.css":1,"sites\/all\/themes\/scstandard\/css\/colorschemes\/www_blue.css":1,"public:\/\/css_injector\/css_injector_7.css":1,"public:\/\/css_injector\/css_injector_15.css":1,"public:\/\/css_injector\/css_injector_18.css":1,"public:\/\/css_injector\/css_injector_39.css":1,"public:\/\/css_injector\/css_injector_132.css":1}},"scstandard":{"retina_logo_resizing":null}});</script>
+<!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-home page-panels">
+<div id=fb-root></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=9758378218";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<div id=darkness-overlay></div>
+<div id=scstandard-mobile></div>
+<div class="region region-page-top">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6QS96" height=0 width=0 style="display:none;visibility:hidden"></iframe></noscript> </div>
+<div id=advertising-banner>
+<div class="region region-banner">
+<div id=block-block-61 class="block block-block first last odd ">
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+#banner-give {
+background: #1e9e09; 
+}
+#banner-give-button, a#banner-give-button:link, a#banner-give-button:visited {
+  display: inline-block; font-size: xx-large; text-align: center; background:#3ebe29; height: 50px; line-height: 50px; border-radius: 5px; padding: 0 10px; text-decoration: none; color: #FFF !important; border-bottom: 2px solid #3ebe29; border-right: 2px solid #3ebe29;
+}
+a#banner-give-button:hover {
+  text-decoration: none;
+  background: #4ece39;  border-bottom: 2px solid #4ece39; border-right: 2px solid #4ece39;
+}
+#banner-give-left {text-align: center; font-size: large; color:white; font-family:'proxima-nova',helvetica,arial,sans-serif; line-height: 120%; padding-bottom: 10px; }
+#banner-give-left span {font-size: xx-large}
+#banner-give-right { text-align: center; }
+#banner-give-inner {
+    padding: 20px 0; 
+}
+@media all and (min-width: 800px) {
+#banner-give-inner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75em;
+    min-width: 320px;
+    width: 90%;
+}
+#banner-give-left { float: left; width: 60%; text-align: left; font-size: 36px; padding-top: 10px; padding-bottom: 0px; }
+#banner-give-left span {font-size: 54px}
+#banner-give-right { float: left; width: 40%; text-align: center; }
+#banner-give-button, a#banner-give-button:link, a#banner-give-button:visited {
+  font-size: xx-large; height: 100px; line-height: 100px; padding: 0 30px;
+} 
+}
+
+/*--><!]]>*/
+</style><div id=banner-give class=clearfix>
+<div id=banner-give-inner class=clearfix>
+<div id=banner-give-left>
+<span>Fight Back</span><br/>
+Protect Our Planet from Trump
+</div>
+<div id=banner-give-right>
+<a href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001DlRtAAK&amp;formcampaignid=70131000001LjZ2AAK&amp;ddi=N16MOTF006" id=banner-give-button target=_blank>Donate Now <i class="fa fa-arrow-circle-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=page>
+<header id=header role=banner>
+<div id=header-image>
+<div class="view view-homepage-images view-id-homepage_images view-display-id-block view-dom-id-7e521d187b049f7b481c4ac3efc3e9e3">
+<div class=view-content>
+<div>
+<a href="https://www.addup.org/campaigns/take-action-tell-wells-fargo-to-stop-funding-dirty-pipelines/petition/breaking-keystone-xl-pipeline-gets-conditional-approval-urge-wells-fargo-not-to-fund-it?promoid=70131000001hRELAA2"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/homepage-top/NewKXL-2017_2240x750pxDotOrg_01.jpg" width=2240 height=750 alt="Send a message!" title="Send a message!"/></a>
+<div class=header-image-copyright></div> </div>
+</div>
+</div> </div>
+<div id=header-constant>
+<div class="header__region region region-header">
+<div id=block-block-1 class="block block-block search-block first odd ">
+<form action="/search" id=top-search-form>
+<input name=query placeholder=Search id=top-search-field class=search-field /><input type=submit alt=SEARCH id=top-search-button class=search-button value=""/></form>
+</div>
+<div id=block-menu-menu-top-links class="block block-menu last even " role=navigation>
+<ul class=menu><li class="menu__item is-leaf first leaf"><a href="/ways-to-give" class=menu__link>Ways to Give</a></li>
+<li class="menu__item is-leaf leaf"><a href="/ecocentro" class=menu__link>En Español</a></li>
+<li class="menu__item is-leaf leaf"><a href="/member-center" class=menu__link>Member Center</a></li>
+<li class="menu__item is-leaf leaf"><a href="/near-you" class=menu__link>Near You</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.sierraclub.org/store/" class=menu__link>Store</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/about" class=menu__link>About</a></li>
+</ul>
+</div>
+</div>
+<hgroup id=name-and-slogan>
+<div id=sc-logo><a href="/"><img src="/sites/www.sierraclub.org/themes/dotOrg/logo.png"/></a></div>
+<div id=slogan>EXPLORE, ENJOY, AND PROTECT THE PLANET</div>
+</hgroup>
+</div>
+</header>
+<p id=skip-link>
+<a href="#navigation" title="Jump to navigation">Jump to navigation</a>
+</p>
+<div id=main>
+<div id=content class=column role=main>
+<a id=main-content></a>
+<div class="panel-display panel-3col-33-stacked  clearfix">
+<div class=center-wrapper>
+<div class="panel-panel panel-col-first">
+<div class=inside><div class="panel-pane pane-node">
+<h2 class=pane-title>
+WHAT'S HAPPENING </h2>
+<article class="node-671 node node-selection-of-articles view-mode-full clearfix">
+<div class="field-collection-container clearfix"><div class="field field-name-field-content-selection field-type-field-collection field-label-hidden"><div class=field-items><div class="field-item even">
+<li class="entity entity-field-collection-item field-collection-item-field-content-selection clearfix">
+<div class=content>
+<div class="field field-name-field-external-link field-type-link-field field-label-hidden"><div class=field-items><div class="field-item even"><a href="https://www.sierraclub.org/videos/2017/09/solar-101">Video: Solar 101</a></div></div></div><div class="field field-name-field-subtitle field-type-text field-label-hidden"><div class=field-items><div class="field-item even">Our friend John Leguizamo breaks down why solar energy is worth fighting for in under two minutes! Check out our new Solar 101 video.</div></div></div> </div>
+</li>
+</div><div class="field-item odd">
+<li class="entity entity-field-collection-item field-collection-item-field-content-selection clearfix">
+<div class=content>
+<div class="field field-name-field-external-link field-type-link-field field-label-hidden"><div class=field-items><div class="field-item even"><a href="https://content.sierraclub.org/outings/national">Sierra Club Outings -- New Trips for 2017!</a></div></div></div><div class="field field-name-field-subtitle field-type-text field-label-hidden"><div class=field-items><div class="field-item even">Looking for a getaway? We&#039;ve got 300+ ideas for you.</div></div></div> </div>
+</li>
+</div><div class="field-item even">
+<li class="entity entity-field-collection-item field-collection-item-field-content-selection clearfix">
+<div class=content>
+<div class="field field-name-field-external-link field-type-link-field field-label-hidden"><div class=field-items><div class="field-item even"><a href="https://www.sierraclub.org/sierra/cool-schools-2017/top-20?whatshappening">How Green Is Your School?</a></div></div></div><div class="field field-name-field-subtitle field-type-text field-label-hidden"><div class=field-items><div class="field-item even">Sierra magazine&#039;s annual rankings of the most eco-literate colleges and universities. Check out the list!</div></div></div> </div>
+</li>
+</div><div class="field-item odd">
+<li class="entity entity-field-collection-item field-collection-item-field-content-selection clearfix">
+<div class=content>
+<div class="field field-name-field-external-link field-type-link-field field-label-hidden"><div class=field-items><div class="field-item even"><a href="https://www.teamsierra.org/HolidayGiving?rbref=I17LZZHW05&amp;utm_source=sc&amp;utm_medium=homepage&amp;utm_campaign=teamsierra&amp;utm_content=holidaytshirt">Join us for Giving Tuesday</a></div></div></div><div class="field field-name-field-subtitle field-type-text field-label-hidden"><div class=field-items><div class="field-item even">Spread holiday cheer this season by raising money that protects our planet. When you raise $30 by Giving Tuesday, you’ll get a super soft Team Sierra T-shirt. </div></div></div> </div>
+</li>
+</div><div class="field-item even">
+<li class="entity entity-field-collection-item field-collection-item-field-content-selection clearfix">
+<div class=content>
+<div class="field field-name-field-external-link field-type-link-field field-label-hidden"><div class=field-items><div class="field-item even"><a href="https://store.sierraclub.org/adopt-a-wild-animal-c32.aspx?utm_source=sierraclub&amp;utm_medium=web&amp;utm_content=holiday2017&amp;utm_campaign=adoptawildanimal">Adopt a Wild Animal This Holiday</a></div></div></div><div class="field field-name-field-subtitle field-type-text field-label-hidden"><div class=field-items><div class="field-item even">It&#039;s our biggest sale of the year! Give an adorable plush animal to someone you love and help protect wildlife and wild places. Use code HOLIDAY25 for 25% off plus free ground shipping.</div></div></div> </div>
+</li>
+</div></div></div></div>
+</article>
+</div>
+</div>
+</div>
+<div class="panel-panel panel-col">
+<div class=inside><div class="panel-pane pane-custom pane-2">
+<h2 class=pane-title>GO LOCAL</h2>
+</div>
+<div class="panel-pane pane-block pane-block-20 pane-block">
+<div class="view-display-id-block_4 view">
+<div class=view-header>See what we are doing in:</div>
+</div>
+<div class=view>
+<div id=chapter class=view-content> </div>
+<div id=chapter-ca class=view-content> </div>
+<div id=chapter-canada class=view-content style=display:none>
+Canada has its own Sierra Club branch.
+<br/><a href="http://www.sierraclub.ca/">Check out Sierra Club Canada</a>
+</div>
+<div id=chapter-intl class=view-content style=display:none>
+We don't have international chapters. We do have some international work:<br/><a href="http://content.sierraclub.org/outings/national/trip-search/results?trip_type=32">International Outings</a>
+<br/><a href="http://www.sierraclub.org/Trade">Responsible Trade</a>
+<br/><a href="http://www.sierraclub.org/population">Global Population and Environment</a>
+<br/><a href="http://www.sierraclub.org/international">International Beyond Coal</a>
+</div>
+</div>
+<div class="view-display-id-block_6 view">
+<div id=activities class=view-content>
+<div style="text-align: center;"><em class="fa fa-spinner fa-spin" style="text-align: center;"> </em></div>
+</div>
+<div id=activities-none class=view-content style=display:none>
+<span class=no-chapter-events-note><br/>Make sure to go to your chapter website above to find local events.</span>
+<br/><a href=allevents>Find events elsewhere</a>
+<br/><a href=chapters>Find chapters across the US</a>
+</div>
+<div class=view-footer><a href=near-you>Find activities and events near you</a></div>
+<div id=google-map style="height: 150px; margin: 0 8px; display: none;"> </div>
+<form id=loc-form></form>
+</div>
+<div id=debug> </div>
+</div>
+</div>
+</div>
+<div class="panel-panel panel-col-last">
+<div class=inside><div class="panel-pane pane-block pane-views-block-type-views-sc-main-action pane-views">
+<h2 class=pane-title>
+ACT NOW </h2>
+<div class="view view-block-type-views view-id-block_type_views view-display-id-sc_main_action view-dom-id-33bc325a875b424e6989fde77826b163 view-tpl-override">
+<div>
+<form id=Signup class="email-signup-form view-tpl-override">
+<h3 class=title-action>BREAKING: Keystone XL pipeline gets conditional approval, urge Wells Fargo not to fund it</h3>
+<input name=Source type=hidden value=70131000001hRELAA2 />
+<input name=SourceURL type=hidden value="http://www.sierraclub.org/"/>
+<input name=preferenceCode type=hidden value=INSIDER />
+<input name=email-signup-success-redirect type=hidden value="https://www.addup.org/campaigns/take-action-tell-wells-fargo-to-stop-funding-dirty-pipelines/petition/breaking-keystone-xl-pipeline-gets-conditional-approval-urge-wells-fargo-not-to-fund-it"/>
+<div class=Signup_text><p>The Keystone XL (KXL) tar sands pipeline was just approved by Nebraska&#039;s Public Service Commission, but there is some good news. The PSC has approved an alternative route that TransCanada, the company behind the pipeline, has called unworkable.</p>
+</div>
+<div class=Signup_fields>
+<input name=email id=action_cons_email value="" placeholder=email class=email />
+<input name=postalCode id=action_cons_zip_code value="" placeholder=zip class=zip />
+</div>
+<div class=center>
+<input type=submit class=email-signup-submit name=ACTION_SUBMIT_SURVEY_RESPONSE id=action_submit value="Take Action"/>
+</div>
+<div class=Signup_disclaimer></div>
+</form>
+</div>
+<div style="clear:right; text-align:center;"><a href="/take-action" class=more style="font-size: x-small;">See all our actions</a></div></div>
+</div>
+<div class="panel-pane pane-block pane-block-7 pane-block join-renew-block dividerThick sbMarginTop sbPaddingTop">
+<p><span style="font-size: 13.008px;">Be a member of the country's largest, most effective grassroots movement.</span></p><div class=three-buttons><a id=buttonJoin class="scstandard-button join" href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001LmZDAA0&amp;formcampaignid=70131000001LlnTAAS">Join</a><a id=buttonRenew class="scstandard-button renew" href="https://vault.sierraclub.org/ways-to-give/#renew-maintab">Renew</a><a id=donateAsk class="scstandard-button donate" title=Donate href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001LmZIAA0&amp;formcampaignid=70131000001Lm6aAAC">Donate</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-panel panel-col-bottom">
+<div class=inside><div class="panel-pane pane-block pane-views-homepage-numbers-block pane-views">
+<div class="view view-homepage-numbers view-id-homepage_numbers view-display-id-block clearfix view-dom-id-ea7daac3f535f0997df9daae99d2f576">
+<div class=view-header>
+We are the nation's largest and most influential grassroots environmental organization. </div>
+<div class=view-content>
+<div class=number-slider> <ul> <li class=clearfix>
+<div class=view-homepage_numbers-rewrite><div class=homepage-number-image><a href="http://content.sierraclub.org/coal"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/homepage/numbers/bynumbers-coal_2017-03-20.jpg" width=160 height=320 alt="251 Coal Plants" title="251 Coal Plants Retired"/></a></div>
+<div class=homepage-number-text>
+<div class=homepage-number-title><a href="http://content.sierraclub.org/coal">251 retired coal plants</a></div>
+<div class=homepage-number-measure><a href="http://content.sierraclub.org/coal">Coal Plants Retired</a></div>
+</div>
+</div> </li>
+<li class=clearfix>
+<div class=view-homepage_numbers-rewrite><div class=homepage-number-image><a href="http://content.sierraclub.org/ourwildamerica"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/homepage/numbers/PARKS_dot-org-bynumbers-production_updated9-29-2016_0.jpg" width=160 height=320 alt="439 National Parks and Monuments" title="439 National Parks and Monuments"/></a></div>
+<div class=homepage-number-text>
+<div class=homepage-number-title><a href="http://content.sierraclub.org/ourwildamerica">439</a></div>
+<div class=homepage-number-measure><a href="http://content.sierraclub.org/ourwildamerica">Parks &amp; Monuments Established</a></div>
+</div>
+</div> </li>
+<li class=clearfix>
+<div class=view-homepage_numbers-rewrite><div class=homepage-number-image><a href="https://secure.sierraclub.org/site/Donation2?idb=0&df_id=18021&18021.donation=form1"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/homepage/numbers/dot-org-bynumbers-3-million.jpg" width=160 height=320 alt="3 Million" title="3 Million"/></a></div>
+<div class=homepage-number-text>
+<div class=homepage-number-title><a href="https://secure.sierraclub.org/site/Donation2?idb=0&df_id=18021&18021.donation=form1">3M</a></div>
+<div class=homepage-number-measure><a href="https://secure.sierraclub.org/site/Donation2?idb=0&df_id=18021&18021.donation=form1">Members &amp; Supporters</a></div>
+</div>
+</div> </li>
+<li class=clearfix>
+<div class=view-homepage_numbers-rewrite><div class=homepage-number-image><a href="http://content.sierraclub.org/outings"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/homepage/numbers/bynumbers-outings-15k.jpg" width=160 height=320 alt="15,000 Trips Outdoors" title="15,000 Trips Outdoors"/></a></div>
+<div class=homepage-number-text>
+<div class=homepage-number-title><a href="http://content.sierraclub.org/outings">15,000</a></div>
+<div class=homepage-number-measure><a href="http://content.sierraclub.org/outings">Trips outdoors</a></div>
+</div>
+</div> </li>
+</ul></div> </div>
+</div>
+</div>
+<div class="panel-pane pane-panels-mini pane-2-column">
+<div class="panel-flexible panels-flexible-3 clearfix" id=mini-panel-2_column>
+<div class="panel-flexible-inside panels-flexible-3-inside">
+<div class="panels-flexible-row panels-flexible-row-3-main-row panels-flexible-row-first clearfix">
+<div class="inside panels-flexible-row-inside panels-flexible-row-3-main-row-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-3-center panels-flexible-region-first ">
+<div class="inside panels-flexible-region-inside panels-flexible-region-3-center-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-block pane-views-blogs-block-3 clearfix pane-views">
+<h2 class=pane-title>
+MOST POPULAR CONTENT </h2>
+<div class="view view-blogs view-id-blogs view-display-id-block_3 view-dom-id-b41b20484e10314f8438dfe27a80a239">
+<div class=view-content>
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/sierra/5-ways-cut-down-post-thanksgiving-food-scraps"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/hompage_small_thumbnail/public/sierra/articles/sharing/SIERRA%20Bio%20Waste%20TN.jpg?itok=J_8bE7wI" width=75 height=75 /></a></div> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/sierra/5-ways-cut-down-post-thanksgiving-food-scraps">5 Ways to Cut Down on Post-Thanksgiving Food Scraps</a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>Here’s how to do your part to keep food from going to landfills</span> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/sierra/letter-puerto-rico"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/hompage_small_thumbnail/public/sierra/articles/sharing/SIERRA%20Puerto%20Rico%20Downed%20Power%20Lines%20Mark%20TN.jpg?itok=IGDUWlc8" width=75 height=75 /></a></div> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/sierra/letter-puerto-rico">Letter From Puerto Rico</a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>A reporter’s notebook on an unnatural disaster</span> </div> </div>
+</div>
+<div class=more-link>
+<a href="/popular">
+See more of our most popular stories </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-3-right_column panels-flexible-region-last ">
+<div class="inside panels-flexible-region-inside panels-flexible-region-3-right_column-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-views-blogs-block-4 pane-views">
+<h2 class=pane-title>
+NOW IN <i>SIERRA</i> MAGAZINE </h2>
+<div class="view view-blogs view-id-blogs view-display-id-block_4 view-dom-id-6eee4e7a5f46ba26e86fed2bdb3a271e">
+<div class=view-content>
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-slideshow-image-file"> <div class=field-content></div> </div>
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/sierra/three-us-veterans-return-iraq-summit-its-highest-peaks"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/hompage_small_thumbnail/public/sierra/articles/sharing/SIERRA%20Adventure%20Not%20War%20TN.jpeg?itok=IycMs64o" width=75 height=75 /></a></div> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/sierra/three-us-veterans-return-iraq-summit-its-highest-peaks">Three U.S. Veterans Return to Iraq to Summit its Highest Peaks</a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>‘Adventure Not War’ is an adrenaline-filled journey in search of healing and peace</span> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-slideshow-image-file"> <div class=field-content></div> </div>
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/sierra/5-ways-protect-your-home-wildfires"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/hompage_small_thumbnail/public/sierra/articles/sharing/SIERRA%20Wildfire%20Tips%20TN.jpg?itok=7LSjwHsT" width=75 height=75 /></a></div> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/sierra/5-ways-protect-your-home-wildfires">5 Ways to Protect Your Home From Wildfires </a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>Expert-recommended strategies for next fire season</span> </div> </div>
+</div>
+<div class=more-link>
+<a href="/sierra">
+See more content from SIERRA Magazine </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-3-1 panels-flexible-row-last clearfix ">
+<div class="inside panels-flexible-row-inside panels-flexible-row-3-1-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-3-bottom_left panels-flexible-region-first ">
+<div class="inside panels-flexible-region-inside panels-flexible-region-3-bottom_left-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-block pane-views-blogs-block-2 pane-views">
+<h2 class=pane-title>
+FROM OUR BLOGS </h2>
+<div class="view view-blogs view-id-blogs view-display-id-block_2 view-dom-id-66253b3729ed6b5316d2638284d2d984">
+<div class=view-content>
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/compass/2017/11/thankful-for-millions-moving-beyond-coal-globally"><img src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/hompage_small_thumbnail/public/hitched%20-%20cop23.JPG?itok=VGa2hQiA" width=75 height=75 alt=""/></a></div> </div>
+<div class="views-field views-field-term-node-tid"> <span class=field-content><a href="/compass">Compass:</a></span> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/compass/2017/11/thankful-for-millions-moving-beyond-coal-globally">Thankful for the Millions Moving Beyond Coal Globally</a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>I’ve come back home from the United Nations climate talks (COP23) in Bonn, Germany, with so much to be thankful for - namely, for the...</span> </div> </div>
+</div>
+</div>
+</div>
+<div class="panel-pane pane-block pane-views-blogs-block-1 pane-views">
+<div class="view view-blogs view-id-blogs view-display-id-block_1 view-dom-id-e2dc1f85488534c83447e267e2d7a0d5">
+<div class=view-content>
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class=field-content><a href="/michael-brune/2015/01/new-years-revolution" alt="Read Michael Brune&#039;s latest post on Coming Clean"><img src="/sites/www.sierraclub.org/files/blog/__headers/MichaelBrune.jpg" width=75 height=75 alt="Michael Brune"></a></div> </div>
+<div class="views-field views-field-field-website-section"> <div class=field-content><a href="/michael-brune">Michael Brune:</a></div> </div>
+<div class="views-field views-field-title"> <span class=field-content><a href="/michael-brune/2017/11/keystone-xl-tar-sands-nebraska">Nebraska</a></span> </div>
+<div class="views-field views-field-body"> <span class=field-content>I’m disappointed but not totally surprised that the Nebraska Public Service Commission approved an alternative route for the Keystone XL...</span> </div> </div>
+</div>
+<div class=more-link>
+<a href="/news">
+See more from our blogs </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-3-bottom_right panels-flexible-region-last ">
+<div class="inside panels-flexible-region-inside panels-flexible-region-3-bottom_right-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1 pane-views-blogs-home-bottom-outings">
+<h2 class=pane-title>
+FEATURED OUTINGS </h2>
+<div class="views-row views-row-1 views-row-odd views-row-first" style="padding-top: 0;"><div class="views-field views-field-field-image"><div class=field-content><a title="New Trips in Alaska, Hawaii, and the Lower 48" href="http://content.sierraclub.org/outings/featured/new-trips-alaska-hawaii-and-lower-48"><img alt="Kayakers in the water" title="New Trips in Alaska, Hawaii, and the Lower 48" height=75 width=75 class="media-element file-full" data-delta=4 src="https://www.sierraclub.org/sites/www.sierraclub.org/files/2018%20New%20Trips%20in%20Alaska%20%26%20Hawaii%20sc.org_.jpg"/></a></div></div><div class="views-field views-field-title"><span class=field-content><a style="font-family: 'proxima-nova',helvetica,arial,sans-serif; font-weight: bold;" href="http://content.sierraclub.org/outings/featured/new-trips-alaska-hawaii-and-lower-48">New Trips in Alaska, Hawaii, and the Lower 48</a></span></div><div class="views-field views-field-body"><span class=field-content>Rugged beauty abounds on these enchanting new excursions, including backpack, raft, service, and more.</span></div></div><div class="views-row views-row-2 views-row-even views-row-last"><div class="views-field views-field-field-image"><div class=field-content><a title="New International &amp; Domestic Excursions" href="http://content.sierraclub.org/outings/featured/new-international-domestic-excursions"><img alt="Photo of Mountains and Lakes" title="New International &amp; Domestic Excursions" height=75 width=75 class="media-element file-full" data-delta=3 src="https://www.sierraclub.org/sites/www.sierraclub.org/files/uploads-wysiwig/2018-new-international-domestic-trips.jpg"/></a></div></div><div class="views-field views-field-title"><span class=field-content><a style="font-family: 'proxima-nova',helvetica,arial,sans-serif; font-weight: bold;" href="http://content.sierraclub.org/outings/featured/new-international-domestic-excursions">New International &amp; Domestic Excursions</a></span></div><div class="views-field views-field-body"><span class=field-content>Indulge your wanderlust on these tantalizing tours the world over.</span></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-pane pane-block pane-sc-counters-main pane-sc-counters clearfix pane-sc-counters">
+<div class=sc-counters-wrapper><div class='counter-legend counter-bottom'>Connect with the Sierra Club</div>
+<div id=sc-counters-facebook class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-facebook" href="http://facebook.com/sierraclub"></a>
+<a class=sc-counters-number href="http://facebook.com/sierraclub"><strong>818,031</strong></a>
+</div>
+<div id=sc-counters-twitter class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-twitter" href="http://twitter.com/sierraclub"></a>
+<a class=sc-counters-number href="http://twitter.com/sierraclub"><strong>280,086</strong></a>
+</div>
+<div id=sc-counters-google class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-google-plus" href="https://plus.google.com/+sierraclub"></a>
+<a class=sc-counters-number href="https://plus.google.com/+sierraclub"><strong>185,809</strong></a>
+</div>
+<div id=sc-counters-instagram class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-instagram" href="http://instagram.com/sierraclub"></a>
+<a class=sc-counters-number href="http://instagram.com/sierraclub"><strong>88,699</strong></a>
+</div>
+<div id=sc-counters-youtube class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-youtube" href="https://www.youtube.com/user/NationalSierraClub"></a>
+<a class=sc-counters-number href="https://www.youtube.com/user/NationalSierraClub"><strong>4,596</strong></a>
+</div>
+<div id=sc-counters-linkedin class=sc-counters-num>
+<a class="sc-counters-image fa fa-4x fa-linkedin" href="http://www.linkedin.com/company/sierra-club"></a>
+<a class=sc-counters-number href="http://www.linkedin.com/company/sierra-club"><strong>20,497</strong></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=navigation class=clearfix>
+<div id=off-canvas-button>&#9776;</div>
+<div id=toc-link><a href="#header" title="Back to top">Back to top</a></div>
+<div class="region region-navigation">
+<div id=block-menu-menu-menu-dot-org class="block block-menu dotorg-menu first odd " role=navigation>
+<ul class=menu><li class="menu__item is-leaf first leaf"><a href="/beyond-fossil-fuels" title="" class=menu__link>Move Beyond Fossil Fuels</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/ourwildamerica" title="" class=menu__link>Preserve Our Wild America</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/outings" title="" class=menu__link>Enjoy the Outdoors</a></li>
+<li class="menu__item is-leaf leaf"><a href="/programs" title="" class=menu__link>See All Programs &gt;</a></li>
+<li class="menu__item is-expanded last expanded"><a href="https://vault.sierraclub.org/ways-to-give/" class=menu__link>Join/Renew</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001LmZDAA0&amp;formcampaignid=70131000001LlnTAAS" class=menu__link>Become a Member</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://vault.sierraclub.org/ways-to-give/#renew-maintab" class=menu__link>Renew Your Membership</a></li>
+<li class="menu__item is-leaf last leaf"><a href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=701i0000001L9ecAAC&amp;formcampaignid=70131000001hPCtAAM" class=menu__link>Become a Wilderness Guardian</a></li>
+</ul></li>
+</ul>
+</div>
+<div id=block-views-program-page-lists-block class="block block-views last even ">
+<div class="view view-program-page-lists view-id-program_page_lists view-display-id-block view-dom-id-0017f0ff6e49335edc60219ca1c66fbe">
+<div class=view-header>
+<div class="menu-campaigns clearfix"><a href="http://www.sierraclub.org/ready-for-100" class=c-ready><span>Ready for 100%</span></a> <a href="http://content.sierraclub.org/coal" class=c-coal><span>Beyond Coal</span></a>
+<a href="http://content.sierraclub.org/naturalgas" class=c-gas><span>Beyond Natural Gas</span></a> <a href="http://content.sierraclub.org/ourwildamerica" class=c-owa><span>Our Wild America</span></a> <a href="http://content.sierraclub.org/outings" class=c-outdoors><span>Sierra Club Outdoors</span></a></div> </div>
+<div class=view-content>
+<div class="views-row views-row-1 views-row-odd views-row-first clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/borderlands">Borderlands</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="http://www.climateparents.org">Climate Parents</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/ecocentro">Ecocentro</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="https://content.sierraclub.org/evguide/">Electric Vehicles</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/environmental-justice">Environmental Justice</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="http://content.sierraclub.org/environmentallaw">Environmental Law</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/equity">Equity, Inclusion, and Justice</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/fair-table">Fair Table</a></span> </div> </div>
+<div class="views-row views-row-9 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/gender">Gender, Equity, and Environment</a></span> </div> </div>
+<div class="views-row views-row-10 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/international">International Climate and Energy</a></span> </div> </div>
+<div class="views-row views-row-11 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/labor">Labor and Economic Justice</a></span> </div> </div>
+<div class="views-row views-row-12 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/nuclear-free">Nuclear Free Future</a></span> </div> </div>
+<div class="views-row views-row-13 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/trade">Responsible Trade</a></span> </div> </div>
+<div class="views-row views-row-14 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/youth">Sierra Student Coalition</a></span> </div> </div>
+<div class="views-row views-row-15 views-row-odd clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/toxics">Toxics</a></span> </div> </div>
+<div class="views-row views-row-16 views-row-even clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/water-sentinels">Water Sentinels</a></span> </div> </div>
+<div class="views-row views-row-17 views-row-odd views-row-last clearfix divMarginBottom">
+<div class="views-field views-field-title"> <span class=field-content><a href="/yosemite-heritage-center">Yosemite Conservation Heritage Center</a></span> </div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id=footer class="region region-footer">
+<div id=block-menu-menu-footer-links class="block block-menu clearfix first odd " role=navigation>
+<ul class=menu><li class="menu__item is-leaf first leaf"><a href="http://www.sierraclub.org" title="" class=menu__link>Sierra Club</a></li>
+<li class="menu__item is-expanded expanded"><a href="/programs" title="" class=menu__link>Campaigns</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="/ready-for-100" class=menu__link>Ready for 100</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/coal" class=menu__link>Beyond Coal</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/beyondoil" class=menu__link>Beyond Oil</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/naturalgas" class=menu__link>Beyond Natural Gas</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://content.sierraclub.org/ourwildamerica" title="" class=menu__link>Our Wild America</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://content.sierraclub.org/outings" title="" class=menu__link>Explore</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="http://content.sierraclub.org/outings/national" title="" class=menu__link>Extended Tours and Treks</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/outings/military" title="" class=menu__link>Military Outdoors</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/outings/ico/" title="" class=menu__link>Inspiring Connections Outdoors</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://vault.sierraclub.org/outings/lodges/" title="" class=menu__link>Lodges and Huts</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://www.sierraclub.org/sierra/green-life" class=menu__link>Enjoy</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="/sierra" title="" class=menu__link>Sierra Magazine</a></li>
+<li class="menu__item is-leaf leaf"><a href="/library" class=menu__link>Colby Library</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://vault.sierraclub.org/john_muir_exhibit/" class=menu__link>John Muir Exhibit</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://www.sierraclub.org/store/" class=menu__link>Sierra Club Store</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://action.sierraclub.org/site/PageServer?pagename=TakeAction&amp;s_src=610ZSCAC01" title="" class=menu__link>Protect</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="http://www.sierraclub.org/take-action" class=menu__link>Action Center</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=701i00000014FHjAAM&amp;formcampaignid=701310000008mTgAAI" class=menu__link>Join the Sierra Club</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://content.sierraclub.org/grassrootsnetwork/" title="" class=menu__link>Grassroots Network</a></li>
+<li class="menu__item is-leaf leaf"><a href="/policy" title="" class=menu__link>Policies</a></li>
+<li class="menu__item is-leaf leaf"><a href="/youth" title="" class=menu__link>Sierra Student Coalition</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://www.addup.org" target=_blank class=menu__link>AddUp.org</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded"><a href="http://www.sierraclub.org" title="" class=menu__link>The Sierra Club</a><ul class=menu><li class="menu__item is-leaf first leaf"><a href="/about" title="" class=menu__link>About Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://www.sierraclub.org/ways-to-give" class=menu__link>Ways to Give</a></li>
+<li class="menu__item is-leaf leaf"><a href="/careers" title="" class=menu__link>Careers</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.sierraclub.org/ecocentro" class=menu__link>En Español</a></li>
+<li class="menu__item is-leaf leaf"><a href="/press-releases" class=menu__link>Press Room</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://clubvolunteer.org/" class=menu__link>Volunteer Opportunities</a></li>
+</ul></li>
+</ul>
+</div>
+<div id=block-sclib-global-footer-sierraclub-global-footer-links class="block block-sclib-global-footer even ">
+<a href="http://www.sierraclub.org">Home</a> | <a href="http://www.sierraclub.org/contact">Contact Us</a> | <a href="http://www.sierraclub.org/ecocentro">En Español</a> | <a href="http://www.sierraclub.org/terms">Terms and Conditions of Use</a> | <a href="http://www.sierraclub.org/privacy">Privacy Policy/Your California Privacy Rights</a> | <a href="mailto:webmaster@sierraclub.org?&amp;subject=help&amp;message=Please%20provide%20details,%20url%20and%20any%20operating%20system%20&amp;%20browser%20information%20that%20would%20be%20helpful:">Website Help</a>
+</div>
+<div id=block-sclib-global-footer-sierraclub-global-footer class="block block-sclib-global-footer last odd ">
+Sierra Club&reg; and "Explore, enjoy and protect the planet"&reg; are registered trademarks of the Sierra Club. &copy; <a href="http://www.sierraclub.org/copyright">Sierra Club 2017</a>.<br>The Sierra Club Seal is a registered copyright, service mark, and trademark of the Sierra Club.
+</div>
+</footer>
+</div>
+<div class="region region-bottom">
+<div id=block-block-12 class="block block-block footer_promos clearfix first odd ">
+<div class="footer_promo footer_promo_1"><a title="Get the NEW Sierra Club Credit Card" onclick="if(typeof ga != 'undefined')ga('send', 'event', 'outbound', 'click', this.href, {'transport': 'beacon'});" href="http://www.sierraclubvisacreditcard.org/" target=_blank><img alt="Sierra Club Credit Card" title="Get the New Sierra Club Credit Card" height=63 width=175 style="width: 175px; height: 63px;" class="media-element file-default" data-delta=1 src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/general_full_column/public/homepage_footer_cc.png?itok=Fet4Oqm7"/></a></div><div class="footer_promo footer_promo_2"><a title="Green Alpha Advisors" onclick="if(typeof ga != 'undefined') ga('send', 'event', 'outbound', 'click', this.href, {'transport': 'beacon'});" href="http://greenalphaadvisors.com/" target=_blank><img alt="Green Alpha Advisors" height=62 width=195 style="width: 195px; height: 62px;" class="media-element file-default" data-delta=1 title="" src="https://www.sierraclub.org/sites/www.sierraclub.org/files/styles/general_full_column/public/gaa.png?itok=4mvD26U_"/></a> </div><div class="footer_promo footer_promo_3"><a title=Aspiration onclick="if(typeof ga != 'undefined') ga('send', 'event', 'outbound', 'click', this.href, {'transport': 'beacon'});" href="https://www.aspiration.com/partners/sierraclub?utm_source=sierraclub&amp;utm_campaign=partnersgeneral&amp;utm_medium=schomepage" target=_blank><img alt=Aspiration height=60 width=200 class="media-element file-full" data-delta=1 title="" src="https://www.sierraclub.org/sites/www.sierraclub.org/files/uploads-wysiwig/aspiration.png"/></a></div>
+</div>
+<div id=block-block-15 class="block block-block even ">
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=johnmuir"></script><script>
+<!--//--><![CDATA[// ><!--
+
+    addthis.layers({
+      'theme' : 'grey',
+      'linkFilter' : function(link, layer) {
+        if (link.url.indexOf('vault.sierraclub.org') >= 0 ) {
+          return false;
+        /*} else if (link.url.indexOf('content.sierraclub.org/outings') > 0 ) {
+          return false; */
+        } else {
+          return link;
+        }
+      },
+      'share' : {
+        'position' : 'left',
+        'numPreferredServices' : 5
+      },  
+      'whatsnext' : {}
+    });
+  
+//--><!]]>
+</script>
+</div>
+<div id=block-block-43 class="block block-block odd ">
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+#fblouter { display:none; background-color: rgba(0,0,0,0.75); position: fixed; bottom: 0; left: 5.5%; right: 5.5%; z-index: 1000;  }
+#fblclose { border-radius: 10px; width: 20px; height: 20px; position: absolute; right: -5px; top: -5px; color: #fff; background-color: #000; line-height: 20px; font-size: 16px; text-align: center; z-index: 10001; cursor: pointer;  }
+#fblinner { background-color: #096a8e; position: relative; margin: 5px 5px 0 -5px; text-align: center; padding: 10px 0 10px 0; }
+.email-messaging {width: 48%; min-width: 280px; display: inline-block; vertical-align: middle;}
+#footersignup { width: 48%; min-width: 280px; display: inline-block; vertical-align: middle;  } 
+#footersignupbutton { width: auto !important; margin: 0 0 0 15px; width: auto; vertical-align: top; }
+#footersignupzip { width: 17% !important; }
+#footersignupemail { width: 27% !important; }
+@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) { 
+	#footersignupbutton{ display: block; margin: 10px auto 0 auto !important; } 
+	#footersignupemail{ width: 45% !important; } 
+	#footersignupzip{ width: 25% !important; } 
+	#fbljoin{ display: block !important; width: 86px !important; margin: 10px auto 0 auto !important; } 
+} 
+
+/*--><!]]>*/
+</style><div id=fblouter><a id=fblclose>×</a>
+<div id=fblinner>
+<div class="email-messaging row">
+<p class=email-signup-language style="color: #fff; font-size: 18px; text-align: center; margin: 0;">Sign up for alerts and other updates from the Sierra Club</p>
+<div class="email-signup-working alert-info" style="display: none; color: #fff;">Sign up is Processing</div>
+<div class="email-signup-error alert-warning" style="display: none; color: #fff;">Whoops! Something went wrong. Please email <a href="mailto:webmaster@sierraclub.org">webmaster@sierraclub.org</a></div>
+<div id=Signup_success class="email-signup-success alert-success success" style="display: none;">
+<p style="color: #fff; font-size: 18px; text-align: center; margin: 0;">Thank you. Want to do more? Become a Member today and we'll send you a free field messenger bag. <a style="font-family: 'proxima-nova',helvetica,arial,sans-serif, font-size: 18px; line-height: 1.2; border-radius: 0.5em; margin: 0 0 0 20px; padding: 0.1em 2%; text-align: center; font-weight: normal; background-color: #da6b27; border: 1px solid #aa4b07; display: inline-block; box-shadow: 1px 1px 2px #da6b27; text-decoration: none; color: #fff;" href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001M8pwAAC&amp;formcampaignid=70131000001LlnTAAS" id=fbljoin>Join</a></p>
+</div>
+</div>
+<form id=footersignup class=email-signup-form>
+<div class=Signup_fields style="height: auto;">
+<input type=hidden name=Source value=70131000001hRELAA2 /><input type=hidden name=SourceURL value="https://www.sierraclub.org/sierra-club-email/insider"/><input type=hidden name=preferenceCode value=INSIDER /><input name=email id=footersignupemail value="" placeholder=email class="email active_input"/><input name=postalCode placeholder=zip id=footersignupzip value="" class=zip /><input type=submit id=footersignupbutton value="Sign Up" class=sc-centered-by-scstandards-script-js name=ACTION_SUBMIT_SURVEY_RESPONSE /></div>
+</form>
+</div>
+</div>
+<script>
+<!--//--><![CDATA[// ><!--
+
+(function($, window, document, undefined) {
+	// Cookie-ing code to only show lightbox every 14 days:
+	if ($.cookie("footerlightbox") === "true")
+	{
+            dataLayer.push({'ga_event_category': 'dotOrg', 'ga_event_action': 'Don\'t Display', 'ga_event_label': 'Email Sign-up Footer Lightbox', 'ga_event_value': undefined, 'event': 'ga_track_event'});
+	} else {
+            dataLayer.push({'ga_event_category': 'dotOrg', 'ga_event_action': 'Display', 'ga_event_label': 'Email Sign-up Footer Lightbox', 'ga_event_value': undefined, 'event': 'ga_track_event'});
+            if (document.location.pathname.indexOf('/join-fight')==-1) {
+              $('#fblouter').show();
+              // And set cookie for 14 days:
+   	      $.cookie("footerlightbox", "true",  { expires: 14 });
+            }
+        }
+
+	// Close X
+	$("#fblclose").click(function()
+	{
+		$("#fblouter").css("display", "none");
+		dataLayer.push({'ga_event_category': 'dotOrg Homepage', 'ga_event_action': 'Close', 'ga_event_label': 'Email Sign-up Footer Lightbox', 'ga_event_value': undefined, 'event': 'ga_track_event'});		
+		return false;
+	});
+
+	// Set Cookie for 365 days
+	$("#footersignupbutton").click(function()
+	{
+		// set cookie to not show for 365 days:
+                $('.email-signup-language').hide();
+		$.cookie("footerlightbox", "true", { expires: 365 }); 
+	});
+})(jQuery, window, document);
+
+//--><!]]>
+</script>
+</div>
+<div id=block-bean-lightbox-fight-back-against-t class="block block-bean last even ">
+<div class="entity entity-bean bean-lightbox clearfix">
+<div class=content>
+<div class="field field-name-field-lightbox-html field-type-text-long field-label-hidden"><div class=field-items><div class="field-item even"><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+/* MOBILE & BASIC SET UP */
+
+.pcm-overlay .box { 
+/*556x447*/
+  background-image: url('//www.sierraclub.org/sites/www.sierraclub.org/files/02-2017-lightbox-background-optimized.jpg');
+  background-position: 0 100%;
+  background-size: 100% 100%;
+}
+
+/* orange #e95e11, blue #0d3661 */
+
+.pcm-overlay h2 { 
+  font-family: ProximaNova-Regular; 
+  display: block; 
+  margin: auto 22px; 
+}
+
+.pcm-overlay .box h3 {
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 16px;
+  text-shadow: 1px 1px 25px black;
+}
+
+.pcm-overlay h2 span { font-family: ProximaNova-Bold; }
+
+.lb-signup { background: transparent; opacity: 0;  }
+
+.lb-signup-text { 
+  position: relative; 
+  /* top: 8px; */
+  text-align: center;  
+  padding: 0 8px; color: #fff; 
+  height: 80%;
+}
+
+.lb-signup-text h2 { 
+  color: #fff;  
+  text-transform: none !important;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  font-size: 28px;
+  line-height: 30.4px;
+  text-shadow: 1px 1px 25px black;
+}
+
+.lb-buttons { 
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.lb-signup-text P { margin-bottom: 8px; line-height: 110%; margin-bottom: 5px; font-size: 13px; padding: 0 10px; color: #fff;  }
+
+/* #blue 72cdd0,62a8aa  #orange d36b17, ad4d09 */
+
+.lb-signup-text .lb-buttons a.scstandard-button.lightbox-link, 
+.lb-signup-text .lb-buttons a.scstandard-button.lightbox-link:link { 
+					border: 0;
+					border-radius: 0;
+					background-color: #f6551f !important;
+					text-transform: uppercase;
+					font-size: 18px;
+					min-width: 180px;
+					position: relative;
+                                        background-image: none !important;
+                                        box-shadow: none !important;
+                                        -webkit-box-shadow: none !important;
+font-family: ProximaNova-Bold;
+padding: 0 2em 0 1em;
+line-height: 42px;
+}
+.lb-signup-text .lb-buttons a.scstandard-button.lightbox-link span {
+    display: inline-block;
+    position: absolute;
+    top: -5px;
+    margin-left: 3px;
+    font-size: 52px;
+}
+#lb-box-link { display:block;position: absolute;width: 90%;height: 90%; margin: 5% ;z-index: 100; }
+
+/* DESKTOP SETUP */
+
+@media (min-width: 641px) and (min-height: 600px) {
+
+  .pcm-overlay .box { 
+    background-color: white;
+    background-image: url('//www.sierraclub.org/sites/www.sierraclub.org/files/02-2017-lightbox-background-optimized.jpg');
+    background-position: center center;
+    background-size: 100% 100%;
+  }
+
+  /*adjust margin-top & height of signup and top of signup-text*/
+
+  .lb-signup { 
+    text-align: center;
+    /* height: 145px;  */
+    background: transparent; 
+    opacity: 0; 
+  }
+
+  .lb-signup-text { 
+    position: relative; 
+    text-align: center; 
+    padding: 0 58px;
+    height: 75%;
+  }
+
+  .lb-signup-text h2 { 
+    display: block; 
+    font-family: ProximaNova-Regular ; 
+    color: #fff;  
+    text-transform: none !important;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-size: 38px;
+    line-height: 50.4px;
+    text-shadow: 1px 1px 25px black;
+}
+
+  .lb-signup-text H2 { 
+    margin: 26px auto; 
+  }
+
+  .pcm-overlay .box .lb-signup-text h3 { 
+    font-size: 22.4px;
+  }
+
+  .lb-signup-text P { line-height: 125%; font-size: 17px; color: #fff;   }
+
+  .lb-buttons { width: 250px; margin: 0 auto;}
+
+  .lb-signup-text .lb-buttons a.scstandard-button:link, .lb-signup-text a.scstandard-button { 
+    padding: 0.1em 10%; 
+    border-width: 2px; 
+    font-size: 1.4em; 
+    color: #fff;   
+  }
+
+  .lb-signup-text .lb-buttons a.scstandard-button.lightbox-link, 
+  .lb-signup-text .lb-buttons a.scstandard-button.lightbox-link:link { 
+    /* font-size: 16px; */
+  }
+
+}
+
+
+/*--><!]]>*/
+</style><div class=pcm-overlay style="display: none;" data-action-name=lb_feb_17_fight_back_donate data-first-day=20170208 data-last-day=20180101 data-show-after-millisecs=3000>
+<div class=box>
+<a href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001DcFKAA0&amp;formcampaignid=70131000001LjZ2AAK&amp;utm_medium=web&amp;utm_source=sierraclub&amp;utm_campaign=giving&amp;ddi=N16LOTF006" id=lb-box-link> </a>
+<div class=lb-signup> </div>
+<div class=lb-signup-text>
+<h2>Fight Back Against Trump</h2>
+<h3>We stand together</h3>
+<div class=lb-buttons>
+<a class="scstandard-button lightbox-link" id=lightbox-donate-button href="https://sierra.secure.force.com/donate/rc_connect__campaign_designform?id=70131000001DcFKAA0&amp;formcampaignid=70131000001LjZ2AAK&amp;utm_medium=web&amp;utm_source=sierraclub&amp;utm_campaign=giving&amp;ddi=N16LOTF006" title=Donate>Donate Today<span>›</span></a>
+</div>
+</div>
+<a class="pcm-close close" href="#">X</a>
+</div>
+</div></div></div></div> </div>
+</div>
+</div>
+</div>
+<script src="https://www.sierraclub.org/sites/www.sierraclub.org/files/js_injector/js_injector_19.js?ozzh0q"></script>
+<div id=em style="width:1em; height:1em; overflow:hidden; visibility:hidden;"></div>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1858223485';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

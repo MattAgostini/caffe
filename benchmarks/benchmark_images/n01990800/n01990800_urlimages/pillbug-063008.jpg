@@ -1,0 +1,18 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>File not found</title>
+
+    <style type="text/css">
+    html { 
+      background: url(404.png) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+    </style>
+</head>
+<body>
+<div class="html"></div>
+</body>
+</html>

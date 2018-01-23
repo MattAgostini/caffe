@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html class="expanded">
+<head>
+<meta charset="utf-8" />
+<meta content="" name="description">
+ 
+ 
+<title>主页</title>
+
+
+ 
+
+<link rel="stylesheet" href="/static/zhishi/static/css/layout_7214f49.css" /></head>
+<body > 
+
+<div id="app">
+   
+   <script>
+   	window.location.href='https://know.baidu.com';
+   </script>
+  
+
+
+</div>
+
+    
+
+<script type="text/javascript" src="/static/zhishi/static/js/mod_75d1f98.js"></script><script type="text/javascript">!function() {
+      
+    }();</script></body>
+</html>

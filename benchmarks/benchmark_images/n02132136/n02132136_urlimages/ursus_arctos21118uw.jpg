@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20534693-2"></script>
+<script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-20534693-2');</script>
+<link rel="shortcut icon" href="/profiles/custom/biologis/biologis.ico" type="image/vnd.microsoft.icon" />
+
+    <title>bio.logis Genetic Information Management GmbH</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_L8xcOM1ZD_TA2sIl5KZhj4t1yk_KGT4P9MJeabw7j4Y.css?ozgwxa" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_ul6aVWDP3rwofr9TOBQQMK_Cb5jCVlKOd-sOvFGIpUg.css?ozgwxa" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      
+  <header role="banner" class="header">
+    <nav role="navigation" aria-labelledby="main-menu" class="navbar navbar-static-top">
+      <h2 id="main-menu" class="visually-hidden">Primary navigation</h2>
+      <div class="navigation">
+        <div class="container relative">
+          <div class="row">
+            <div class="navbar-header">
+                              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              
+                <div class="header-first">
+    <div  id="block-branding" class="logo-container">
+  
+    
+              <div class="logo-wrap">
+          <a href="/" title="Home" rel="home" class="logo mar-4">
+            <img src="/profiles/custom/biologis/biologis.svg" alt="Home">
+          </a>
+        </div>
+            
+  </div>
+  </div>
+
+            </div>
+
+              <div class="col-md-9 nav-wrap">
+    <div class="collapse navbar-collapse" id="navbar-collapse">
+      
+
+                  
+    <ul class="nav navbar-nav navbar-right">
+                      <li class="menu-item">
+                                          <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+
+                  </li>
+                      <li class="menu-item dropdown">
+                                          <span class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="&lt;front&gt;">About</span>
+
+                                                                    
+    <ul class="dropdown-menu">
+                      <li class="menu-item">
+                                          <a href="/about/company" data-drupal-link-system-path="page/13">Company</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/about/team" data-drupal-link-system-path="page/1">Team</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/about/career" data-drupal-link-system-path="page/11">Career</a>
+
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="menu-item dropdown">
+                                          <span class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="&lt;front&gt;">Solutions</span>
+
+                                                                    
+    <ul class="dropdown-menu">
+                      <li class="menu-item">
+                                          <a href="/solutions/genetic-information-management-suite" data-drupal-link-system-path="page/8">Genetic Information Management Suite</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/solutions/diagnostic-report-module" data-drupal-link-system-path="page/10">Diagnostic Report Module</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/solutions/knowledge-management-module" data-drupal-link-system-path="page/4">Knowledge Management Module</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/solutions/delivery-module" data-drupal-link-system-path="page/9">Delivery Module</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/solutions/content-workflows" data-drupal-link-system-path="page/6">Content &amp; Workflows</a>
+
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="menu-item dropdown">
+                                          <span class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="&lt;front&gt;">News</span>
+
+                                                                    
+    <ul class="dropdown-menu">
+                      <li class="menu-item">
+                                          <a href="/news/news" data-drupal-link-system-path="page/12">News</a>
+
+                  </li>
+                      <li class="menu-item menu-item--collapsed">
+                                          <a href="/news/press" data-drupal-link-system-path="page/3">Press</a>
+
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/news/events" data-drupal-link-system-path="page/2">Events</a>
+
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="menu-item">
+                                          <a href="/contact" data-drupal-link-system-path="page/5">Contact</a>
+
+                  </li>
+          </ul>
+  
+
+
+
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+<a id="main-content" tabindex="-1"></a>
+  
+<div id="block-content">
+  
+    
+        
+  <section class="swiper-container">
+    <div class="swiper-wrapper">
+          <div class="paragraph paragraph--type--slider-image paragraph--view-mode--default swiper-slide">
+                  
+            <div><article class="media media-slider-image view-mode-default">
+          <img src="/sites/default/files/slider-images/header-home-2260.jpg" width="2260" height="410" alt="" />
+
+
+
+  </article>
+</div>
+      
+            <div class="slider-caption">
+        <div class="container">
+          
+            <div class="text-formatted"><h3>Our Mission</h3>
+<h5>Support and drive the adoption of<br />
+human genetic diagnostics into clinical practice</h5>
+</div>
+      
+        </div>
+      </div>
+      </div>
+
+    <div class="paragraph paragraph--type--slider-image paragraph--view-mode--default swiper-slide">
+                  
+            <div><article class="media media-slider-image view-mode-default">
+          <img src="/sites/default/files/slider-images/header-home-2260.jpg" width="2260" height="410" alt="" />
+
+
+
+  </article>
+</div>
+      
+            <div class="slider-caption">
+        <div class="container">
+          
+            <div class="text-formatted"><h3>Our focus</h3>
+<h5>Process steps which are facing the unmet need<br />
+in genetic diagnostics</h5>
+</div>
+      
+        </div>
+      </div>
+      </div>
+
+    <div class="paragraph paragraph--type--slider-image paragraph--view-mode--default swiper-slide">
+                  
+            <div><article class="media media-slider-image view-mode-default">
+          <img src="/sites/default/files/slider-images/header-home-2260.jpg" width="2260" height="410" alt="" />
+
+
+
+  </article>
+</div>
+      
+            <div class="slider-caption">
+        <div class="container">
+          
+            <div class="text-formatted"><h3>Our offer</h3>
+<h5>Innovative IT solutions supporting genetic labs<br />
+in translating genetic test result into clinical recommendations</h5>
+</div>
+      
+        </div>
+      </div>
+      </div>
+
+
+    </div>
+  </section>
+
+    
+  <section class="section-wrap">
+    <div class="container">
+              
+      <div class="row">
+      <div class="col-md-12 col-sm-12">
+                    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h2 class="claim"><span>bio.logis GIMS - Home of the Clinical Interpretome</span></h2>
+</div>
+      
+      </div>
+
+              </div>
+    </div>
+  
+    <div class="row">
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--dynamic-list paragraph--view-mode--default">
+          
+            <div><div id="block-views-blocknews-single">
+  
+      <h2>News</h2>
+    
+      <div class="views-element-container">
+<div class="view-news js-view-dom-id-c8c33c16f8d96b3a0810ceed2c1262e730a0cad45ca6feb4aabf0ad204a4f57c">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row">
+    <article class="news-teaser-short">
+      <div class="news-topline">      <time datetime="2017-11-16T12:00:00Z">November 16, 2017</time>
+
+   |       Press release
+  </div>
+    
+
+      <div class="news-title">Laboratory group Laboratoires Réunis capitalizes Genetic Information Management software suite for complex laboratory reports</div>
+  
+            <div class="text-formatted"><p><span><span><span><span lang="EN-US" xml:lang="EN-US"><span>One of the largest private laboratories in Luxembourg uses the bio.logis Genetic Information Management Suite (GIMS) to automate the creation of extensive diagnostic reports</span></span></span></span></span></p>
+</div>
+      
+  </article>
+<a href="#news-19" class="news-read-more-link">read more ></a>
+<div id="news-19" class="news-popup mfp-hide">
+      <div class="news-topline">      <time datetime="2017-11-16T12:00:00Z">November 16, 2017</time>
+
+   |       Press release
+  </div>
+    
+
+      <div class="news-title">Laboratory group Laboratoires Réunis capitalizes Genetic Information Management software suite for complex laboratory reports</div>
+      <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p><span><span><span><em><span lang="EN-US" xml:lang="EN-US"><span>One of the largest private laboratories in Luxembourg uses the bio.logis Genetic Information Management Suite (GIMS) to automate the creation of extensive diagnostic reports</span></span></em></span></span></span></p>
+<p><span><span><span><strong><span lang="EN-US" xml:lang="EN-US"><span>Laboratoires Réunis group is a further client for bio.logis Genetic Information Management GmbH’s “Genetic Information Management Suite (GIMS)”, specially developed for genetic diagnostics. Usage will initially focus on establishing the creation of highly complex diagnostic reports with a maximum degree of efficiency and automation. </span></span></strong></span></span></span></p>
+<p><span><span><span><span lang="EN-US" xml:lang="EN-US"><span>With more than 50 blood sampling locations, a centralized laboratory in Junglinster, Luxembourg, as well as laboratory sites in Trier, Germany, and Fléron, Belgium, Laboratoires Réunis is one of the largest private laboratories in Luxembourg and considered to be a national pioneer for molecular diagnostics and personalized medicine. Apart from a broad spectrum of analyses in areas such as clinical chemistry or immunology, the Laboratoires Réunis group also offers a number of genetic analyses, a field in which it wants to expand further in future. In order to meet the challenges of efficiently producing high-quality clinical reports during these complex analyses, the lab’s scientists now use bio.logis GIM’s IT solution, specifically designed for this area of application. </span></span></span></span></span></p>
+<p><span><span><span><span lang="EN-US" xml:lang="EN-US"><span>The starting point is the introduction of the software suite’s “Diagnostic Report Module (DRM)” to largely automate the creation of diagnostic reports on the basis of genetic analysis results. Using a centralized content management system for medical content ensures that the reports are also standardized and always up to date. DRM makes the reporting process highly efficient and improves its scalability. In addition, there are plans to successively introduce more Genetic Information Management Suite modules to further optimize existing processes. Both parties are also working on establishing individual functionalities of the Diagnostic Report Module so that other diagnostic fields also benefit from enhanced efficiency. </span></span></span></span></span></p>
+<p><span lang="EN-US" xml:lang="EN-US"><span>“The Diagnostic Report Module is an enormous help for our scientific experts, who create complex reports on a daily basis,” says Dr Martin Schöndorf, Director Business Unit at Laboratoires Réunis, praising the collaboration with the men and women at bio.logis. “There is only one word to describe the support we received during the roll-out as well as the willingness and ability to adapt the solutions to our requirements and existing infrastructure—excellent.” Enrico Just, Managing Director, bio.logis GIM, adds: “We are very happy to have found a further renowned customer and reliable partner in Laboratoires Réunis, who also supports the improvement and evolution of our solutions with its own expertise and ideas.” </span></span></p>
+</div>
+      
+      </div>
+
+    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p><strong><span><span><span lang="EN-US" xml:lang="EN-US">About bio.logis Genetic Information Management GmbH</span></span></span></strong><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>bio.logis Genetic Information Management GmbH translates genetic data into medically leverageable information and makes it available to physicians and patients. To that end, it has developed a special “Genetic Information Management Suite (GIMS)” IT solution which, in the process chain required for genetic diagnostics, focuses on the "last mile” from physician to patient by merging raw genetic data with clinically leverageable knowledge for prompt application. GIMS supports physicians both in laboratories for automatically generating such expert content, and in hospitals with specific clinical suggestions. The physician reports and recommended action generated by GIMS is delivered straight to the point of care via laboratory and physician information systems as well as electronic health records. For more information about our company and our products, please visit https://www.biologis.com/. </span></span></span></span></p>
+</div>
+      
+      </div>
+
+    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p><span><span><strong><span lang="EN-US" xml:lang="EN-US">Press relations:</span></strong></span></span></p>
+<p><span><span><strong><span lang="EN-US" xml:lang="EN-US"><span>Dr. Maike Post </span></span></strong></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>bio.logis Genetic Information Management GmbH </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Altenhöferallee 3 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>D-60438 Frankfurt am Main </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Phone: +49 (0) 69 3487391 31 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>maike.post@biologis.com</span></span></span></span></p>
+<p><span><span><strong><span lang="EN-US" xml:lang="EN-US"><span>Dr. Carolin Nowak </span></span></strong></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>bio.logis Genetic Information Management GmbH </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Altenhöferallee 3 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>D-60438 Frankfurt am Main </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Phone: +49 (0) 69 3487391 44 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>carolin.nowak@biologis.com</span></span></span></span></p>
+<p><span><span><strong><span lang="EN-US" xml:lang="EN-US"><span>Manuela Rost-Hein </span></span></strong></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Ketchum Pleon </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>c/o Torstrasse 140 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>D-10119 Berlin </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>Phone: +49 (0) 30 400 54 752 </span></span></span></span><br />
+<span><span><span lang="EN-US" xml:lang="EN-US"><span>manuela.rost-hein@ketchumpleon.com</span></span></span></span></p>
+</div>
+      
+      </div>
+
+
+  </div>
+<a href="/news/news">all news &gt;</a>
+  </div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+      
+      </div>
+
+          </div>
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--dynamic-list paragraph--view-mode--default">
+          
+            <div><div id="block-views-blockevents-single">
+  
+      <h2>Events</h2>
+    
+      <div class="views-element-container">
+<div class="view-events js-view-dom-id-9f48ee505fd2f2a73218e11817ea24811cfe7e30f76e83e16cf5dd3dc0f64e6e">
+  
+  
+  
+
+  
+  
+  
+
+      <div class="views-row">
+    <article class="news-teaser-short">
+      <div class="news-topline">      <time datetime="2017-11-17T12:00:00Z">November 17, 2017</time>
+
+   |       Talk
+  </div>
+    
+
+      <div class="news-title">Autumn Meeting BVDH e.V., Cologne</div>
+  
+            <div class="text-formatted"><p><span><span>Participation of bio.logis GIM at the A</span><span>utumn Meeting of the "Bundesverband Deutscher Humangenetiker e.V.": Nov 17-18, 2017 </span></span></p>
+</div>
+      
+  </article>
+<a href="#news-20" class="news-read-more-link">read more ></a>
+<div id="news-20" class="news-popup mfp-hide">
+      <div class="news-topline">      <time datetime="2017-11-17T12:00:00Z">November 17, 2017</time>
+
+   |       Talk
+  </div>
+    
+
+      <div class="news-title">Autumn Meeting BVDH e.V., Cologne</div>
+      <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p><span>Daniela Steinberger will participate within the conference program, addressing aspects of the future and visions regarding “Non Invasive Prenatal Testing” (NIPT).</span></p>
+<p><span>Read more:</span></p>
+</div>
+      
+      </div>
+
+    <div class="paragraph paragraph--type--document paragraph--view-mode--default">
+          
+            <div><article class="media media-document view-mode-default">
+      
+            <div><a href="http://www.biologis.com/sites/default/files/document/BVDH%20Flyer%20Herbsttagung%202017-10-23._0.pdf">Flyer BVDH</a></div>
+      
+  </article>
+</div>
+      
+      </div>
+
+
+  </div>
+<a href="/news/events">all events &gt;</a>
+  </div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+      
+      </div>
+
+          </div>
+  </div>
+
+    </div>
+  </section>
+
+      
+  <section class="section-dark section-wrap">
+    <div class="container">
+              
+  
+    <div class="row">
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/glenn-carstens-peters-203007.jpg" width="4076" height="2712" alt="" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+
+          </div>
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p> </p>
+<p> </p>
+<h3>Get in touch and discover what GIMS can do for your lab!</h3>
+<p class="text-align-center"><a href="/contact?subject=demo#block-content">request a demo &gt;</a></p>
+</div>
+      
+      </div>
+
+          </div>
+  </div>
+
+    </div>
+  </section>
+
+    
+  <section class="section-wrap">
+    <div class="container">
+              
+      <div class="row">
+      <div class="col-md-12">
+          <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h3>GIMS Modules</h3>
+</div>
+      
+      </div>
+
+      </div>
+    </div>
+                        <div class="row">
+      <div class="col-md-4 card">
+                    <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/Icon-KMM.png" width="206" height="206" alt="" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+
+                    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h3>Knowledge Management Module</h3>
+<p class="text-align-center">Structured documentation of genetic knowledge</p>
+<p class="text-align-center"><a href="/solutions/knowledge-management-module">more &gt;</a></p>
+</div>
+      
+      </div>
+
+              </div>
+      <div class="col-md-4 card">
+                    <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/Icon-DRM.png" width="206" height="206" alt="" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+
+                    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h3>Diagnostic Report Module</h3>
+<p class="text-align-center">Efficient production of diagnostic reports</p>
+<p class="text-align-center"><a href="/solutions/diagnostic-report-module">more &gt;</a></p>
+</div>
+      
+      </div>
+
+              </div>
+      <div class="col-md-4 card">
+                    <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/Icon-DM.png" width="206" height="206" alt="" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+
+                    <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h3>Delivery Module<br />
+ </h3>
+<p class="text-align-center">Digital delivery and presentation of results</p>
+<p class="text-align-center"><a href="/solutions/delivery-module">more &gt;</a></p>
+</div>
+      
+      </div>
+
+              </div>
+    </div>
+  
+    </div>
+  </section>
+
+      
+  <section class="section-light section-wrap">
+    <div class="container">
+              
+  
+    <div class="row">
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--dynamic-list paragraph--view-mode--default">
+          
+            <div><div id="block-views-blocktestimonials-slider">
+  
+    
+      <div class="views-element-container">
+
+<div class="view-testimonials js-view-dom-id-0c8777051fe68d8a98d3ac3c9007130fe51978621aa1fb99afb9aa8b0b90e06c testimonial-swiper-container">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="swiper-wrapper row">
+          <div class="views-row swiper-slide">
+      
+<article class="testimonial">
+  
+      <div>
+              <div>  <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/logo.png" width="749" height="169" alt="" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+</div>
+              <div>  <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><p>„We are convinced, that the Diagnostic Report Module of the bio.logis Genetic Information Management Suite will improve the process to create more valueable results, which we provide to our clients (i.e. physicians). This will help us to build a competition advantage.“</p>
+</div>
+      
+      </div>
+</div>
+          </div>
+  
+            <div class="testimonial-author">Dr. med. Michal Milczarek, Director Operations, Alab Laboratories, Poland</div>
+      
+</article>
+
+
+    </div>
+  </div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+      </div>
+
+          </div>
+    <div class="col-md-6 col-sm-6">
+                <div class="paragraph paragraph--type--image paragraph--view-mode--default">
+          
+            <div>
+<article class="media media-image view-mode-default">
+          <img src="/sites/default/files/images/LogoUPGx_600-800.jpg" width="658" height="800" alt="U-PGX logo short" />
+
+
+
+  </article>
+</div>
+      
+      </div>
+
+                <div class="paragraph paragraph--type--text paragraph--view-mode--default">
+          
+            <div class="text-formatted"><h4>Participation in EU-Projects within Horizon 2020 program</h4>
+<ul class="bullets">
+<li>Ubiquitous Pharmacogenomics (<a href="http://upgx.eu/">U-PGx</a>)</li>
+<li>Genetics Clinic of the Future (GCOF)</li>
+</ul>
+</div>
+      
+      </div>
+
+          </div>
+  </div>
+
+    </div>
+  </section>
+
+    
+  <section class="section-wrap">
+    <div class="container">
+          <div class="paragraph paragraph--type--dynamic-list paragraph--view-mode--default">
+          
+            <div><div id="block-views-blockpartners-slider">
+  
+      <h2>Our Partners</h2>
+    
+      <div class="views-element-container">
+
+<div class="view-partners js-view-dom-id-47850281bdcec7011db82df5a775b80e5b7220759d0dc12f63449a9257c00597 partner-swiper-container">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="swiper-wrapper row">
+          <div class="views-row swiper-slide col-md-4">
+      <a href="https://zfh.bio.logis.de/">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/logo_arztbefund.jpg" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+          <div class="views-row swiper-slide col-md-4">
+      <a href="https://www.dorner.de/de/">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/object684205118_0.png" width="185" height="70" alt="" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+          <div class="views-row swiper-slide col-md-4">
+      <a href="http://gepado.de/en/">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/logo_en.png" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+          <div class="views-row swiper-slide col-md-4">
+      <a href="https://tu-dresden.de/?set_language=en">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/tud-logo.png" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+          <div class="views-row swiper-slide col-md-4">
+      <a href="https://www.telekom-healthcare.com/en">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/IMG_Healthcare-Logo.png" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+          <div class="views-row swiper-slide col-md-4">
+      <a href="https://www.alablaboratoria.pl/">
+  
+            <div><article class="media media-logo view-mode-default">
+          <img src="/sites/default/files/logos/logo.png" />
+
+
+
+  </article>
+</div>
+      
+</a>
+
+    </div>
+  </div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+</div>
+      
+      </div>
+
+
+    </div>
+  </section>
+
+
+  </div>
+
+
+
+  <footer role="contentinfo" class="footer">
+    <div class="container">
+      <div class="row">
+          
+  <div class="col-sm-6 col-xs-12 footer-first clearfix">
+    <nav role="navigation" aria-labelledby="block-navigation-secondary-menu" id="block-navigation-secondary">
+            
+  <h2 class="visually-hidden" id="block-navigation-secondary-menu">Secondary navigation</h2>
+  
+
+        
+              
+              <ul class="inline">
+
+          <li>
+        <a href="/terms-conditions" data-drupal-link-system-path="page/14">Terms &amp; Conditions</a>
+              </li>
+          <li>
+        <a href="/legal-notice" data-drupal-link-system-path="page/15">Legal notice</a>
+              </li>
+          <li>
+        <a href="/disclaimer" data-drupal-link-system-path="page/16">Disclaimer</a>
+              </li>
+    
+    </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <nav role="navigation" aria-labelledby="block-social-menu" id="block-social" class="footer-socials clearfix">
+            
+  <h2 class="visually-hidden" id="block-social-menu">Social links</h2>
+  
+
+        
+              
+              <ul class="inline">
+
+          <li>
+        <a href="https://www.linkedin.com/company-beta/1679997/">
+<i class="fa fa-linkedin"></i></a>
+              </li>
+          <li>
+        <a href="https://www.xing.com/companies/bio.logisgeneticinformationmanagementgmbh">
+<i class="fa fa-xing"></i></a>
+              </li>
+    
+    </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+    </div>
+  </footer>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"page\/7","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","user":{"uid":0,"permissionsHash":"15e226cfab71d720092a358ef8f3c77e27f81cefab783220487ba22573342821"}}</script>
+<script src="/sites/default/files/js/js_SSfMfrN0ny_Yh_AkOdlg6Wcyrg1TzshYUiHZ5pQ8z6o.js"></script>
+
+  </body>
+</html>

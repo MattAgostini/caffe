@@ -1,0 +1,2094 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en-US">
+    <head>
+            
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>
+    Centennial Museum and Chihuahuan Desert Gardens
+</title>
+
+
+<link href="//cdn.utep.edu/images/favicon.ico" rel="icon" type="image/x-icon"/>
+<!-- CSS -->
+<link href="../_colleges-cascade-files/css/bootstrap.css" rel="stylesheet"/>
+<link href="../_colleges-cascade-files/css/styles.css" rel="stylesheet"/>
+<link href="../_colleges-cascade-files/css/sidr-2.2.1/jquery.sidr.bare.css" rel="stylesheet"/>
+<!-- Typography -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800,700,600" rel="stylesheet" type="text/css"/>
+<link href="https://cloud.typography.com/6793094/7122152/css/fonts.css" rel="stylesheet" type="text/css"/>
+<!-- JS -->
+<script src="//cdn.utep.edu/scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+
+
+
+        
+        
+                           
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-103573894-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+    </head>
+    <body>
+        <div id="fb-root"></div>
+<script type="text/javascript">
+// <![CDATA[
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+// ]]>
+</script>
+        <span role="contentinfo">
+            <a class="sr-only sr-only-focusable" href="#mainContentArea" id="skippy">
+                <span class="container" style="display:block;">
+                    <span class="skiplink-text">Skip to main content</span>
+                </span>
+            </a>
+        </span>
+        <div class="hidden UC-alertMessage" id="UC-alertMessage" role="contentinfo">
+     <div class="alertBg">
+         <div class="col-md-3 col-xs-3">
+             <p class="h3">Miner Alert</p>
+         </div>
+        <div class="col-md-offset-3 col-md-9 col-xs-offset-3 col-xs-9">
+             <p id="alert-message"></p>
+        </div>
+    </div>
+</div>
+        <div id="sidr-container">
+            <div class="sticky-wrapper">
+                <nav class="navbar navbar-default utep-nav utepHeader affix" id="header">
+                    <div class="bodyBg"></div>
+                    <div class="container headerContainer">
+                        <div class="hidden-below-1365" id="search-bar">
+                            <form action="https://my.utep.edu/Search?" id="myutep-search" role="search" style="display: none;">
+                                <div class="container">
+                                    <input autocomplete="off" id="search-query" name="q" type="search"/>
+                                    <label for="search-query" id="search-query-label">Search pages and people</label>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="UTEP-Branding">
+                            <a class="UTEP-Logo" href="https://www.utep.edu/">
+                                <img alt="UTEP" src="../_colleges-cascade-files/images/UTEP.png" title="UTEP"/>
+                            </a>
+                            <div class="navbar-header">
+                                <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                            <!-- /navbar-header -->
+                        </div>
+                        <!-- /UTEP-Branding -->
+                        <div class="navbarCollapseContainer">
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                <div class="hidden-above-1365">
+                                    <form action="https://my.utep.edu/Search?" id="myutep-search-mobile" role="search">
+                                        <div class="search-container">
+                                            <input autocomplete="off" class="form-control" id="search-query-mobile" name="q" type="search"/>
+                                            <label for="search-query-mobile">Search</label>
+                                        </div>
+                                    </form>
+                                </div>
+                                
+
+
+
+
+
+
+
+
+<ul class="nav navbar-nav">
+
+
+    <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"> 
+    Centennial Museum
+ <span class="caret"></span></a>
+    
+
+    <div class="ddWrapper">
+        
+                            <ul class="dropdown-menu">
+        
+       
+        
+        <li>
+      
+                   <a href="museum/index.html">            Museum History
+    </a>
+                </li>
+        
+                        
+         
+        
+                
+       
+        
+        <li>
+      
+                   <a href="museum/exhibits.html">            Museum Exhibits
+    </a>
+                </li>
+        
+                        
+         
+        
+                
+       
+        
+        <li>
+      
+                   <a href="museum/cultural-history.html">            Cultural History
+    </a>
+                </li>
+        
+                        
+         
+        
+                
+       
+        
+        <li>
+      
+                   <a href="museum/natural-history.html">            Natural History
+    </a>
+                </li>
+        
+                         </ul>
+                
+         
+        </div>           
+
+
+    </li>
+    <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"> 
+    Chihuahuan Desert Gardens
+ <span class="caret"></span></a>
+    
+
+    <div class="ddWrapper">
+        
+                            <ul class="dropdown-menu">
+        
+       
+        
+        <li>
+      
+                   <a href="chihuahuan-desert-gardens/index.html">            Chihuahuan Desert Gardens
+    </a>
+                </li>
+        
+                        
+         
+        
+                
+       
+        
+        <li>
+      
+                   <a href="chihuahuan-desert-gardens/resources.html">            Resources
+    </a>
+                </li>
+        
+                         </ul>
+                
+         
+        </div>           
+
+
+    </li>
+    <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"> 
+    Lhakhang
+ <span class="caret"></span></a>
+    
+
+    <div class="ddWrapper">
+        
+                            <ul class="dropdown-menu">
+        
+       
+        
+        <li>
+      
+                   <a href="lhakhang/index.html">            The Lhakhang
+    </a>
+                </li>
+        
+                         </ul>
+                
+         
+        </div>           
+
+
+    </li>
+    <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"> 
+    Education
+ <span class="caret"></span></a>
+    
+
+    <div class="ddWrapper">
+        
+                            <ul class="dropdown-menu">
+        
+       
+        
+        <li>
+      
+                   <a href="education/index.html">            Educational Programs
+    </a>
+                </li>
+        
+                        
+         
+        
+                
+       
+        
+        <li>
+      
+                   <a href="education/resources.html">            Resources
+    </a>
+                </li>
+        
+                         </ul>
+                
+         
+        </div>           
+
+
+    </li>
+    <li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"> 
+    People
+ <span class="caret"></span></a>
+    
+
+    <div class="ddWrapper">
+        
+                            <ul class="dropdown-menu">
+        
+       
+        
+        <li>
+      
+                   <a href="people/people.html">            Staff
+    </a>
+                </li>
+        
+                         </ul>
+                
+         
+        </div>           
+
+
+    </li>
+</ul>
+                                <ul class="nav navbar-nav navbar-right">
+    <li class="hidden-below-1365">
+        <a href="#" id="search-trigger" title="Search pages and people"><span aria-hidden="true" class="glyphicon glyphicon-search"></span></a>
+    </li>
+    <li class="myUTEPLink">
+        <!-- <span aria-hidden="true" class="glyphicon glyphicon-search"></span> -->
+        <a href="http://my.utep.edu">My UTEP</a>
+    </li>
+    <li class="dropdown resourcesForLinks">
+        <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle hidden-below-1365" data-toggle="dropdown" href="#" role="button">Resources for <span class="caret"></span></a>
+        <p class="hidden-above-1365 infoFor">INFORMATION FOR:</p>
+        <div class="ddWrapper">
+        <ul class="dropdown-menu">
+            <li>
+                <a href="/resources/students.html">Students</a>
+            </li>
+            <li>
+                <a href="/resources/faculty-and-staff.html">Faculty &amp; Staff</a>
+            </li>
+            <li>
+                <a href="http://alumni.utep.edu/">Alumni</a>
+            </li>
+            <li>
+                <a href="http://alumni.utep.edu/page.aspx?pid=1255">Parents</a>
+            </li>
+        </ul>
+        </div>
+    </li>
+    <li class="hidden-below-1365">
+        <a href="#" id="simple-menu">Quick Links 
+            <span class="quickLinksArrow"></span>
+        </a>
+    </li>
+</ul>
+
+<!-- Fix iphone 5 menu UC-79 */ -->
+<br class="visible-xs"/>
+<br class="visible-xs"/>
+<!-- END Fix iphone 5 menu UC-79 */ -->
+<br class="hidden-above-1365"/>
+                                <div class="sidr right" id="sidr">
+            <button aria-label="Close" class="close close-sidr" data-dismiss="modal" type="button">
+                <span aria-hidden="true">X</span>
+            </button>
+            <h3>Quick Links</h3>
+            <hr class="stroke"/>
+            <ul class="menu">
+                <li>
+                    <a href="http://libraryweb.utep.edu/">Library</a>
+                </li>
+                <li>
+                    <a href="http://admin.utep.edu/Default.aspx?tabid=50621">Parking &amp; Maps</a>
+                </li>
+                <li>
+                    <a href="http://news.utep.edu/">UTEP News</a>
+                </li>
+                <li>
+                    <a href="http://studentlife.utep.edu/">Student Life</a>
+                </li>
+                <li>
+                    <a href="http://admin.utep.edu/Default.aspx?tabid=73912">Employment</a>
+                </li>
+                <li>
+			        <a href="http://www.utepbookstore.com">University Bookstore</a>
+		        </li>
+            </ul>
+        </div>
+                            </div>
+                            <!-- /.navbar-collapse -->
+                        </div>
+                        <!-- /.container-fluid -->
+                        
+                        
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+    <div class="collegeHeading">
+        <h1 role="banner"><a href="/centennial-museum ">Centennial Museum and Gardens
+</a></h1>
+    </div>
+    
+
+
+
+                    </div>
+                    <!-- /container -->
+                </nav>
+            </div>
+            <div class="container" id="container">
+                <div id="mainContentArea" role="contentinfo" tabindex="0">Main Content</div>
+                <div class="col-md-12 visible-sm visible-xs" role="navigation">
+                    
+
+
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <ul class="breadcrumb">
+            <li><a href="http://utep.edu">UTEP</a></li>
+            
+            
+                         <li><a href="/centennial-museum     ">            Centennial Museum and Gardens
+    </a></li>
+                
+        </ul>
+    </div>
+</div>
+                </div>
+                
+
+
+
+
+
+
+
+
+
+<!-- <div style="margin-top:90px;" class="visible-sm">  </div> -->
+ 
+ <div class="container">
+    <div class="carousel slide" data-ride="carousel" id="carrousel">
+    <div class="carrousel-wrapper">
+    <ol class="carousel-indicators sr-only">
+                                     <li class="active" data-slide-to="0" data-target="#carousel"></li>
+                                                <li data-slide-to="1" data-target="#carousel"></li>
+                                                <li data-slide-to="2" data-target="#carousel"></li>
+                        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+        
+        
+                      
+                            
+                               
+                            
+                                    <div class="item active">
+                                        
+            <div class="video-wrapper">
+                <img alt="A Closer Look at the Region's Desert Life and Culture " src="_Files/images/museum/museum_home.jpg"/>
+                
+               <div class="container visible-lg visible-md">
+                    <div class="carousel-caption">
+                        <h1>A Closer Look at the Region's Desert Life and Culture
+</h1>
+                        <a aria-hidden="true" class="btn btn-large btn-default" href="museum/index.html">LEARN MORE</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+          
+                              
+                            
+                               
+                            
+                                    <div class="item">
+                                         
+            <div class="video-wrapper">
+                <img alt="Explore the Chihuahuan Desert Region " src="_Files/images/gardens/gardens_home.jpg"/>
+                
+               <div class="container visible-lg visible-md">
+                    <div class="carousel-caption">
+                        <h1>Explore the Chihuahuan Desert Region
+</h1>
+                        <a aria-hidden="true" class="btn btn-large btn-default" href="chihuahuan-desert-gardens/index.html">LEARN MORE</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+          
+                              
+                            
+                               
+                            
+                                    <div class="item">
+                                         
+            <div class="video-wrapper">
+                <img alt="The Lhakhang: A Bhutanese Cultural Exhibit " src="_Files/images/lhakhang/lhakhang_home.jpg"/>
+                
+               <div class="container visible-lg visible-md">
+                    <div class="carousel-caption">
+                        <h1>The Lhakhang: A Bhutanese Cultural Exhibit
+</h1>
+                        <a aria-hidden="true" class="btn btn-large btn-default" href="lhakhang/index.html">LEARN MORE</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+          
+                                
+  
+            
+        </div>
+
+                  <!-- Left and right controls -->
+        <a class="left carousel-control" data-slide="prev" href="#carrousel" role="button">
+            <span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" data-slide="next" href="#carrousel" role="button">
+            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+        </a>
+        </div>
+        <div class="slide-transfer hidden-md hidden-lg visible-sm visible-xs">
+            <div class="add-text"></div>
+        </div>
+    </div>
+    
+    
+
+
+</div>
+
+                <div class="container" role="main">
+                    <div class="flexBoxWrapper">
+                        <div class="col-md-9 col-md-push-3 rightSidebar">
+                            <div class="visible-md visible-lg">
+                                
+
+
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <ul class="breadcrumb">
+            <li><a href="http://utep.edu">UTEP</a></li>
+            
+            
+                         <li><a href="/centennial-museum     ">            Centennial Museum and Gardens
+    </a></li>
+                
+        </ul>
+    </div>
+</div>
+                            </div>
+                            <div class="main-content">
+                                
+
+
+
+
+
+
+
+
+    
+                                    <H1>Centennial Museum and Chihuahuan Desert Gardens
+</H1>
+                               <div class="stroke" style="width:10%;"></div>
+        <br/>
+        
+        
+            <p>The El Paso Centennial Museum was built to celebrate the anniversary of Texas independence, making it the oldest museum in El Paso. Permanent exhibits in the museum focus on the natural and cultural history of the Chihuahuan Desert region, the largest desert in North America, and the ties of friendship that exist between the University and Bhutan can be seen in its surroundings.</p>
+<p>The Centennial Museum and Gardens sponsor such events as lectures/talks, collaborative exhibits with other museums on campus or in El Paso and FloraFEST.</p>
+<div class="row hl-container">
+<div class="col-sm-6 col-md-4">
+<div class="hl-ext"><a href="/centennial-museum/museum/index.html"> <img src="_Files/images/centennialmuseum_h.png"/> </a>
+<div class="hl-int">
+<h3>The Museum</h3>
+<p>The oldest museum in El Paso is part of the University of Texas at El Paso, and also serves the binational community of the Chihuahuan Desert region.</p>
+<a href="/centennial-museum/museum/index.html">Read More </a></div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4">
+<div class="hl-ext"><a href="/centennial-museum/chihuahuan-desert-gardens/index.html"> <img src="_Files/images/gardens_h.jpg"/> </a>
+<div class="hl-int">
+<h3>The Gardens</h3>
+<p>A botanical garden dedicated to the flora of the Chihuahuan Desert and adjacent regions in the United States and Mexico.</p>
+<a href="/centennial-museum/chihuahuan-desert-gardens/index.html">Read More </a></div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4">
+<div class="hl-ext"><a href="/centennial-museum/lhakhang/index.html"> <img src="_Files/images/lhakhang_h.jpg"/> </a>
+<div class="hl-int">
+<h3>The Lhakhang</h3>
+<p>The hand-carved and hand-painted lhakhang is a gift from the people of Bhutan to the people of the United States and entrusted to the University&#8217;s care.</p>
+<a href="/centennial-museum/lhakhang/index.html">Read More </a></div>
+</div>
+</div>
+</div>
+<style><!--
+.hl-container {
+  display: flex;
+  flex-flow: row;  
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+.hl-container {
+  flex-flow: column;
+    }
+}
+
+.hl-ext {
+  background: #f8f8f8;;
+  height: 100%;
+  margin-bottom: 15px;
+}
+
+.hl-ext a {
+  text-decoration: none;
+}
+
+.hl-ext a p {
+  text-decoration: none;
+  color: #041b3c;
+}
+
+.hl-int {
+  padding: 0 1em 1em 1em;
+}
+
+.hl-int h3 {
+  margin-bottom: 0;
+}
+
+
+.hl-int p a {
+    color: #337ab7;
+
+}
+--></style>
+<br/><hr/>
+<div class="row">
+<div class="col-md-6">
+<h2>Hours of Operation</h2>
+<div class="stroke" style="width: 20%;"></div>
+<h3>Centennial Museum</h3>
+<ul>
+<li>10 a.m. to 4:30 p.m. Monday&#160;through Saturday.</li>
+<li>Closed Sunday, on holidays and during UTEP Football home games.</li>
+</ul>
+<h3>Chihuahuan Desert Gardens</h3>
+<ul>
+<li>Open daily from dawn to dusk.</li>
+</ul>
+<h3>The Lhakhang</h3>
+<ul>
+<li>Open 11 a.m to 1 p.m. every Wednesday and 1 p.m. to 3 p.m. the first Sunday of every month.</li>
+</ul>
+<h3>Admission</h3>
+<ul>
+<li>Free and open to the public</li>
+<li>Donations help fund various educational programs and exhibits throughout the year.</li>
+</ul>
+<h3>Parking</h3>
+<ul>
+<li>The Museum's free parking lot is located just off University Avenue.</li>
+<li>Additional parking is available at the Sun Bowl Parking Garage.</li>
+</ul>
+</div>
+<div class="col-md-6"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.0441670164128!2d-106.50798288426562!3d31.769281281288016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e7585eafc94b2b%3A0x410e07ea1b1642c1!2sUTEP+Centennial+Museum!5e0!3m2!1sen!2sus!4v1500402077248" style="border: 0;" width="100%"></iframe></div>
+</div>
+<hr/>  
+        
+
+
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    
+
+
+
+
+
+
+
+  
+
+
+
+
+<h2>FEATURED NEWS</h2>
+<div class="stroke"></div>
+<br/>       
+
+            
+        
+          
+                             
+                              <a href="../newsfeed/newsfeed-raise-the-pick-ryan-metz.html">
+            <h3>Raise The Pick: Ryan Metz
+</h3>
+        </a>
+        <p>A Division I athletic scholarship has created a world of opportunities for Ryan Metz at The University of Texas at El Paso, and he expects those opportunities to continue long after graduation.
+</p>
+             
+            
+              
+          
+                
+        
+          
+                             
+                              <a href="../newsfeed/step-foundation-recognition.html">
+            <h3>UTEP Honors Foundation for Investing in Students
+</h3>
+        </a>
+        <p>The University hosted a reception to recognize the Grace Chope Foundation for its contribution of the Grace Chope Memorial Endowed Scholarship to the University Thursday, Sept. 21, 2017. 
+</p>
+             
+                                    
+              
+          
+                
+        
+          
+                             
+                              <a href="../newsfeed/campus/2017-fall-convocation.html">
+            <h3>UTEP's 2017 Fall Convocation Set for Sept. 28
+</h3>
+        </a>
+        <p>University of Texas at El Paso President Diana Natalicio will present the annual State of the University address at the University’s Fall Convocation on Sept. 28.
+</p>
+             
+                        
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                                                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                                      
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                                                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                                      
+              
+          
+                
+        
+          
+                             
+                                                      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                                                                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                              
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                  
+              
+          
+                
+        
+          
+                             
+                                          
+              
+          
+                
+        
+          
+                             
+      
+              
+          
+                
+        
+          
+    
+
+
+
+                                </div>
+                                <div class="col-md-6">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+<h2>STAY CONNECTED</h2>
+<div class="stroke"></div>
+<div class="fb-page" data-adapt-container-width="true" data-hide-cover="false" data-href="https://www.facebook.com/CentennialMuseum/" data-show-facepile="true" data-show-posts="true" data-small-header="false" data-tabs="timeline" width="500"></div>
+                                </div>
+                                <div class="col-md-12">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /col-md-9 -->
+                        <div class="col-md-3 col-md-pull-9 leftSidebar">
+                            <nav>
+                                
+                                
+
+
+<ul class="nav UTEPGlobalIcons">
+
+                
+        <li>
+            <a class="btn btn-primary" href="museum/exhibits.html">Museum Exhibits</a>
+        </li>
+
+    
+    </ul>
+
+
+                            </nav>
+                            
+                            
+
+
+
+
+
+
+
+
+<h2>Connect With Us</h2>
+<div class="right-stroke"></div>
+<p>The University of Texas at El Paso<br/>
+Centennial Museum and Chihuahuan
+<br/>
+ Desert Gardens
+<br/>
+University Avenue &amp; Wiggins Rd
+<br/>
+El Paso, Texas 79968
+ </p>
+
+<p>E: <span><a class="contact-email" href="mailto:museum@utep.edu  ">museum@utep.edu 
+</a></span>
+        <br/>
+    P: (915) 747-5565
+            <br/>
+    F: (915) 747-5411
+    
+</p>
+
+<ul class="nav socialIcons">
+    <li><a class="facebook" href="https://www.facebook.com/CentennialMuseum/ " target="_blank"><img alt="facebook" src="../_colleges-cascade-files/images/facebook.png" title="facebook"/></a></li>
+    <li><a class="twitter" href="https://twitter.com/utepnews " target="_blank"><img alt="twitter" src="../_colleges-cascade-files/images/twitter.png" title="twitter"/></a></li>
+    <li><a class="youtube" href="https://www.youtube.com/user/UTEP " target="_blank"><img alt="youtube" src="../_colleges-cascade-files/images/youTube.png" title="youtube"/></a></li>
+    <li><a class="instagram" href="https://www.instagram.com/centennialmuseum/ " target="_blank"><img alt="instagram" src="../_colleges-cascade-files/images/instagram.png" title="instagram"/></a></li>
+</ul>
+
+
+                        </div>
+                        <!-- /col-md-3 -->
+                    </div>
+                    <!-- /flexBoxWrapper -->
+                </div>
+                <!-- /container -->
+            </div>
+            <!-- /#container -->
+            <footer>
+	<div class="container">
+		<div class="col-md-3 footerLogo">
+			<img alt="UTEP" class="img-responsive" src="../_colleges-cascade-files/images/UTEP-Footer.png" title="UTEP"/>
+		</div>
+		<!-- /col-md-3 -->
+		<div class="col-md-9 requiredLinks">
+			<h2>THE UNIVERSITY OF TEXAS AT EL PASO</h2>
+			<ul>
+				<li>
+					<a href="http://admin.utep.edu/Default.aspx?tabid=59577" target="_blank">Web Accessibility</a>
+				</li>
+				<li>
+					<a href="https://adminapps.utep.edu/emergencynotification/generic/" target="_blank">Campus Alerts</a>
+				</li>
+				<li>
+					<a href="https://www.utep.edu/clery/" target="_blank">Clery Crime Statistics</a>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<a href="http://admin.utep.edu/Default.aspx?tabid=73912" target="_blank">Employment</a>
+				</li>
+				<li>
+					<a href="http://sao.fraud.state.tx.us/" target="_blank">Report Fraud</a>
+				</li>
+				<li>
+					<a href="http://admin.utep.edu/Default.aspx?tabid=54275" target="_blank">Required Links</a>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<a href="http://admin.utep.edu/Default.aspx?tabid=49976" target="_blank">State Reports</a>
+				</li>
+				<li>
+					<a href="http://www.utsystem.edu/" target="_blank">UT System</a>
+				</li>
+				<li>
+					<a href="http://utep.edu/titleix/" target="_blank">TITLE IX</a>
+				</li>
+			</ul>
+			<div class="clearfix"></div>
+			<div>
+				<div class="contact-information-link">500 West University Avenue |</div>
+				<div class="contact-information-link">El Paso, TX 79968 |</div>
+				<div class="contact-information-link">915-747-5000 |</div>
+				<div class="contact-information-link">
+					<a href="http://utep.edu/feedback" target="_blank">SITE FEEDBACK</a>
+				</div>
+			</div>
+		</div>
+		<!-- /col-md-9 -->
+	</div>
+	<!-- /container -->
+</footer>
+        </div>
+        <div class="full-screen modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog" role="contentinfo">
+                <div class="transparent modal-content text-center">
+                    <div class="modal-header">
+                        <button class="close" data-dismiss="modal" type="button">X</button>
+                    </div>
+                    <div class="modal-body">
+                        <iframe frameborder="0" height="400" width="645"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+                
+<script src="../_colleges-cascade-files/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/vendor/modernizr-2.8.3.min.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/sidr-2.2.1/jquery.sidr.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/iphone-inline-video.browser.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/carrousel-autoplay.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/main.js" type="text/javascript"></script>
+<script src="../_colleges-cascade-files/js/paypal/bootstrap-accessibility-plugin/carousel.js" type="text/javascript"></script>
+    </body>
+</html>

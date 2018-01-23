@@ -1,0 +1,751 @@
+
+
+<!DOCTYPE html>
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Consumer Rights &amp; Personal Finance - CCPC</title>
+<meta name="description" content="The CCPC has information and useful tools on consumer rights and personal finance. Check out our latest news and get practical independent information."/>
+<meta name="robots" content="noodp"/>
+<meta name="keywords" content="Consumer rights, consumer protection, financial advice, consumer rights ireland, personal finance, financial product comparison, compare loans, compare mortgages, compare credit cards, compare current accounts, compare banks, compare savings accounts, comparing financial products, faulty goods, financial product information, getting a mortgage, financial advice, financial products, independent financial information, managing your money, faulty products, shopping online, budgeting tools, budgeting calculators, product safety, consumer law, consumer protection law, competition law, mergers, cartels, business regulation, business compliance, enforcement, competition enforcement, selling online, Grocery Regulations, NCA, national consumer agency, Competition Authority, Competition and Consumer Protection Act"/>
+<link rel="canonical" href="https://www.ccpc.ie/consumers/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Consumer Rights &amp; Personal Finance - CCPC" />
+<meta property="og:description" content="The CCPC has information and useful tools on consumer rights and personal finance. Check out our latest news and get practical independent information." />
+<meta property="og:url" content="https://www.ccpc.ie/consumers/" />
+<meta property="og:site_name" content="CCPC Consumers" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="The CCPC has information and useful tools on consumer rights and personal finance. Check out our latest news and get practical independent information." />
+<meta name="twitter:title" content="Consumer Rights &amp; Personal Finance - CCPC" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.ccpc.ie\/consumers\/","name":"CCPC Consumers","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.ccpc.ie\/consumers\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ccpc.ie\/consumers\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ai1ec_style-css'  href='//www.ccpc.ie/consumers/wp-content/plugins/all-in-one-event-calendar/public/themes-ai1ec/vortex/css/ai1ec_parsed_css.css?ver=2.5.19' type='text/css' media='all' />
+<link rel='stylesheet' id='simple_tooltips_style-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/simple-tooltips/zebra_tooltips.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-consent-style-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='mr-frontend-style-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/multi-rating/assets/css/frontend-min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wppb_stylesheet-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css?ver=2.5.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.ccpc.ie/consumers/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ccpc.ie/consumers/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ccpc.ie/consumers/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.ccpc.ie/consumers/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ccpc.ie/consumers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ccpc.ie%2Fconsumers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ccpc.ie/consumers/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ccpc.ie%2Fconsumers%2F&#038;format=xml" />
+<style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #2e4660;
+					position: fixed;
+					left: 0;
+					top: 0;
+					width: 100%;
+					background-color: #e6e6e6;
+				}
+				#catapult-cookie-bar a {
+					color: #2e4660;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #ffffff;
+				}
+				button#catapultCookie {
+					background:#ef4036;
+					color: #ffffff;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #2e4660;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style>			<style type="text/css">
+								.mr-custom-full-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-half-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-empty-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;
+					display: inline-block;
+				}
+				.mr-custom-hover-star {
+					background: url() no-repeat;
+					width: 32px;
+					height: 32px;
+					background-size: 32px 32px;
+					image-rendering: -moz-crisp-edges;		
+					display: inline-block;		
+				}
+				.mr-star-hover {
+					color: #ffba00 !important;
+				}
+				.mr-star-full, .mr-star-half, .mr-star-empty {
+					color: #ffd700;
+				}
+				.mr-error {
+					color: #EC6464;
+				}
+			</style>
+					<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PH2XZH');</script>
+<!-- End Google Tag Manager -->
+
+	<!-- Favicons -->
+    <link rel="icon" type="image/x-icon" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+	
+    <!-- CSS -->
+    <!-- Open Sans Font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/print.css" rel="stylesheet">
+	<!-- Bootstrap Responsive Framework -->
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- Jquery UI -->
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/jquery-ui.min.css" rel="stylesheet">
+    <!-- Font Awesome Icon Library -->
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/style.css" rel="stylesheet">
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/temp.css" rel="stylesheet">
+    <link href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/css/jquery.mmenu.all.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-5 section-home singular two-column right-sidebar">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PH2XZH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+   <div class="top-links">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+            <p class="pull-right"><a href="https://www.ccpc.ie/consumers/" class="consumerhome active">Consumers Home</a> <a href="https://www.ccpc.ie/business" class="businesshome">Business Home</a></p>
+            </div>
+      </div>
+    </div>
+   </div><!-- top-links -->
+
+
+ <div class="navbar navbar-default" role="navigation">
+        <div class="header-top">
+
+    <!-- /mobile-menu -->
+    <a href="#mobile-menu" class="pull-right menu-btn"><img src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/img/menu.png" alt="Menu"></a>
+    
+    <!-- Mobile Menu -->
+    <nav id="mobile-menu">
+    <div class="menu-mobile-container"><ul id="menu-mobile" class="menu"><li id="menu-item-1342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5 current_page_item menu-item-1342"><a href="https://www.ccpc.ie/consumers/">Home</a></li>
+<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1343"><a href="https://www.ccpc.ie/consumers/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4441"><a href="https://www.ccpc.ie/consumers/about/about-us/">About us</a></li>
+	<li id="menu-item-4442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4442"><a href="https://www.ccpc.ie/consumers/about/decide-take-action/">How we decide to take action</a></li>
+	<li id="menu-item-4444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4444"><a href="https://www.ccpc.ie/consumers/about/what-we-do-with-information-you-provide/">What we do with information you provide</a></li>
+	<li id="menu-item-4445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4445"><a href="https://www.ccpc.ie/consumers/about/co-operation/">Co-operation</a></li>
+	<li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="https://www.ccpc.ie/consumers/about/annual-reports/">Annual reports</a></li>
+	<li id="menu-item-5157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5157"><a href="https://www.ccpc.ie/consumers/about/protected-disclosures-annual-reports/">Protected Disclosures Annual Reports</a></li>
+	<li id="menu-item-4446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4446"><a href="https://www.ccpc.ie/consumers/about/strategy-statements/">Strategy Statements</a></li>
+	<li id="menu-item-4447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4447"><a href="https://www.ccpc.ie/consumers/about/customer-service-charter/">Customer Service Charter</a></li>
+	<li id="menu-item-4702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4702"><a href="https://www.ccpc.ie/consumers/about/careers/">Careers</a></li>
+	<li id="menu-item-4448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4448"><a href="https://www.ccpc.ie/consumers/finance-and-payments/">Finance and payments</a></li>
+	<li id="menu-item-4449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4449"><a href="https://www.ccpc.ie/consumers/about/financial-education/">Financial education</a></li>
+	<li id="menu-item-4450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4450"><a href="https://www.ccpc.ie/consumers/about/other-authorities-links/">Other authorities / links</a></li>
+</ul>
+</li>
+<li id="menu-item-1356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1356"><a href="https://www.ccpc.ie/consumers/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-1357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1357"><a href="https://www.ccpc.ie/consumers/contact/contact-us/">Contact Us</a></li>
+	<li id="menu-item-1358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1358"><a href="https://www.ccpc.ie/consumers/contact/contact-us-form/">Contact Us Form</a></li>
+</ul>
+</li>
+<li id="menu-item-1846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1846"><a href="https://www.ccpc.ie/consumers/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1847"><a href="https://www.ccpc.ie/consumers/news/current-news/">Current news</a></li>
+	<li id="menu-item-1849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="https://www.ccpc.ie/consumers/news/news-archive/">News archive</a></li>
+	<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1848"><a href="https://www.ccpc.ie/consumers/news/newsletter-archive/">Newsletter archive</a></li>
+</ul>
+</li>
+<li id="menu-item-1850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1850"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/">Tools and calculators</a>
+<ul class="sub-menu">
+	<li id="menu-item-1851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1851"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/mortgage-calculators/">Mortgage calculators</a></li>
+	<li id="menu-item-1852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1852"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/loan-calculator/">Loan calculator</a></li>
+	<li id="menu-item-1853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1853"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/spending-calculator/">Spending calculator</a></li>
+	<li id="menu-item-1854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/budgeting-calculators/">Budgeting calculators</a></li>
+	<li id="menu-item-1855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1855"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/clearing-your-credit-card-calculator/">Clearing your credit card calculator</a></li>
+</ul>
+</li>
+<li id="menu-item-1856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1856"><a href="https://www.ccpc.ie/consumers/financial-comparisons/">Financial comparisons</a>
+<ul class="sub-menu">
+	<li id="menu-item-1857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1857"><a href="https://www.ccpc.ie/consumers/financial-comparisons/current-account-comparison/">Personal current accounts</a></li>
+	<li id="menu-item-1858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1858"><a href="https://www.ccpc.ie/consumers/financial-comparisons/regular-savings-comparison/">Regular savings</a></li>
+	<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859"><a href="https://www.ccpc.ie/consumers/financial-comparisons/mortgage-comparisons/">Mortgages</a></li>
+	<li id="menu-item-1860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1860"><a href="https://www.ccpc.ie/consumers/financial-comparisons/credit-card-comparisons/">Credit cards</a></li>
+	<li id="menu-item-1861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1861"><a href="https://www.ccpc.ie/consumers/financial-comparisons/lump-sum-deposits-comparison/">Lump sum deposit accounts</a></li>
+	<li id="menu-item-1862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1862"><a href="https://www.ccpc.ie/consumers/financial-comparisons/loan-comparison/">Loans</a></li>
+	<li id="menu-item-1863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1863"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-credit-card-comparison/">Student credit cards</a></li>
+	<li id="menu-item-1864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-loan-comparison/">Student loans</a></li>
+	<li id="menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1865"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-current-account-comparison/">Student current accounts</a></li>
+</ul>
+</li>
+<li id="menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1866"><a href="https://www.ccpc.ie/consumers/product-safety/">Product safety</a>
+<ul class="sub-menu">
+	<li id="menu-item-1867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1867"><a href="https://www.ccpc.ie/consumers/product-safety/product-recalls/">Product recalls</a></li>
+	<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="https://www.ccpc.ie/consumers/product-safety/child-safety/">Child safety</a></li>
+	<li id="menu-item-1869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869"><a href="https://www.ccpc.ie/consumers/product-safety/hoverboards/">Hoverboards</a></li>
+	<li id="menu-item-1870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870"><a href="https://www.ccpc.ie/consumers/product-safety/gas-electrical-appliance-safety/">Gas and electrical appliance safety</a></li>
+	<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1871"><a href="https://www.ccpc.ie/consumers/product-safety/furniture/">Furniture</a></li>
+	<li id="menu-item-1872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1872"><a href="https://www.ccpc.ie/consumers/product-safety/safety-tips-halloween/">Safety tips for Halloween</a></li>
+	<li id="menu-item-1873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1873"><a href="https://www.ccpc.ie/consumers/product-safety/safety-tips-christmas/">Safety tips for Christmas</a></li>
+	<li id="menu-item-1874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="https://www.ccpc.ie/consumers/product-safety/banned-products/">Banned products</a></li>
+</ul>
+</li>
+<li id="menu-item-4749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4749"><a href="tel:+1890432432">Helpline Lo-call: <strong>1890 432 432</strong></a></li>
+<li id="menu-item-4750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4750"><a href="tel:+014025555">Helpline National: <strong>01 402 5555</strong></a></li>
+</ul></div>    </nav>
+
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <a class="logo" href="https://www.ccpc.ie/consumers/"><img src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/img/ccpc_logo-inner.png" alt="CCPC Logo"></a>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+
+                  	<!--
+	<form method="get" id="searchform" action="https://www.ccpc.ie/consumers/search-results">
+		<label for="q" class="assistive-text">Search</label>
+		<input type="text" class="search-input" name="q" id="s" placeholder="Search"  />
+		<button type="submit" id="search-icon" class="btn btn-success"><i class="fa fa-search"></i></button>
+	</form>
+	-->
+	<form method="get" id="searchform" action="https://www.ccpc.ie/consumers/search-results">
+		<label for="q" class="assistive-text">Search</label>
+		<input type="text" class="search-input search-input-top" name="q" id="s" placeholder="Search"  />
+		<button type="submit" id="search-icon" class="btn btn-success btn-success-top"><i class="fa fa-search"></i></button>
+		<p id="validation-msg-top" style="color:red" hidden><em>Please enter a search term.</em></p>
+	</form>
+
+<script>
+jQuery(".btn-success-top").click(function(event){
+	var elements = document.getElementsByClassName('search-input-top');
+	var requiredElement = elements[0].value;
+	if(requiredElement == 'I am looking for...'){
+		jQuery('#validation-msg-top').fadeIn();
+		event.preventDefault();
+	}else{
+		jQuery('#validation-msg').fadeOut();
+	}
+});
+
+jQuery(".search-input-top").focus(function(){
+	jQuery('#validation-msg-top').fadeOut();
+});
+</script>
+
+                        <div class="helpline">
+                            <p><em>Helpline Lo-call: <strong><a href="tel:1890432432">1890 432 432</a></strong></em> <span>|</span> <em>Helpline National: <strong><a href="tel:+35314025555">01 402 5555</a></strong></em></p>                        
+                            </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- Navigation -->
+
+            <div class="header-nav">
+                <div class="container">
+
+             <ul class="nav nav-pills" id="mainMenu"><li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-170"><a href="https://www.ccpc.ie/consumers/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-4040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4040"><a href="https://www.ccpc.ie/consumers/about/about-us/">About us</a></li>
+	<li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3693"><a href="https://www.ccpc.ie/consumers/about/decide-take-action/">How we decide to take action</a></li>
+	<li id="menu-item-3712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3712"><a href="https://www.ccpc.ie/consumers/what-we-do-with-information-you-provide/">What we do with information you provide</a></li>
+	<li id="menu-item-3711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3711"><a href="https://www.ccpc.ie/consumers/about/co-operation/">Co-operation</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://www.ccpc.ie/consumers/about/annual-reports/">Annual reports</a></li>
+	<li id="menu-item-5155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5155"><a href="https://www.ccpc.ie/consumers/about/protected-disclosures-annual-reports/">Protected Disclosures Annual Reports</a></li>
+	<li id="menu-item-4047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4047"><a href="https://www.ccpc.ie/consumers/about/strategy-statements/">Strategy Statements</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://www.ccpc.ie/consumers/about/customer-service-charter/">Customer Service Charter</a></li>
+	<li id="menu-item-4490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4490"><a href="https://www.ccpc.ie/consumers/about/careers/">Careers</a></li>
+	<li id="menu-item-4048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4048"><a href="https://www.ccpc.ie/consumers/about/finance-and-payments/">Finance and payments</a></li>
+	<li id="menu-item-4049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4049"><a href="https://www.ccpc.ie/consumers/freedom-of-information/">Freedom of Information</a></li>
+	<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://www.ccpc.ie/consumers/about/financial-education/">Financial education</a></li>
+	<li id="menu-item-4046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4046"><a href="https://www.ccpc.ie/consumers/about/other-authorities-links/">Other authorities / links</a></li>
+</ul>
+</li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91"><a href="https://www.ccpc.ie/consumers/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://www.ccpc.ie/consumers/contact/contact-us/">Contact us</a></li>
+	<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://www.ccpc.ie/consumers/contact/contact-us-form/">Contact us form</a></li>
+</ul>
+</li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-92"><a href="https://www.ccpc.ie/consumers/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-877"><a href="https://www.ccpc.ie/consumers/news/current-news/">Current news</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://www.ccpc.ie/consumers/news/news-archive/">News archive</a></li>
+	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://www.ccpc.ie/consumers/news/newsletter-archive/">Newsletter archive</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-93"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/">Tools and calculators</a>
+<ul class="sub-menu">
+	<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/mortgage-calculators/">Mortgage calculators</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/loan-calculator/">Loan calculator</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/spending-calculator/">Spending calculator</a></li>
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/budgeting-calculators/">Budgeting calculators</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.ccpc.ie/consumers/tools-and-calculators/clearing-your-credit-card-calculator/">Clearing your credit card calculator</a></li>
+</ul>
+</li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94"><a href="https://www.ccpc.ie/consumers/financial-comparisons/">Financial comparisons</a>
+<ul class="sub-menu">
+	<li id="menu-item-252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252"><a href="https://www.ccpc.ie/consumers/financial-comparisons/current-account-comparison/">Personal current accounts</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://www.ccpc.ie/consumers/financial-comparisons/regular-savings-comparison/">Regular savings</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="https://www.ccpc.ie/consumers/financial-comparisons/mortgage-comparisons/">Mortgages</a></li>
+	<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://www.ccpc.ie/consumers/financial-comparisons/credit-card-comparisons/">Credit cards</a></li>
+	<li id="menu-item-256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://www.ccpc.ie/consumers/financial-comparisons/lump-sum-deposits-comparison/">Lump sum deposit accounts</a></li>
+	<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="https://www.ccpc.ie/consumers/financial-comparisons/loan-comparison/">Loans</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-credit-card-comparison/">Student credit cards</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-loan-comparison/">Student loans</a></li>
+	<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="https://www.ccpc.ie/consumers/financial-comparisons/student-current-account-comparison/">Student current accounts</a></li>
+</ul>
+</li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-95"><a href="https://www.ccpc.ie/consumers/product-safety/">Product safety</a>
+<ul class="sub-menu">
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://www.ccpc.ie/consumers/product-safety/product-recalls/">Product recalls</a></li>
+	<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://www.ccpc.ie/consumers/product-safety/child-safety/">Child safety</a></li>
+	<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://www.ccpc.ie/consumers/product-safety/hoverboards/">Hoverboards</a></li>
+	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="https://www.ccpc.ie/consumers/product-safety/gas-electrical-appliance-safety/">Gas and electrical appliance safety</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-265"><a href="https://www.ccpc.ie/consumers/product-safety/furniture/">Furniture</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="https://www.ccpc.ie/consumers/product-safety/safety-tips-halloween/">Safety tips for Halloween</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="https://www.ccpc.ie/consumers/product-safety/safety-tips-christmas/">Safety tips for Christmas</a></li>
+	<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://www.ccpc.ie/consumers/product-safety/banned-products/">Banned products</a></li>
+</ul>
+</li>
+</ul>
+                </div>  
+           
+            </div><!-- header-nav -->
+
+
+
+<div class="main-content">
+
+        <!-- Home banner -->
+        <div class="home-banner">
+            <div class="container">
+                <div class="search-area">
+
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <h1>Independent Information for Consumers</h1>
+<p>Learn more about your consumer rights, managing your money and what to do if things go wrong</p>
+                        </div>
+                    </div><!-- /Row -->
+
+                    <div class="row">
+                        <div class="col-md-2 col-sm-2">
+                        </div>
+                        <div class="col-md-8 col-sm-8 pr0">
+                            <!--
+							<form method="get" id="searchform" action="https://www.ccpc.ie/consumers/search-results">
+                                <input type="text" class="form-control" name="q" id="s" placeholder="Search"  />
+                                <button type="submit" id="search-icon">Search</button>
+                            </form>
+							-->
+							<form method="get" id="searchform" action="https://www.ccpc.ie/consumers/search-results">
+                                <input type="text" class="form-control search-input-bottom" name="q" id="s" placeholder="Search"  />
+                                <button type="submit" id="search-icon" class="btn-success-bottom">Search</button>
+								<p id="validation-msg-bottom" style="text-align:left;margin-left:15px;" hidden><em>Please enter a search term.</em></p>
+                            </form>
+                        </div>
+                        <div class="col-md-2 col-sm-2">
+                        </div>
+                    </div><!-- /Row -->
+
+                </div><!-- /search-area -->
+            </div><!-- /container -->
+        </div><!-- /Home Banner -->
+        
+        <div class="container"><!-- Quick Links -->
+
+            <div class="quick-links">
+
+            <div class="row">
+                <div class="col-md-12">
+                    <h2><strong>Quick</strong> Links</h2>
+                </div>
+            </div><!-- /row -->
+
+            <div class="row">
+                <div class="col-md-4 quick one">
+                    <p><a href="https://www.ccpc.ie/consumers/money/"><img src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-one.png" /><img src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/03/quicklink-one-hover.png" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/money/">Money</a></h3>
+                </div>
+                <div class="col-md-4 quick two">
+                    <p><a href="https://www.ccpc.ie/consumers/financial-comparisons/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-eight.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-eight-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/financial-comparisons/">Financial Comparisons</a></h3>
+                </div>
+                <div class="col-md-4 quick three">
+                    <p><a href="https://www.ccpc.ie/consumers/cars/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-three.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-three-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/cars/">Cars</a></h3>
+                </div>
+            </div><!-- /row -->
+
+            <div class="row mt20">
+                <div class="col-md-4 quick four">
+                    <p><a href="https://www.ccpc.ie/consumers/housing/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-six.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-six-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/housing/">Housing</a></h3>
+                </div>
+                <div class="col-md-4 quick five">
+                    <p><a href="https://www.ccpc.ie/consumers/tools-and-calculators/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-seven.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-seven-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/tools-and-calculators/">Tools &amp; Calculators</a></h3>
+                </div>
+                <div class="col-md-4 quick six">
+                    <p><a href="https://www.ccpc.ie/consumers/shopping/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-four.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-four-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/shopping/">Shopping</a></h3>
+                </div>
+            </div><!-- /row -->
+
+            <div class="row mt20">
+                <div class="col-md-4 quick seven">
+                    <p><a href="https://www.ccpc.ie/consumers/contracts-and-services/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-five.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-five-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/contracts-and-services/">Contracts &amp; Services</a></h3>
+                </div>
+                <div class="col-md-4 quick eight">
+                    <p><a href="https://www.ccpc.ie/consumers/how-to-complain/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-two.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-two-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/how-to-complain/">How to Complain</a></h3>
+                </div>
+                <div class="col-md-4 quick nine">
+                     <p><a href="https://www.ccpc.ie/consumers/travel/"><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklinks-nine.png" alt="" width="130" height="125" /><img class="alignnone size-full wp-image-281" src="https://www.ccpc.ie/consumers/wp-content/uploads/sites/2/2017/01/quicklink-nine-hover.png" alt="" width="130" height="125" /></a></p>
+<h3><a href="https://www.ccpc.ie/consumers/travel/">Travel</a></h3>
+</div>
+            </div><!-- /row -->
+
+            </div><!-- /Quick Links -->
+
+        </div><!-- /Container -->
+
+<!-- Homepage Features -->
+<div class="homepage-features">
+    <div class="container">
+        <div class="row">
+
+                <div class="col-md-6 col-sm-12 col-xs-12">
+
+                <div class="whats-new">
+                <h4><a href="https://www.ccpc.ie/consumers/news/current-news/">What's <strong>New?</strong></a></h4>
+
+                    
+    
+              
+                    <div class="col-md-6 col-sm-12 col-xs-12 post">
+
+                        <article>
+                            <h5><a href="https://www.ccpc.ie/consumers/2017/11/21/confident-shopping-online-black-friday/">Be confident shopping online on Black Friday</a></h5>
+                            <p>Are you counting down to Black Friday? As well as researching the deals that are on offer it is important that you know your rights as well. Our consumer helpline sees an increase in queries about online shopping during November,...</p>
+                            <p class="date">21/11/2017</p>
+                        </article>
+
+                         </div>
+
+                         
+                    <div class="col-md-6 col-sm-12 col-xs-12 post">
+
+                        <article>
+                            <h5><a href="https://www.ccpc.ie/consumers/2017/11/02/five-ways-control-christmas-costs/">Five ways to control Christmas costs</a></h5>
+                            <p>With Christmas fast approaching now is the time to plan your spending so you can get great gifts for family and friends that won’t break the bank. Begin with a festive budget It won’t get you in the party mood...</p>
+                            <p class="date">02/11/2017</p>
+                        </article>
+
+                         </div>
+
+                                                  
+
+                        <div class="clear"></div>
+
+                        </div><!-- /whats-new -->
+
+                    </div><!-- /col-md-6 -->
+    
+            <div class="mailing-fb-wrapper">
+
+                <div class="col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="mailing">
+                        <h4>Join our <strong>Mailing List</strong></h4>
+                        <p>Sign up to receive information on consumer rights, managing your money and/or product recalls</p>
+                        <a href="https://www.ccpc.ie/consumers/news/newsletter-mailing-list/" class="btn btn-ghost">Join Now</a>
+                    </div><!-- /mailing -->
+
+                    <div class="facebook">
+                        <h4><a target="_blank" href="https://www.facebook.com/CCPC.ie/"><i class="fa fa-facebook"></i></a></h4>
+                        <div class = "wff-feed-wrapper"><div id = "wff-id"><div style="#434343;" class = "wff-fb-item wff-fb-item-link" id =131595511841_10156108760121842><div class = "wff-author-wrapper"><a class="wff-link-tab" href =https://facebook.com/CCPC.ie target="_blank" ><div class = "wff-fb-author-data"  ><div class="wff-row">
+				<div class="wff-facebook-feed-image-div"><div class = "wff-author-image"><img style="#434343;" src = https://graph.facebook.com/131595511841/picture?type=square></div></div>
+				<div class="wff-facebook-feed-title-div"><div class = "wff-author-name"><p style="color:#434343;" >CCPC</p><p class = "wff-date">posted 3 days ago</p></div></div>
+				</div></div><div class="cleafix"></div></a></div><p class = "wff-post-text"  style="  " >We are issuing our November newsletter tomorrow! Sign up now for useful info on topics like recent product recalls, buying online, Christmas budgeting and lots more. 📩</p><div class = "wff-shared-link-wrapper"><p class = "wff-link-title"  style="  " ><a class="wff-link-tab" target = "_blank" href =https://www.ccpc.ie/consumers/news/newsletter-mailing-list/>Newsletter - CCPC Consumers</a></p><p class = "wff-post-description"  style="  " >The Competition and Consumer Protection Commission is an independent statutory body that enforces competition and consumer protection law in Ireland</p><a class="wff-link-tab" href=https://www.ccpc.ie/consumers/news/newsletter-mailing-list/ target="_blank" >ccpc.ie</a></div><div class = "wff-view-on-facebook"><a class="wff-link-tab" href = https://facebook.com/CCPC.ie/posts/10156108760121842 target = "_blank">View on Facebook</a></div></div></div></div>                    </div><!-- /facebook -->
+
+                </div><!-- /col-md-6 -->
+
+            </div><!-- /mailing-fb-wrapper -->
+
+        </div><!-- /row -->
+     </div><!-- /container -->
+  </div><!-- /Homepage Features -->
+
+    </div><!-- /Main-Content -->
+
+
+
+    <!-- Footer -->
+    <div class="footer-wrapper">
+
+     <a href="#" class="scrollup">Scroll</a>
+     
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <a href="https://www.ccpc.ie/"><img class="footer-logo" src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/img/footer-logo.png" alt="Footer Logo"></a>
+                    </div>
+
+                    <div class="col-md-4 text">
+                        <p>Competition and Consumer Protection Commission</p>
+                        <p>PO Box 12585, Dublin 1, D01 C576 </p>
+                        <p>Tel +353 (1) 402 5500 </p>  
+                        <p>Consumer helpline 1890 432 432</p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h5>Useful Information</h5>
+
+                        <div class="col-md-6">
+                        <ul class="footer-menu"><li id="menu-item-4264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4264"><a href="https://www.ccpc.ie/consumers/legal/">Legal</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://www.ccpc.ie/consumers/accessibility/">Accessibility</a></li>
+<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="https://www.ccpc.ie/consumers/sitemap/">Sitemap</a></li>
+</ul>                        </div><!-- /col-6 -->
+
+                        <div class="col-md-6">
+                        <ul class="footer-menu"><li id="menu-item-4240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4240"><a href="https://www.ccpc.ie/consumers/freedom-of-information/">FOI</a></li>
+<li id="menu-item-4241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4241"><a href="https://www.ccpc.ie/consumers/privacy/">Privacy</a></li>
+</ul>                        </div><!-- /col-6 -->
+
+                        <div class="social-links">
+                            <a target="_blank" href="https://www.facebook.com/CCPC.ie/" class="social"><i class="fa fa-facebook-square"></i></a>
+                            <a target="_blank" href="https://twitter.com/CCPCIreland" class="social"><i class="fa fa-twitter-square"></i></a>
+                            <a target="_blank" href="https://www.linkedin.com/company/competition-and-consumer-protection-commission" class="social"><i class="fa fa-linkedin-square"></i></a>
+                        </div>
+
+                  </div><!-- /col-4 -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Footer -->
+
+    <!-- JQuery -->
+    <script src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/js/jquery.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/js/bootstrap.min.js"></script>
+    <!-- Custom -->
+    <script src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/js/jquery.mmenu.min.all.js"></script>
+    <script src="https://www.ccpc.ie/consumers/wp-content/themes/ccpc-consumers/js/home.js"></script>
+
+
+<!-- Popup Modal -->
+ 
+<div class="welcome modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button id="modal-close-button" type="button" onclick="__gaTracker('send', 'event', 'close-button-popup', 'http://www.ccpc.ie/consumers/', 'Close Button Popup');" class="close" data-dismiss="modal" aria-hidden="true">×<br/><span></span></button>
+        <h4 class="modal-title" id="myModalLabel">Newsletter</h4>
+        <h5>Sign up for our newsletter!</h5>
+        <h5>Get regular updates and tips on your rights, how to complain, managing your money and unsafe products</h5>
+      </div>
+      <div class="modal-body">
+
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+
+<form id="subForm" action="http://competitionandconsumerprotectioncommission.createsend.com/t/i/s/clrldd/" method="post">
+<label for="fieldEmail">Sign up:</label><br/>
+<input id="fieldEmail" class="input" name="cm-clrldd-clrldd" required="" type="email" placeholder="Your email address" /><br/><br/>
+
+<label>What are you most interested in? Let us know if you would like additional information on:</label><br/>
+<input id="fieldzjiuku-0" class="check" name="cm-fo-zjiuku" type="checkbox" value="865506" /> <label for="fieldzjiuku-0">Consumer rights</label><br/>
+<input id="fieldzjiuku-1" class="check" name="cm-fo-zjiuku" type="checkbox" value="865507" /> <label for="fieldzjiuku-1">Personal finance</label><br/>
+<input id="fieldzjiuku-2" class="check" name="cm-fo-zjiuku" type="checkbox" value="865508" /> <label for="fieldzjiuku-2">Product recalls</label><br/><br/>
+
+<button type="submit">Sign Up</button>
+
+</form>
+</div>
+
+ </div>
+      <div class="modal-footer">
+        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<!-- End Popup Modal -->
+<script type="text/javascript"></script><style type="text/css"></style><link rel='stylesheet' id='wff-mystyle-css'  href='https://www.ccpc.ie/consumers/wp-content/plugins/facebook-feed/css/style.css?ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-content/plugins/simple-tooltips/zebra_tooltips.js?ver=4.7.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mr_frontend_data = {"ajax_url":"https:\/\/www.ccpc.ie\/consumers\/wp-admin\/admin-ajax.php","ajax_nonce":"0838c59c90","icon_classes":"{\"star_full\":\"fa fa-star mr-star-full\",\"star_hover\":\"fa fa-star mr-star-hover\",\"star_half\":\"fa fa-star-half-o mr-star-half\",\"star_empty\":\"fa fa-star-o mr-star-empty\",\"minus\":\"fa fa-minus-circle mr-minus\",\"spinner\":\"fa fa-spinner fa-spin mr-spinner\"}","use_custom_star_images":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-content/plugins/multi-rating/assets/js/frontend-min.js?ver=4.2.6'></script>
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='https://www.ccpc.ie/consumers/wp-content/plugins/facebook-feed/js/text-count.js?ver=4.7.5'></script>
+                			            
+                <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#2f4760',
+                            'color':				'#ffffff',
+                            'max_width':  600,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>        
+					
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-top-bar");
+							$("html").addClass("cookie-bar-bar");
+															// Wait for the animation on the html to end before recalculating the required top margin
+								$("html").on('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
+									// code to execute after transition ends
+									var barHeight = $('#catapult-cookie-bar').outerHeight();
+									$("html").css("margin-top",barHeight);
+									$("body.admin-bar").css("margin-top",barHeight-32); // Push the body down if the admin bar is active
+								});
+													}
+																	});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=""><div class="ctcc-inner cookiemessage"><span class="ctcc-left-side">We use Cookies. By continuing to use the site you consent to the use of cookies. Read our <a class="ctcc-more-info-link" tabindex=0 target="_blank" href="https://www.ccpc.ie/consumers/privacy/">cookies policy.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">I Accept</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2a0eb43fe8","applicationID":"71227629","transactionName":"ZgdQMkRSWhVZVRZfXF9NcwVCWlsIF0YDUVYcCl0LUw==","queueTime":0,"applicationTime":740,"atts":"SkBTRAxISRs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+
+
+<script>
+jQuery(".btn-success-bottom").click(function(event){
+	var elements = document.getElementsByClassName('search-input-bottom');
+	var requiredElement = elements[0].value;
+	if(requiredElement == 'I am looking for...'){
+		jQuery('#validation-msg-bottom').fadeIn();
+		event.preventDefault();
+	}else{
+		jQuery('#validation-msg-bottom').fadeOut();
+	}
+});
+
+jQuery(".search-input-bottom").focus(function(){
+	jQuery('#validation-msg-bottom').fadeOut();
+});
+</script>

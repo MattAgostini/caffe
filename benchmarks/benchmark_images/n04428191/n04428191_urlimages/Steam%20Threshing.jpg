@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+
+
+    <meta charset="UTF-8"/>
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,700' rel='stylesheet'
+          type='text/css'>
+    <link rel="shortcut icon" href="http://www.fwi.co.uk/community/wp-content/themes/canvas-community/favicon.ico">
+
+    <title>Galleries - Community - Farmers Weekly</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="pingback" href="http://www.fwi.co.uk/community/xmlrpc.php"/>
+            <script type='text/javascript'>
+            function readCookie(e) {
+                var t = e + "=";
+                var n = document.cookie.split(";");
+                for (var r = 0; r < n.length; r++) {
+                    var i = n[r];
+                    while (i.charAt(0) == " ")i = i.substring(1, i.length);
+                    if (i.indexOf(t) == 0)return i.substring(t.length, i.length)
+                }
+                return null
+            }
+
+            function createMeta(name, content) {
+                var meta_user_type = document.createElement('meta');
+                meta_user_type.name = name;
+                meta_user_type.content = content;
+
+                return meta_user_type;
+            }
+
+            function isNotEmptyObject(objt) {
+                for (var prop in objt) {
+                    return true;
+                }
+                return false;
+            }
+
+            var gwa_cookie = readCookie("fwi-auth");
+
+            if (gwa_cookie && isNotEmptyObject(gwa_cookie)) {
+                document.getElementsByTagName('head')[0].appendChild(createMeta('gwa_authStatus', 'logged in'));
+
+                var gwa_data = decodeURIComponent(gwa_cookie).split('|')[0];
+                var gwa_data_object = JSON.parse(gwa_data);
+
+                var gwa_user_type = gwa_data_object.subscription_status ? gwa_data_object.subscription_status : '';
+                var gwa_user_guid = gwa_data_object.Uid ? gwa_data_object.Uid : '';
+                var gwa_user_entitlements = gwa_data_object.entitlements ? gwa_data_object.entitlements : '';
+                if (gwa_user_type) {
+                    document.getElementsByTagName('head')[0].appendChild(createMeta('gwa_userType', gwa_user_type));
+                }
+                if (gwa_user_guid) {
+                    document.getElementsByTagName('head')[0].appendChild(createMeta('gwa_userID', gwa_user_guid));
+                }
+                if (gwa_user_entitlements) {
+                    document.getElementsByTagName('head')[0].appendChild(createMeta('gwa_userEntitlement', gwa_user_entitlements));
+                }
+            } else {
+                document.getElementsByTagName('head')[0].appendChild(createMeta('gwa_authStatus', 'logged out'));
+            }
+        </script>
+    <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLPH5Q"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+        {"gtm.start": new Date().getTime(),event:"gtm.js"}
+        );var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+        "//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,"script","dataLayer","GTM-TLPH5Q");</script>
+        <!-- End Google Tag Manager --><!-- Eloqua page tracking -->
+        <script type='text/javascript'>
+        var _elqQ = _elqQ || [];
+        _elqQ.push(['elqSetSiteId', '2085091463']);
+        _elqQ.push(['elqTrackPageView']);
+
+        (function () {
+            function async_load() {
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                s.src = '//img04.en25.com/i/elqCfg.min.js';
+                var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            }
+            if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+            else if (window.attachEvent) window.attachEvent('onload', async_load);
+        })();
+        </script>
+<!--  Mobile viewport scale -->
+<meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport"/>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.fwi.co.uk/community/galleries/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Galleries - Community - Farmers Weekly" />
+<meta property="og:url" content="http://www.fwi.co.uk/community/galleries/" />
+<meta property="og:site_name" content="Community" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.fwi.co.uk\/community\/","name":"Community","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.fwi.co.uk\/community\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Community &raquo; Feed" href="http://www.fwi.co.uk/community/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Community &raquo; Comments Feed" href="http://www.fwi.co.uk/community/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Community &raquo; Galleries Comments Feed" href="http://www.fwi.co.uk/community/galleries/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.fwi.co.uk\/community\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fwi_advert_css-css'  href='http://www.fwi.co.uk/community/wp-content/plugins/fwi-adverts/assets/css/fwi-adverts.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://www.fwi.co.uk/community/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.12-6148' type='text/css' media='screen' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.fwi.co.uk/community/wp-includes/css/dashicons.min.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='http://www.fwi.co.uk/community/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/style.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/css/layout.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='media-query-css'  href='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/media.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='search_styles-css'  href='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/css/search.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='print_styles-css'  href='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/css/print.css?ver=0.1' type='text/css' media='print' />
+<!--[if lt IE 9]>
+<link href="http://www.fwi.co.uk/community/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.col-full, #wrapper { width: 960px; max-width: 960px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; } body.fixed-mobile #top, body.fixed-mobile #header-container, body.fixed-mobile #footer-container, body.fixed-mobile #nav-container, body.fixed-mobile #footer-widgets-container { min-width: 960px; padding: 0 1em; } body.full-width #content { width: auto; padding: 0 1em;}</style>
+<![endif]-->
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/plugins/fwi-adverts/assets/js/jquery-dfp/jquery.dfp.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/jquery.lightbox_me.js?ver=1.0.0'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-includes/js/json2.min.js?ver=2015-05-03'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas/includes/js/third-party.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/theia-sticky-sidebar.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/common.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/writeCapture.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/jquery.writeCapture.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/modernizr.custom.10469.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/custom-sticky-nav.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas/includes/js/general.js?ver=4.8.3'></script>
+<link rel='https://api.w.org/' href='http://www.fwi.co.uk/community/wp-json/' />
+<link rel='shortlink' href='http://www.fwi.co.uk/community/?p=28' />
+<link rel="alternate" type="application/json+oembed" href="http://www.fwi.co.uk/community/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fwi.co.uk%2Fcommunity%2Fgalleries%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.fwi.co.uk/community/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.fwi.co.uk%2Fcommunity%2Fgalleries%2F&#038;format=xml" />
+
+<!-- BEGIN GWA Analytics --><!-- new -->
+<meta name="gwa_Account" content="rbiuk-fwi,rbiuk-proagrica" />
+<meta name="gwa_siteSection1" content="community" />
+<meta name="gwa_siteSection2" content="pictures" />
+<meta name="gwa_contentType" content="pictures" />
+<meta name="gwa_contentTitle" content="farm pictures & tractor photos - farmers weekly community" />
+<meta name="gwa_authStatus" content="logged out" />
+<meta name="gwa_contentHierarchy" content="community|pictures|farm pictures & tractor photos - farmers weekly community" />
+<meta name="gwa_pageName" content="community|pictures|farm pictures & tractor photos - farmers weekly community" />
+
+<!-- END GWA Analytics -->
+
+<!-- Adobe DTM Tag (includes GWA js) -->
+            <script src="//assets.adobedtm.com/c385f368d40a834f5504f8dbd3ad1d9292180d6d/satelliteLib-d0bd8ffeed49ec9d2b64d10c306e578b8ae0b22e.js"></script>
+        
+        <!-- Adobe Audience manager -->
+        <script type="text/javascript">
+            function get_aamCookie(aam_dfp) {
+                var i, x, y, ARRcookies = document.cookie.split(";");
+                for (i = 0; i < ARRcookies.length; i++) {
+                    x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+                    y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+                    x = x.replace(/^\s+|\s+$/g, "");
+                    if (x == aam_dfp) {
+                        return unescape(y);
+                    }
+
+                }
+            }
+        </script>
+
+        <script type="text/javascript">
+            var aamdfp = (get_aamCookie('aam_dfp') != undefined) ? ';' + get_aamCookie('aam_dfp') : ''
+        </script>
+        <script type="text/javascript">
+        function get_aamCookie(aam_dfp) {
+            var i, x, y, ARRcookies = document.cookie.split(";");
+            for (i = 0; i < ARRcookies.length; i++) {
+                x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+                y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+                x = x.replace(/^\s+|\s+$/g, "");
+                if (x == aam_dfp) {
+                    return unescape(y);
+                }
+
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        var aamdfp = (get_aamCookie('aam_dfp') != undefined) ? ';' + get_aamCookie('aam_dfp') : ''
+    </script>
+
+<!-- Theme version -->
+<meta name="generator" content="Canvas Community " />
+<meta name="generator" content="Canvas 5.6.4" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.fwi.co.uk/community/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.fwi.co.uk/community/wp-content/themes/canvas-community/custom.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+        setTimeout(function(){var a=document.createElement("script");
+        var b=document.getElementsByTagName('script')[0];
+        a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/2362.js";
+        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+              <!-- Hard-coded at the moment, by Gurpreet -->
+    <!--[if lt IE 9]>
+    <script
+        src="http://www.fwi.co.uk/community/wp-content/themes/canvas-child/includes/js/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css"
+          href="http://www.fwi.co.uk/community/wp-content/themes/canvas-child/css/ie7/style.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+    <style type="text/css">
+        .single-datacaptureform .col-full {
+            width: 956px;
+            max-width: 956px;
+        }
+    </style>
+    <![endif]-->
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css"
+          href="http://www.fwi.co.uk/community/wp-content/themes/canvas-child/css/ie8/style.css">
+    <style type="text/css">
+        .single-datacaptureform .col-full,
+        .single-datacaptureform #wrapper {
+            width: 1000px;
+            max-width: 1000px;
+        }
+    </style>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+    <style type="text/css">
+        .col-full, #wrapper {
+            width: 1200px;
+            max-width: 1200px;
+        }
+    </style>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var $ = jQuery.noConflict();
+    </script>
+
+</head>
+<body class="page-template page-template-gallery-home page-template-gallery-home-php page page-id-28 ie6 ie alt-style-default two-col-left width-960 two-col-left-960">
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLPH5Q" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TLPH5Q');</script>
+    <!-- End Google Tag Manager -->
+
+<div id="wrapper">
+    <div id="inner-wrapper">
+      <!--[if lt IE 10]>
+      <div id="fwi-IE9-alert" class="fwi-IE9-alert-wrap" ><div class="IE9-alert"><div class="fwi-IE9-text-wrapper"><div>Your browser is out of date. It has known security flaws and may not display all features of this and other websites. Please <a href="http://browsehappy.com/">update your browser</a> to improve your experience.</div><div onclick="close_IE9_error_message()">x</div></div></div></div>
+
+        <script>
+          function close_IE9_error_message()
+          {
+            var element= document.getElementById("inner-wrapper");
+            var child = document.getElementById("fwi-IE9-alert");
+            element.removeChild(child);
+            document.cookie="fwi-IE9-closed=1";
+          }
+        </script>      <![endif]-->
+
+        <!-- don't show the banner if its a data capture form -->
+                    <section class="leader-board">
+                <div id="leader-board-ad-wrap">
+                    <div id="dart_widget-4" class="widget widget_dart_widget"><div class="adunit advertslot advert_1x1" data-adunit="farmersweeklyinteractive/outofpage" id="div-gpt-ad-249527336346462137-1" data-size-mapping="fwi-datasizemap-outofpage" data-dimensions="1x1" data-targeting='{"sec0":"page","sec1":"galleries","type":"other","tile":"1","slot":"1","dcopt":"ist","sz":"1x1","reg":"noauth","status":"loggedout","ord":"1511638264"}' data-outofpage="true"></div></div>                </div>
+            </section>
+        
+        	<div id="top">
+		<div class="col-full">
+			<h3 class="top-menu">Supernav</h3><ul id="top-nav" class="nav top-navigation fl"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="/">FWI</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="http://classified.fwi.co.uk/">Classifieds</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="http://jobs.fwi.co.uk/">Jobs</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="http://www.fwi.co.uk/property">Property</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="/academy/">Academy</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a href="http://awards.fwi.co.uk/">Awards</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a href="http://farmplan.co.uk/">Farmplan</a></li>
+<li id="menu-item-40" class="current-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="/community/galleries/">Galleries</a></li>
+</ul>		</div>
+	</div><!-- /#top -->
+        <h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+        <header id="header" class="col-full">
+            
+            <div id="subscribe">
+                <a href="http://pages.fwi.co.uk/subs/subscribe/FW2013-008.htm?intcmp=SUBS-navbarjan15&promcode=3233">Subscribe</a>
+            </div>
+
+            <!-- mobile/tab nav -->
+            <ul class="device-nav visible-xs visible-sm">
+                <li>
+                    <a class="menu" href="#"></a>
+                </li>
+                <li>
+                    <a class="weather" href="http://www.fwi.co.uk/weather/"></a>
+                </li>
+                <li class="float-right">
+                    <a class="account" href="https://id.fwi.co.uk/dialog/authorize?response_type=code&client_id=FarmersWeekly&scope=user_rw&redirect_uri=https%3A%2F%2Fwww.fwi.co.uk%2Fwp-login.php%3Fredirect_to%3Dhttp%253A%252F%252Fwww.fwi.co.uk%252Fcommunity%252Fgalleries%253Fpagename%253Dgalleries"></a>
+                </li>
+                <li class="float-right">
+                    <a class="search" href="http://www.fwi.co.uk/community/search/"></a>
+                </li>
+            </ul>
+
+            <div id="logo">
+                <a href="http://www.fwi.co.uk/community" title="Farmers Weekly"></a>
+            </div>
+            <div id="tabbed-nav" class=" tabbed-nav-2col visible-xs visible-sm"><div class="inner"><div class="col1 selected"><a>Photos</a><div>&nbsp;</div></div><div class="col3 more"><a>Explore</a><div>&nbsp;</div></div></div></div>            <nav role="navigation" class="col-full" id="navigation">
+                <section class="menus">
+                            <a href="http://www.fwi.co.uk/community" class="nav-home"><span>Home</span></a>
+
+        <h3>Mainmenu</h3>            <ul id="main-nav" class="nav fl">
+                <li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page collapse current-menu-item">
+                    <a href="/community/galleries/">Galleries</a>
+                    <ul id="galleries-nav" class="sub-menu hide-element restore-submenu"><li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-66"><a href="/community/farmers-weekly-galleries/">Farmers Weekly galleries</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-67"><a href="/community/member-galleries/">Member galleries</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item menu-item-68"><a href="http://www.fwi.co.uk/community/upload-photos/">Upload photos</a></li>
+<li id="menu-item-1034543" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item menu-item-1034543"><a href="http://www.fwi.co.uk/community/help/">Help</a></li>
+</ul>                </li>
+            </ul>
+
+                            </section>
+                <div id="search-box" class="float-right">
+                    <form id="ExpandableSearch"
+                          action="http://www.fwi.co.uk/community/results/"
+                          method="get">
+                        <input id="search" placeholder="Search" name="q">
+                        <button id="search-submit"></button>
+                    </form>
+                </div>
+                <div id="login-menu">
+                                                                                        <ul>
+                                                            <li class="login"><a href="https://id.fwi.co.uk/dialog/authorize?response_type=code&client_id=FarmersWeekly&scope=user_rw&redirect_uri=https%3A%2F%2Fwww.fwi.co.uk%2Fwp-login.php%3Fredirect_to%3Dhttp%253A%252F%252Fwww.fwi.co.uk%252Fcommunity%252Fgalleries%253Fpagename%253Dgalleries" title="Login">Sign in</a>
+                                </li>
+                                <li class="register"><a href="https://www.fwi.co.uk/datacaptureform/register/?redirect_to=http://www.fwi.co.uk/community/galleries?pagename=galleries" title="Register">Register</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+            </nav>
+
+                        <div id="header-ad">
+                            </div>
+        </header>
+        <section id="main-content">
+    <div id="wrap">
+        <div id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.fwi.co.uk/community/" rel="v:url" property="v:title">Home</a> / <span class="breadcrumb_last">Galleries</span></span></span></div>        <div id="under_header_sidebar_wrap">
+            <style type='text/css'>td.top_ad_text_td{
+float:left;
+margin-left:10px;
+margin-right:20px;
+margin-top:5px;
+}
+td.top_ad_image_td{
+float:right;
+margin-top:5px;
+max-width:125px;
+}
+#top_ad_subscribe p{
+display:none;
+}
+
+#top_ad_subscribe p.sub_save_show_p{
+display:block
+}
+#top_ad_subscribe{
+height:90px;
+text-align:left;
+background-color:white;
+width:100%;
+display:none;
+}
+#top_ad_subscribe.display_small_advert{
+display:block;
+}
+#top_ad_subscribe p{
+text-align:left;
+}
+#top_ad_subscribe_img_cont img{
+float:right;
+height:85px;
+}
+.sub_save_p_ad_all{
+margin:0 !important;
+}
+#top_ad_subscribe_table{
+width:100%;
+}
+#top_ad_subscribe_img_cont{
+width:100%;
+height:90px;
+}
+
+p.sub_save_p_ad_head{
+font-weight:bold;
+}
+
+p.sub_save_sub_now{
+color:red;
+font-weight:bold;
+}
+
+p.sub_save_p_ad_text{
+line-height:1.0;
+}
+
+a#ad_subscribe_click_link{
+color:black
+}
+@media screen and (max-width: 1100px){
+
+#top_ad_subscribe_img_cont img{
+display:none;
+}
+
+td.top_ad_image_td{
+visibility:collapse;
+display:none;
+}
+
+#leader-board-ad-wrap div.widget_fwi_text_widget{
+width:200px;
+}
+
+#leader-board-ad-wrap{
+width:928px;
+}
+}
+
+@media screen and (max-width: 980px){
+#top_ad_subscribe{
+display:none;
+}
+#top_ad_subscribe.display_small_advert{
+display:none;
+}
+}</style><div id="fwi_text_widget-2" class="widget widget_fwi_text_widget"><div id="text_widget_section_fwi_text_widget-2" class="fwi_text_widget_text_section"><div id="top_ad_subscribe">
+<a id="ad_subscribe_click_link" title="ad_subscribe_click_link" href="http://pages.fwi.co.uk/subs/subscribe/2016-subslanding-web+only.html?intcmp=SUBS-oth-webplustopcorner&promcode=3565" target="_blank" onclick="s_objectID='http://pages.fwi.co.uk/subs/subscribe/2016-subslanding-web+only.html?intcmp=SUBS-oth-webplustopcorner&promcode=3565_1';return this.s_oc?this.s_oc(e):true">
+<table id="top_ad_subscribe_table">
+<tr>
+<td class="top_ad_text_td">
+<p class="sub_save_show_p sub_save_p_ad_head sub_save_p_ad_all">Subscribe and save</p>
+<p class="sub_save_show_p sub_save_p_ad_text sub_save_p_ad_all">Farmers Weekly from £127 <br/>
+Saving £36 <br/>
+In print AND tablet </p>
+<p class="sub_save_show_p sub_save_sub_now sub_save_p_ad_all">
+SUBSCRIBE NOW
+</p>
+</td>
+<td class="top_ad_image_td">
+<div id="top_ad_subscribe_img_cont">
+<img id="top_ad_subscribe_img" src="/wp-content/plugins/fwi-text-widget/assets/subscription_image.jpg" alt="sub_ad_img">
+</div>
+</td>
+</tr>
+</table>
+</a>
+<script>
+function fwi_under_header_sub_advert_show()
+{
+if($("div#under_header_sidebar_wrap div.widget_dart_widget").width()<900)
+{
+if($("div#under_header_sidebar_wrap div.widget_dart_widget").width()>10)
+{
+$("div#top_ad_subscribe").addClass("display_small_advert");
+}
+}
+}
+$(document).ready
+(function()
+{
+fwi_under_header_sub_advert_show();
+}
+);
+$(window).load
+(function()
+{
+fwi_under_header_sub_advert_show();
+}
+);
+</script>
+</div></div></div><div id="dart_widget-5" class="widget widget_dart_widget"><div class="adunit advertslot advert_728x90" data-adunit="farmersweeklyinteractive/banner" id="div-gpt-ad-249527336346462137-2" data-size-mapping="fwi-datasizemap-banner" data-dimensions="728x90" data-targeting='{"sec0":"page","sec1":"galleries","type":"other","tile":"2","slot":"2","sz":"728x90","reg":"noauth","status":"loggedout","ord":"1511638264"}' ></div></div>        </div>
+        <div id="container-columns" class="container-columns-2col">
+            <div id="container-inner" class="no-border">
+                <div id="container-main">
+                    <div class="theiaStickySidebar">
+                                                <div id="left-col" class="two-columns">
+                            <h2 class="column-heading">Galleries</h2>
+                            <div class="left-col-inner gallery-home">
+                                <section id="main" class="gallery">
+                                    
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/farm-africa-member-galleries/why-british-farmer-stuart-roberts-is-supporting-farm-africa-this-givingtuesday/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511538482-No-48-Stuart-Roberts-615x615.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/farm-africa-member-galleries/why-british-farmer-stuart-roberts-is-supporting-farm-africa-this-givingtuesday/" class="checkid" id="1095713">Why British farmer Stuart Roberts is supporting Farm Africa this #GivingTuesday!</a>
+                                                    </div>
+                                                    <div class="time">24 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/farm-africa-member-galleries/">Farm Africa</a> by <a href="/community/users/farm-africa/">Farm Africa</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/flooded-field-at-sunset-near-wylam-mick-vardy/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511466158-IMG_0884-615x410.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/flooded-field-at-sunset-near-wylam-mick-vardy/" class="checkid" id="1095711">Flooded field at sunset near Wylam.mick vardy.©</a>
+                                                    </div>
+                                                    <div class="time">23 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-11/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511380007-IMG_7978-615x410.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-11/" class="checkid" id="1095709">Lifting fodder beet [2017]</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/library/">Library</a> by <a href="/community/users/library-2/">library</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-10/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511379864-IMG_7964-615x410.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-10/" class="checkid" id="1095707">Lifting fodder beet [2017]</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/library/">Library</a> by <a href="/community/users/library-2/">library</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-9/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511379709-IMG_7928-615x410.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-9/" class="checkid" id="1095705">Lifting fodder beet [2017]</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/library/">Library</a> by <a href="/community/users/library-2/">library</a></div>
+                                                </div>
+                                            </div>
+
+                                        <div class='listItem rssad thumbs' data='http://ad.doubleclick.net/N6831/adj/farmersweeklyinteractive/parx;sec0=parx;sec1=catx;slot=sx;tile=tx;sz=300x250;reg=noauth;status=logged-out;aamx;ord=1511638264?;type=other;?'></div>
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/library/jd-6215-r-6/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511379540-IMG_7899-615x257.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/library/jd-6215-r-6/" class="checkid" id="1095703">JD 6215 R</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/library/">Library</a> by <a href="/community/users/library-2/">library</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-8/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511379393-IMG_7891-615x410.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/library/lifting-fodder-beet-2017-8/" class="checkid" id="1095701">Lifting fodder beet [2017]</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/library/">Library</a> by <a href="/community/users/library-2/">library</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-2-3/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511376300-IMG_6764-615x635.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-2-3/" class="checkid" id="1095699">winter</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-field-near-east-matfen-mick-vardy-2/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511376204-IMG_6767-615x676.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-field-near-east-matfen-mick-vardy-2/" class="checkid" id="1095697">Winter field near East Matfen.mick vardy.©</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy-3/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511373058-IMG_6769-615x434.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy-3/" class="checkid" id="1095695">James hedge cutting at West Woodhouses for Jonty Cotton Ltd.mick vardy ©</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy-2/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511372443-IMG_6758-615x458.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy-2/" class="checkid" id="1095693">James hedge cutting at West Woodhouses for Jonty Cotton Ltd.mick vardy ©</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511371379-IMG_6760-615x460.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/james-hedge-cutting-at-west-woodhouses-for-jonty-cotton-ltd-mick-vardy/" class="checkid" id="1095691">James hedge cutting at West Woodhouses for Jonty Cotton Ltd.mick vardy ©</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-field-near-east-matfen-mick-vardy/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511370469-IMG_6766-615x610.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/winter-field-near-east-matfen-mick-vardy/" class="checkid" id="1095689">Winter field near East Matfen.mick vardy.©</a>
+                                                    </div>
+                                                    <div class="time">22 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/mickyv/">Micky V</a> by <a href="/community/users/micky-v/">micky v</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/frin87/amish-tobacco/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511294789-DSC00296-2-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/frin87/amish-tobacco/" class="checkid" id="1095679">Amish tobacco</a>
+                                                    </div>
+                                                    <div class="time">21 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/frin87/">Frin87</a> by <a href="/community/users/frin87/">Frin87</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/leticialeakes/cat-2/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511262924-cat-in-a-suit.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/leticialeakes/cat-2/" class="checkid" id="1095672">cat</a>
+                                                    </div>
+                                                    <div class="time">21 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/leticialeakes/">leticialeakes</a> by <a href="/community/users/leticialeakes/">leticialeakes</a></div>
+                                                </div>
+                                            </div>
+
+                                        <div class='listItem rssad thumbs' data='http://ad.doubleclick.net/N6831/adj/farmersweeklyinteractive/parx;sec0=parx;sec1=catx;slot=sx;tile=tx;sz=300x250;reg=noauth;status=logged-out;aamx;ord=1511638264?;type=other;?'></div>
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-5/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511117926-IMG_5255-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-5/" class="checkid" id="1095670">Reston Ploughing Association Open Tractor Ploughing Match</a>
+                                                    </div>
+                                                    <div class="time">19 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/">Al Hamilton</a> by <a href="/community/users/al-hamilton/">Al Hamilton</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-4/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511117925-IMG_5229-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-4/" class="checkid" id="1095669">Reston Ploughing Association Open Tractor Ploughing Match</a>
+                                                    </div>
+                                                    <div class="time">19 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/">Al Hamilton</a> by <a href="/community/users/al-hamilton/">Al Hamilton</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-3/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511117923-IMG_5227-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-3/" class="checkid" id="1095668">Reston Ploughing Association Open Tractor Ploughing Match</a>
+                                                    </div>
+                                                    <div class="time">19 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/">Al Hamilton</a> by <a href="/community/users/al-hamilton/">Al Hamilton</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-2/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511117922-IMG_5217-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match-2/" class="checkid" id="1095667">Reston Ploughing Association Open Tractor Ploughing Match</a>
+                                                    </div>
+                                                    <div class="time">19 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/">Al Hamilton</a> by <a href="/community/users/al-hamilton/">Al Hamilton</a></div>
+                                                </div>
+                                            </div>
+
+                                        
+                                                <div class="listItem">
+                                                <div class="image-holder"><a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match/"><img   src="http://assets.fwi.co.uk/sites/3/2015/01/1511117917-IMG_5213-615x461.jpg" class="image" alt="" /></a></div>                                                <div class="details">
+                                                    <div class="title">
+                                                        <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/reston-ploughing-association-open-tractor-ploughing-match/" class="checkid" id="1095666">Reston Ploughing Association Open Tractor Ploughing Match</a>
+                                                    </div>
+                                                    <div class="time">19 Nov 2017</div>
+                                                    <div class="info">Posted in <a href="http://www.fwi.co.uk/community/member-galleries/al-hamilton/">Al Hamilton</a> by <a href="/community/users/al-hamilton/">Al Hamilton</a></div>
+                                                </div>
+                                            </div>
+
+                                                                        </section>
+
+                                <script type='text/javascript'
+                                        src='/community/wp-content/themes/canvas-community/includes/js/masonry.pkgd.min.js?ver=1.1'></script>
+                                <script type='text/javascript'
+                                        src='/community/wp-content/themes/canvas-community/includes/js/imagesloaded.pkgd.min.js?ver=1.1'></script>
+                                <script type="text/javascript">
+                                    $(function () {
+
+                                        var $container = $('#main');
+
+                                        $container.imagesLoaded(function () {
+                                            $container.masonry({
+                                                itemSelector: '.listItem',
+                                                columnWidth: '.listItem'
+                                            });
+                                        });
+
+                                    });
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /#main-sidebar-container -->
+            </div>
+            <div id="right-col">
+                <h2 class="column-heading">Explore</h2>
+                <div class="theiaStickySidebar">
+                    <aside id="sidebar">
+<div id="text-8" class="widget widget_text">			<div class="textwidget"><div class="widget-btn-container"><a class="button yellow" href="/community/upload-photos/">Upload a photo</a></div></div>
+		</div><div id="weather_php_widget-4" class="widget widget_weather_php_widget"><div class="weather_header_section">
+                    <div class="weather_widget_right_col_wrap">
+                        <div class="custom_feed_widget_header_wrap">
+                            <div class="custom_feed_widget_title">
+                                <h2>
+                                    <a href="http://www.fwi.co.uk/weather/?intcmp=WTHR-RIGHT-WIDGET-TITLE" onclick="s_objectID="http://www.fwi.co.uk/weather/?intcmp=WTHR-RIGHT-WIDGET-TITLE_1";return this.s_oc?this.s_oc(e):true">Weather</a>
+                                </h2>
+                            </div>
+                            <div class="show_article_filter_button">
+                                <span id="Widget_change_weath_loc" onclick=weather_widge_new_location()> Set location <div id="edit_cat_cog_1" class="edit_cat_cog icon-cog"></div></span>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div id="new_weather_widget" >
+                        <div class="loading_display_div">
+                        Loading...
+                        </div>
+                    </div>
+                </div>
+        <script>
+        function getCookie_weather_widge(cname,return_if_fail)
+        {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0; i<ca.length; i++)
+            {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+            }
+            return (return_if_fail);
+        }
+            function generate_widge_html_ajax()
+                {
+
+                    var lat=getCookie_weather_widge("weather_set_latitude","51.5072");
+                    var long=getCookie_weather_widge("weather_set_longitude","0.1275");
+                      lat=parseFloat(lat);
+                      lat=(lat+180);
+                      lat=lat.toFixed(2);
+                      lat=parseFloat(lat)*100;
+                      long=parseFloat(long)+180;
+                      long=long.toFixed(2);
+                      long=parseFloat(long)*100;
+                      var cache_no=lat.toString()+long.toString();
+                    $.ajax
+                    (
+                    {
+                        type: "POST",
+                        url:"/weatherajax_"+cache_no ,
+                        data:
+                    {
+                        "ajax_weather_widge": true,
+                        "cache_number":cache_no,
+
+                    },
+                    }
+                    ).done(function(widget_ajax_data)
+                    {
+                        $("div#new_weather_widget").html(widget_ajax_data);
+                    });
+
+                }
+               function weather_widge_new_location()
+                {
+                    var refresh_weather_page=false;
+                    if (window.location.pathname=='/weather')
+                    {
+                        var refresh_weather_page=true;
+                    }
+                            window.location='/weather#location';
+                            if(refresh_weather_page==true)
+                            {
+                                location.reload();
+                            }
+                }
+
+                generate_widge_html_ajax();
+        </script>
+           </div><div id="dart_widget-2" class="widget widget_dart_widget"><div class="adunit advertslot advert_300x125" data-adunit="farmersweeklyinteractive/sidebar" id="div-gpt-ad-249527336346462137-3" data-size-mapping="fwi-datasizemap-sidebar" data-dimensions="300x125" data-targeting='{"sec0":"page","sec1":"galleries","type":"other","tile":"3","slot":"3","sz":"300x125","reg":"noauth","status":"loggedout","ord":"1511638264"}' ></div></div><div id="text-4" class="widget widget_text"><h2>Popular galleries</h2>			<div class="textwidget"><ul>
+<li><a href="/community/farmers-weekly-galleries/farmlife-framed/">Farmlife Framed</a>
+<li><a href="/community/farmers-weekly-galleries/farmers-weekly-awards-2017">FW Awards night 2017</a></li>
+<li><a href="/community/farmers-weekly-galleries/harvest-2017/">Harvest 2017</a></li>
+<li><a href="/community/farmers-weekly-galleries/yfc-agm-2017-saturday-farmers-weekly-galleries/">YFC AGM Saturday 2017</a></li>
+
+<li><a href="/community/member-galleries/mickyv/">Micky V's gallery</a></li>
+<li><a href="/community/farmers-weekly-galleries/fwyoungreaders/">Young readers</a></li>
+<li><a href="/community/farmers-weekly-galleries/sexyfarmerphotos/">Britain's Sexiest Farmer 2015</a></li>
+<li><a href="/community/farmers-weekly-galleries/fw-in-bizarre-locations/">FW on tour</a></li>
+</ul></div>
+		</div></aside><!-- /#sidebar -->
+
+                                    </div>
+            </div>
+        </div>
+        <!-- /container-columns -->
+                <div id="show-more-btn">
+            <span id="loader" style="margin:20px 440px;float:left;display:none"><img src="/wp-content/themes/canvas-child/images/ajax-loader.gif"></span>
+            <input page="2" name="gallery" type="submit" value="Show more" name="" class="button yellow home" id="show-more-button">
+        </div>
+    </div>
+    <!-- /wrap -->
+</section><!-- /#content -->
+
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7895673-1']);
+_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<section id="footer-widgets" class="col-full col-2">
+				<div class="block footer-widget-1">
+    	<div id="text-2" class="widget widget_text">			<div class="textwidget"><div class="products-and-services">
+  <h3>Products and services</h3>
+  <ul>
+	<li class="classifieds">
+	  <a href="http://classified.fwi.co.uk/">
+		<div class="icon"></div>
+		<p>Classifieds</p>
+	  </a>
+	</li>	
+	<li class="jobs">
+	  <a href="http://jobs.fwi.co.uk/">
+		<div class="icon"></div>
+		<p>Jobs</p>
+	  </a>
+	</li>	
+	<li class="property">
+	  <a href="http://property.fwi.co.uk/">
+		<div class="icon"></div>
+		<p>Property</p>
+	  </a>
+	</li>
+  </ul>
+  <ul>
+	<li class="academy">
+	  <a href="http://www.fwi.co.uk/academy">
+		<div class="icon"></div>
+		<p>Academy</p>
+	  </a>
+	</li>
+	<li class="awards">
+	  <a href="http://awards.fwi.co.uk/">
+		<div class="icon"></div>
+		<p>Awards</p>
+	  </a>
+	</li>
+	<li class="farm-plan">
+	  <a href="http://farmplan.co.uk/">
+		<div class="icon"></div>
+		<p>Farm Plan</p>
+	  </a>
+	</li>
+  </ul>
+</div>
+
+</div>
+		</div>	</div>
+        				<div class="block footer-widget-2">
+    	<div id="text-3" class="widget widget_text">			<div class="textwidget"><div class="connect-with-us">
+    <h3>Connect with us...</h3>
+    <ul>
+        <li>
+                <a href="https://twitter.com/FarmersWeekly" onclick="s_objectID=&quot;https://twitter.com/FarmersWeekly_1&quot;;return this.s_oc?this.s_oc(e):true" target="_blank">
+                    <div class="img-bg">
+                        <img src="//dkf90yq6m45xh.cloudfront.net/twitter1.png" alt="Twitter">
+                    </div><span>Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/farmersweeklyuk" onclick="s_objectID=&quot;https://www.facebook.com/farmersweeklyuk_1&quot;;return this.s_oc?this.s_oc(e):true" target="_blank">
+                    <div class="img-bg"><img src="//dkf90yq6m45xh.cloudfront.net/fb.png" alt="Facebook"></div><span>Facebook</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/company/farmers-weekly" onclick="https://www.linkedin.com/company/farmers-weekly_1&quot;;return this.s_oc?this.s_oc(e):true" target="_blank">
+                    <div class="img-bg"><img src="http://assets.fwi.co.uk/sites/1/linkedin.png" alt="Linkedin"></div><span>Linkedin</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/user/FarmersWeeklyVideo" onclick="s_objectID=&quot;https://www.youtube.com/user/FarmersWeeklyVideo_1&quot;;return this.s_oc?this.s_oc(e):true" target="_blank">
+                    <div class="img-bg"><img src="//dkf90yq6m45xh.cloudfront.net/youtube.png" alt="YouTube"></div><span>YouTube</span>
+                </a>
+            </li>
+    </ul>
+</div>
+      <div class="subscribe">
+    <h3>Subscribe</h3>
+    <ul>
+        <li><a href="http://www.fwi.co.uk/marketingsubscription-pages/fw2013-008/?intcmp=SUBS-footerboxjan15&promcode=3234">Farmers Weekly</a>
+        </li>
+        <li><a href="https://subscribe.fwi.co.uk/poultryworld/default.aspx?prom=529&intcmp=SUBS-footernav-pwo">Poultry World</a>
+        </li>
+        <li><a href="http://www.rbisubscribe.com/cc/crw">Crops</a>
+        </li>
+    </ul>
+</div>
+<div class="account-menu">
+    <h3>Manage my account</h3>
+    <ul>
+        <li><a href="https://subscribe.fwi.co.uk/myaccount/farmersweekly?intcmp=SUBS-footernavrenew">Farmers Weekly</a>
+        </li>
+        <li><a href="https://subscribe.fwi.co.uk/myaccount/poultryworld?intcmp=SUBS-footernavrenew">Poultry World</a>
+        </li>
+        <li><a href="https://subscribe.fwi.co.uk/myaccount/crops?intcmp=SUBS-footernavrenew">Crops</a>
+        </li>
+        <li><a href="https://subscribe.fwi.co.uk/myaccount/powerfarming?intcmp=SUBS-footernavrenew">Power Farming</a>
+        </li>
+    </ul>
+</div>
+</div>
+		</div>	</div>
+        		<div class="fix"></div>
+</section><!--/#footer-widgets-->
+
+<footer>
+
+    <script src="/wp-content/themes/canvas-child/rbicookiepolicy04.js"
+            type="text/javascript" defer="defer"></script>
+
+    
+
+    <section class="footer-nav">
+        <ul>
+            <li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-15"><a href="http://www.fwi.co.uk/about/">About us</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-16"><a href="http://www.fwi.co.uk/contact/">Contact us</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-17"><a href="http://www.fwi.co.uk/help-and-support/">Help</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-18"><a href="http://www.fwi.co.uk/mediacentre/">Advertise</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-19"><a href="http://pages.fwi.co.uk/subs/subscribe/FW2013-008.htm?intcmp=SUBS-footernavjan15&#038;promcode=3235">Subscribe</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-20"><a href="http://services.marketforce.co.uk/storelocator/search.aspx?magCode=8502&#038;showmap=1">Store finder</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-21"><a href="http://www.fwi.co.uk/terms-and-conditions/">Terms and conditions</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-22"><a href="http://www.fwi.co.uk/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-23"><a href="http://www.fwi.co.uk/privacy/">Privacy policy</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-24"><a href="http://fwi.b2b.ntent.com/EN/Microsites/">Company link</a></li>
+            <p>&nbsp;</p>        </ul>
+    </section>
+    <div class="fwi-footer">
+        <p>Part of:<br>
+            <span class="copyright-proagrica-logo"><a href="http://www.proagrica.com/"></a></span>
+            <span class="copyright-reed-logo"><a href="http://www.reedbusiness.com/"></a></span>
+        </p>
+        <p style="margin-top: 20px;"><span class="copyright">© 2016 Reed Business Information Limited</span></p>
+    </div>
+
+    <div class="relx-footer">
+        <span class="copyright-relx-logo"><a href="http://www.relxgroup.com/"></a></span>
+    </div>
+
+</footer>
+
+
+</div><!-- /#inner-wrapper -->
+
+</div><!-- /#wrapper -->
+
+<div class="fix"></div><!--/.fix-->
+
+        <!-- MMP end script -->
+        <script type="text/javascript">_satellite.pageBottom();</script>
+
+                    <script type='text/javascript'>
+
+              var size_mapping = {
+                            "fwi-datasizemap-banner":[{browser: [980,0], ad_sizes: [[970,250],[970,90],[728,90]]},{browser: [750,0], ad_sizes: [[728,90]]},{browser: [0,0], ad_sizes: [[320,100],[320,50]]}],"fwi-datasizemap-house":[{browser: [0,0], ad_sizes: [[300,250]]}],"fwi-datasizemap-sidebar":[{browser: [0,0], ad_sizes: [[300,125]]}],"fwi-datasizemap-sidebar2":[{browser: [0,0], ad_sizes: [[300,125],[300,250]]}],"fwi-datasizemap-outofpage":[{browser: [0,0], ad_sizes: [[1,1]]}],"fwi-datasizemap-mid-editorial":[{browser: [0,0], ad_sizes: [[300,250]]}]                          };
+
+                $(document).ready(function(){
+                    $.dfp({dfpID: "6831", enableSingleRequest: true, afterEachAdLoaded:
+                        function (adUnit)
+                        {
+                            if($(adUnit).attr('data-size-mapping') == 'fwi-datasizemap-nativead')
+                            {
+                              var googleIframe=$(adUnit).find('iframe').first();
+                              if($(googleIframe).attr("width") == '524')
+                              {
+                                var height='165px';
+                                var width='100%';
+                                $(adUnit).css('margin-top','0px');
+                                //Set wrapper
+                                var google_ads_iframe=$(adUnit).find("div[id^='google_ads_iframe']").first();
+                                $(google_ads_iframe).css('width',width);
+                                $(google_ads_iframe).css('height',height);
+                                //Set iframe
+
+                                $(googleIframe).attr('width',width);
+                                $(googleIframe).attr('height',height);
+                                                                console.log('Jquery Adverts:: Forced 100% width for '+$(adUnit).attr('id'));
+                                                              }
+                            }
+                            else
+                            {
+                                                                console.log('Jquery Adverts:: Loaded '+$(adUnit).attr('id'));
+                                                            }
+
+			}, sizeMapping: size_mapping });
+                                console.log('Jquery Adverts:: Static Added:: data-adunit="farmersweeklyinteractive/outofpage" data-targeting=\'{"sec0":"page","sec1":"galleries","type":"other","tile":"1","slot":"1","dcopt":"ist","sz":"1x1","reg":"noauth","status":"loggedout","ord":"1511638264"}');
+                                                console.log('Jquery Adverts:: Static Added:: data-adunit="farmersweeklyinteractive/banner" data-targeting=\'{"sec0":"page","sec1":"galleries","type":"other","tile":"2","slot":"2","sz":"728x90","reg":"noauth","status":"loggedout","ord":"1511638264"}');
+                                                console.log('Jquery Adverts:: Static Added:: data-adunit="farmersweeklyinteractive/sidebar" data-targeting=\'{"sec0":"page","sec1":"galleries","type":"other","tile":"3","slot":"3","sz":"300x125","reg":"noauth","status":"loggedout","ord":"1511638264"}');
+                                            //jQuery('.adunit:not(".display-block")').dfp({dfpID: "6831", enableSingleRequest: false });
+                });
+                var fwi_adverts_slotcount=3;
+                            function fwi_adverts_getAdvert(target, size, slot, tmp_meta, firstNativeAdd)
+                {
+                    if(jQuery(target).attr('fwi-advert')===undefined)
+                    {
+                        var meta={};
+                        var meta_array=[];
+                        var count=0;
+                        var mapping="mid-editorial";
+                        var injectclass="";
+                        fwi_adverts_slotcount++;
+                        slot=fwi_adverts_slotcount;
+                        var rand = 1 + Math.floor(Math.random() * 6);
+                        var adunit="farmersweeklyinteractive/mid-editorial";
+                        //Defaults
+                        meta.ord="1511638264";meta.uat="";                        for(var key in tmp_meta)
+                        {
+                            meta[key]=tmp_meta[key];
+                            count++;
+                        }
+                        if(target=="#AD1" && firstNativeAdd)
+                        {
+                            adunit="farmersweeklyinteractive/nativead";
+            //                size="524x120";
+                            mapping="nativead";
+            //                injectclass="fwi-adverts-fullwidth";
+                        }
+
+                        //meta['slot']=slot;
+
+
+                        jQuery(target).append("<div id=\"div-gpt-ad-249527336346462137-"+slot+"\" class=\"adunit fwi-adverts-inline advertslot advert_"+size+" "+injectclass+"\" data-size-mapping=\"fwi-datasizemap-"+mapping+"\" data-adunit=\""+adunit+"\" id=\"div-gpt-ad-249527336346462137-"+slot+"\" data-dimensions=\""+size+"\" data-targeting='"+JSON.stringify(meta)+"'></div>");
+                        jQuery('#div-gpt-ad-249527336346462137-'+slot).dfp({dfpID: "6831", enableSingleRequest: true, collapseEmptyDivs:true
+                        , sizeMapping: size_mapping
+                       });
+                                                console.log('Jquery Adverts:: Created '+target);
+                        console.log('Jquery Adverts:: Dynamic Added::  data-adunit="'+adunit+" data-targeting="+JSON.stringify(meta)+"");
+                                                jQuery(target).attr('fwi-advert','true');
+
+                    }
+                }
+                        </script>
+        <link rel='stylesheet' id='weather_main_css-css'  href='http://www.fwi.co.uk/community/wp-content/plugins/fwi-weather/classes/fwiweathercss.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='weather_widget_css-css'  href='http://www.fwi.co.uk/community/wp-content/plugins/fwi-weather/classes/fwiweatherwidgetcss.css?ver=4.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-includes/js/comment-reply.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/plugins/rbi-detect-adblockers/block-checker.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.12-6148'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/htmlParser.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/postscribe.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-content/themes/canvas-community/includes/js/jquery.cookie.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.fwi.co.uk/community/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<!-- Eloqua end script -->
+        <script type='text/javascript' src='//6141146.collect.igodigital.com/collect.js'></script>
+        <script type='text/javascript'>
+        _etmc.push(['setOrgId', '6141146']);
+        _etmc.push(['trackPageView']);
+        </script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1638403931';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
+
+<!-- Dynamic page generated in 0.476 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-11-25 19:31:04 -->
+
+<!-- super cache -->

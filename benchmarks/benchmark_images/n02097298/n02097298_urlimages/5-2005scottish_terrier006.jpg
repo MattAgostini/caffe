@@ -1,0 +1,207 @@
+<!doctype html>
+<!--[if !IE]>
+<html class="no-js non-ie" lang="ja"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="no-js ie7" lang="ja"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="ja"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="no-js ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="ja"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>artsyken.com &#8211; Just another WordPress site</title>
+<link rel="alternate" type="application/rss+xml" title="artsyken.com &raquo; フィード" href="http://artsyken.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="artsyken.com &raquo; コメントフィード" href="http://artsyken.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/artsyken.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sparkling-bootstrap-css'  href='http://artsyken.com/wp-content/themes/sparkling/inc/css/bootstrap.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-icons-css'  href='http://artsyken.com/wp-content/themes/sparkling/inc/css/font-awesome.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C600%2C700%7CRoboto+Slab%3A400%2C300%2C700&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sparkling-style-css'  href='http://artsyken.com/wp-content/themes/sparkling/style.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://artsyken.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://artsyken.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://artsyken.com/wp-content/themes/sparkling/inc/js/modernizr.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://artsyken.com/wp-content/themes/sparkling/inc/js/bootstrap.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://artsyken.com/wp-content/themes/sparkling/inc/js/functions.min.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://artsyken.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://artsyken.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://artsyken.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<link rel="canonical" href="http://artsyken.com/" />
+<link rel='shortlink' href='http://artsyken.com/' />
+<style type="text/css"></style>
+</head>
+
+<body class="home page page-id-8 page-template-default">
+<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<div id="page" class="hfeed site">
+
+	<header id="masthead" class="site-header" role="banner">
+		<nav class="navbar navbar-default " role="navigation">
+			<div class="container">
+				<div class="row">
+					<div class="site-navigation-inner col-sm-12">
+						<div class="navbar-header">
+							<button type="button" class="btn navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+
+							
+							
+							<div id="logo">
+								<p class="site-name">									<a class="navbar-brand" href="http://artsyken.com/" title="artsyken.com" rel="home">artsyken.com</a>
+								</p>							</div><!-- end of #logo -->
+
+							
+						</div>
+											</div>
+				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+		<div class="top-section">
+								</div>
+
+		<div class="container main-content-area">
+            			<div class="row side-pull-left">
+				<div class="main-content-inner col-sm-12 col-md-8">
+
+	<div id="primary" class="content-area">
+
+		<main id="main" class="site-main" role="main">
+
+			
+				
+
+<div class="post-inner-content">
+<article id="post-8" class="post-8 page type-page status-publish hentry">
+	<header class="entry-header page-header">
+		<h1 class="entry-title">初めてのライブビューイング</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>初めて映画館で行われるライブビューイングに参加してきました。<br />
+<a href="http://dresskuchikomi.hatenablog.com/">タイドバイ　口コミ</a><br />
+ライブビューイングとは、「会場で行われているライブを生中継で映画館でみる」というものです。<br />
+できればライブ会場に行ってライブに参加したかったのですが今回は難しくライブ参戦諦めていた時に全国の映画館でライブビューイングが行われると知り、「これは行くしかない!」と思いさそっく調べてみたら奇跡的にチケットが残っていて速攻購入しました。<br />
+ですが、映画館でライブを観戦って実際どうなんだろうか&#8230;。と思い、チケット代よりは安いですが一応映画代よりは高かったので行ってみて微妙だったら嫌だなぁと不安がありました。<br />
+一応ペンライトは買っときました。ライブビューイング当日映画館には、明らかにファンである方たちがたくさんいらっしゃいました。<br />
+ライブTシャツ着てる方がたくさんいてライブビューイングなのにこんなに気合いいれるのかっ!って思わず圧倒されました。<br />
+実際はじまってみると立っている方もいましたが友達と私は照れくさくノリノリになるのが恥ずかしかったのですが終わる頃にははじまった時とは全く違くてかなりテンションマックスでかなり騒いでました。<br />
+ライブビューイングがこんなにも盛り上がるのか!!!と意外に楽しくて本当に参加してよかったなと思いました。<br />
+終わったあともしばらく余韻に浸り幸せな時間だったと今も改めて思います。<br />
+次もライブビューイングに参加できる機会があれば絶対参加したいと思いました。<br />
+ちなみにペンライトは使いませんでした。。。</p>
+<p>&nbsp;</p>
+
+    
+		</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+</div>
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div>
+	<div id="secondary" class="widget-area col-sm-12 col-md-4" role="complementary">
+		<div class="well">
+						<aside id="search-2" class="widget widget_search">
+<form role="search" method="get" class="form-search" action="http://artsyken.com/">
+  <div class="input-group">
+  	<label class="screen-reader-text" for="s">Search for:</label>
+    <input type="text" class="form-control search-query" placeholder="Search&hellip;" value="" name="s" title="Search for:" />
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Search"><span class="glyphicon glyphicon-search"></span></button>
+    </span>
+  </div>
+</form></aside><aside id="pages-2" class="widget widget_pages"><h3 class="widget-title">menu</h3>		<ul>
+			<li class="page_item page-item-11"><a href="http://artsyken.com/%e4%bb%8a%e3%81%95%e3%82%89%e7%9f%a5%e3%81%a3%e3%81%a6%e6%ac%b2%e3%81%97%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%81%e3%83%9f%e3%82%b9%e3%83%89%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc/">今さら知って欲しくなった、ミスドのキャンペーン商品</a></li>
+<li class="page_item page-item-13"><a href="http://artsyken.com/%e4%bb%8a%e3%81%95%e3%82%89%e7%9f%a5%e3%81%a3%e3%81%a6%e9%a9%9a%e3%81%8d%e3%80%81%e3%83%9f%e3%82%b9%e3%83%89%e3%81%ae%e6%96%b0%e5%95%86%e5%93%81%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84%e3%81%af%e8%b6%85/">今さら知って驚き、ミスドの新商品ドーナツは超ヘルシー</a></li>
+<li class="page_item page-item-6"><a href="http://artsyken.com/%e4%bd%95%e6%a7%98%e3%81%ae%e3%81%a4%e3%82%82%e3%82%8a%e3%81%aa%e3%82%93%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%ef%bc%9f/">何様のつもりなんでしょう？</a></li>
+<li class="page_item page-item-8 current_page_item"><a href="http://artsyken.com/">初めてのライブビューイング</a></li>
+<li class="page_item page-item-15"><a href="http://artsyken.com/%e5%ae%b6%e6%97%8f%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%a8%e6%97%a5%e5%b8%b8%e3%81%ae%e6%b5%81%e3%82%8c/">家族についてと日常の流れ</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">カテゴリー</h3>		<ul>
+<li class="cat-item-none">カテゴリーなし</li>		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">メタ情報</h3>			<ul>
+						<li><a href="http://artsyken.com/wp-login.php">ログイン</a></li>
+			<li><a href="http://artsyken.com/feed/">投稿の <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://artsyken.com/comments/feed/">コメントの <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://ja.wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div>
+	</div><!-- #secondary -->
+		</div><!-- close .row -->
+	</div><!-- close .container -->
+</div><!-- close .site-content -->
+
+	<div id="footer-area">
+		<div class="container footer-inner">
+			<div class="row">
+				
+				</div>
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="site-info container">
+				<div class="row">
+										<nav role="navigation" class="col-md-6">
+											</nav>
+					<div class="copyright col-md-6">
+						sparkling						Theme by <a href="http://colorlib.com/" target="_blank">Colorlib</a> Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a>					</div>
+				</div>
+			</div><!-- .site-info -->
+			<div class="scroll-to-top"><i class="fa fa-angle-up"></i></div><!-- .scroll-to-top -->
+		</footer><!-- #colophon -->
+	</div>
+</div><!-- #page -->
+
+  <script type="text/javascript">
+    jQuery( document ).ready( function( $ ){
+      if ( $( window ).width() >= 767 ){
+        $( '.navbar-nav > li.menu-item > a' ).click( function(){
+            if( $( this ).attr('target') !== '_blank' ){
+                window.location = $( this ).attr( 'href' );
+            }else{
+                var win = window.open($( this ).attr( 'href' ), '_blank');
+                win.focus();
+            }
+        });
+      }
+    });
+  </script>
+<script type='text/javascript' src='http://artsyken.com/wp-content/themes/sparkling/inc/js/skip-link-focus-fix.js?ver=20140222'></script>
+<script type='text/javascript' src='http://artsyken.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+</body>
+</html>

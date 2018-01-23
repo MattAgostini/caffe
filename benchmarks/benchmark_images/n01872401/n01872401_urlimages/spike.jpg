@@ -1,0 +1,293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:description" content="Welcome to
+
+
+CONNECT is a meeting place for the whole community – a virtual noticeboard for us all to use.
+
+Search CONNECT to find out more about Warrnambool join the CONNECT Warrnambool community on Facebook to stay up to date. 
+
+CONNECT Warrnambool makes it easy to find local groups, clubs and organisations; to get involved, find out what&#039;s on, ask questions &amp;amp; share ideas.
+
+Get more from where you live!
+" />
+<link rel="shortcut icon" href="http://www.connectwarrnambool.com.au/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:image" content="http://www.connectwarrnambool.com.au/sites/default/files/images/surf1.jpg" />
+<link rel="shortlink" href="/node/40" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/welcome-connect" />
+<meta property="og:title" content="Welcome to Connect" />
+   <meta property="og:image:width" content="500" />
+  <meta property="og:image:height" content="500" />
+  <meta property="og:image:type" content="image/jpg" />
+
+  <title>Welcome to Connect | www.connectwarrnambool.com.au</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <style type="text/css" media="all">
+@import url("http://www.connectwarrnambool.com.au/modules/system/system.base.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/system/system.menus.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/system/system.messages.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/system/system.theme.css?ovl3as");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.connectwarrnambool.com.au/modules/field/theme/field.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/node/node.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/search/search.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/modules/user/user.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/sites/all/modules/video_filter/video_filter.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/sites/all/modules/views/css/views.css?ovl3as");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.connectwarrnambool.com.au/sites/all/modules/ckeditor/ckeditor.css?ovl3as");
+@import url("http://www.connectwarrnambool.com.au/sites/all/modules/ctools/css/ctools.css?ovl3as");
+</style>
+<style type="text/css" media="screen">
+@import url("http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/css/small.css?ovl3as");
+</style>
+<style type="text/css" media="only screen and (min-width: 36em)">
+@import url("http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/css/medium.css?ovl3as");
+</style>
+<style type="text/css" media="only screen and (min-width: 81em)">
+@import url("http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/css/large.css?ovl3as");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/css/print.css?ovl3as");
+</style>
+   <!--[if (IE 8)]>
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/medium.css" title="complex layout" />
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/large.css" title="complex layout" />
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/ie.css" title="complex layout" />
+<![endif]-->
+<!--[if (IE 7)]>
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/medium.css" title="complex layout" />
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/large.css" title="complex layout" />
+<link rel="stylesheet" media="screen" href="/sites/all/themes/connect_production/css/ie.css" title="complex layout" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.connectwarrnambool.com.au/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.connectwarrnambool.com.au/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.connectwarrnambool.com.au/misc/drupal.js?ovl3as"></script>
+<script type="text/javascript" src="http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/scripts/connect_combined.js?ovl3as"></script>
+<script type="text/javascript" src="http://www.connectwarrnambool.com.au/sites/all/themes/connect_production/scripts/video_iframes.js?ovl3as"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"connect_production","theme_token":"B9TkpCKT4Lk4ImNNV3JrHKGIhNFzxrTEi--1wPbNCHw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/connect_production\/scripts\/connect_combined.js":1,"sites\/all\/themes\/connect_production\/scripts\/video_iframes.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/connect_production\/css\/small.css":1,"sites\/all\/themes\/connect_production\/css\/medium.css":1,"sites\/all\/themes\/connect_production\/css\/large.css":1,"sites\/all\/themes\/connect_production\/css\/print.css":1}},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"modulepath":"sites\/all\/modules\/video_filter"}});
+//--><!]]>
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6622691-24', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1612556185656782');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1612556185656782&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-40 node-type-page">
+    <!--Script to add in facebook feed functionality-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+	<div id="navigation">
+    	<div id="nav_upper">
+        <a class="logo" href="/index.php">Home</a> 
+          <div id="navlink">Show Menu</div>
+       <div id="navhide">Hide Menu</div>
+        <ul id="user_nav">
+        	<li><a href="/directory/administration/login.php">Login</a></li>
+            <li><a href="/directory/com_connectadd.php">Register</a></li>
+        </ul>
+        
+         <a class="contact" href="/contact-us">Contact Connect</a>
+          <div class="region region-top">
+    <div id="block-block-9" class="block block-block">
+
+    
+  <div class="content">
+    <p><a class="facebook" href="https://www.facebook.com/connectwarrnambool">Connect on Facebook</a></p>
+  </div>
+</div>
+  </div>
+         </div>
+        <ul id="main_nav">
+        	
+            <li><a href="/directory/com_connect_clubslist.php?cmd=reset">Connect with<br/>Clubs and Groups</a></li>
+        	<li><a href="/directory/com_connect_skillslist.php?cmd=reset">Connect with<br/>Local Skills and Resources</a></li>
+            <li><a href="/connect-volunteering">Connect with<br/>Volunteering</a></li>
+            <li><a href="/connect-whats">Connect with<br/>What's on</a></li>
+            <li><a href="/emergency-information">Connect with<br/>Emergency Information</a></li>
+        </ul>
+     
+       
+  
+    </div>
+	<div id="featured">
+    	  <div class="region region-featured">
+    <div id="block-views-images-block-2" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-images view-id-images view-display-id-block_2 view-dom-id-4fbeaad343c7b7af293531567d1fe117">
+        
+  
+  
+      <div class="view-content">
+        <div class="featured-shell">
+      
+          <div class="featured_image"><img typeof="foaf:Image" src="http://www.connectwarrnambool.com.au/sites/default/files/styles/bigpic/public/images/surf1.jpg?itok=ez2wo3QD" width="1600" height="400" alt="" /></div>
+<div class="featured_text"><h1>Welcome to Connect</h1><p>Welcome to<br /><img alt="" src="/sites/default/files/images/logo1.png" style="height:54px; width:242px" /></p>
+<p>CONNECT is a meeting place for the whole community – a virtual noticeboard for us all to use.</p>
+<p><a class="featured_button" href="directory/com_connect_clubslist.php?cmd=reset">Search CONNECT to find out more about Warrnambool </a><a class="featured_button second" href="https://www.facebook.com/connectwarrnambool">join the CONNECT Warrnambool community on Facebook to stay up to date. </a></p>
+<p>CONNECT Warrnambool makes it easy to find local groups, clubs and organisations; to get involved, find out what's on, ask questions &amp; share ideas.</p>
+<h2>Get more from where you live!</h2>
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+ 	</div>
+
+<!--COMMENT THIS OUT FOR NOW
+    <div id="titlearea">
+    	<h1>Welcome to Connect</h1>
+    </div>
+   --> 
+    <div id="contentarea">
+    							  <div class="region region-content">
+    <div id="block-block-8" class="block block-block">
+
+    
+  <div class="content">
+    <p><a class="arrow ltblue" href="/directory/com_connect_clubslist.php?cmd=reset">Connect with<br />
+Clubs and Groups</a><a class="arrow green" href="/directory/com_connect_skillslist.php?cmd=reset">Connect with<br />
+Local Skills and Resources</a><a class="arrow" href="/connect-volunteering">Connect with<br />
+Volunteering</a><a class="arrow yellow" href="/connect-whats">Connect with<br />
+What's On</a><a class="arrow dkblue" href="/emergency-information">Connect with<br />
+Emergency Information</a></p>
+  </div>
+</div>
+<div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-40" class="node node-page clearfix" about="/welcome-connect" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Welcome to Connect" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+      </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+    
+    
+    <div id="sub1">
+    	  <div class="region region-sub1">
+    <div id="block-block-10" class="block block-block">
+
+    
+  <div class="content">
+    <h2>connect today</br>like us on facebook</h2>
+<p>CONNECT is a meeting place for Warrnambool. It’s a virtual town centre and noticeboard that lifts the lid on Warrnambool with more information than ever before about local activities, projects, events and volunteering opportunities. </p><p>There’s a whole load of things to uncover and take advantage of </br>so get more from where you live:</p>  </div>
+</div>
+<div id="block-views-social-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-social view-id-social view-display-id-block_1 view-dom-id-804b3135f0ab083c0c37b25c263b1a65">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row-odd views-row-first views-row-last socialfeed">
+      
+          
+<div class="fb-page" data-href="https://www.facebook.com/connectwarrnambool?fref=ts" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+    </div>
+    
+    <div id="sub2">
+    	    </div>
+    
+    <div id="sub3">
+    	    </div>
+    
+	<div id="calltoconnect">
+		Get Connected!
+	</div>
+
+	<div id="footer">
+		<div class="inner">
+        	<h2>This is the Official Connect Website</h2>
+            <p>Connect is an initiative of your local Council and is supported by the state government</p>
+		  	<p>
+        		<a href="http://www.warrnambool.vic.gov.au" class="sponsor_logo wcc_logo">Warrnambool City Council</a>
+        		<a href="http://www.glenelg.vic.gov.au" class="sponsor_logo glenelg_logo">Glenelg Shire Council</a>
+        		<a href="https://www.rdv.vic.gov.au/" class="sponsor_logo state_logo">Victorian Government</a>
+        	</p>
+            <p><a href="/terms-and-conditions">By using this site you agree to the Terms and Conditions of use</a> | <a href="/disclaimer">Disclaimer</a></p>
+			<p>All Content Copyright © Connect 2017</p>
+			        	<p><a href="/user">Administrator Login</a></p>
+    	</div>
+	</div>
+
+
+  </body>
+</html>

@@ -1,0 +1,2200 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:g="http://base.google.com/ns/1.0" xml:lang="en-us" lang="en-us">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+        
+    
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://ento.psu.edu/extension/insect-image-gallery/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <title>Insect Image Gallery &mdash; Department of Entomology &mdash; Penn State University</title>
+
+
+
+<script type="text/javascript">
+    // Anti-framing script
+    if (top.location != self.location) {
+        top.location = self.location.href
+    }
+</script>
+
+
+
+
+    <!-- Open Graph Protocol info for Facebook -->    
+    <meta property="og:title" content="Insect Image Gallery (Department of Entomology)" />
+    <meta property="og:site_name" content="Department of Entomology (Penn State University)" />
+    <meta property="og:image" content="http://ento.psu.edu/extension/insect-image-gallery/leadImage" />
+    
+    <meta property="og:url" content="http://ento.psu.edu/extension/insect-image-gallery" />
+    <meta property="og:description" content="Images contributed by individuals committed to the enhancement of teaching and learning. The images may be freely used by faculty, students, and staff for noncommercial educational purposes." />    
+
+    <link rel="image_src" href="http://ento.psu.edu/extension/insect-image-gallery/leadImage" type="image/jpeg" title="Insect Image Gallery (Department of Entomology)" />
+
+    <meta property="fb:admins" content="100001031380608,9370853,100003483428817" />
+    <meta property="fb:page_id" content="53789486293" />
+    <meta property="fb:app_id" content="374493189244485" />
+
+    <!-- Twitter Metadata -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:url" content="http://ento.psu.edu/extension/insect-image-gallery" />
+    <meta name="twitter:title" content="Insect Image Gallery (Department of Entomology)" />
+    <meta name="twitter:description" content="Images contributed by individuals committed to the enhancement of teaching and learning. The images may be freely used by faculty, students, and staff for noncommercial educational purposes." />    
+    <meta name="twitter:image" content="http://ento.psu.edu/extension/insect-image-gallery/leadImage" />
+
+
+
+<meta content="Images contributed by individuals committed to the enhancement of teaching and learning. The images may be freely used by faculty, students, and staff for noncommercial educational purposes." name="description" />
+
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="http://ento.psu.edu/portal_css/agCommon/reset-cachekey-3f6aab09112743df27d1cd51d8adacab.css" />
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/base-cachekey-ba8b012594740e61ad6b038867fe8aa6.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://ento.psu.edu/portal_css/agCommon/collective.js.jqueryui.custom.min-cachekey-ebd5f3c7723fafa98c9944905ddbe060.css" />
+    <style type="text/css">@import url(http://ento.psu.edu/portal_css/agCommon/authoring-cachekey-7f558be2e3c57c842caf492533f74dbb.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://ento.psu.edu/portal_css/agCommon/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-2ed8d1f259fe5d7c47c3eb8643accca2.css" />
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/resourcecontentleadimage-cachekey-a749b658643cb88152728e155791ef33.css);</style>
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/elastislide-cachekey-5276fd2e154bb9a31f465bad57221a7d.css);</style>
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/jquery.fancybox-cachekey-27e13d6b08857c4f04fb18b6300dadda.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://ento.psu.edu/portal_css/agCommon/IEFixes-cachekey-f179552cf5099402872c84474bcaa397.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/ag_common-cachekey-cce372c06d4df3611d6ecdf7ddd89ec5.css);</style>
+    <style type="text/css">@import url(http://ento.psu.edu/portal_css/agCommon/site-cachekey-4fd3213c5ff5676e6beac60f5752d207.css);</style>
+        <!--[if IE 6]>    
+    
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/IE6Fixes-cachekey-9e4e3eb7b2832da5495a8e0d781d5dff.css);</style>
+        <![endif]-->
+    
+        <!--[if IE 7]>    
+    
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/IE7Fixes-cachekey-f3c7b546f9609257800a8d16719fb672.css);</style>
+        <![endif]-->
+    
+        <!--[if IE 8]>    
+    
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/IE8Fixes-cachekey-9637a9c99f3dda47b35df33761b3cc69.css);</style>
+        <![endif]-->
+    
+        <!--[if IE]>    
+    
+    <style type="text/css" media="print">@import url(http://ento.psu.edu/portal_css/agCommon/IEPrintFixes-cachekey-91a10e7a264e70e3cf3948509e53113c.css);</style>
+        <![endif]-->
+    
+    <style type="text/css">@import url(http://ento.psu.edu/portal_css/agCommon/resolution-520-portrait-cachekey-4212161aebc7d247ed78eca4f39ba4ba.css);</style>
+    <style type="text/css" media="all">@import url(http://ento.psu.edu/portal_css/agCommon/++resource++font-awesome/css/font-awesome.css);</style>
+
+  
+  
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/resourceplone.app.jquery-cachekey-176c108d5effa850cc6d7b289f7bf5bf.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/jquery.fancybox-cachekey-ed0a7862021c7d1cf6c78d7021604e4f.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/jquery.easing.1.3-cachekey-2ae58ecab2b7ccd72d02af0f87ec8179.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/kss-bbb-cachekey-b4b71cec77affd8f4f3d21eb6a7caac3.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/resourcejquery.watermarkinput-cachekey-1b41651de9934022b438d05ee611996f.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/swfobject-cachekey-740f7651dc20860e3c86f345da38cf15.js"></script>
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/ag_common-cachekey-86847a3c7ed629248b2d902970e33cbd.js"></script>
+       <!--[if lte IE 7]>
+     
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/fluid-images-cachekey-ef4a8d4d7b524ae481d53d7cbe2ecb83.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://ento.psu.edu/portal_javascripts/agCommon/jquery.flexslider-cachekey-7c8522d0ab01761e7ebb59836a9eb966.js"></script>
+
+
+<script type="application/ld+json">{
+    "image": "http://ento.psu.edu/extension/insect-image-gallery/leadImage"
+}</script>
+
+
+
+        
+
+
+
+
+
+    <link rel="canonical" href="http://ento.psu.edu/extension/insect-image-gallery" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://ento.psu.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://ento.psu.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script>
+
+
+
+    <link rel="search" href="http://ento.psu.edu/@@search" title="Search this site" />
+
+
+
+        <!-- Web Fonts -->
+        <link href="//fonts.googleapis.com/css?family=Open%20Sans&amp;subset=latin" rel="stylesheet" type="text/css" />
+
+        <link href="//fonts.googleapis.com/css?family=Open%20Sans:400&amp;subset=latin" rel="stylesheet" type="text/css" />
+
+        <link href="//fonts.googleapis.com/css?family=Open%20Sans:600&amp;subset=latin" rel="stylesheet" type="text/css" />
+
+        <link href="//fonts.googleapis.com/css?family=Open%20Sans:800&amp;subset=latin" rel="stylesheet" type="text/css" />
+        
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-folder_listing_z3 portaltype-folder site-ento.psu.edu section-extension subsection-insect-image-gallery userrole-anonymous department-site department-site-department department-name-style-one_line" dir="ltr">
+
+    
+
+        
+
+        <script src="https://apis.google.com/js/platform.js" async="async" defer="defer"></script>
+
+        <div id="fb-root"></div>
+    
+        <script type='text/javascript'>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '374493189244485', // App ID
+              channelUrl : 'http://ento.psu.edu/channel.html', // Channel File
+              status     : true, // check login status
+              cookie     : true, // enable cookies to allow the server to access the session
+              xfbml      : true  // parse XFBML
+            });
+    
+            // Additional initialization code here
+          };
+        
+          // Load the Facebook SDK Asynchronously
+          (function(d){
+             var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement('script'); js.id = id; js.async = true;
+             js.src = "//connect.facebook.net/en_US/all.js";
+             ref.parentNode.insertBefore(js, ref);
+           }(document));
+
+
+            /* Twitter Feed JavaScript Code */
+            
+            (function(d,s,id){
+                var js,fjs=d.getElementsByTagName(s)[0];
+                if(!d.getElementById(id))
+                {
+                    js=d.createElement(s);
+                    js.id=id;
+                    js.src="//platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js,fjs);
+                }
+            }(document,"script","twitter-wjs"));
+
+        </script>
+    
+
+    <div id="portal-top">
+        <div id="portal-header">
+    <p class="hiddenStructure">
+
+  <a accesskey="2" href="http://ento.psu.edu/extension/insect-image-gallery#content">Skip to content</a> 
+
+  <a accesskey="6" href="http://ento.psu.edu/extension/insect-image-gallery#portal-top-navigation">Skip to navigation</a>
+</p>
+
+
+
+
+
+
+
+    <div role="banner">
+
+        <a id="logo-site" href="//agsci.psu.edu">
+           
+           
+    
+           <img alt="Penn State University College of Agricultural Sciences" src="http://ento.psu.edu/penn-state-college-logo.png" />
+    
+           
+                
+        </a>
+    
+        <div id="logo-department">
+            
+            <a accesskey="1" href="http://ento.psu.edu">
+                
+                <span>
+                    Department of
+                </span>
+    
+                Entomology
+                
+            </a>
+        </div>
+
+    </div>
+
+
+<div id="portal-searchbox" data-menu-title="Search" data-menu-icon="http://ento.psu.edu/magnifying-glass.png">
+                              
+
+<form method="get" action="http://ento.psu.edu/process-search" class="searchform">
+<ul id="menu" class="show"> 
+    <li class="searchContainer"> 
+        
+         <ul id="search" class="">
+            
+                <li>
+                  <label for="college" tabindex="1">
+                    <input type="radio" name="choice" id="college" value="college" />
+                        <span>Search The College</span>
+                   </label>
+                </li>
+            
+            
+                <li>
+                  <label for="site" tabindex="2">
+                    <input type="radio" name="choice" checked="checked" id="site" value="site" />
+                        <span>Search Entomology</span>
+                   </label>
+                </li>
+            
+            
+                <li>
+                  <label for="section" tabindex="3">
+                    <input type="radio" name="choice" id="section" value="section" />
+                        <span>Search Insect Advice from Extension</span>
+                   </label>
+                </li>
+            
+            
+                <li>
+                  <label for="psu-web" tabindex="4">
+                    <input type="radio" name="choice" id="psu-web" value="psu-web" />
+                        <span>Search Penn State</span>
+                   </label>
+                </li>
+            
+            
+                <li>
+                  <label for="psu-people" tabindex="5">
+                    <input type="radio" name="choice" id="psu-people" value="psu-people" />
+                        <span>Search Penn State People</span>
+                   </label>
+                </li>
+            
+            
+                <li>
+                  <label for="psu-dept" tabindex="6">
+                    <input type="radio" name="choice" id="psu-dept" value="psu-dept" />
+                        <span>Search Penn State Departments</span>
+                   </label>
+                </li>
+            
+        </ul> 
+        <div>
+
+            <input type="hidden" name="path" value="/ento/ento.psu.edu/extension" />
+
+            <input type="text" name="searchString" id="searchString" title="Enter search text" autocomplete="off" value="" />
+                   
+            <input type="image" alt="Submit Form" class="searchbutton" src="http://ento.psu.edu/magnifying-glass.png" />     
+        </div> 
+       
+    </li> 
+</ul> 
+</form>
+</div>
+
+
+</div>
+
+
+
+<div id="portal-top-navigation" class="top-navigation" role="navigation" aria-label="Site Navigation">
+
+    <h2 class="hiddenStructure">Site Navigation</h2>
+
+    <ul>
+        
+            <li class="" data-topnav="home"><a href="http://ento.psu.edu/" title="">Home</a></li>
+        
+        
+            <li class="" data-topnav="majors"><a href="http://ento.psu.edu/majors" title="">Majors &amp; Minors</a></li>
+        
+        
+            <li class="" data-topnav="graduatestudents"><a href="http://ento.psu.edu/graduateprograms" title="">Graduate Program</a></li>
+        
+        
+            <li class="" data-topnav="kids"><a href="http://ento.psu.edu/kids" title="">Youth Programs</a></li>
+        
+        
+            <li class="" data-topnav="alumni"><a href="http://ento.psu.edu/alumni" title="">Alumni &amp; Friends</a></li>
+        
+        
+            <li class="" data-topnav="research"><a href="http://ento.psu.edu/research" title="">Research</a></li>
+        
+        
+            <li class="" data-topnav="public"><a href="http://ento.psu.edu/public" title="">Public</a></li>
+        
+    
+    </ul>
+
+    <div class="visualClear"><!-- --></div>
+
+</div>
+
+
+
+    </div>
+
+    <div id="visual-portal-wrapper">
+
+        <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-penn-state">
+        <a href="http://www.psu.edu">Penn State</a>
+    </span>    
+    <span class="breadcrumbSeparator">
+        &raquo;
+        
+    </span>
+
+    
+        <span id="breadcrumbs-agsci">
+            <a href="http://agsci.psu.edu">Ag Sciences</a>
+        </span>    
+        <span class="breadcrumbSeparator">
+            &raquo;
+            
+        </span>
+    
+
+    
+
+    <span id="breadcrumbs-home" class="">
+        <a href="http://ento.psu.edu">Entomology</a>
+        <span class="breadcrumbSeparator">
+            &raquo;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://ento.psu.edu/extension">Insect Advice from Extension</a>
+            <span class="breadcrumbSeparator">
+                &raquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Insect Image Gallery</span>
+         
+    </span>
+
+</div>
+
+<div id="section-title">
+
+    <a href="http://ento.psu.edu/extension">Insect Advice from Extension</a>
+
+</div>
+
+
+</div>
+
+        
+                      
+      <div id="portal-columns" role="presentation">
+
+            
+                
+                <div id="portal-column-one">
+                    
+                      
+<div data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a6e617669676174696f6e portlet-mobile-navigation">
+
+    <div class="left-column-navigation" role="navigation" aria-labelledby="left-column-navigation-header">
+        
+        <div class="hiddenStructure">
+            
+            <h2 class="portletHeader" id="left-column-navigation-header">
+                
+                <a href="http://ento.psu.edu/extension">Insect Advice from Extension</a>
+                                    
+            </h2>
+
+        </div>
+        
+        <div class="portlet portletNavigationTree standaloneNavigationTree">
+        
+            <div class="portletItem lastItem">
+                <ul class="navTree navTreeLevel0">
+                    
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-factsheets">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/factsheets" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Find detailed species descriptions in our collection of entomology fact sheets">
+            
+            <span>Fact Sheets</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-animals">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/animals" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Information on insect pests that prey on livestock animals including dairy, equine, poultry, sheep, goats, and swine.">
+            
+            <span>Animals</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-christmas-trees">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/christmas-trees" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Information on insects, weeds, culture, and diseases that affect Christmas trees in addition to weekly seasonal insect scouting reports. ">
+            
+            <span>Christmas Trees</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-field-crops">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/field-crops" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Resources that can help agricultural professionals manage insect populations in Pennsylvania's field and forage crops.">
+            
+            <span>Field Crops</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-fruit">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/fruit" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Information on the major pests of fruit crops in Pennsylvania and pest management practices for growing fruit crops such as tree fruits, grapes, brambles, and berries.">
+            
+            <span>Fruit</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-bees">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/bees" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Beekeeping can be a fascinating hobby, a profitable sideline, or a full-time occupation.">
+            
+            <span>Honey Bees (Apiculture)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-trees-shrubs">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/trees-shrubs" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Find answers to your questions regarding diagnosis and effective management of arthropod (insect and mite) pests of trees and shrubs in Pennsylvania. This section is designed to assist you with easier access to information on key arthropod pests of woody ornamental plants.">
+            
+            <span>Trees and Shrubs (Woody Ornamental Plants)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-spiders">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/spiders" class="state-atlas-archive navTreeFolderish contenttype-folder" title="">
+            
+            <span>Spiders</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-turfgrass">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/turfgrass" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Information on the major turfgrass pests of home lawns, commercial turf, and golf courses. Newsletters containing scouting reports, reference materials, and upcoming events/meetings are provided.">
+            
+            <span>Turfgrass</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-urban">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/urban" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Urban entomology is the study of insects and mites that affect people and their property, pests that damage structures, infest food or clothing, or those pests that are simply a nuisance to homeowners. This page contains information on household pests like cockroaches, food and fiber pests, ants, nuisance pests like stink bugs and lady beetles, wood damaging pests and medical or public health, stinging and biting insects.">
+            
+            <span>Urban and Public Health</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-vegetables">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/vegetables" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Find information that deals with the insects affecting vegetables, crop management, and the quality of products. Integrated pest management is a primary focus at Penn State.">
+            
+            <span>Vegetables</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-on-line-guides">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/on-line-guides" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Browse our online collection of informational guides for both homeowners and commercial growers.">
+            
+            <span>Online Guides</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-pesticide-information">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/pesticide-information" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Resources for making informed, safe decisions concerning pesticide use.">
+            
+            <span>Pesticide Information</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-insect-image-gallery">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/insect-image-gallery" class="state-atlas-archive navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-folder" title="Images contributed by individuals committed to the enhancement of teaching and learning. The images may be freely used by faculty, students, and staff for noncommercial educational purposes.">
+            
+            <span>Insect Image Gallery</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-information-in-spanish">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/information-in-spanish" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Estas páginas proveen materiales educativos sobre los insectos y otras plagas artrópodas, los métodos para manejar estas plagas, información sobre la seguridad con los pesticidas y el Manejo Integral de Plagas (IPM por sus siglas en inglés) y enlaces a páginas similares en otras universidades.
+">
+            
+            <span>Español Hoja de Información</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-free-ebooks">
+
+    
+
+
+        <a href="http://ento.psu.edu/extension/free-ebooks" class="state-atlas-archive navTreeFolderish contenttype-folder" title="Free Downloads of our popular fact sheets and publications. ">
+            
+            <span>Free eBooks</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+                </ul>
+            </div>
+        </div>
+    
+    </div>
+
+</div>
+
+<div data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a636f6e6e6563742d776974682d7573" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a636f6e6e6563742d776974682d7573" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a636f6e6e6563742d776974682d7573">
+
+<h2 class="portletHeader">Social Media</h2>
+
+
+<div class="portlet portletLinkIcon">
+
+    
+        <div class="portletItem">
+            <a href="http://bit.ly/psu-ento-fb" title="Facebook"><em class="title fa fa-fw fa-facebook-square"></em><span>Facebook</span>
+            </a>
+        </div>
+    
+    
+        <div class="portletItem">
+            <a href="http://bit.ly/psu-ento-twitter" title="Twitter"><em class="title fa fa-fw fa-twitter-square"></em><span>Twitter</span>
+            </a>
+        </div>
+            
+
+</div>
+
+</div>
+
+<div data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a657874656e73696f6e2d627574746f6e73" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a657874656e73696f6e2d627574746f6e73" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f656e746f2f656e746f2e7073752e6564752f657874656e73696f6e0a657874656e73696f6e2d627574746f6e73">
+
+
+
+<div class="portlet portletLinkButton">
+        
+    <div class="portletItem" data-linkbutton="graduate-program">
+        
+
+                    <a href="http://ento.psu.edu/graduatestudents/prospective?utm_source=Entomology%2BSite&amp;utm_medium=Web&amp;utm_campaign=Graduate%2BProgram%2BLink%2BFrom%2BExtension" title="">
+
+                        Entomology Graduate Program
+
+                        
+                    </a>
+
+            
+            
+    </div>
+
+</div>
+
+</div>
+
+
+
+
+                    
+                </div>
+                
+            
+
+            
+            <div id="portal-column-content" class="sl s1">
+
+              
+                
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content" role="main">
+                      
+        
+                      
+
+                        
+                            
+
+	<div id="addthis">
+
+        <h2>Share</h2>
+
+		<script type="text/javascript">
+		// From http://www.addthis.com/forum/viewtopic.php?f=8&amp;t=14972
+
+		var addthis_config = {
+		  data_use_flash: false,
+          data_track_linkback: true
+		}
+
+        var addthis_share = 
+        {
+            templates : {
+                twitter : '{{title}} - {{url}}'
+            },
+            url_transforms: {
+                shorten: {
+                    twitter : 'bitly',
+                    facebook : 'bitly'
+                },
+            },
+            shorteners: {
+                bitly: {}
+            }
+        }
+
+		</script>
+
+		<script async="async" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=agsciences"></script>
+
+		<!-- AddThis Button BEGIN -->
+		<div class="addthis_toolbox addthis_default_style">
+		
+		<a class="addthis_button_facebook" title="Share: Facebook"></a>
+		<a class="addthis_button_twitter" title="Share: Twitter"></a>
+		<a class="addthis_button_google_plusone" title="Share: Google Plus" g:plusone:count="false"></a>
+		<a class="addthis_button_email" title="Share: Email"></a>
+		
+		<a class="addthis_button_print" title="Print"></a>
+
+		
+
+		
+
+		</div>
+		
+		<!-- AddThis Button END -->
+		<div style="font-size: 0px; clear: both"><!-- --></div>
+
+        
+
+	</div>
+	
+
+
+
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Insect Image Gallery
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+
+
+
+
+                            
+                                
+                            
+
+                            
+                                
+                                
+                                
+                                    
+            
+                <div id="parent-fieldname-description" class="documentDescription">
+                   Images contributed by individuals committed to the enhancement of teaching and learning. The images may be freely used by faculty, students, and staff for noncommercial educational purposes.
+                </div>
+            
+            
+        
+                                
+                            
+
+                            
+
+    <div class="contentLeadImageContainer">
+    
+        <a id="parent-fieldname-leadImage" href="http://ento.psu.edu/extension/insect-image-gallery/leadImage_galleryzoom">
+    
+            <picture>
+    
+                <source media=" (max-width: 480px)" srcset="http://ento.psu.edu/extension/insect-image-gallery/leadImage_full-width" />
+           
+                <img src="http://ento.psu.edu/extension/insect-image-gallery/leadImage_leadimage" alt="Insect Image Gallery" title="Insect Image Gallery" height="152" width="304" class="" />
+    
+            </picture>
+        </a>
+    
+        
+    
+        
+    
+    </div>
+
+
+
+
+
+
+
+                            <div id="content-text" class="documentText">
+                                
+
+    <div>
+<p>To use these images for commercial purposes, prior approval by individual photographers must be obtained. Images without photographer information are property of the Penn State Department of Entomology. For more information, call 814-865-1896 or e-mail <a class="external-link" href="mailto:entomology@psu.edu">entomology@psu.edu</a>.</p>
+</div>
+
+
+                            </div>
+
+                            <div id="content-core" class="documentText">
+                                
+
+
+    
+
+    
+
+    
+
+        
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-folder">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/all-images" class=" state-atlas-archive url">All Images</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-folder">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/by-order" class=" state-atlas-archive url">Insect Images By Order</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/ants-and-termites" class=" state-atlas-archive url">Ants and Termites</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/bees-and-wasps" class=" state-atlas-archive url">Bees and Wasps</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/beetles" class=" state-atlas-archive url">Beetles</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/beneficial-insects" class=" state-atlas-archive url">Beneficial Insects</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/butterflies-and-moths" class=" state-atlas-archive url">Butterflies and Moths</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/evergreen-and-conifer" class=" state-atlas-archive url">Evergreen and Conifer</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/field-crops" class=" state-atlas-archive url">Field Crops</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/flies" class=" state-atlas-archive url">Flies</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/fruit" class=" state-atlas-archive url">Fruit</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-folder">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/honey-bees" class=" state-atlas-archive url">Honey Bees</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/household" class=" state-atlas-archive url">Household</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/invasive-species" class=" state-atlas-archive url">Invasive Species</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/pantry-pests" class=" state-atlas-archive url">Pantry Pests</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/public-health" class=" state-atlas-archive url">Public Health</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/spiders" class=" state-atlas-archive url">Spiders</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/stored-grains" class=" state-atlas-archive url">Stored Grains</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/ticks" class=" state-atlas-archive url">Ticks</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/trees-and-shrubs" class=" state-atlas-archive url">Trees and Shrubs</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/turfgrass" class=" state-atlas-archive url">Turfgrass</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+            
+            
+                
+                    <div class="tileItem visualIEFloatFix contenttype-collection">
+                    
+
+                        
+
+                        <div class="tileTitle no-description">
+
+                            
+                            <a href="http://ento.psu.edu/extension/insect-image-gallery/vegetables" class=" state-atlas-archive url">Vegetables</a>
+                           
+                        </div>
+
+                        
+
+                       
+                   
+
+                    
+                        
+                    
+
+                    
+
+                        
+
+                    
+
+                    <div class="tileDescription no-description">
+                        
+                            
+                        
+
+                        
+
+                           
+                        
+
+                    </div>
+
+                    
+                </div>
+
+
+            
+            
+            
+        
+
+        <!-- Navigation -->
+        
+            
+
+    <!-- Navigation -->
+
+
+  
+
+
+
+
+
+        
+
+    
+    
+        
+        
+    
+
+    
+    
+
+
+
+                            </div>
+
+                            
+
+                            
+
+                            
+
+<div class="visualClear" id="clear-space-before-relatedItemBox"><!-- --></div>
+
+
+
+<div class="social-media">
+
+    <div class="fb-like" data-layout="button_count" data-action="recommend" data-show-faces="false" data-share="false" data-href="http://ento.psu.edu/extension/insect-image-gallery"></div>
+
+    <div id="googleplusone">
+        <g:plusone size="standard" href="http://ento.psu.edu/extension/insect-image-gallery"></g:plusone>
+    </div>
+
+</div>
+
+
+
+    <div id="portlets-below" class="row tileItemContainer">
+        
+        
+    </div>
+    
+    
+    
+
+
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                
+              
+
+            </div>
+            
+
+            
+                
+                
+                
+            
+
+
+      </div>
+      
+
+    </div>
+
+
+    <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+    
+        
+        
+            <div id="portal-footer" role="contentinfo">
+	<p>
+		<abbr title="Copyright">&copy;</abbr>
+		2017
+		
+	      <a href="http://agsci.psu.edu">College of Agricultural Sciences</a>
+          
+		
+	</p>
+
+    <p class="footerLinks">
+        
+        <a href="http://www.psu.edu/ur/legal.html" id="privacy" title="">Privacy and Legal Statements</a>
+        <span class="footerSeparator">&mdash;</span>
+        
+        
+        <a href="http://agsci.psu.edu/accessibility" id="accessibility" title="">Accessibility</a>
+        <span class="footerSeparator">&mdash;</span>
+        
+        
+        <a href="http://ento.psu.edu/contact" id="contact" title="">Contact Us</a>
+        
+        
+    </p>
+
+</div>
+
+
+
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-4037316-1', 'auto');  ga('require', 'linkid', 'linkid.js');  ga('send', 'pageview');</script>
+
+
+
+    <div id="portlets-above-footer" class="row tileItemContainer">
+        
+        
+    </div>
+    
+    
+    
+
+
+        
+        
+    
+    <div class="visualClear"><!-- --></div>
+
+</body>
+</html>
+

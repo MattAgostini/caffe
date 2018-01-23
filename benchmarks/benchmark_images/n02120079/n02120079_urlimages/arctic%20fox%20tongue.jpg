@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://foxproject.org.uk/xmlrpc.php">
+
+<title>The Fox Project - Southern Wildlife Ambulance Network</title>
+
+<!-- All in One SEO Pack 2.4.2 by Michael Torbert of Semper Fi Web Design[252,346] -->
+<meta name="description"  content="A charity dedicated to the protection, rescue, and advocacy for the wild fox. Offers advice, treatments and deterrents. Located in Kent, UK." />
+
+<link rel="canonical" href="http://foxproject.org.uk/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-30044079-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Fox Project &raquo; Feed" href="http://foxproject.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Fox Project &raquo; Comments Feed" href="http://foxproject.org.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foxproject.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpfb-css'  href='//foxproject.org.uk/wp-content/plugins/wp-filebase/wp-filebase.css?t=1490726803&#038;ver=3.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://foxproject.org.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='http://foxproject.org.uk/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fcbk_stylesheet-css'  href='http://foxproject.org.uk/wp-content/plugins/facebook-button-plugin/css/style.css?ver=4.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jpibfi-style-css'  href='http://foxproject.org.uk/wp-content/plugins/jquery-pin-it-button-for-images/css/client.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='customizer_dustlandexpress_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3Aregular%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<link rel='stylesheet' id='dustlandexpress-google-body-font-default-css'  href='//fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;ver=1.2.91' type='text/css' media='all' />
+<link rel='stylesheet' id='dustlandexpress-google-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700italic%2C300%2C700%2C500italic%2C300italic%2C400&#038;ver=1.2.91' type='text/css' media='all' />
+<link rel='stylesheet' id='dustlandexpress-font-awesome-css'  href='http://foxproject.org.uk/wp-content/themes/dustland-express/includes/font-awesome/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dustlandexpress-style-css'  href='http://foxproject.org.uk/wp-content/themes/dustland-express/style.css?ver=1.2.91' type='text/css' media='all' />
+<link rel='stylesheet' id='dustlandexpress-woocommerce-style-css'  href='http://foxproject.org.uk/wp-content/themes/dustland-express/templates/css/dustlandexpress-woocommerce-style.css?ver=1.2.91' type='text/css' media='all' />
+<link rel='stylesheet' id='dustlandexpress-header-centered-style-css'  href='http://foxproject.org.uk/wp-content/themes/dustland-express/templates/css/dustlandexpress-header-centered.css?ver=1.2.91' type='text/css' media='all' />
+<link rel='stylesheet' id='button-shortcode-styles-css'  href='http://foxproject.org.uk/wp-content/plugins/easy-shortcode-buttons/buttons-style.css?ver=4.7.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://foxproject.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://foxproject.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://foxproject.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.7" />
+<meta name="generator" content="WooCommerce 3.2.1" />
+<link rel='shortlink' href='http://foxproject.org.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://foxproject.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffoxproject.org.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://foxproject.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ffoxproject.org.uk%2F&#038;format=xml" />
+
+<meta property="og:title" content="Welcome to the Fox Project Website"/>
+<meta property="og:site_name" content="The Fox Project"/>        <style type="text/css">
+            a.pinit-button.custom {
+                        }
+
+            a.pinit-button.custom span {
+                        }
+
+            .pinit-hover {
+                opacity: 0.5 !important;
+                filter: alpha(opacity=50) !important;
+            }
+        </style>
+
+				<style>span>iframe{
+			max-width:none !important;
+		}     
+		</style>
+		
+<style>
+
+p#billing_address_2_field .required{
+	display:none;
+}
+p#billing_state_field .required{
+	display:none;
+}
+</style>
+<style>
+
+p#shipping_address_2_field .required{
+	display:none;
+}
+p#shipping_state_field .required{
+	display:none;
+}
+</style><!-- <meta name="NextGEN" version="2.2.14" /> -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- Begin Custom CSS -->
+<style type="text/css" id="kaira-custom-css">
+a,
+                .search-btn,
+                .site-title a,
+                .error-404.not-found .page-header .page-title span,
+                .search-button .fa-search{color:#45873c;}#comments .form-submit #submit,
+                .search-block .search-submit,
+                .no-results-btn,
+                button,
+                input[type="button"],
+                input[type="reset"],
+                input[type="submit"],
+                .home-slider-prev,
+                .home-slider-next,
+                .woocommerce ul.products li.product a.add_to_cart_button, .woocommerce-page ul.products li.product a.add_to_cart_button,
+                .woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale,
+                .woocommerce button.button.alt,
+                .woocommerce-page button.button.alt,
+                .woocommerce input.button.alt:hover,
+                .woocommerce-page #content input.button.alt:hover,
+                .woocommerce .cart-collaterals .shipping_calculator .button,
+                .woocommerce-page .cart-collaterals .shipping_calculator .button,
+                .woocommerce a.button,
+                .woocommerce-page a.button,
+                .woocommerce input.button,
+                .woocommerce-page #content input.button,
+                .woocommerce-page input.button,
+                .woocommerce #review_form #respond .form-submit input,
+                .woocommerce-page #review_form #respond .form-submit input,
+                .woocommerce span.onsale,
+                .header-cart:hover .header-cart-checkout .fa,
+                .main-navigation a:hover,
+                .main-navigation li.current-menu-item > a,
+                .main-navigation li.current_page_item > a,
+                .main-navigation li.current-menu-parent > a,
+                .main-navigation li.current_page_parent > a,
+                .main-navigation li.current-menu-ancestor > a,
+                .main-navigation li.current_page_ancestor > a,
+                .main-navigation button,
+                .woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+                .wpcf7-submit{background:inherit;background-color:#45873c;}.header-cart-checkout.cart-has-items .fa-shopping-cart{background-color:#45873c !important;}.woocommerce ul.products li.product .onsale:after,
+                .woocommerce-page ul.products li.product .onsale:after{border-right:4px solid #45873c;}a:hover,
+                .widget-area .widget a:hover,
+                .site-footer-widgets a:hover,
+                .search-btn:hover,
+                .search-button .fa-search:hover,
+                .woocommerce #content div.product p.price,
+                .woocommerce-page #content div.product p.price,
+                .woocommerce-page div.product p.price,
+                .woocommerce #content div.product span.price,
+                .woocommerce div.product span.price,
+                .woocommerce-page #content div.product span.price,
+                .woocommerce-page div.product span.price,
+
+                .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+                .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+                .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+                .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active{color:#dd9933;}.main-navigation button:hover,
+                #comments .form-submit #submit:hover,
+                .search-block .search-submit:hover,
+                .no-results-btn:hover,
+                button,
+                input[type="button"],
+                input[type="reset"],
+                input[type="submit"],
+                .home-slider-prev:hover,
+                .home-slider-next:hover,
+                .woocommerce input.button.alt,
+                .woocommerce-page #content input.button.alt,
+                .woocommerce .cart-collaterals .shipping_calculator .button,
+                .woocommerce-page .cart-collaterals .shipping_calculator .button,
+                .woocommerce a.button:hover,
+                .woocommerce-page a.button:hover,
+                .woocommerce input.button:hover,
+                .woocommerce-page #content input.button:hover,
+                .woocommerce-page input.button:hover,
+                .woocommerce ul.products li.product a.add_to_cart_button:hover, .woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+                .woocommerce button.button.alt:hover,
+                .woocommerce-page button.button.alt:hover,
+                .woocommerce #review_form #respond .form-submit input:hover,
+                .woocommerce-page #review_form #respond .form-submit input:hover,
+                .woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+                .wpcf7-submit:hover{background:inherit;background-color:#dd9933;}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}
+</style>
+<!-- End Custom CSS -->
+    <style type="text/css" media="screen">
+            </style>
+<!-- WooCommerce Colors -->
+<style type="text/css">
+
+</style>
+<!--/WooCommerce Colors-->
+<link rel='stylesheet' id='fm-jquery-ui-css'  href='http://foxproject.org.uk/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=1.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fm-frontend-css'  href='http://foxproject.org.uk/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=1.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fm-googlefonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Droid+Sans|Lato|Open+Sans+Condensed|PT+Sans|Ubuntu|PT+Sans+Narrow|Yanone+Kaffeesatz|Roboto+Condensed|Source+Sans+Pro|Nunito|Francois+One|Roboto|Raleway|Arimo|Cuprum|Play|Dosis|Abel|Droid+Serif|Arvo|Lora|Rokkitt|PT+Serif|Bitter|Merriweather|Vollkorn|Cantata+One|Kreon|Josefin+Slab|Playfair+Display|Bree+Serif|Crimson+Text|Old+Standard+TT|Sanchez|Crete+Round|Cardo|Noticia+Text|Judson|Lobster|Unkempt|Changa+One|Special+Elite|Chewy|Comfortaa|Boogaloo|Fredoka+One|Luckiest+Guy|Cherry+Cream+Soda|Lobster+Two|Righteous|Squada+One|Black+Ops+One|Happy+Monkey|Passion+One|Nova+Square|Metamorphous|Poiret+One|Bevan|Shadows+Into+Light|The+Girl+Next+Door|Coming+Soon|Dancing+Script|Pacifico|Crafty+Girls|Calligraffitti|Rock+Salt|Amatic+SC|Leckerli+One|Tangerine|Reenie+Beanie|Satisfy|Gloria+Hallelujah|Permanent+Marker|Covered+By+Your+Grace|Walter+Turncoat|Patrick+Hand|Schoolbell|Indie+Flower&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='fm-animate-css'  href='http://foxproject.org.uk/wp-content/plugins/form-maker/css/fm-animate.css?ver=1.12.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://foxproject.org.uk/wp-includes/css/dashicons.min.css?ver=4.7.7' type='text/css' media='all' />
+</head>
+<body class="home page-template-default page page-id-42">
+<div id="page">
+<header id="masthead" class="site-header border-bottom kra-header-layout-centered  kra-header-no-slider" role="banner">
+    
+        
+        
+    
+    <div class="site-top-bar border-bottom">
+        
+        <div class="site-container">
+            
+                        
+            <div class="site-top-bar-left">
+                
+                                
+                <a href="mailto:&#102;%6f%78%40&#102;&#111;x%70%72%6fj%65ct%2e%6f&#114;%67.%75&#107;" title="Send Us an Email" class="social-email"><i class="fa fa-envelope-o"></i></a><a href="https://www.facebook.com/pages/The-Fox-Project/143198679641?ref=ts&#038;fref=ts" target="_blank" title="Find Us on Facebook" class="social-facebook"><i class="fa fa-facebook"></i></a><a href="http://@thefoxproject" target="_blank" title="Follow Us on Instagram" class="social-instagram"><i class="fa fa-instagram"></i></a>                
+            </div>
+            <div class="site-top-bar-right">
+                
+                <div class="site-top-bar-right-text">Mobile Ambulance (9am-9pm Daily) : 01892 731565</div>
+                
+                                
+                                            <div class="site-header-right-link"><a href="http://foxproject.org.uk/my-account/" title="Login">Sign In / Register</a></div>
+                                        <div class="header-cart">
+                        <a class="header-cart-contents" href="http://foxproject.org.uk/cart/" title="View your shopping cart">
+                            <span class="header-cart-amount">
+                                <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> (0)                            </span>
+                            <span class="header-cart-checkout">
+                                <i class="fa fa-shopping-cart"></i>
+                            </span>
+                        </a>
+                    </div>
+                    
+                                
+                                
+            </div>
+            <div class="clearboth"></div>
+            
+        </div>
+    </div>
+
+
+<div class="site-container">
+    
+    <div class="site-header-branding ">
+        
+                    <h1 class="site-title"><a href="http://foxproject.org.uk/" title="The Fox Project">The Fox Project</a></h1>
+            <h2 class="site-description">Southern Wildlife Ambulance Network &#8211; Charity No. 1044928</h2>
+                
+    </div>
+    
+</div>
+
+<nav id="site-navigation" class="main-navigation" role="navigation">
+    <span class="header-menu-button"><i class="fa fa-bars"></i><span>Menu</span></span>
+    <div id="main-menu" class="main-menu-container">
+        <span class="main-menu-close"><i class="fa fa-angle-right"></i><i class="fa fa-angle-left"></i></span>
+        <div class="site-container">
+            <div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-42 current_page_item menu-item-222"><a href="http://foxproject.org.uk/">Home</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="http://foxproject.org.uk/about-us/">About Us</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="http://foxproject.org.uk/newsletter/">Newsletters</a></li>
+<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://foxproject.org.uk/news/">News</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://foxproject.org.uk/how-you-can-help/">How you can help</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-233"><a href="http://foxproject.org.uk/fox-facts/">Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="http://foxproject.org.uk/deterrence/">Humane Fox Deterrence</a></li>
+	<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="http://foxproject.org.uk/fox-facts/red-fox-diet/">Red Fox Diet Leaflet</a></li>
+	<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="http://foxproject.org.uk/fox-facts/disease-aggression/">Disease &#038; Aggression Leaflet</a></li>
+	<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="http://foxproject.org.uk/fox-facts/sarcoptic-mange/">Sarcoptic Mange Leaflet</a></li>
+	<li id="menu-item-1351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href="http://foxproject.org.uk/foxy-facts-for-children/">Foxy facts for children</a></li>
+</ul>
+</li>
+<li id="menu-item-1011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1011"><a href="http://foxproject.org.uk/shop/">Online Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-1014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1014"><a href="http://foxproject.org.uk/my-account/">My Account</a></li>
+	<li id="menu-item-1013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1013"><a href="http://foxproject.org.uk/checkout/">Checkout</a></li>
+	<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="http://foxproject.org.uk/cart/">Cart</a></li>
+</ul>
+</li>
+</ul></div>            <div class="clearboth"></div>
+        </div>
+    </div>
+</nav><!-- #site-navigation -->        
+        
+</header><!-- #masthead -->
+
+	
+	    
+    <!-- No Slider -->
+    
+	
+
+<div id="content" class="site-content site-container content-has-sidebar">    
+    
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+            
+            
+			
+				
+<article id="post-42" class="post-42 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<input class="jpibfi" type="hidden"><h5 style="text-align: center;"><b>The Fox Project is a registered charity dedicated to the Red Fox. Charity no. 1044928</b></h5>
+<h5><a href="http://foxproject.org.uk/wp-content/uploads/2011/08/fox_project_logo.jpg"><img class=" size-full wp-image-90 alignleft" src="http://foxproject.org.uk/wp-content/uploads/2011/08/fox_project_logo.jpg" alt="fox_project_logo" width="170" height="201" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://foxproject.org.uk/" data-jpibfi-post-title="Welcome to the Fox Project Website" data-jpibfi-src="http://foxproject.org.uk/wp-content/uploads/2011/08/fox_project_logo.jpg" ></a></h5>
+<p><b>Mobile Ambulance<br />
+01892 731565 (9.00am &#8211; 9.00pm Daily)<br />
+</b>If calling outside&nbsp;these hours, please call the RSPCA on 0300 1234 999</p>
+<p><b>Admin Office<br />
+01892 824111 </b>(Monday and Tuesday; 9.00am until&nbsp;Noon.Wednesday; 2.00pm until 5.00pm. Thursday and Friday; 9.00am until 3.00pm)</p>
+<p><strong>Email &nbsp; &nbsp; &nbsp; fox@foxproject.org.uk </strong>(not constantly monitored so please do not leave emergency enquiries)</p>
+<p><a href="mailto:fox@foxproject.org.uk"><br />
+</a><strong>Address&nbsp;&nbsp; </strong>Broadwater Forest Wildlife Hospital, Fairview Lane, Tunbridge Wells, Kent TN3 9LU</p>
+<p>(Charity Registration Address: The Lodge,&nbsp;Kings Toll Road,&nbsp;Pembury, Kent,&nbsp;TN2 4BE)</p>
+<p><strong>Our Service<br />
+</strong></p>
+<p>Our rescue catchment area covers a 70 x 60 mile area. &nbsp;The eastern edge covers the Kent coastline from Isle of Sheppey to the Thames at Woolwich, South London. The western border is based on the A22 between Forest Row, East Sussex and Croydon, Surrey. &nbsp;Our southernmost points are Charing, Kent and Mayfield, East Sussex and we extend into South London as far as Lewisham, Blackheath and Woolwich. &nbsp;Apart from the RSPCA, who have nationwide cover&nbsp;(see tel no. above), our ambulance or admin lines may be able to put you in contact with rescue groups outside our area.</p>
+<p>Our ambulance service depends on your assistance in providing casualty location and, in some cases, waiting with a casualty until rescuers arrive. &nbsp;But they will only attend on the basis of accurate information from yourself about the animal&#8217;s state. &nbsp;There is no point our sending an ambulance to an animal you are unable to approach as we can&#8217;t get any closer than you and, unless the animal can be cornered, secured or contained, it must be netted &#8216;on the run&#8217;. &nbsp;It won&#8217;t come to hand and you can&#8217;t simply put a collar or lead on a wild animal. &nbsp;In many cases, if an animal is not approachable but is a regular visitor, cage trapping might be the more appropriate option. &nbsp;But&nbsp;this depends on several factors which take us into both legal and ethical areas and will require you to monitor, bait and set the trap on your own property, advising us as soon as the animal is captured. &nbsp;You should also be aware we have no right of entry to property without the landowner&#8217;s or tenant&#8217;s permission and we will not place cage traps on land or property which is accessible to the general public.</p>
+<p>Adult fox casualties are always returned to their home territory. We are not in the business of re-locating wild animals. &nbsp;In fact, we have a standing reward of £1000 &#8211; in common with several allied organisations and individuals &#8211; for information leading to a conviction under the Animal Welfare Act 2006 for any person who does so, unless it is under carefully controlled circumstances.</p>
+<div class="fcbk_share"><div class="fcbk_like"><fb:like href="http://foxproject.org.uk/" action="like" colorscheme="light" layout="button_count"  size="small" share="false"></fb:like></div></div><div style="clear:both;"></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="black-studio-tinymce-7" class="widget widget_black_studio_tinymce"><div class="textwidget"><p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KVEJKC92UPLZY" target="_blank"><img class="alignnone size-medium wp-image-3867" src="http://foxproject.org.uk/wp-content/uploads/2016/03/paypaldonate-300x69.jpg" alt="" width="300" height="69" /></a></p>
+</div></aside><aside id="text-15" class="widget widget_text">			<div class="textwidget"><a title="Find us on Facebook" href="http://www.facebook.com/pages/The-Fox-Project/143198679641" target="_blank"><img class="alignnone size-medium wp-image-292" title="facebookIcon" alt="" src="http://foxproject.org.uk/wp-content/uploads/2012/03/facebookIcon.jpg" width="250" height="75" /></a></div>
+		</aside><aside id="text-13" class="widget widget_text">			<div class="textwidget"><a title="Donate Now" href="http://www.charitychoice.co.uk/fox-project-the-1099" target="_blank"> <img alt="Donate Now Button" src="http://www.charitychoice.co.uk/_global/images/logo-charities.png" width="240" height="180" /> </a></div>
+		</aside><aside id="text-16" class="widget widget_text">			<div class="textwidget"><a href="http://www.easyfundraising.org.uk" target="_blank"> <img src="http://foxproject.org.uk/wp-content/uploads/2016/06/easyfundraising.png" border="0" alt="Donate Online" ></a><a title="Donate Now"></div>
+		</aside><aside id="text-17" class="widget widget_text">			<div class="textwidget"><a href="http://www.giveasyoulive.com/join/the-fox-project/ct44568" target="_blank"><img class="aligncenter" style="border: none;" alt="" src="http://www.everyclick.com/images/gayl/toolkit/jbso/button.png" /></a></div>
+		</aside><aside id="text-21" class="widget widget_text">			<div class="textwidget"><a href="//widgets.justgiving.com/Button/Redirect?p=eyJJZCI6IjhiZGRiNmUzLTJlNGQtNGIwYi05MTFlLTYyYTA0NTZjYTJkZiIsIkNoYXJpdHlJZCI6Nzk1MzEyLCJTaXplIjoicyIsIlJlZmVyZW5jZSI6IiIsIlR5cGUiOiJEb25hdGUifQ==" target="_blank"><img src="http://foxproject.org.uk/wp-content/uploads/2017/04/just-giving.png" /></a> </div>
+		</aside><aside id="text-20" class="widget widget_text">			<div class="textwidget"><a title="Amazon Wishlist" href="http://www.amazon.co.uk/gp/registry/wishlist/1HM1AINQV02Q9" target="_blank"><img class="alignnone size-medium wp-image-292" title="Wishlist" alt="" src="http://foxproject.org.uk/wp-content/uploads/2011/08/SU_AmazonWishlist_480x150_D.jpg" width="250" height="75" /></a></div>
+		</aside></div><!-- #secondary --></div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        	            <ul>
+                <li id="black-studio-tinymce-6" class="widget widget_black_studio_tinymce"><div class="textwidget"></div></li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Latest News</h2>
+		<ul>
+					<li>
+				<a href="http://foxproject.org.uk/project-updates/">Project updates</a>
+						</li>
+					<li>
+				<a href="http://foxproject.org.uk/whats-going-on-in-the-media/">Whats Going on in the media?</a>
+						</li>
+				</ul>
+		</li>
+		<li id="black-studio-tinymce-2" class="widget widget_black_studio_tinymce"><h2 class="widgettitle">Useful Links</h2>
+<div class="textwidget">"The most useful online source of information on foxes prepared by the UK's leading experts."
+<h3 class="widgettitle">Recommended humane fox deterrence specialists</h3>
+<a href="http://www.thefoxwebsite.org/"><img class=" alignleft" src="http://foxproject.org.uk/wp-content/uploads/2012/03/logo.gif" alt="" width="150" height="20" /></a>
+<h3 class="widgettitle"> <a href="http://www.jbryant.co.uk" target="_blank" rel="attachment wp-att-261"><img class="alignnone size-full wp-image-261" src="http://foxproject.org.uk/wp-content/uploads/2012/03/john_bryant.gif" alt="JOHN BRYANT  Animal Welfare Consultant Humane Wildlife Deterrence Association " width="88" height="110" /></a></h3>
+<a href="http://www.fox-a-gon.co.uk" target="_blank"><img class=" size-medium wp-image-260 alignleft" title="fox_a_gone" src="http://foxproject.org.uk/wp-content/uploads/2012/03/fox_a_gone.jpg" alt="" width="250" height="43" /></a>
+<p style="text-align: left;"><a href="http://www.foxolutions.co.uk/"><img class=" size-medium wp-image-259 alignleft" title="fox_solutions" src="http://foxproject.org.uk/wp-content/uploads/2012/03/fox_solutions.jpg" alt="" width="250" height="35" /></a></p></div></li>
+            </ul>
+                        <div class="clearboth"></div>
+        </div>
+    </div>
+	
+		<div class="site-footer-bottom-bar"><div class="site-container"><div class="site-footer-bottom-bar-left">Theme: Dustland Express by <a href="https://www.kairaweb.com/">Kaira</a></div><div class="site-footer-bottom-bar-right">			
+	                            
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer> <!-- .site-footer -->
+</div> <!-- #page -->
+<!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/foxproject.org.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"The Fox Project","image_selector":"div.jpibfi_container img","disabled_classes":"nopin;wp-smiley","enabled_classes":"","min_image_height":5,"min_image_height_small":5,"min_image_width":5,"min_image_width_small":5,"show_on":"[front],[single],[page],[category],[archive],[search],[home]","disable_on":"","show_button":"hover","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"top-left","description_option":["post_title"],"pinLinkedImages":false,"transparency_value":0.5,"pin_image":"default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","pinImageHeight":54,"pinImageWidth":54,"scroll_selector":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=2.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/foxproject.org.uk\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"http:\/\/foxproject.org.uk\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/foxproject.org.uk\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/foxproject.org.uk\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_140ad63b5ec7a158f3de4aa41daf136c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/themes/dustland-express/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.2.91'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/themes/dustland-express/js/custom.js?ver=1.2.91'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/themes/dustland-express/js/skip-link-focus-fix.js?ver=1.2.91'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/wp-embed.min.js?ver=4.7.7'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fm_objectL10n = {"plugin_url":"http:\/\/foxproject.org.uk\/wp-content\/plugins\/form-maker","form_maker_admin_ajax":"http:\/\/foxproject.org.uk\/wp-admin\/admin-ajax.php","fm_file_type_error":"Can not upload this type of file","fm_field_is_required":"Field is required","fm_min_max_check_1":"The ","fm_min_max_check_2":" value must be between ","fm_spinner_check":"Value must be between ","fm_clear_data":"Are you sure you want to clear saved data?","fm_grading_text":"Your score should be less than"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxproject.org.uk/wp-content/plugins/form-maker/js/main_div_front_end.js?ver=1.12.4'></script>
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1443946719181573&version=v2.6";
+				fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+		</body>
+</html>

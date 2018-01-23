@@ -1,0 +1,2544 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta property="fb:app_id" content="212315948831253" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="/it/home/images/siteimage.jpg">
+<!-- Begin Google Tag Manager part 1 of 2 - UAB Global -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PWK9ZSL');</script>
+<!-- End Google Tag Manager part 1 of 2 - UAB Global -->
+	<link rel="shortcut icon" href="/styles/5.0/images/favicons/favicon.ico">
+	<link rel="apple-touch-icon" sizes="57x57" href="/styles/5.0/images/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/styles/5.0/images/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/styles/5.0/images/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/styles/5.0/images/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/styles/5.0/images/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/styles/5.0/images/favicons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/styles/5.0/images/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/styles/5.0/images/favicons/apple-touch-icon-152x152.png">
+	<link rel="icon" type="image/png" href="/styles/5.0/images/favicons/favicon-196x196.png" sizes="196x196">
+	<link rel="icon" type="image/png" href="/styles/5.0/images/favicons/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="/styles/5.0/images/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/styles/5.0/images/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/styles/5.0/images/favicons/favicon-32x32.png" sizes="32x32">
+	<meta name="msapplication-TileColor" content="#1e6b52">
+	<meta name="msapplication-TileImage" content="/styles/5.0/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-square70x70logo" content="/styles/5.0/images/favicons/mstile-70x70.png">
+	<meta name="msapplication-square144x144logo" content="/styles/5.0/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-square150x150logo" content="/styles/5.0/images/favicons/mstile-150x150.png">
+	<meta name="msapplication-square310x310logo" content="/styles/5.0/images/favicons/mstile-310x310.png">
+	<meta name="msapplication-wide310x150logo" content="/styles/5.0/images/favicons/mstile-310x150.png">
+	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Matt Windsor" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>UAB - Information Technology - Home</title>
+	<link href="http://www.uab.edu/it/home/component/search/?id=36&amp;Itemid=999&amp;format=opensearch" rel="search" title="Search Information Technology" type="application/opensearchdescription+xml" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+	<link href="/it/home/components/com_k2/css/k2.css?v=2.8.0" rel="stylesheet" type="text/css" />
+	<link href="/it/home/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/it/home/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="/it/home/media/jui/css/bootstrap.min.css?fdc478cb7e80797e617ee0dfe1593f3d" rel="stylesheet" type="text/css" />
+	<link href="/it/home/media/jui/css/bootstrap-responsive.min.css?fdc478cb7e80797e617ee0dfe1593f3d" rel="stylesheet" type="text/css" />
+	<link href="/it/home/media/jui/css/bootstrap-extended.css?fdc478cb7e80797e617ee0dfe1593f3d" rel="stylesheet" type="text/css" />
+	<link href="/it/home/media/widgetkit/wk-styles-10c6d882.css" rel="stylesheet" type="text/css" id="wk-styles-css" />
+	<style type="text/css">
+div.mod_search38 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/it/home/media/jui/js/jquery.min.js?fdc478cb7e80797e617ee0dfe1593f3d" type="text/javascript"></script>
+	<script src="/it/home/media/jui/js/jquery-noconflict.js?fdc478cb7e80797e617ee0dfe1593f3d" type="text/javascript"></script>
+	<script src="/it/home/media/jui/js/jquery-migrate.min.js?fdc478cb7e80797e617ee0dfe1593f3d" type="text/javascript"></script>
+	<script src="/it/home/media/k2/assets/js/k2.frontend.js?v=2.8.0&amp;sitepath=/it/home/" type="text/javascript"></script>
+	<script src="/it/home/media/system/js/caption.js?fdc478cb7e80797e617ee0dfe1593f3d" type="text/javascript"></script>
+	<script src="/it/home/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/it/home/media/jui/js/bootstrap.min.js?fdc478cb7e80797e617ee0dfe1593f3d" type="text/javascript"></script>
+	<script src="/it/home/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/it/home/media/widgetkit/uikit2-76593efc.js" type="text/javascript"></script>
+	<script src="/it/home/media/widgetkit/wk-scripts-b95c8955.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.2,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.9,speed:150,position:"tl",offsets:{x: 10, y: -15}},base:"/it/home/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+	</script>
+
+
+	
+	<link rel="stylesheet" media="all" href="/it/home/media/jui/css/icomoon.css" type="text/css"/>
+	<link rel="stylesheet" media="all" href="/styles/5.0/css/style.css" type="text/css"/>
+	<link rel="stylesheet" media="all" href="/styles/5.0/css/respo.css" type="text/css"/>
+
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/styles/5.0/css/lt_ie9.css" />
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+	<script src="/it/home/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+	
+	<link rel="stylesheet" media="all" href="/styles/5.0/css/bootstrap-plus.css" type="text/css"/>
+
+		<link rel="stylesheet" media="all" href="/it/home/site_specific.css?v=1510295434" type="text/css"/>
+
+	<script type="text/javascript" src="/styles/5.0/js/scripts.js"></script>
+
+
+<script type="text/javascript">
+
+
+
+</script>
+
+</head>
+
+  <body id="itemid-999" class="hd white ribbonFullwidth   homepage">
+<!-- Begin Google Tag Manager part 2 of 2 - UAB Global (noscript) -->
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-PWK9ZSL'
+height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- End Google Tag Manager part 2 of 2 - UAB Global (noscript) -->
+  	<div id="page_bg" class="white"> </div><!--page_bg ends -->
+
+		
+    <!-- HIDDEN LINKS BEGIN -->
+    <div id="hidden-links">
+      <a class="un_jtt_hide" href="/it/home/administrator"><img src="/styles/5.0/images/twentyfivebox.gif" title="admin login" width="25" height="25" alt="admin" /></a>
+      <a class="un_jtt_hide" href="/it/home/login" style="position:absolute;right:0;"><img src="/styles/5.0/images/twentyfivebox.gif" title="author login" width="25" height="25" alt="login" /></a>
+      <br />
+      <a href="//assistive.usablenet.com/tt/www.uab.edu/it/home"><img src="/styles/5.0/images/twentyfivebox.gif" title="text only" width="25" height="25" alt="text-only" /></a>
+    </div>
+
+    <!-- WHITEBAR BACKGROUND -->
+        <div id="winston-whitebar">&nbsp;</div>
+    
+    <!-- WRAPPER -->
+    <div id="wrapper" class="ribbonFullwidth">
+
+    <!-- WHITEBAR ELEMENTS -->
+    <div id="whitebar">
+
+       <div id="logo">
+        					<a href="/it/home">
+      	      										<img src="/it/home/sitelogo.jpg" alt="site logo" />
+						        	</a>
+      </div>
+        <div class="searchpanel">
+          <div class="searchpanel_content">
+            <div id="search">		<div class="moduletable">
+						<div class="search mod_search38">
+	<form action="index.php" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Search" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">Go</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="999" />
+	</form>
+</div>
+		</div>
+	</div>
+            <div id="quicklinks">		<div class="moduletable">
+						<ul class="nav menu  nav-pills">
+<li class="item-446 divider dropdown deeper parent"><span class="separator ">UAB Quicklinks</span>
+<ul class="nav-child unstyled dropdown-menu"><li class="item-445 divider"><span class="separator "><!-- START: Modules Anywhere -->
+		<div style="direction: ltr; text-align: left ! important"  class="feed">
+		
+
+	<!-- Show items -->
+			<ul class="newsfeed">
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/" target="_blank">
+						UAB Home</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="https://www.uab.edu/students/academics/academic-calendar" target="_blank">
+						Academic Calendar</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/accessibility/" target="_blank">
+						Accessibility</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/adminsys" target="_blank">
+						AdminSystems</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="https://www.uab.edu/students/admissions" target="_blank">
+						Apply</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://askit.uab.edu" target="_blank">
+						AskIT</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/blazerexpress" target="_blank">
+						Blazer Express</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/blazernet" target="_blank">
+						BlazerNET</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://uab.edu/bookstore" target="_blank">
+						Bookstore</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/calendar" target="_blank">
+						Campus Calendar</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/map" target="_blank">
+						Campus Map</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/canvas" target="_blank">
+						Canvas</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="https://www.uab.edu/home/departments" target="_blank">
+						Departments</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/directory" target="_blank">
+						Directory</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://mail.uab.edu" target="_blank">
+						Email</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/emergency" target="_blank">
+						Emergency/B-Alert</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/employees" target="_blank">
+						Employee Resources</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/humanresources/home/careers" target="_blank">
+						Employment</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="https://www.uab.edu/give/now/" target="_blank">
+						Give to UAB</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/research411" target="_blank">
+						Research Administration</a></span>
+					
+									</li>
+									<li>
+											<span class="feed-link">
+						<a href="http://www.uab.edu/elearning" target="_blank">
+						UAB eLearning</a></span>
+					
+									</li>
+				</ul>
+	<a class="feedMore" href="/it/home/" target="_blank">More Items
+	<i title="More Items" class="icon-chevron-right hasTooltip" data-original-title="More Items"></i>
+	</a>
+		</div>
+	<!-- END: Modules Anywhere --></span>
+</li></ul></li></ul>
+		</div>
+			<div class="moduletable">
+						<ul class="nav menu  nav-pills">
+<li class="item-127 divider dropdown deeper parent"><span class="separator ">AskIT: (205) 996-5555</span>
+<ul class="nav-child unstyled dropdown-menu"><li class="item-160"><a href="https://idm.blazernet.uab.edu/bid/pwd" >Password Reset</a></li><li class="item-129"><a href="https://ask.it.uab.edu/Chat.aspx" >Chat with a Tech</a></li><li class="item-130"><a href="https://uabprod.service-now.com/ess_portal/home.do" >Submit a Request</a></li></ul></li><li class="item-105 divider dropdown deeper parent"><span class="separator ">UAB IT Quicklinks</span>
+<ul class="nav-child unstyled dropdown-menu"><li class="item-110"><a href="https://uabprod.service-now.com/ess_portal/home.do" >AskIT (HELP!)</a></li><li class="item-106"><a href="http://www.uab.edu/adminsys/" >Administrative Systems</a></li><li class="item-108"><a href="http://www.uab.edu/elearning/canvas" >Canvas</a></li><li class="item-107"><a href="http://mail.uab.edu" >Email (Web Access)</a></li><li class="item-148"><a href="https://idm.blazernet.uab.edu/bid/pwd" >Password Reset</a></li><li class="item-109"><a href="https://askit.uab.edu" >Software Resources</a></li><li class="item-137"><a href="/it/home/uab-wifi" >WiFi</a></li><li class="item-158"><a href="/it/home/uab-it-quicklinks/it-related-policies-guidelines" >IT Related Policies</a></li><li class="item-1480"><a href="/it/home/uab-it-quicklinks/liveit-loveit-plaudit" >LiveIT LoveIT PlaudIT</a></li><li class="item-1566"><a href="http://www.uab.edu/it/home/welcome" target="_blank" rel="noopener noreferrer">Welcome to UAB IT</a></li><li class="item-1462"><a href="http://www.uab.edu/it/home/itcomm" >IT Marketing (UAB IT internal only)</a></li><li class="item-266"><a href="https://officeweb.ad.uab.edu/it" target="_blank" rel="noopener noreferrer">SharePoint 2010 (UABIT Only)</a></li><li class="item-1296"><a href="https://uabprod.service-now.com/" target="_blank" rel="noopener noreferrer">Inside IT-ServiceNow (UAB IT only)</a></li><li class="item-1570"><a href="http://www.uab.edu/it/home/it-related-contracts" >IT Contracts</a></li></ul></li></ul>
+		</div>
+	</div>
+          </div>
+        </div>
+      <a id="trigger" href="#"></a>
+    </div>
+
+        <div style="clear:both"></div>
+
+       <!-- RIBBON Fullwidth -->
+
+				<nav class="navbar navbar-static-top">
+					<div id="tray" class="white ribbonFullwidth navbar-inner">
+						<div id="ribbon" class="container">
+							<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+							<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</a>
+							<!-- Everything you want hidden at 940px or less, place within here -->
+							<div class="nav-collapse collapse">
+										<div class="moduletable">
+						<ul class="nav menu  nav-pills nav-collapse collapse">
+<li class="item-221 active"><a href="/it/home/" >UAB IT Home</a></li><li class="item-69"><a href="/it/home/research-scholarship" >Research &amp; Scholarship</a></li><li class="item-67"><a href="/it/home/faculty" >Faculty</a></li><li class="item-156"><a href="/it/home/students" >Students</a></li><li class="item-68"><a href="/it/home/university-operations-a-administration" >Employees</a></li><li class="item-70"><a href="https://uabprod.service-now.com/ess_portal/home.do" >IT Service Portal</a></li><li class="item-1423"><a href="/it/home/information-security" >Security</a></li><li class="item-1404"><a href="/it/home/about-uab-it/announcements" >Announcements</a></li><li class="item-145"><a href="/it/home/about-uab-it" >About UAB IT</a></li></ul>
+		</div>
+	
+							</div>
+						</div>
+					</div>
+				</nav>
+
+      
+       <!-- BANNER -->
+      <div id="banner" class="">		<div class="moduletable">
+						
+
+<div id="wk-grid22d" class="uk-grid-width-1-3 uk-grid-width-small-1-3 uk-grid-width-medium-1-3 uk-grid-width-large-1-3 uk-grid-width-xlarge-1-3 uk-grid uk-grid-match uk-grid-collapse uk-text-left topbuttons" data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin >
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><a href="https://uabprod.service-now.com/saml_redirector.do?sysparm_uri=/ess_portal/catalog.do?sysparm_catalog=e0d08b13c3330100c8b837659bba8fb4"><div class="lowertabs">Order Services</div></a>
+</div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><a href="https://uabprod.service-now.com/saml_redirector.do?sysparm_uri=/ess_portal/main_content.do?sysparm_content_url=$knowledge.do"><div class="lowertabs">Find Answers</div></a></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><a href="https://uabprod.service-now.com/ess_portal/contact.do"><div class="lowertabs">Get Help</div></a></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-grid22d')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+		</div>
+			<div class="moduletable">
+						
+<div data-uk-slideshow="{duration: 900,autoplay: true ,autoplayInterval: 9500}">
+
+    <div class="uk-slidenav-position">
+
+        <ul class="uk-slideshow">
+        
+            <li style="min-height: autopx;">
+
+                
+                    <img src="/it/home/images/FrontPage_Slides/Condo-Computing-Slider.png" alt="Condo Computing Slider">
+                    
+                    
+                                        <a href="http://www.uab.edu/it/home/about-uab-it/announcements/item/877-condo-computing-uab-it-offers-unique-matching-grant-program-for-research-computing-cluster" class="uk-position-cover"  target="_blank"></a>
+                    
+                
+            </li>
+
+        
+            <li style="min-height: autopx;">
+
+                
+                    <img src="/it/home/images/FrontPage_Slides/Sending-PII-Slider.gif" alt="Sending PII Slider">
+                    
+                    
+                                        <a href="http://www.uab.edu/it/home/about-uab-it/announcements/item/875-don-t-send-social-security-numbers-via-email" class="uk-position-cover"  target="_blank"></a>
+                    
+                
+            </li>
+
+        
+            <li style="min-height: autopx;">
+
+                
+                    <img src="/it/home/images/FrontPage_Slides/LaptopProgramHeader.jpg" alt="LaptopProgramHeader">
+                    
+                    
+                                        <a href="http://www.uab.edu/it/home/about-uab-it/announcements/item/862-laptop-program-offers-new-options-for-students" class="uk-position-cover"  target="_blank"></a>
+                    
+                
+            </li>
+
+                </ul>
+
+                <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous uk-hidden-touch" data-uk-slideshow-item="previous"></a>
+        <a href="#" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next uk-hidden-touch" data-uk-slideshow-item="next"></a>
+        
+        
+    </div>
+
+    
+</div>
+		</div>
+	</div>
+            <div style="clear:both"></div>
+
+      
+       <div style="clear:both"></div>
+
+        <!-- MAIN PAGE AREA (WHITEBOX) -->
+        <div id="whitebox" class="white-opaque">
+
+	<div id="system-message-container">
+	</div>
+
+
+				
+            <!-- MAIN COLUMN -->
+                        <div id="maincolumn-wide">
+            
+              
+              
+							
+							 <!-- FULL1 -->
+              <div class="full full1">		<div class="moduletable">
+						
+
+<div id="wk-grid52c" class="uk-grid-width-1-2 uk-grid-width-small-1-2 uk-grid-width-medium-1-5 uk-grid-width-large-1-5 uk-grid-width-xlarge-1-5 uk-grid uk-grid-match uk-grid-small uk-text-left " data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin >
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---Change-Password.png" alt="Change Password" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---Change-Password-Hover-7956e3283bf877e26dc8a1549cae6693.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Change Password" width="542" height="348"><a class="uk-position-cover" href="https://idm.uab.edu/bid/pwd" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---Request-Software.png" alt="Request Software" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---Request-Software-Hover-f72bd07c9134577b4a50d3ef1b11ae44.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Request Software" width="542" height="348"><a class="uk-position-cover" href="https://uabprod.service-now.com/saml_redirector.do?sysparm_uri=/ess_portal/catalog_category.do?sysparm_category=3fc9e61437d34e8024a67c1643990ebd" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---AskIT.png" alt="AskIT" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---AskIT-Hover-7abf5660f76ebad89cd50b629e126c99.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="AskIT" width="542" height="348"><a class="uk-position-cover" href="https://uabprod.service-now.com/ess_portal/contact.do" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---Check-Your-Ticket-Status.png" alt="Check Your Ticket Status" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---Check-Your-Ticket-Status-Hover-46b556bc52128e9b3a06eff60d9dc4b9.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Check Your Ticket Status" width="542" height="348"><a class="uk-position-cover" href="https://uabprod.service-now.com/saml_redirector.do?sysparm_uri=/ess_portal/ticket_listing.do" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---Administrative-Systems.png" alt="Home Page   Administrative Systems" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---Administrative-Systems-Hover-2c0ba5866c452df041051da2eddd754b.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Home Page   Administrative Systems" width="542" height="348"><a class="uk-position-cover" href="http://www.uab.edu/adminsys/" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Email.png" alt="Email" width="544" height="349"><img src="/it/home/media/widgetkit/Email-Hover-6b6be962e91e7f85b40408a167fedc72.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Email" width="544" height="349"><a class="uk-position-cover" href="http://mail.uab.edu" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page---TechConnect-Store.png" alt="TechConnect Store" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---TechConnect-Store-Hover-a77dbd8655798a9f3f3f3ff3b620a471.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="TechConnect Store" width="542" height="348"><a class="uk-position-cover" href="http://www.uab.edu/it/home/techconnect" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/SPARK-2.png" alt="SPARK" width="543" height="349"><img src="/it/home/media/widgetkit/SPARK-2-Hover-1fd6131f88291c4856e46e82d15b7356.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="SPARK" width="543" height="349"><a class="uk-position-cover" href="http://www.uab.edu/it/home/spark-initiative" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/Home-Page---WiFi2.png" alt="WiFi Help" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---WiFi-Hover2-37a87defb258e24ee6794d16e58c5b3d.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="WiFi Help" width="542" height="348"><a class="uk-position-cover" href="http://www.uab.edu/it/home/uab-wifi" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/home/Home-Page-System-Status.png" alt="System Status" width="542" height="348"><img src="/it/home/media/widgetkit/Home-Page---System-Status-Hover-f9bcc5230848a5a1f2268080a84cc386.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="System Status" width="542" height="348"><a class="uk-position-cover" href="https://status.uab.edu/#!/" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-grid52c')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+		</div>
+	</div>
+              
+			
+							
+			
+			<!-- COMPONENT AREA -->
+			<div id="content" class="white-opaque"><div class="item-page homepage" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+	
+		
+						
+		
+	
+	
+		
+									<div itemprop="articleBody">
+		<!--&nbsp;--> 	</div>
+
+	
+							</div>
+</div>
+
+							
+			
+							
+			
+							
+			 <!-- LOWER CONTAINER -->
+									<div class="lowers">
+																					<div class="lower2 half">		<div class="moduletable homepageannouncements">
+						
+<div id="k2ModuleBox443" class="k2ItemsBlock  homepageannouncements">
+
+		<p class="modulePretext"><h3>Announcements</h3></p>
+	
+	  <ul>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/906-uab-toy-drive-kicks-off-nov-8">UAB Toy Drive kicks off Nov. 8</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/905-uab-employees-get-100-off-a-dell-laptop-in-store-at-techconnect">UAB employees: Get $100 off a Dell laptop in store at TechConnect</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/904-confidential-data-if-you-don-t-need-it-delete-it">Confidential data: If you don't need it, delete it</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/902-pgp-encryption-software-going-end-of-life-on-dec-29">PGP encryption software going end of life on Dec. 29</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/900-research-computing-plan-faster-supercomputer-expanded-team">Research computing plan: Faster supercomputer, expanded team</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/899-emails-with-ssns-or-credit-card-numbers-will-be-blocked-beginning-dec-1">Emails with SSNs or credit card numbers will be blocked beginning Dec. 1</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/898-adobe-support-of-acrobat-xi-has-ended">Adobe support of Acrobat XI has ended</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/897-be-aware-of-krack-flaw-affecting-wifi-devices">Be aware of KRACK flaw affecting WiFi devices</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="even">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/896-desktop-services-working-with-leading-customer-service-consultant">Desktop Services working with leading customer service consultant</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="odd lastItem">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+      
+            <a class="moduleItemTitle" href="/it/home/about-uab-it/announcements/item/895-record-crowd-at-legion-field-but-few-problems-with-new-ticketing-system">Record crowd at Legion Field, but few problems with new ticketing system</a>
+      
+      
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+      
+      
+      <div class="clr"></div>
+
+      
+      <div class="clr"></div>
+
+      <!-- Plugins: AfterDisplayContent -->
+      
+      <!-- K2 Plugins: K2AfterDisplayContent -->
+      
+      
+      
+      
+      
+			
+			
+			
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+	
+	
+</div>
+		</div>
+			<div class="moduletable">
+						
+
+<div id="wk-grid3cc" class="uk-grid-width-1-1 uk-grid-width-small-1-3 uk-grid-width-medium-1-3 uk-grid-width-large-1-3 uk-grid-width-xlarge-1-3 uk-grid uk-grid-match uk-text-left " data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin  data-uk-scrollspy="{cls:'uk-animation-fade uk-invisible', target:'> div > .uk-panel', delay:300}">
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/Announcements_Video/Announcements---Long.png" alt="Announcements" width="474" height="538"><img src="/it/home/media/widgetkit/Announcement---Long-Hover-fe05b0fa4fedbe6751463c82172f2a86.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Announcements" width="474" height="538"><a class="uk-position-cover" href="http://www.uab.edu/it/home/about-uab-it/announcements" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/Announcements_Video/Reports---Long.png" alt="Reports" width="474" height="538"><img src="/it/home/media/widgetkit/Reports---Long-Hover-a68d1f3ef0ac5cf69f7326d97b17ce92.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Reports" width="474" height="538"><a class="uk-position-cover" href="http://www.uab.edu/it/home/it-reports-and-publications" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><div class="uk-overlay uk-overlay-hover "><img src="/it/home/images/Announcements_Video/Video---Long.png" alt="Video" width="474" height="538"><img src="/it/home/media/widgetkit/Video---Long-Hover-70ba8435657d2309e2f9f706ae336672.png" class=" uk-overlay-panel uk-overlay-image uk-overlay-fade" alt="Video" width="474" height="538"><a class="uk-position-cover" href="https://www.youtube.com/channel/UCxNH0kFAOtTmLPb95H3kSbA" target="_blank"></a></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-grid3cc')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+		</div>
+	</div>
+											<div class="lower3 half">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="twittermodule"><a href="https://twitter.com/UABIT" class="twitter-timeline" data-width="600" data-height="850">Tweets by UABIT</a>
+	<script src="//platform.twitter.com/widgets.js" async="" type="text/javascript" charset="utf-8"></script>
+</div></div>
+		</div>
+	</div>
+
+																				</div>
+			
+							 <!-- FULL6 -->
+              <div class="full full6">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<style type="text/css" scoped="scoped">.embed-container {
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+		max-width: 100%;
+	}
+	
+	.embed-container iframe,
+	.embed-container object,
+	.embed-container embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}</style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/oQ21yDC7xrc" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<a href="https://www.uab.edu/it/wins/"><span class="didyouknowtitle">EXPLORE HOW UAB IT HELPS EMPOWER UAB</span><img src="http://www.uab.edu/it/home/images/home/Home-Page---Did-you-know.png" alt="Did you Know?" width="100%" height="NaN" /><span class="didyouknowreadmore">READ MORE</span></a></div>
+		</div>
+	</div>
+              
+                			</div>
+ <!-- 		</div> CONTENT ENDS -->
+								</div><!-- DOWNRIGHT ENDS -->
+
+		          </div> <!--  WHITEBOX ENDS -->
+
+      <!-- BEGIN FOOTER -->
+      <div id="footer" class="white-opaque ribbonFullwidth">
+        <div style="clear:both">&nbsp;</div>
+        <div id="footer_required">
+        		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<style scoped="scoped" type="text/css"><!--
+body.hd #footer h4 a {
+		font-size: 18px;
+	}
+--></style>
+<div id="footer_required">
+<div class="moduletable">
+<div class="custom">
+<div class="grid js-masonry moduletable epimenu" style="position: relative; height: 181px;" data-masonry-options="{ &quot;itemSelector&quot;: &quot;.epi_column&quot;, &quot;gutter&quot;:30}">
+<ul id="epi_menu">
+<li class="epi_column left" style="position: absolute; left: 0px; top: 6px;">
+<ul>
+<li class="">
+<h4><a href="/it/home/about-uab-it">About UAB IT</a></h4>
+</li>
+<li class="">
+<h4><a href="http://www.uab.edu/it/home/it-related-policies" target="_blank">IT Policies and Guidelines</a></h4>
+</li>
+<li class="">
+<h4><a href="/it/home/strategic-plan">IT Strategic Plan</a></h4>
+</li>
+<li class="">
+<h4><a href="/it/home/about-uab-it">IT Initiatives</a></h4>
+</li>
+<li class="">
+<h4><a href="https://commservices.comm.uab.edu/itbilling/">IT Business Office</a></h4>
+</li>
+</ul>
+</li>
+<li class="epi_column right" style="position: absolute; left: 682px; top: 6px;"><img src="/styles/5.0/images/uab_monogram_white.png" alt="" />
+<ul>
+<li class="">The University of Alabama at Birmingham</li>
+<li class="">1720 2nd Ave South</li>
+<li class="">Birmingham, AL 35294</li>
+<li class="">Main Switchboard: (205) 934-4011</li>
+<li class="">Hearing Impaired/TDD: (205) 934-4642</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="moduletable">
+<ul class="nav menu">
+<li class="item-22"><a href="http://assistive.usablenet.com/tt/www.uab.edu/it/home" target="_blank">Accessibility</a></li>
+<li class="item-23 divider"><span class="separator ">|</span></li>
+<li class="item-24"><a href="http://www.uab.edu/brand/web/policies/disclaimer/" target="_blank">Disclaimer</a></li>
+<li class="item-25 divider"><span class="separator ">|</span></li>
+<li class="item-26"><a href="http://www.uab.edu/policies/content/Pages/UAB-IT-POL-0000404.aspx" target="_blank">UAB Web Pages Policy</a></li>
+<li class="item-27 divider"><span class="separator ">|</span></li>
+<li class="item-28"><a href="https://uab.edu/it/home/mobile-contact" target="_blank">Contact Us</a></li>
+<li class="item-29 divider"><span class="separator ">|</span></li>
+<li class="item-30 divider"><span class="separator " style="font-size: 12px;">&copy; Copyright</span></li>
+</ul>
+</div>
+<div class="moduletable">
+<div class="custom">
+<div class="eeoDisclaimer">UAB is an Equal Opportunity/Affirmative Action Employer committed to fostering a diverse, equitable and family-friendly environment in which all faculty and staff can excel and achieve work/life balance irrespective of race, national origin, age, genetic or family medical history, gender, faith, gender identity and expression as well as sexual orientation. UAB also encourages applications from individuals with disabilities and veterans.</div>
+</div>
+</div>
+</div></div>
+		</div>
+	
+        </div>
+      </div> <!-- END FOOTER -->
+		</div> <!--  WRAPPER ENDS -->
+
+				
+<script type="text/javascript">
+
+ ga('create', 'UA-30076970-1', 'auto', {'name': 'newTracker'});  // site code tracker
+ga('newTracker.send', 'pageview'); // send pageview for site code tracker
+
+</script>
+
+</body>
+
+
+<div class="custom"  >
+	<style type="text/css" scoped="scoped">
+	div.circuitboard {
+		background-color: #ffffff;
+		background-image: none;
+	}
+	/*
+#page_bg.wideload {
+  background-color: #004900 !important;
+  background-image: url("images/wideload/cb1.png"), url("images/wideload/cb2.png") !important;
+  background-position: 0 0;
+  background-repeat: repeat, repeat;
+  background-size: contain, cover !important;
+}
+ */
+	
+	.even,
+	li.even,
+	.even_lastItem,
+	.tabeven {
+		background: none;
+	}
+	
+	.odd,
+	li.odd,
+	.odd_lastItem,
+	.tabodd {
+		background: none;
+	}
+	/********************************************************************* BEGIN How do I (Frontdoor) */
+	
+	.howImage {
+		float: left;
+		height: 24px;
+		text-align: center;
+		width: 24px;
+	}
+	
+	.howLink {
+		display: block;
+		font-size: 19px;
+		margin: 0 0 0.6em;
+		padding-left: 10%;
+		width: 90%;
+	}
+	
+	.howLink:last-of-type {
+		margin: 0;
+	}
+	/********************************************************************* END How do I (Frontdoor) */
+	/********************************************************************* BEGIN Button Block (Frontdoor) */
+	
+	.fdButton {
+		border-radius: 40px;
+		margin-bottom: 10px;
+		padding: 16px 0;
+		width: 100%;
+	}
+	
+	.fdButton:last-of-type {
+		margin-bottom: 0;
+	}
+	/********************************************************************* END Button Block (Frontdoor) */
+	/********************************************************************* BEGIN Solutions Matrix (Frontdoor) */
+	
+	.solutionsMatrixContainer {}
+	
+	.solutionsMatrixHeader {
+		background-color: #FFFFFF;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+	}
+	
+	.solutionsMatrixHeader>span {
+		color: #555555;
+		font-family: 'Arimo', Arial, sans-serif;
+		font-size: 17px;
+		font-weight: bold;
+		margin: 0;
+		padding: 0;
+	}
+	
+	.solutionsMatrix {
+		background-color: #EDEDED;
+		border-radius: 2px 2px 2px 2px;
+		font-size: 13px;
+		margin: 1% 0;
+		padding: 0.5% 0;
+		text-align: center;
+		width: 100%;
+	}
+	
+	.solutionsMatrix:hover {
+		background-color: #FFFFFF;
+	}
+	/********************************************************************* BEGIN Solutions Matrix (Frontdoor) */
+	/********************************************************************* BEGIN Slides */
+	
+	div.jwts_toggleControlContainer a.jwts_toggleControl {
+		background: url('/styles/5.0/images/down.png') no-repeat scroll 0 50% #EDEDED;
+		border: medium none;
+		border-radius: 0 0 0 0;
+		box-shadow: none;
+		color: #1E6B52;
+		display: block;
+		font-size: 1.125em;
+		filter: none;
+		line-height: normal;
+		margin: 2px 0;
+		padding: 5px 10px 5px 45px;
+		text-decoration: none;
+		text-shadow: none;
+	}
+	
+	div.jwts_toggleControlContainer a.jwts_toggleOff span.jwts_toggleControlTitle,
+	div.jwts_toggleControlContainer a.jwts_toggleOn span.jwts_toggleControlTitle {
+		background: none repeat scroll 0 0 transparent;
+		padding-left: 0;
+	}
+	/********************************************************************* END Slides */
+	/************************************************************ BEGIN System Report */
+	
+	a.online {
+		border-color: rgb(102, 204, 0);
+		border-style: none solid none none;
+		border-width: 0 16px 0 0;
+		margin: 0;
+		padding: 0;
+		-webkit-animation: online 6s linear infinite;
+		-moz-animation: online 6s linear infinite;
+		-ms-animation: online 6s linear infinite;
+		animation: online 6s linear infinite;
+	}
+	
+	@keyframes "online" {
+		0% {
+			border-color: rgb(102, 204, 0);
+		}
+		50% {
+			border-color: rgb(156, 255, 105);
+		}
+		100% {
+			border-color: rgb(102, 204, 0);
+		}
+	}
+	
+	@-moz-keyframes online {
+		0% {
+			border-color: rgb(102, 204, 0);
+		}
+		50% {
+			border-color: rgb(156, 255, 105);
+		}
+		100% {
+			border-color: rgb(102, 204, 0);
+		}
+	}
+	
+	@-webkit-keyframes "online" {
+		0% {
+			border-color: rgb(102, 204, 0);
+		}
+		50% {
+			border-color: rgb(156, 255, 105);
+		}
+		100% {
+			border-color: rgb(102, 204, 0);
+		}
+	}
+	
+	@-ms-keyframes "online" {
+		0% {
+			border-color: rgb(102, 204, 0);
+		}
+		50% {
+			border-color: rgb(156, 255, 105);
+		}
+		100% {
+			border-color: rgb(102, 204, 0);
+		}
+	}
+	/************************************************************ END System Report */
+	/********************************************************************* BEGIN Menu/Order Page */
+	
+	ul.itMenu,
+	ul.itMenu li {
+		margin: 0;
+		padding: 0;
+		list-style: none outside none;
+	}
+	
+	.itMenuBox {
+		border-bottom: 1px solid #CCCCCC;
+		clear: right;
+		float: left;
+		width: 100%;
+	}
+	
+	.itMenuBoxHeader {
+		float: left;
+		font-family: 'Fjalla One', Helvetica, Arial, sans-serif;
+		font-size: 21px;
+		padding: 1.5%;
+		width: 97%;
+	}
+	
+	.itMenuBoxTitle {
+		font-weight: 800;
+	}
+	
+	.itMenuBoxTitle,
+	.itMenuBoxOrder {
+		clear: right;
+		float: left;
+		line-height: normal;
+		min-height: 36px;
+		padding: 0;
+		width: 50%;
+	}
+	
+	.itMenuBoxOrder {
+		background: #2B9473;
+		background: -webkit-gradient(linear, 0 0, 0 bottom, from(#2B9473), to(#123D2F));
+		background: -webkit-linear-gradient(#2B9473, #123D2F);
+		background: -moz-linear-gradient(#2B9473, #123D2F);
+		background: -ms-linear-gradient(#2B9473, #123D2F);
+		background: linear-gradient(#2B9473, #123D2F);
+		color: #FFFFFF;
+		font-weight: 800;
+		-moz-hyphens: manual;
+		-webkit-hyphens: manual;
+		hyphens: manual;
+		text-decoration: none;
+		text-align: center;
+	}
+	
+	.itMenuBoxOrder:hover {
+		background: #123D2F;
+		background: -webkit-gradient(linear, 0 0, 0 bottom, from(#123D2F), to(#2B9473));
+		background: -webkit-linear-gradient(#123D2F, #2B9473);
+		background: -moz-linear-gradient(#123D2F, #2B9473);
+		background: -ms-linear-gradient(#123D2F, #2B9473);
+		background: -o-linear-gradient(#123D2F, #2B9473);
+		background: linear-gradient(#123D2F, #2B9473);
+	}
+	
+	.itMenuBoxOrder a {
+		color: #FFFFFF;
+		display: inline-block;
+		height: 100%;
+		padding: 10px 0;
+		width: 100%;
+	}
+	
+	.itMenuBoxOrder a:hover {
+		color: #DEEFDF !important;
+		text-decoration: none;
+	}
+	
+	.itMenuBoxDescription {
+		background: #EEEEEE;
+		clear: both;
+		font-size: 13px;
+		float: left;
+		width: 100%;
+	}
+	
+	.itMenuBoxDescription>div {
+		color: #555555;
+	}
+	
+	.itMenuBoxTitle>div,
+	.itMenuBoxDescription>div {
+		padding: 10px;
+		display: inline-block;
+	}
+	/********************************************************************* END Menu/Order Page */
+	/********************************************************************* BEGIN IT Tooltip */
+	
+	div.jcemediabox-tooltip p,
+	div.jcemediabox-tooltip-simple p {
+		background: none repeat scroll 0 0 transparent;
+		color: #222222;
+		font-size: 16px;
+		margin: 0;
+		padding: 10px;
+	}
+	/********************************************************************* END IT Tooltip */
+	/********************************************************************* BEGIN Migrated */
+	
+	.modulePretext {
+		display: none;
+	}
+	
+	.roundedimage {
+		behavior: none;
+	}
+	/* need to find the proper scope for these decorations
+li { list-style: circle outside none;}
+ */
+	
+	.even {
+		background: none;
+	}
+	
+	.odd {
+		background: none;
+	}
+	
+	@media screen and (max-width: 768px) {
+		#lowers .third .custom .buttonzilla {
+			margin: 0 auto 10px;
+			max-width: 95%;
+			width: 95% !important;
+		}
+		#rightsidebar a.buttonzilla {
+			margin: 0 auto 10px;
+			padding: 7% 2%;
+			width: 94% !important;
+		}
+		.solutionsMatrix {
+			font-size: 1.5rem;
+			max-width: 96%;
+			min-height: 34px;
+			padding: 5% 2% 1%;
+		}
+	}
+	
+	@media screen and (max-width: 320px) {
+		#rightsidebar a.buttonzilla {
+			font-size: 1.5rem;
+			margin: 0 auto 10px;
+			padding: 7% 2%;
+			width: 94% !important;
+		}
+	}
+	/********************************************************************* END Migrated */
+	
+	.k2Pagination .pagenav {
+		padding: 0 5px;
+	}
+	
+	div.itemIsFeatured,
+	div.catItemIsFeatured,
+	div.userItemIsFeatured {
+		background: transparent none repeat scroll 0 0;
+	}
+	/**************** BEGIN Lower Feeds ******************/
+	
+	.k2ItemsBlock.lower-feeds,
+	.moduletablelower-feeds {
+		clear: right;
+		float: left;
+		height: auto;
+		margin: 0 5% 20px 0;
+		position: relative;
+		width: 100%;
+	}
+	
+	.k2ItemsBlock.lower-feeds.wide {
+		width: 100%;
+	}
+	
+	.lower-feeds ul {
+		color: #00563D;
+		list-style: none outside none;
+		padding: 0;
+		font-weight: 400;
+		line-height: normal;
+	}
+	
+	.lower-feeds li {
+		border: medium none;
+		border-radius: 6px 6px 6px 6px;
+		font-size: 14px;
+		line-height: 1.1em;
+		list-style: none outside none;
+		margin-bottom: 1px;
+		padding: 7px;
+	}
+	
+	.lower-feeds li.even {
+		background: none;
+	}
+	
+	.lower-feeds li.odd {
+		background: none;
+	}
+	
+	.lower-feeds li a {
+		font-weight: normal;
+	}
+	
+	.jwts_tabberlive .jwts_tabbertab {
+		border-width: 0 0 0 0;
+	}
+	
+	div#jwts_tab.jwts_tabberlive div.jwts_tabbertab .k2ItemsBlock ul li.even,
+	div#jwts_tab.jwts_tabberlive div.jwts_tabbertab .k2ItemsBlock ul li.odd,
+	div#jwts_tab.jwts_tabberlive div.jwts_tabbertab .k2ItemsBlock ul li a {
+		background: none repeat scroll 0 0 transparent !important;
+		color: #1E6B52;
+		float: none;
+		font-size: 13px;
+		font-weight: bold;
+		height: auto;
+		line-height: normal;
+		padding: 0;
+	}
+	/***************** END Lower Feeds ****************/
+	/********************************************************************* END Legacy Style */
+	
+	.full1 {
+		margin: 15px 0px 15px 0px !important;
+	}
+	
+	.full4 {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		width: 100% !important;
+		padding-bottom: 30px !important;
+		padding-top: 10px !important;
+	}
+	
+	.homepageannouncements li a {
+		font-size: 150% !important;
+	}
+	
+	.homepageannouncements ul li {
+		margin: 0px !important;
+	}
+	
+	@media only screen and (max-width: 1440px) and (min-width: 300px) {
+		.homepageannouncements li a {
+			font-size: 150% !important;
+		}
+		.homepageannouncements ul li {
+			margin: 0px !important;
+		}
+	}
+	
+	.homepageannouncements h3 {
+		font-size: 27px;
+		font-family: Helvetica, Roboto, "Segoe UI", Calibri, sans-serif !important;
+		text-shadow: none !important;
+		font-weight: 300 !important;
+		line-height: 36px !important;
+		border-bottom: 1px solid rgba(15, 70, 100, .12);
+		padding-bottom: 12px;
+	}
+	
+	@media screen and (max-width: 1024px) {
+		.homepageannouncements {
+			margin: 0px 15px;
+		}
+	}
+	
+	.full4 {
+		padding-top: 30px !important;
+	}
+	
+	.greenborder {
+		width: 75%;
+		margin: 2px auto;
+	}
+	
+	@media screen and (max-width: 650px) {
+		#upper1.upper_third,
+		#upper2.upper_third,
+		#upper3.upper_third,
+		#upper1.third,
+		#upper2.third,
+		#upper3.third,
+		#whitebox .third:nth-of-type(1),
+		#whitebox .third:nth-of-type(2),
+		#whitebox .third:nth-of-type(3),
+		#lower1.third,
+		#lower2.third,
+		#lower3.third,
+		#middle2.third,
+		#middle1.two_thirds,
+		#lower1.lower_third,
+		#lower2.lower_third,
+		#lower3.lower_third {
+			border-bottom: none;
+		}
+	}
+	
+	.greenborderleft {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		border: 4px solid #1e6b52;
+		margin: 2px 0;
+		padding: 4px 10px;
+		border-image: initial;
+		float: left;
+		width: 42%;
+	}
+	
+	.greenborderright {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		border: 4px solid #1e6b52;
+		margin: 2px 0;
+		padding: 4px 10px;
+		border-image: initial;
+		float: right;
+		width: 42%;
+	}
+	
+	@media screen and (max-width: 1024px) {
+		.greenborderleft {
+			width: 75%;
+			margin: 2px auto;
+			float: none;
+		}
+		.greenborderright {
+			width: 75%;
+			margin: 2px auto;
+			float: none;
+		}
+	}
+	
+	.twittermodule {
+		float: right;
+	}
+	
+	@media screen and (max-width: 1024px) {
+		.twittermodule {
+			float: left;
+			margin-top: 20px;
+		}
+	}
+	
+	.topbanner {
+		background: no-repeat bottom fixed url(images/homepage/it.gif);
+		background-position: center center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		color: #ffffff;
+		text-align: center;
+		height: 700px;
+	}
+	
+	.topbanner strong,
+	#banner b {
+		color: #ffffff;
+	}
+	
+	.topbanner h1,
+	.topbanner h2,
+	.topbanner h3,
+	.topbanner h4,
+	.topbanner h5,
+	.topbanner h6 {
+		color: #ffffff;
+	}
+	
+	.topbanner blockquote {
+		border-left-color: rgba(255, 255, 255, 0.25);
+	}
+	
+	.topbanner code {
+		background: rgba(255, 255, 255, 0.075);
+		border-color: rgba(255, 255, 255, 0.25);
+	}
+	
+	.topbanner form {
+		color: black;
+	}
+	
+	.topbanner hr {
+		border-bottom-color: rgba(255, 255, 255, 0.25);
+	}
+	
+	.topbanner h2 {
+		font-size: 3.6em;
+		text-transform: uppercase;
+		font-weight: 600 !important;
+		line-height: 1.35em;
+		margin: 0 auto 0em;
+		padding: 5em 0 5em 0;
+		position: relative;
+		width: 55%;
+		text-align: center;
+		font-family: Helvetica, sans-serif !important;
+		font-weight: bold;
+	}
+	
+	.topbanner a:hover {
+		text-decoration: none;
+	}
+	
+	.topbanner p {
+		font-size: 1.5em;
+		text-transform: uppercase;
+	}
+	
+	@media screen and (max-width: 1680px) {
+		.topbanner {
+			height: 700px;
+		}
+		.topbanner h2 {
+			padding: 5em 0 5em 0;
+			font-size: 3.6em;
+		}
+	}
+	
+	@media screen and (max-width: 1280px) {
+		.topbanner {
+			height: 700px;
+		}
+		.topbanner h2 {
+			padding: 1em 0 1em 0;
+			font-size: 3.2em;
+			width: 55%;
+		}
+	}
+	
+	@media screen and (max-width: 980px) {
+		.topbanner {
+			background-position: center;
+			height: 400px;
+		}
+		.topbanner h2 {
+			width: 65%;
+			font-size: 2.75em;
+		}
+	}
+	
+	@media screen and (max-width: 736px) {
+		.topbanner {
+			padding: 0em 0em 0em 0em;
+			background-position: bottom center;
+			height: 400px;
+		}
+		.topbanner h2 {
+			font-size: 2.5em;
+			padding: 1.0em 0em 0.5em 0em;
+		}
+		.topbanner p {
+			font-size: 1.25em;
+		}
+	}
+	
+	@media screen and (max-width: 480px) and (min-width: 300px) {
+		.topbanner {
+			padding: 0em 0em 0em 0em;
+			height: 400px;
+		}
+		.topbanner h2 {
+			width: 75% !important;
+			padding: 1em 0em 0.5em 0em;
+			font-size: 2.5em;
+		}
+	}
+	
+	div.catItemIsFeatured:before,
+	div.userItemIsFeatured:before,
+	div.itemIsFeatured:before {
+		content: none;
+	}
+	
+	.middle3,
+	.middle4 {
+		margin: 20px 0px 20px 0px !important;
+	}
+	
+	@media screen and (max-width: 1024px) {
+		body.hd .third .moduletable>div,
+		body.hd .two_thirds .moduletable>div {
+			width: 100%;
+		}
+	}
+	
+	body.hd .middle4 .moduletable>div {
+		width: 100%;
+	}
+	
+	body.hd #content {
+		margin: 0;
+	}
+	
+	.lowertabs {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 800;
+		color: white;
+		background-color: #006237;
+		padding: 4.33% 20px 4.33% 20px;
+		margin: 15px 0px 4.1% 0px;
+		line-height: normal;
+		text-align: center;
+	}
+	
+	.lowertabs:hover {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 800;
+		color: #006237;
+		background-color: white;
+		padding: 4.33% 20px 4.33% 20px;
+		margin: 15px 0px 4.1% 0px;
+		line-height: normal;
+	}
+	
+	a:link {
+		text-decoration: none;
+		font-weight: 500;
+	}
+	
+	a:visited {
+		text-decoration: none;
+	}
+	
+	a:hover {
+		text-decoration: none;
+	}
+	
+	a:active {
+		text-decoration: none;
+	}
+	
+	.topbuttons .lowertabs {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 800;
+		color: white;
+		background-color: #006237;
+		padding: 3% 10px 3% 10px;
+		margin: 0px auto 0px auto;
+		line-height: normal;
+		text-align: center;
+		border: 2px solid white;
+		-webkit-transition: background-color 200ms linear;
+		-moz-transition: background-color 200ms linear;
+		-o-transition: background-color 200ms linear;
+		-ms-transition: background-color 200ms linear;
+		transition: background-color 200ms linear;
+	}
+	
+	.topbuttons .lowertabs:hover {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 800;
+		color: #006237;
+		background-color: white;
+		padding: 3% 10px 3% 10px;
+		margin: 0px auto 0px auto;
+		line-height: normal;
+	}
+	
+	.lowertabs a:link {
+		text-decoration: none;
+		font-weight: 500;
+	}
+	
+	.lowertabs a:visited {
+		text-decoration: none;
+	}
+	
+	.lowertabs a:hover {
+		text-decoration: none;
+	}
+	
+	.lowertabs a:active {
+		text-decoration: none;
+	}
+	
+	body.hd #content {
+		margin: 0 auto 3%;
+		padding: 0;
+		width: 90%;
+	}
+	
+	.sectionpage #banner {
+		margin-bottom: 20px;
+	}
+	
+	body.hd.sidebars #rightsidebar {
+		width: 100%;
+	}
+	
+	body.hd #itemid-999 #content {
+		margin: 0px 0px 0px 0px;
+	}
+	
+	.banner-background {
+		background: #fff url("images/banners/backgrounds/Research-banner.jpg") no-repeat fixed left top;
+		width: 100%;
+		height: 350px;
+		position: relative;
+		opacity: 0.9;
+		margin-bottom: 20px;
+	}
+	
+	.banner-background h2 {
+		color: white;
+		font-size: 3.5em;
+		text-transform: uppercase;
+		font-weight: 600 !important;
+		line-height: 1.35em;
+		padding: 0.25em 0.25em 0.25em 0.25em;
+		position: relative;
+		width: 500px;
+		float: none;
+		margin: 0px auto 0px;
+		text-align: center;
+		font-family: Helvetica, sans-serif !important;
+		background-color: rgba(30, 107, 82, 0.6);
+		position: absolute;
+		top: 100px;
+		right: 0px;
+		opacity: 1.0;
+		color: white;
+	}
+	
+	.banner-buttons h3 {
+		color: white;
+		font-size: 2.3em;
+		text-transform: uppercase;
+		font-weight: 600 !important;
+		line-height: 1.35em;
+		text-align: center;
+		font-family: Helvetica, sans-serif !important;
+		font-weight: bold;
+		padding: 0.25em 0.25em 0.25em 0.25em;
+		background-color: rgba(30, 107, 82, 0.6);
+		width: 500px;
+		text-align: center !important;
+	}
+	
+	.banner-buttons h3 a {
+		color: white;
+		font-family: Helvetica, sans-serif !important;
+		font-size: 32px;
+		font-weight: bold !important;
+	}
+	
+	.banner-buttons h3:hover {
+		color: rgba(30, 107, 82, 0.9);
+		background-color: white;
+		text-decoration: none !important;
+	}
+	
+	.banner-buttons a:hover {
+		text-decoration: none !important;
+	}
+	
+	.banner-buttons {
+		position: absolute;
+		bottom: 0;
+	}
+	
+	@media (max-width: 1025px) and (min-width: 425px) {
+		.banner-background h2 {
+			font-size: 2.8em !important;
+		}
+		.banner-buttons h3 {
+			color: white;
+			font-size: 1.8em;
+			text-transform: uppercase;
+			font-weight: 600 !important;
+			line-height: 1.35em;
+			text-align: center;
+			font-family: Helvetica, sans-serif !important;
+			font-weight: bold;
+			padding: 0em 0em 0em 0em;
+			background-color: rgba(30, 107, 82, 0.6);
+			text-align: center !important;
+		}
+		.banner-buttons h3 a {
+			color: white;
+			font-family: Helvetica, sans-serif !important;
+			font-size: 24px;
+			font-weight: bold !important;
+		}
+	}
+	
+	@media (max-width: 424px) and (min-width: 300px) {
+		.banner-background h2 {
+			font-size: 2.3em !important;
+		}
+	}
+	
+	@media (min-width: 1921px) {
+		.banner-background {
+			background: url("images/banners/backgrounds/Research-banner.jpg") no-repeat bottom cover fixed;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+			width: 100%;
+			height: 825px;
+		}
+		.banner-buttons {
+			position: relative;
+			width: 600px;
+			top: 250px;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+		}
+		.banner-buttons h3 {
+			width: 600px;
+		}
+		.banner-buttons h3 a {
+			font-size: 1.8em !important;
+			color: white;
+			width: 600px;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			font-weight: bold !important;
+			text-align: center;
+		}
+		.banner-background h2 {
+			font-size: 6em;
+			position: absolute;
+			top: 75px !important;
+		}
+	}
+	
+	@media only screen and (max-width: 1024px) and (min-width: 300px) {
+		body.hd #downright #rightsidebar>div {
+			background: #fff none repeat scroll 0 0;
+			border: none;
+			clear: right;
+			display: block;
+			float: none;
+			margin: 0px auto 0px auto;
+			padding: 2%;
+			width: 96%;
+		}
+	}
+	
+	div.catItemHeader h3.catItemTitle a {
+		font-size: 32px;
+		font-family: 'Fjalla One', Arial, sans-serif !important;
+		font-weight: normal !important;
+		line-height: normal;
+		margin: 0;
+		padding: 10px 0 4px;
+		color: #222222;
+	}
+	
+	.didyouknowtitle {
+		font-size: 28pt;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+	
+	.didyouknowreadmore {
+		font-size: 16pt;
+		float: right;
+		margin-bottom: 15px;
+	}
+	
+	@media (max-width: 768px) and (min-width: 426px) {
+		.didyouknowtitle {
+			font-size: 18pt;
+		}
+		.didyouknowreadmore {
+			font-size: 14pt;
+			float: right;
+			margin-bottom: 15px;
+		}
+	}
+	
+	@media (max-width: 425px) {
+		.didyouknowtitle {
+			font-size: 14pt;
+		}
+		.didyouknowreadmore {
+			font-size: 10pt;
+			float: right;
+			margin-bottom: 15px;
+		}
+	}
+	
+	@media screen and (max-width: 768px) body.hd .epi_column.left ul,
+	body.hd .epi_column.right ul {
+		margin-right: 10%;
+		margin-left: 10%;
+	}
+	
+	body.hd #footer h4 a {
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+	
+	#rightsidebar {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.00);
+	}
+	
+	.aboutsidebar {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.06);
+		padding: 10px;
+	}
+	
+	.aboutsidebar ul.nav.menu {
+		padding: 20px;
+		font-size: 16px;
+	}
+	
+	.aboutsidebar ul.nav.menu a {
+		color: black;
+	}
+	
+	.viewallannouncements.uk-grid-small {
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+	
+	.techconnectsidebar {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.06);
+		padding: 15px;
+	}
+	
+	.moduletable.phishingnews {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.06);
+	}
+	
+	.phishingnews h3 {
+		padding: 15px 0px 0px 15px;
+	}
+	
+	.phishingnews div.k2ItemsBlock ul li {
+		padding: 0px 0px 0px 0px;
+		font-size: 14px;
+	}
+	
+	.phishingnews a.moduleitemtitle {
+		font-size: 14px;
+	}
+	
+	div.phishingnews ul {
+		padding-left: 15px !important;
+	}
+	
+	body.hd #content {
+		margin: 0 auto 30px;
+	}
+	
+	.techconnectgridstacktitle {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 22pt;
+		font-weight: 400;
+		color: black;
+		line-height: normal;
+	}
+	
+	.techconnectlaptopprice {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 600;
+		color: black;
+		line-height: normal;
+	}
+	
+	.techconnectlaptopname {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 18pt;
+		font-weight: 400;
+		color: black;
+		line-height: normal;
+	}
+	
+	.techconnectlaptoptag {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14pt;
+		font-weight: 400;
+		color: white;
+		background-color: #1E6B52;
+		line-height: normal;
+		padding-left: 8px !important
+	}
+	
+	.techconnectbuynow {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14pt;
+		font-weight: 800;
+		color: white;
+		background-color: #006237;
+		line-height: normal;
+		text-align: center;
+		padding: 4.33% 1px 4.33% 1px;
+		margin: 10px 0px 4.1% 0px;
+	}
+	
+	.techconnectbuynow {
+		display: block;
+		width: 120px;
+		height: 20px;
+		!important
+	}
+	
+	.techconnectbuynow:hover {
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 14pt;
+		font-weight: 800;
+		color: #006237;
+		background-color: white;
+		padding: 4.33% 1px 4.33% 1px;
+		margin: 10px 0px 4.1% 0px;
+		line-height: normal;
+	}
+</style></div>
+
+</html>

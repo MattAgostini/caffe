@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html  >
+<head id="head"><title>
+	Online Shopping mall, Online Shopping, eCommerce Shopping Directory
+</title><meta charset="UTF-8" /> 
+<meta name="author" content="WTE Solutions">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="/app_themes/mall2013/assets/js/modernizr-custom.js"></script>
+<link rel="stylesheet" href="/app_themes/Mall2013/assets/css/core.css" type="text/css">
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+     google: { families: [ 'Roboto:900,300:latin', 'Roboto+Condensed:400,700,300:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+<script src="/CMSScripts/Custom/jquery-1.11.3.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//d2r7ualogzlf1u.cloudfront.net/autocomplete/autocomplete.css">
+<meta name="msvalidate.01" content="091A2B595B974C9B89D029144C60A026" />
+<meta property="og:url" content="http://pointshop.com/Home" />
+<meta name="title" content="Online Shopping mall, Online Shopping, eCommerce Shopping Directory" />
+<meta name="description" content="" />
+<meta property="fb:app_id" content="234516866612979" />
+<meta property="og:site_name" content="POINTSHOP" /> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon"/>
+<meta property="fb:app_id" content="234516866612979" />
+<meta property="og:site_name" content="PointShop" />
+<meta property="og:image" content="http://www.pointshop.com/sites/mall/img_t/logo.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.pointshop.com/" />
+<meta property="og:title" content="PointShop - Online Shopping Mall" />
+
+
+<meta name="google-site-verification" content="ymw83b24tnhwBe2p71EXLVLUxg669PIb4P5V6Z_9xUA" /><link href="/CMSPages/GetResource.ashx?_webparts=677;1131" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?_webpartlayouts=486" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR ENUS ContentBody" >
+    
+    <form method="post" action="/" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="e1D4uK7yV3rjx2dnWlGKCs61zZQ408f7nJL0NhTdJqFWDs5mMsLNj1U/tkGAsuQNxF55a5Qjw/I9LUh2SXE5Iz2IMmDgP1JLNM0TdJ5do/A=" />
+
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTd2EsyO_htKguB8z-DEbUi2684_UPzZKUdBM45zBXfPg8EdRjTS7NivqhVaxwTqVUm5iYAnUAHVMHWyhu9zfee9yRrRkPKrLjM7eEHAIqjIq0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<header><a href="/" class="logo"><img id="p_lt_zoneHeader_EditableImage_ucEditableImage_imgImage" title="Pointshop" src="/Images/PSLogo_2013.aspx" alt="Pointshop" />
+
+</a><div id="p_lt_zoneHeader_SearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_zoneHeader_SearchBox_txtWord" id="p_lt_zoneHeader_SearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$zoneHeader$SearchBox$txtWord" type="text" maxlength="1000" id="p_lt_zoneHeader_SearchBox_txtWord" class="stxt form-control" />
+    <input type="submit" name="p$lt$zoneHeader$SearchBox$btnSearch" value="Search" id="p_lt_zoneHeader_SearchBox_btnSearch" class="btn btn-default" />
+    
+    <div id="p_lt_zoneHeader_SearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</header>
+<nav><ul id="menu">
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/20773.html">Clothing</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/20290.html">Health & Beauty</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/21505.html">Electronics</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/25629.html">Luggage</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/21852.html">Home & Garden</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/22014.html">Gourmet & Gifts</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/23797.html">Jewelry</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/20225.html">Kids</a></li>
+<li><a href="http://www.pointshop.com/Mall/Catalog/online-shopping/asp/HIERARCHY_ID/24727.html">Sports</a></li>
+<li class="last"><a href="http://www.pointshop.com/Categories.aspx">All Departments</a></li>
+</ul>
+
+
+
+</nav>
+
+<div class="cnt">
+  
+  
+
+<div class="hpromo">
+  <div class="onex2"><div><a href="http://www.pointshop.com/search.aspx?q=sale" target="_blank"><img alt="Black Friday Cyber Monday Sale" src="/Home/banners/psm-r_2016BFCM_600x380.aspx" /></a></div>
+
+<div><img alt="Shop Small Saturday" src="/Home/banners/psm_2017SSS_600x380.aspx" /></div>
+
+
+
+
+</div>
+</div>
+
+<div class="fprod">
+  <h2> PointShop has the Perfect Gifts for the Big People...
+
+
+
+</h2>
+  <div id="carousel-1">
+<div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=382711.3451164469&type=15&murl=http%3A%2F%2Fbuckle.com%2Fbuckle-black-thang-henley-sweater%2Fprd-56580BBSYP2268%2Fsku-6000470300" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/buckle-henley-sweater.aspx?ext=.jpg" alt="Buckle Black Thang Henley Sweater" />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=382711.3451164469&type=15&murl=http%3A%2F%2Fbuckle.com%2Fbuckle-black-thang-henley-sweater%2Fprd-56580BBSYP2268%2Fsku-6000470300" class="prodLink" target="_blank">
+    Buckle Black Thang Henley Sweater
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=men+sweater" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.galleryak.com/IBS/SimpleCat/Product/asp/hierarchy/07/product-id/43483341.html" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/high-country-christmas-art.aspx?ext=.jpg" alt="High Country Christmas by Thomas Kinkade" />
+  </a>
+  <a href="http://www.galleryak.com/IBS/SimpleCat/Product/asp/hierarchy/07/product-id/43483341.html" class="prodLink" target="_blank">
+    High Country Christmas by Thomas Kinkade
+  </a> 
+  <a href="http://www.galleryak.com/IBS/SimpleCat/Shelf/ASP/Hierarchy/07.html" class="catLink" target="_blank"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=7537.2671&type=15&murl=http%3A%2F%2Fwww.omahasteaks.com%2Fproduct%2F2671%3FAID%3D1%26SRC%3DAE6055%26ITMSUF%3DHHW%26partnerid%3Dcpcs.linkshare" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/bacon-wrapped-bistro-steak.aspx?ext=.jpg" alt="5 oz. Bacon-Wrapped Bistro Steaks" />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=7537.2671&type=15&murl=http%3A%2F%2Fwww.omahasteaks.com%2Fproduct%2F2671%3FAID%3D1%26SRC%3DAE6055%26ITMSUF%3DHHW%26partnerid%3Dcpcs.linkshare" class="prodLink" target="_blank">
+    5 oz. Bacon-Wrapped Bistro Steaks
+  </a> 
+  <a href="https://www.omahasteaks.com/shop/" class="catLink" target="_blank"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.benetto.net/IBS/SimpleCat/Product/asp/hierarchy/06/product-id/40193261.html" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/murano-centerpiece.aspx?ext=.jpg" alt="Murano Medium Glass Centerpiece" />
+  </a>
+  <a href="http://www.benetto.net/IBS/SimpleCat/Product/asp/hierarchy/06/product-id/40193261.html" class="prodLink" target="_blank">
+    Murano Medium Glass Centerpiece
+  </a> 
+  <a href="http://www.benetto.net/IBS/SimpleCat/Shelf/ASP/Hierarchy/06.html" class="catLink" target="_blank"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.belgianhuis.com/product.aspx?zpid=1129" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/california_bedding.aspx?ext=.jpg" alt="California Bed Linen Collection" />
+  </a>
+  <a href="http://www.belgianhuis.com/product.aspx?zpid=1129" class="prodLink" target="_blank">
+    California Bed Linen Collection
+  </a> 
+  <a href="http://www.belgianhuis.com/Bed-Linen.aspx" class="catLink" target="_blank"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=206959.737431139961&type=15&murl=http%3A%2F%2Fwww1.macys.com%2Fshop%2Fproduct%2Fecco-womens-trace-tie-cold-weather-boots%3FID%3D2472385%26PartnerID%3DLINKSHARE%26cm_mmc%3DLINKSHARE-_-1-_-16-_-MP116" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/women-tie-boot.aspx?ext=.jpg" alt="Women's Trace Tie Cold Weather Boots" />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=206959.737431139961&type=15&murl=http%3A%2F%2Fwww1.macys.com%2Fshop%2Fproduct%2Fecco-womens-trace-tie-cold-weather-boots%3FID%3D2472385%26PartnerID%3DLINKSHARE%26cm_mmc%3DLINKSHARE-_-1-_-16-_-MP116" class="prodLink" target="_blank">
+    Women's Trace Tie Cold Weather Boots
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=women+boot" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div>
+</div>
+  
+  <h2>...and the Little People on your Shopping List!
+
+
+
+</h2>
+  <div id="carousel-2">
+<div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=336483.3203&type=15&murl=http%3A%2F%2Fwww.hearthsong.com%2F8-enclosed-trampoline.htm%3Futm_source%3DLinkShare%26utm_medium%3Daffiliates%26aff%3D10484" target="_blank">
+    <img src="/Featured-Products-2/Images/11-22-16/8-Enclosed-Outdoor-Trampoline.aspx?ext=.jpg" alt="8' Enclosed Outdoor Trampoline" />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=336483.3203&type=15&murl=http%3A%2F%2Fwww.hearthsong.com%2F8-enclosed-trampoline.htm%3Futm_source%3DLinkShare%26utm_medium%3Daffiliates%26aff%3D10484" class="prodLink" target="_blank">
+    8' Enclosed Outdoor Trampoline
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=outdoor+toys" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=206959.883594056741&type=15&murl=http%3A%2F%2Fwww1.macys.com%2Fshop%2Fproduct%2Fbrookstone-stunt-drone%3FID%3D3003626%26PartnerID%3DLINKSHARE%26cm_mmc%3DLINKSHARE-_-1-_-19-_-MP119" target="_blank">
+    <img src="/Featured-Products/Images/11-21-17/drone.aspx?ext=.jpg" alt="Brookstone Acrobatic Stunt Drone " />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=206959.883594056741&type=15&murl=http%3A%2F%2Fwww1.macys.com%2Fshop%2Fproduct%2Fbrookstone-stunt-drone%3FID%3D3003626%26PartnerID%3DLINKSHARE%26cm_mmc%3DLINKSHARE-_-1-_-19-_-MP119" class="prodLink" target="_blank">
+    Brookstone Acrobatic Stunt Drone 
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=drone" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.kiddlywinks.com/IBS/SimpleCat/Product/asp/hierarchy/0T/product-id/43244143.html" target="_blank">
+    <img src="/Featured-Products-2/Images/11-22-16/Crazy-Fort-Flexible-Rods-Fort.aspx?ext=.jpg" alt="Crazy Fort Flexible Rods   Kids' Fort" />
+  </a>
+  <a href="http://www.kiddlywinks.com/IBS/SimpleCat/Product/asp/hierarchy/0T/product-id/43244143.html" class="prodLink" target="_blank">
+    Crazy Fort Flexible Rods   Kids' Fort
+  </a> 
+  <a href="http://www.kiddlywinks.com/IBS/SimpleCat/Shelf/ASP/Hierarchy/0T.html" class="catLink" target="_blank"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.domesticbin.com/Chicago-Cubs-Bedding.aspx" target="_blank">
+    <img src="/Featured-Products-2/Images/11-22-16/Chicago-Cubs-Sidelines-Bedding-Set.aspx?ext=.jpg" alt="Chicago Cubs Sidelines Bedding Set" />
+  </a>
+  <a href="http://www.domesticbin.com/Chicago-Cubs-Bedding.aspx" class="prodLink" target="_blank">
+    Chicago Cubs Sidelines Bedding Set
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=cubs" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://www.kiddlywinks.com/IBS/SimpleCat/Product/asp/hierarchy/0T/product-id/37002548.html" target="_blank">
+    <img src="/Featured-Products-2/Images/11-22-16/Magna-Tiles-Construction-Set.aspx?ext=.jpg" alt="Magna-Tiles 32 pc. 3D Construction Set" />
+  </a>
+  <a href="http://www.kiddlywinks.com/IBS/SimpleCat/Product/asp/hierarchy/0T/product-id/37002548.html" class="prodLink" target="_blank">
+    Magna-Tiles 32 pc. 3D Construction Set
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=building+toys" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div><div class="cItem">
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=336483.1808&type=15&murl=http%3A%2F%2Fwww.hearthsong.com%2Fbagball-beanbag-toss-game.htm%3Futm_source%3DLinkShare%26utm_medium%3Daffiliates%26aff%3D10484" target="_blank">
+    <img src="/Featured-Products-2/Images/11-22-16/Bagball-Beanbag-Toss-Game.aspx?ext=.jpg" alt="Kids' Bagball Beanbag Toss Game" />
+  </a>
+  <a href="http://click.linksynergy.com/link?id=xblfV*FpZ9Y&offerid=336483.1808&type=15&murl=http%3A%2F%2Fwww.hearthsong.com%2Fbagball-beanbag-toss-game.htm%3Futm_source%3DLinkShare%26utm_medium%3Daffiliates%26aff%3D10484" class="prodLink" target="_blank">
+    Kids' Bagball Beanbag Toss Game
+  </a> 
+  <a href="http://www.pointshop.com/search.aspx?q=outdoor+toys" class="catLink" target="_self"><i class="icon-angle-right"></i> More like this</a>
+</div>
+</div>
+</div>
+
+<div class="fstore">
+   <div class="FShead"><h2>Featured Stores <a href="/Store-Directory">View Merchant Directory</a></h2>
+
+
+
+
+</div><div class="columns4">
+<ul>
+<li><a href="http://www.adamsfinegifts.com" target="_blank">Adams Fine Gifts &amp; Collectibles</a></li><li><a href="http://www.alaskasausage.com" target="_blank">Alaska Sausage Co.</a></li><li><a href="http://www.angelworksgifts.com" target="_blank">Angelworks!</a></li><li><a href="http://www.bedandbathoutlet.com" target="_blank">Bed and Bath Outlet</a></li><li><a href="http://www.belgianhuis.com" target="_blank">Belgian Huis</a></li><li><a href="http://www.thecandyshop.com" target="_blank">Candy Shop, The </a></li><li><a href="http://www.domesticbin.com" target="_blank">Domestic Bin</a></li><li><a href="http://www.fblinen.com" target="_blank">F&amp;B Specialty Linens</a></li><li><a href="http://www.floriesfinales.com" target="_blank">Florie&#39;s Finales</a></li><li><a href="http://www.themodelhorsestore.com/" target="_blank">Horse&#39;n Around</a></li><li><a href="http://www.houseofnubian.com" target="_blank">House Of Nubian</a></li><li><a href="http://www.kiddlywinks.com" target="_blank">Kiddly Winks</a></li><li><a href="http://www.ladygolf.com" target="_blank">Lady Golf</a></li><li><a href="http://www.militaryclothing.com" target="_blank">Military Uniform Supply</a></li><li><a href="http://www.nantucketbasketworks.com" target="_blank">Nantucket Basketworks of Cape Cod</a></li>
+</ul>
+</div>
+   <section class="hbanners"> 
+     <a id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator_lnkBanner" class="CMSBanner" href="http://www.fblinen.com" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=19&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=19&#39;;" target="_blank"><img id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator_imgBanner" src="/Ad-Banners/242x120/FBLinen242x120.aspx" style="" /></a><a id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator1_lnkBanner" class="CMSBanner" href="http://www.domesticbin.com" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=14&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=14&#39;;" target="_blank"><img id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator1_imgBanner" src="/Ad-Banners/242x120/DomesticBin242x120.aspx" alt="DomesticBin" style="" /></a><a id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator2_lnkBanner" class="CMSBanner" href="http://www.militaryclothing.com" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=17&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=17&#39;;" target="_blank"><img id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator2_imgBanner" title="La Belle Cuisine" src="/Ad-Banners/242x120/MClogo242x120b.aspx" style="" /></a><a id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator3_lnkBanner" class="CMSBanner last" href="http://www.belgianhuis.com/" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=20&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=20&#39;;" target="_blank"><img id="p_lt_zoneCnt_pageplaceholder_p_lt_zoneFeaturedBanners_BannerRotator3_imgBanner" src="/Ad-Banners/242x120/BelgianHuis242x120.aspx" alt="Belgian Huis" style="" /></a>
+   </section>
+</div>
+
+<div class="seotxt"><h3>Online Shopping Directory & Price Comparison for Millions of Products
+
+
+
+</h3><div class="columns2"><p>PointShop&#39;s online shopping mall is a network of online stores, department stores and national retailers, designed to provide you with a safe shopping environment that makes it quick and easy for you to compare prices, find gift ideas, bargains, coupons and more.</p>
+
+<p>With online buying, we know you care about price, selection and service. At PointShop.com, you&rsquo;ll find everything from iPods, camcorders, DVD players, and digital cameras to women&#39;s clothing and apparel, shoes, furniture, bedding, jewelry, gift baskets, and handmade products you won&rsquo;t find elsewhere. The PointShop.com shopping mall offers great shopping deals on brand name products you know and trust like Sony, Nikon, Canon, Apple and Dell.</p>
+
+<p>We don&rsquo;t just carry electronics, computers, books and music, though &ndash; our shopping center also allows you to do comparison shopping for products from Nike, Laura Ashley, Samsonite, Britax, Lego, Lenox and hundreds more of the best brands, and offers a large selection of unique gifts and products you simply won&rsquo;t find at other online malls. Look for handmade collectibles and handbags, custom art, glassware, jewelry, and many specialty boutiques.</p>
+
+
+
+
+</div><br />
+<script type="text/javascript">
+      /* Version: 0.7 */
+      /* <![CDATA[ */
+      try {
+      var _mag = _mag || {};
+      _mag.kw = 'Online Shopping, Online Shopping deals';
+      _mag.kw_encoded = 0;
+      _mag.shortName = 'pointshop';
+      _mag.default_protocol = ('https:' == document.location.protocol ? 'https:' : 'http:');
+      _mag.startTime = (new Date()).getTime();
+      (function(d,t) {
+      var mag = d.createElement('script'); mag.type = 'text/javascript'; mag.async = true; mag.src = t;
+      var head = d.getElementsByTagName('head')[0] || d.documentElement; head.insertBefore(mag, head.firstChild);
+      })(document,  _mag.default_protocol + '//d3ezl4ajpp2zy8.cloudfront.net/pointshop_tag.js');
+      } catch (e) {}
+      /* ]]> */
+    </script></div>
+
+<script src="/CMSScripts/Custom/slick.min.js"></script>
+<script>
+$(document).ready(function(){
+    $('#carousel-1, #carousel-2').slick({
+      speed: 500,
+      mobileFirst: true,
+      slidesToShow: 2,
+      slidesToScroll: 2,
+      responsive: [
+        {
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 6,
+            slidesToScroll: 6
+          }
+        },
+        {
+          breakpoint: 980,
+          settings: {
+            slidesToShow: 5,
+            slidesToScroll: 5
+          }
+        },
+        {
+          breakpoint: 700,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 4
+          }
+        },
+        {
+          breakpoint: 500,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3
+          }
+        },
+      ]
+    });
+});
+</script>
+  
+</div>
+
+<footer>
+    <section>
+      <article class="f1"><h3>Ways to Shop</h3>
+<ul>
+<li><a href="/Ways-to-Shop/Merchant-Directory">Merchant Directory</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/Stores-by-Category">Stores by Category</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/Services-Directory">Services Directory</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/Deals-and-Savings">Deals and Savings</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/Free-Shipping-Offers">Free Shipping Offers</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/Top-Searches">Top Searches</a></li>
+ 
+
+<li><a href="/Ways-to-Shop/View-All-Categories">View All Categories</a></li>
+ 
+
+
+</ul></article>
+      <article class="f2"><h3>Help</h3>
+<ul>
+<li><a href="/Help/About-PointShop">About PointShop</a></li>
+ 
+
+<li><a href="/Help/Buying-Guides">Buying Guides</a></li>
+ 
+
+<li><a href="/Help/How-to-Shop">How to Shop</a></li>
+ 
+
+<li><a href="/Help/Security-Tips">Security Tips</a></li>
+ 
+
+<li><a href="/Help/Contact-Us">Contact Us</a></li>
+ 
+
+<li><a href="/Help/Feedback">Feedback</a></li>
+ 
+
+<li><a href="/Help/Sell-Your-Products">Sell Your Products</a></li>
+ 
+
+
+</ul></article>
+      <article class="f3"><h3>Customer Care</h3>
+<ul>
+<li><a href="/Customer-Care/FAQs">FAQs</a></li>
+ 
+
+<li><a href="/Customer-Care/Order-Tracking">Order Tracking</a></li>
+ 
+
+<li><a href="/Customer-Care/Shipping-Policy">Shipping Policy</a></li>
+ 
+
+<li><a href="/Customer-Care/Returns-Policy">Returns Policy</a></li>
+ 
+
+<li><a href="/Customer-Care/Privacy-Policy">Privacy Policy</a></li>
+ 
+
+<li><a href="/Customer-Care/Terms-and-Conditions">Terms and Conditions</a></li>
+ 
+
+
+</ul></article>
+       <aside><h3><a class="ajax cboxElement" href="/App_Themes/mall2013/newsletter-signup.htm"><span class="icon icon-envelope">&nbsp;</span> Get the newsletter</a></h3>
+
+<h3><a href="https://www.facebook.com/PointShopMall" target="_blank"><span class="icon icon-facebook-square">&nbsp;</span> Find us on Facebook</a></h3>
+
+<h3><a href="/Blog"><span class="icon icon-comments">&nbsp;</span> New in the Blog</a></h3>
+
+
+
+
+<ul class="recent">
+<li><a href="/Online-Shopping-Blog-by-PointShop/August-en/Back-to-School-Must-Have’s-for-a-Great-School-Year">Back-to-School: Must-Have’s for a Great School Year</a></li><li><a href="/Online-Shopping-Blog-by-PointShop/February-2017/It’s-Time-for-a-Winter-Getaway">It’s Time for a Winter Getaway</a></li><li><a href="/Online-Shopping-Blog-by-PointShop/January-2017/The-Secret-is-Setting-Realistic-Goals">The Secret is Setting Realistic Goals</a></li><li><a href="/Online-Shopping-Blog-by-PointShop/December-2016/2016-is-Ticking-Down">2016 is Ticking Down</a></li><li><a href="/Online-Shopping-Blog-by-PointShop/December-2016/Family-and-Charity-Go-Hand-in-Hand-for-the-Holiday">Family and Charity Go Hand in Hand for the Holidays</a></li>
+</ul></aside>
+    </section>
+</footer>
+
+<div class="foot2">
+	<article><!-- START SCANALERT CODE --><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=w6ox8fZ9
+ZNOha6RZrnfZ1ViTyrcL5E&amp;style=invert&amp;size=105x54&amp;language=en" type="text/javascript"></script><noscript>
+<a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=w6ox8fZ9ZN
+Oha6RZrnfZ1ViTyrcL5E&amp;style=invert&amp;size=105x54&amp;language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=w6ox8fZ9ZNO
+ha6RZrnfZ1ViTyrcL5E&amp;style=invert&amp;size=105x54&amp;language=en" border="0" alt="Trusted Commerce" /></a></noscript><!-- END   SCANALERT CODE -->
+
+
+
+</article>
+    <aside>Point & Shop is a registered trademark of PointShop, Inc &copy; <script type="text/javascript">var today=new Date(); document.write(today.getFullYear());</script> </aside>
+</div>
+<a href="#" class="scrollup" title="scroll to top"><span class="icon-chevron-up"></span></a>
+
+
+<script type="text/javascript" src="/App_Themes/Mall2013/assets/js/custom.min.js"></script>
+<script type="text/javascript" src="//d2r7ualogzlf1u.cloudfront.net/autocomplete/searchspring-autocomplete.min.js"></script>
+<script type="text/javascript">
+    SearchSpring.Autocomplete.init({
+        siteId: 'b3dp2m',
+        queryClass : 'stxt',
+		searchTermCallback: function(term) {
+      window.open = '/search.aspx?q=' + encodeURIComponent(term).replace(/%20/g, '+');
+      return false;
+	  }
+    });
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-448538-7', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+    
+      <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+  <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3,cf352368b953421da63f9283d333e0e9&ns=1&cb=844194706';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

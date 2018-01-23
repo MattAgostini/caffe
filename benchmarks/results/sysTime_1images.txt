@@ -1,0 +1,2 @@
+sysTime of image 1 is .080 seconds
+average sys time of classifying an image over 1 images is ------------------------- .080 seconds

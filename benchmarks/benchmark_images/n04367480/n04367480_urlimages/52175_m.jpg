@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Choiceful</title>
+
+<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-629547-1']);
+    _gaq.push(['_trackPageview']);
+      
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<link rel='alternate' href=http://www.choiceful.com/ hreflang='x-default'/><link rel="apple-touch-icon-precomposed" href="apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-iphone.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-iphone-retina-display.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-ipad-retina-display.png" />
+            
+<link rel="stylesheet" type="text/css" href="/new_homepage/css/superslides.css" />
+
+<link rel="stylesheet" type="text/css" href="/new_homepage/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/new_homepage/css/new_style.css" />
+<link rel="stylesheet" type="text/css" href="/new_homepage/css/media.css" />
+
+<!--[if IE 9]> 
+<link href="/new_homepage/css/ie9.css" rel="stylesheet" type="text/css" />
+<![endif]--> 
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<style style="text/css">
+    #slider1 {
+        width: 160px;
+        height:70px;
+        list-style: none;
+    }
+    .anythingSlider-metallic.activeSlider .anythingWindow {
+        border: medium none;
+        margin-right:40px;
+    }
+    .anythingSlider .panel img{
+        height: 50px !important;
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="/css/slider1/theme-metallic.css" />
+<link rel="stylesheet" type="text/css" href="/new_homepage/fancyBox-2.1.5/source/jquery.fancybox.css?v=2.1.5" />
+<!--Ends here-->
+</head>
+<body>
+<!--Main Container Start-->
+<section id="main-container">
+<div class="slider-section">
+    <!--Header Start-->
+    <!--Header Start-->
+        <header>
+            <!--Top Bar Start-->
+            <section class="topbar">
+                <section class="toplinks_widget">
+                    <ul class="toplinks">
+                        <li><a href="javascript:void(0);" class="selected"><span>Choiceful</span></a></li>
+                        <li><a href="/marketplaces/view/how-it-works"><span>Sell</span></a></li>
+                        <li><a href="/pages/view/help"><span>Help</span></a></li>
+                        <li><a href="/blog"><span>Blog</span></a></li>
+                        <li class="mobile-only"><a href="javascript:void('0');" id="countryDisplay" class="">Store: <span id="dynamic_Coun">United Kingdom</span></a></li>
+                    </ul>
+                </section>
+                
+                <section class="headerright">
+                    <ul class="topright_links">
+                        <li class="my_choiceful"><section><a href="/orders/view_open_orders">My Choiceful</a> <!--| <a href="#">Logout</a>--></section></li>
+                        <li class="livehelpC"><script  type="text/javascript"  src="http://help.choiceful.com/js/phplive.js.php?d=0&base_url=http://help.choiceful.com&text=Live Help"></script></li>
+                        <li class="country desktop-only"><a href="javascript:void('0');" id="countryDisplay" class="">Store: <span id="dynamic_Coun">United Kingdom</span></a></li>
+                        <li class="cart" id="shopping_basket_id">	
+	<!--<style>
+	.topright_links li.cart a:hover, .topright_links li.cart a.active{
+		background: url("../img/new/images/cart-icon.png") no-repeat scroll left 9px transparent;
+		padding-top:4px;
+		border-top:2px;
+		color:#FFF;
+	}
+</style> -->
+		<a href="http://www.choiceful.com/baskets/view"> <!--style="cursor: default;"--->0 item - &pound;0.00</a>
+				<!--<strong>Basket:</strong> Currently empty, &pound;0.00</p>--->
+		
+		
+                        </li>
+                        <li><a href="#" class="menu-toggle"><img src="/new_homepage/img/menu-icon.png" align="menu"></a></li>
+                    </ul>
+                </section>
+            </section>
+            <!--Top Bar Closed-->
+            
+            <!--Header Area Start-->
+            <section class="header">
+                <!--Logo Start-->
+                <section class="logo"><a href="">choiceful.com</a></section>        
+                <!--Logo Closed-->    
+            </section>
+            <!--Header Area Closed-->
+            
+        </header>
+        <!--Header Closed-->
+
+    
+    
+    <div id="slides">
+          <ul class="slides-container">
+    <li>
+      <img src="/uploads/banners/3670_1850_FifaWorldCup.jpg" alt="">
+      <div class="slider-caption">
+        Ready for Every Season      </div>
+    </li>
+    <li>
+      <img src="/uploads/banners/7454_3196_GD3.jpg" alt="">
+      <div class="slider-caption">
+        Over 45,000 Products at Trade Prices      </div>
+    </li>
+        </ul>
+    </div>
+
+    <div class="search">
+        <div class="searchdiv">
+            <form name="searchform" action="http://search.choiceful.com/search" method="get" onsubmit="return ajaxsearchsubmit(this)">
+            <input type="hidden" value="grid" name="view">
+            <input type="hidden" value="48" name="cnt">
+            <input type="hidden" value="" name="af" id ="af">
+            <input type="text" name="w" value="" tabindex="1" onfocus="this.value=''" id="sli_search_1" maxlength="1000" style="width:100%" autocomplete="off" placeholder="Search by product name, barcode, model number..." />
+            <input name="" tabindex="2" value="Search" type="submit" id="serrchFocOut">
+        </div>
+    </div>
+</div>
+<div class="broswse-button">
+    <a href="http://search.choiceful.com/nav/0">Browse all Product</a>
+</div>
+
+<!--Footer Start-->
+<footer>
+        <section class="footerframe">
+            <!--Footer Top Start-->
+            <section class="footertop">
+                <section class="footertop_left">
+                    <section class="footerslider">
+                        <ul class="slidelogos" style="width:1000px;" id="slider1">
+                        <!--<li><img src="/img/new/images/truste.png" alt="" /></li> -->
+                                                                                            <li> <img src="/img/banner/medium/img_135_1380034613_2.jpg" title="Verified-by-VISA" alt="Verified-by-VISA" style="height:auto !important;width:auto !important;" /></li>
+                                                                                                        <li> <img src="/img/banner/medium/img_135_1380045026_verified_mastercard.gif" title="MasterCard-SecureCode" alt="MasterCard-SecureCode" style="height:auto !important;width:auto !important;" /></li>
+                                                                                                        <li> <img src="/img/banner/medium/img_135_1380045136_paypal_l.jpg" title="Paypal" alt="Paypal" style="height:auto !important;width:auto !important;" /></li>
+                                    
+                        <!--    <li><img src="/img/new/images/truste.png" alt="" /></li>
+                        <li><img src="/img/new/images/PCI-Compliant-1.png" alt="" /></li>
+                        <li><img src="/img/new/images/PCI-Compliant-2.png" alt="" /></li>
+                        <li><img src="/img/new/images/Thawte.png" alt="" /></li>
+                        <li><img src="/img/new/images/Secure-Transactions.png" alt="" /></li> --->
+                        </ul>
+                        <!--<section class="footerpaging"><a href="#">1</a><a href="#">2</a><a href="#" class="active">3</a><a href="#">4</a><a href="#">5</a><a href="#">6</a></section>-->
+                    </section>
+                    <section class="cardsopt"><img src="/img/new/images/cards.png" width="204" height="87" alt="Payments accepted by Choiceful.com" title="Payments accepted by Choiceful.com" /></section>
+                    <section class="securepay">
+                        <h4>100% Secure Payments</h4>
+                        <p>All major credit &amp; debit cards accepted</p>
+                    </section>
+                </section>
+                
+                <!--Footer Top Right Start-->
+                <section class="footerright">
+                    <p class="hdttl">Everything you need to know about Choiceful is right here..</p>
+                    <section class="footerlinks_widget">
+                        <!--Shopping at Choiceful Start-->
+                        <section class="footerlinks">
+                            <h5>Shopping at Choiceful</h5>
+                            <ul>
+                                <li><a href="/pages/view/how-to-order">Ordering With Us</a></li>
+                                <li><a href="/orders/view_open_orders">Order Tracking</a></li>
+                                <li><a href="/pages/view/estimated-delivery-dates">Delivery</a></li>
+                                <li><a href="/pages/view/returns-policy">Returns &amp; Refunds</a></li>
+                                <li><a href="/departments/a-to-z-product-index">A to Z Product Index</a></li>
+                                <li><a href="/certificates/buy-choiceful-gift-certificates-the-gift-of-choice">Gift Certificates</a></li>
+                            </ul>
+                        </section>
+                        <!--Shopping at Choiceful Closed-->                        
+                        <!--Earn Money Start-->
+                        <section class="footerlinks earnmoney">
+                            <h5>Earn Money</h5>
+                            <ul>
+                                <li><a href="/pages/view/what-is-choiceful">What is Choiceful Marketplace?</a></li>
+                                <li><a href="/marketplaces/view/choiceful-marketplace-how-it-works">Sell on Choiceful</a></li>
+                                <li><a href="/pages/view/marketplace-pricing">Marketplace Fees</a></li>
+                                <li><a href="/pages/view/marketplace-user-agreement">Marketplace User Agreement</a></li>
+                                <li><a href="/marketplaces/view/choiceful-marketplace-international-sellers">International Selling</a></li>
+                                <li><a href="/advertise-on-choiceful">Advertising with Choiceful</a></li>
+                                <li><a href="/pages/view/become-an-affiliate">Affiliates Program</a></li>
+                            </ul>
+                        </section>
+                        <!--Earn Money Closed-->                        
+                        <!--Trust &amp; Security Start-->
+                        <section class="footerlinks">
+                        <h5>Trust &amp; Security</h5>
+                            <ul>
+                                <li><a href="/pages/view/buy-confidence-guarantee">Buy-With-Confidence</a></li>
+                                <li><a href="/pages/view/conditions-of-use">Conditions of Use</a></li>
+                                <li><a href="/pages/view/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="/pages/view/terms-and-conditions">Terms and Conditions</a></li>
+                                <li><a href="/pages/view/refund-policy">Returns Guidelines</a></li>
+                                <li><a href="/pages/view/cookies-policy">Cookies Policy</a></li>
+                                <li><a href="/pages/view/our-safe-shopping-promise">Secure Online Shopping</a></li>
+                            </ul>
+                        </section>
+                        <!--Trust &amp; Security Closed-->                        
+                        <!--Company Start-->
+                        <section class="footerlinks companycol">
+                            <h5>Company</h5>
+                            <ul>
+                                <li><a href="/pages/view/about-website">About Choiceful</a></li>
+                                <li><a href="/pages/view/our-global-stores">Our Global Stores</a></li>
+                                <li><a href="/pages/view/what-is-choiceful">Selling Your Products</a></li>
+                                <li><a href="/pages/view/our-safe-shopping-promise">Secure Shopping</a></li>
+                                <li><a href="/blog">Choiceful Blog</a></li>
+                                <li><a href="/pages/view/choiceful-charity">Choiceful Charity</a></li>
+                            </ul>
+                        </section>
+                        <!--Company Closed-->                        
+                        <!--Customer Help Start-->
+                        <section class="footerlinks custhelp">
+                        <h5>Customer Help</h5>
+                            <ul>
+                                <li class='liveChat'><span id="phplive_btn_81310953" class="liveChat3" onclick="phplive_launch_chat_81310953(0)" style="cursor: pointer;">Live help</span></li>
+                                <li><a href="/pages/view/contact-us">Contact Us</a></li>
+                                <li><a href="/pages/view/help">Help Topics</a></li>
+                                <li><a href="/faqs/view/1">Frequently Asked Questions</a></li>
+                            </ul>
+                        </section>
+                        <!--Customer Help Closed-->
+                    </section>
+                    
+                     <section class="joinus">
+                        <h5>Join us on</h5>
+                        <ul class="joinuson">
+                            <li class="facebook"><a target="_blank" title="Facebook" href="https://facebook.com/choiceful"><span></span>Facebook</a></li>
+                            <li class="googleplus"><a target="_blank" title="Google Plus" href="https://plus.google.com/105885727970905038288"><span></span>Google+</a></li>
+                            <li class="twitter"><a target="_blank" title="Twitter" href="https://twitter.com/Choicefulcom"><span></span>Twitter</a></li>
+                            <li class="email"><a href="/homes/email_friend" id="email_friend_page" class="">Email a friend about this page</a> |  <a href="/users/sign_in/" class="feedback-popup">Website Feedback</a></li>
+                        </ul>
+                    </section>
+                </section>
+                <!--Footer Top Right Closed-->
+                
+               
+            </section>
+            <!--Footer Top Closed-->
+            
+            <!--Footer Content Text Start-->
+            <section class="footer_text">
+                <p>Choiceful.com is one of the largest e-commerce marketplaces providing a platform for small, medium and large businesses across 52 countries to connect with millions of customers worldwide. Our easy-to-use and secure platforms make it simple for sellers to advertise and distribute their products to the widest audience of online buyers. Our product range consists of a wide choice of national and international brands across diverse categories including Electronics, Mobile, Home & Garden, Health & Beauty, Office & Computing, Movies and Books, with tens of millions of products available we truly offer buyers and sellers an immense choice in every category. Shoppers enjoy some of the lowest prices available for brands they love buying thanks to the industry-beating marketplace fees we charge our sellers. Find unbeatable offers on the world's top-selling brands like Sony, Apple, Samsung, Canon, Hugo Boss, Armani, Prada and more. Our hassle-free shopping experience includes multi-payment options and many of our products are available with free standard delivery and a no-hassle return service for peace of mind.</p>
+                <p>Selling and managing your business on Choiceful.com is simple, whether you are at home, work or on the go via mobile. We offer the lowest marketplace fees which means our sellers are able to beat prices compared to other websites. Cost-for-cost comparisons against own website businesses have shown that our low marketplace fees make selling on Choiceful.com more profitable for sellers as payment processing charges (such as credit card processing fees) can be around 2-4%, website development, maintenance, server hosting and marketing costs for websites can be significant for small to medium sized companies. Selling on Choiceful.com means you pay only when you sell a product, there are never any listings fees and you can list millions of products for free. We hope we can cater to your needs and that you have a great experience using Choiceful.com.</p>
+            </section>
+            <!--Footer Content Text Closed-->
+            
+            <section class="bottom">
+                <section class="sitelinks">
+                <a href="/homes/choiceful-mobile">Mobile Site</a> | <a href="/sitemaps/sitemap">Site Map</a>                </section>
+                <a href="javascript:void(0);" class="backtop" id="gototop">Back to top</a>
+                <section class="copyright">
+                    <p class="extrapad">Choice.ful (choice'full) adj. To make "bold, wise and the right" choices</p>
+                    <p><img src="/new_homepage/images/footerlogo.png" width="122" height="20" alt="" /></p>
+                    <p class="copyrighttext">Copyright &copy; Choiceful.com 2017. All Rights Reserved.</p>
+                </section>
+            </section>
+        </section>
+    </footer>
+    <!--Footer Closed-->
+
+
+</section>
+<script src="/js/jquery-1.9.js"></script>
+<script src="/new_homepage/js/jquery.easing.1.3.js"></script>
+<script src="/new_homepage/js/jquery.animate-enhanced.min.js"></script>
+<script src="/new_homepage/js/jquery.superslides.js"></script>
+<script type="text/javascript" src="/js/slider/jquery.anythingslider.js"></script>
+<script type="text/javascript" src="/new_homepage/fancyBox-2.1.5/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript">
+jQuery(function($){
+    var screenHeight = window.innerHeight;
+    var headerHeight = $("header").outerHeight();
+    $(".slider-section").css("height",screenHeight);
+    $("#slides").css("padding-top",headerHeight);
+    $(window).resize(function(){
+        var screenHeight = window.innerHeight;
+        var headerHeight = $("header").outerHeight;
+        $(".slider-section").css("height",screenHeight);
+        $("#slides").css("padding-top",headerHeight);
+   });
+   $('li.liveChat span.liveChat3').attr('id', jQuery('li.livehelpC span').attr('id'));
+    $('li.liveChat span.liveChat3').attr('onclick', jQuery('li.livehelpC span').attr('onclick'));
+        
+    $('#slides').superslides({
+      animation: 'fade',
+      pagination: false,
+      play: 6000
+    });
+    
+    $(".menu-toggle").click(function(){
+        if($(".toplinks_widget").hasClass("active")){
+            $(".toplinks_widget").removeClass("active");
+        }else{
+            $(".toplinks_widget").addClass("active");
+        }
+     });
+     
+     $("#email_friend_page").fancybox({
+         "width": "410",
+         "height": "285",
+         "openEffect"  : "none",
+         "closeEffect" : "none",
+         "nextEffect"  : "none",
+         "prevEffect"  : "none",
+         "type": "iframe"
+     });
+
+     $("a.feedback-popup").fancybox({
+         "width": "560",
+         "openEffect"  : "none",
+         "closeEffect" : "none",
+         "nextEffect"  : "none",
+         "prevEffect"  : "none",
+         "type": "iframe"
+     });
+      
+     $('#slider1').anythingSlider({
+        theme: 'metallic',
+        buildStartStop: false,
+        autoPlayLocked: true,
+        autoPlayDelayed: false,
+        resumeDelay: 1000,
+        /*autoPlayDelayed     : false,*/
+        infiniteSlides: true,
+        hashTags: false,
+        resizeContents: true,
+        buildArrows: false,
+        easing: 'swing',
+        navigationFormatter: function(index, panel) {
+            return ['Verified-by-VISA','MasterCard-SecureCode','Paypal'][index - 1];
+        }
+    });
+    // tooltips for first demo
+    $('#gototop').click(function() {
+        jQuery('html, body').animate({scrollTop: 0}, 'slow');
+        return false;
+    });
+
+});
+
+function ajaxsearchsubmit(form){
+var search=encodeURIComponent(form.w.value);
+if(search==""){
+    search="*";
+}
+var af=encodeURIComponent(form.af.value);
+var view=encodeURIComponent(form.view.value);
+var cnt=encodeURIComponent(form.cnt.value);
+document.activeElement.blur();
+//window.location.hash="#w="+search+"&view="+view+"&cnt="+cnt+"&af="+af;
+window.location="http://search.choiceful.com/search#w="+search+"&view="+view+"&cnt="+cnt+"&af="+af;
+return false;
+}
+</script>
+
+</body>
+</html>

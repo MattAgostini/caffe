@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>
+ boeken of huren? - Artiesten boeken via Artiestenwereld.nl
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="artiesten boeken, artiesten inhuren, bekende artiesten boeken, bekende artiesten huren, bekende zangers boeken, bekende zangeressen boeken, artiestenbureau, boekingskantoor artiesten, artiesten huren, bekende zangers boeken, bekende zangeressen boeken, artiestenbureau, boekingskantoor artiesten">
+<meta name="description" content="Bekende artiesten boeken? Artiesten boek je simpel en snel via Artiestenwereld.nl Ruim aanbod van bekende artiesten, orkesten, bands en overige artiesten">
+<meta name="verify-v1" content="4blD6n8T4KhlssT9xBKZovLSi4cdhC/POFEp5yuCvPg=" >
+<meta name="google-site-verification" content="OOidd5bFOvgLnkyiSRsSsSscxdHTJ6cGZvvv-l4ukNo" />
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="5 days">
+
+<base href="http://www.artiestenwereld.nl">
+
+<link rel="shortcut icon" href="favicon.ico" >
+<link rel="icon" type="image/gif" href="animated_favicon1.gif" >
+
+<link href="css/kindershows_2009.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+	
+<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/ddaccordion.js">
+/***********************************************
+* Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+</script>
+
+<script type="text/javascript">
+ddaccordion.init({
+	headerclass: "expandable", //Shared CSS class name of headers group that are expandable
+	contentclass: "categoryitems", //Shared CSS class name of contents group
+	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click", "clickgo", or "mouseover"
+	mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
+	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["", "openheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["prefix", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "slow", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+</script>
+
+<!-- lightbox popup-->
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+	
+</head>
+
+<body onLoad="MM_preloadImages('images/Kindershows_2009_3_19.jpg','images/Kindershows_2009_3_30.jpg','images/button_video_over.jpg')">
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td width="920" valign="top"><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr height="200">
+        <td height="200" class="header">&nbsp;</td>
+      </tr>
+      <tr height="30">
+        <td height="30" valign="top" bgcolor="#FFFFFF">
+			<table width="100%" height="30" border="0" cellspacing="0" cellpadding="0">
+			  <tr height="30">
+				<td width="26" background="images/topmenu_bg_04.jpg">&nbsp;</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='page.php?id=46'">Wie zijn wij</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='infoaanvraag.php'">Info Aanvraag</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='optieboeking.php'">Boekingen</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='links.php'">Links</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='page.php?id=47'">Contact</td>
+				<td width="103" class="topmenu" onMouseOver="this.className='topmenu_over'" onmouseout='this.className="topmenu"' onClick="location.href='index.php'">Home</td>
+				<td width="276" background="images/topmenu_bg_11.jpg" style="padding-right:25px;">
+				  <div align="right">
+				    <form method='GET' action='search.php' name='zoeken' style='margin:0;'>
+					<input class="inputveld" type="text" name="search" value="Zoek uw act" onFocus="this.value=''" id="textfield"><input class="button" type="submit" name="Zoek" id="button" value="zoek">
+					</form>
+					</div></td>
+			  </tr>
+			</table>
+		</td>
+      </tr>
+	   <tr><td bgcolor='white' style='padding: 2px;' class='breadcrumb' valign='top'>&nbsp;<a href='http://www.artiestenwereld.nl'>Home</a></td></tr>      <tr>
+        <td bgcolor="#FFFFFF">		
+<table width="920" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td width="192" class="leftmenu">
+
+		<div class="arrowlistmenu">
+		<h3 class="menuheader expandable">Muziek - Orkesten - Bands</h3>
+<ul class="categoryitems">
+<li><a href="/One_Man_Bands">One Man Bands</a></li>
+<li><a href="/Muziek_Duo">Muziek Duo</a></li>
+<li><a href="/Muziek_Trio">Muziek Trio</a></li>
+<li><a href="/Bands_|_Orkesten">Bands / Orkesten</a></li>
+<li><a href="/Tribute_Bands">Tribute Bands</a></li>
+<li><a href="/Thema_Artiesten">Thema Artiesten</a></li>
+<li><a href="/Drive-in_Shows_en_DJ's">Drive-in Shows en DJ\'s</a></li>
+<li><a href="/Mobiele_Muziek">Mobiele Muziek</a></li>
+<li><a href="/Pianoshows">Pianoshows</a></li>
+<li><a href="/Zangers">Zangers</a></li>
+<li><a href="/Zangeressen">Zangeressen</a></li>
+</ul>
+<h3 class="menuheader expandable">Bekende Artiesten</h3>
+<ul class="categoryitems">
+<li><a href="/Bekende_Zangers">Bekende Zangers</a></li>
+<li><a href="/Bekende_Zangeressen">Bekende Zangeressen</a></li>
+<li><a href="/Bekende_Zanggroepen_|_Bands">Bekende Zanggroepen / Bands</a></li>
+<li><a href="/Bekende_Feestartiesten">Bekende Feestartiesten</a></li>
+<li><a href="/Bloed_Zweet_&_Tranen">Bloed Zweet & Tranen</a></li>
+<li><a href="/Bekende_Kinderartiesten">Bekende Kinderartiesten</a></li>
+<li><a href="/The_Voice_of_Holland_Artiesten">The Voice of Holland Artiesten</a></li>
+<li><a href="/X-Factor_Artiesten">X-Factor Artiesten</a></li>
+<li><a href="/Bekende_Presentatoren_|_Personalities">Bekende Presentatoren / Personalities</a></li>
+<li><a href="/Internationale_Artiesten">Internationale Artiesten</a></li>
+<li><a href="/Bekende_DJ's">Bekende DJ\'s</a></li>
+</ul>
+<h3 class="menuheader expandable">Artiesten en Acts</h3>
+<ul class="categoryitems">
+<li><a href="/(Road)shows">(Road)shows</a></li>
+<li><a href="/Magische_Artiesten">Magische Artiesten</a></li>
+<li><a href="/Sneltekenaars_|_Karikaturisten">Sneltekenaars / Karikaturisten</a></li>
+<li><a href="/Typetjes_|_Acteurs">Typetjes / Acteurs</a></li>
+<li><a href="/Presentatoren">Presentatoren</a></li>
+<li><a href="/Straat_Artiesten">Straat Artiesten</a></li>
+<li><a href="/Imitators_|__Look_a_Likes">Imitators /  Look a Likes</a></li>
+<li><a href="/Kinder_Artiesten">Kinder Artiesten</a></li>
+<li><a href="/Spirituele_Artiesten">Spirituele Artiesten</a></li>
+<li><a href="/Entertainment_en_Artiesten">Entertainment en Artiesten</a></li>
+</ul>
+		</div>
+<br><br><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td height="100" class="nieuwsbrief" align="center">
+    	<form method="post" action="http://ymlp.com/subscribe.php?id=gmjhemsgmgue" target="signup_popup" onsubmit="window.open( 'http://ymlp.com/subscribe.php?id=gmjhemsgmgue','signup_popup','scrollbars=yes,width=600,height=450'); return true;" style="margin:0;">
+	  <input type='hidden' name='action' value='subscribe'>
+		<table width="100%" height="100%" border="0" cellpadding="2" cellspacing="3">
+		  <tr>
+		    <td align="center">
+				Aanmelden voor <br>de nieuwsbrief
+			</td>
+		  </tr>
+		  <tr>
+		    <td align="center">
+				<input value="Vul uw e-mail adres in" onFocus="this.value=''"  height="20" width="140" class="inputveld" type="email" name="YMP0" id="YMP0" required>
+			</td>
+		  </tr>
+		  <tr>
+		    <td align="center">
+				<input class="button" name="aanmelden" type="submit" value="aanmelden">
+			</td>
+		  </tr>
+		</table>
+	</form>
+      </td>
+  </tr>
+</table>
+</td>
+<td width="357" class="home_content">
+<h1 class='menu_titel'></h1>
+<b>Er is op dit moment niets in deze categorie geplaatst..<br>Excuses voor het ongemak.</b>
+</td>
+    <td width="198" class="home_highlights">
+	
+	    		<table width="161" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="161" class="highlights" height="300">
+				<table height="300" width="100%" border="0" cellpadding="0" cellspacing="0">
+				  <tr>
+					<td height="135" valign="bottom" align="center">
+						<table class="shownieuws_content_foto" height="130" width="130" cellpadding="0" cellspacing="0">
+						  <tr>
+							<td>
+								<img src="http://www.jbproductions.nl/images/artiest/thumb/2933_1.png" alt="Auke en Lorenzo - Kindershows.nl">
+							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td>
+						<table class="highlights_content" width="100%" cellpadding="2">
+						  <tr>
+							<td height="110" valign="top" align="left">
+								<font class="titel">Auke en Lorenzo</font><br>
+								<br>
+								
+	Al bij de allereerste ontmoeting draaide het bij Auke en Lorenzo om de muziek: Auke te Loo kocht zijn ...							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td height="26" valign="bottom"><a href="/Auke_en_Lorenzo" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ImageHL2933','','images/Kindershows_2009_3_30.jpg',0)"><img src="images/Kindershows_2009_19.jpg" name="ImageHL2933" width="161" height="26" border="0"></a></td>
+				  </tr>
+				</table>
+			</td>
+		  </tr>
+		</table>
+		
+		<br>
+		<table width="161" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="161" class="highlights" height="300">
+				<table height="300" width="100%" border="0" cellpadding="0" cellspacing="0">
+				  <tr>
+					<td height="135" valign="bottom" align="center">
+						<table class="shownieuws_content_foto" height="130" width="130" cellpadding="0" cellspacing="0">
+						  <tr>
+							<td>
+								<img src="http://www.jbproductions.nl/images/artiest/thumb/366_1.jpg" alt="Brace - Kindershows.nl">
+							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td>
+						<table class="highlights_content" width="100%" cellpadding="2">
+						  <tr>
+							<td height="110" valign="top" align="left">
+								<font class="titel">Brace</font><br>
+								<br>
+								
+	Vanaf zijn eerste auditie bij The voice of Holland is Brace favoriet voor de eindoverwinning. Met zijn...							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td height="26" valign="bottom"><a href="/Brace" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ImageHL366','','images/Kindershows_2009_3_30.jpg',0)"><img src="images/Kindershows_2009_19.jpg" name="ImageHL366" width="161" height="26" border="0"></a></td>
+				  </tr>
+				</table>
+			</td>
+		  </tr>
+		</table>
+		
+		<br>
+		<table width="161" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="161" class="highlights" height="300">
+				<table height="300" width="100%" border="0" cellpadding="0" cellspacing="0">
+				  <tr>
+					<td height="135" valign="bottom" align="center">
+						<table class="shownieuws_content_foto" height="130" width="130" cellpadding="0" cellspacing="0">
+						  <tr>
+							<td>
+								<img src="http://www.jbproductions.nl/images/artiest/thumb/5_1.jpg" alt="Dennie Christian - Kindershows.nl">
+							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td>
+						<table class="highlights_content" width="100%" cellpadding="2">
+						  <tr>
+							<td height="110" valign="top" align="left">
+								<font class="titel">Dennie Christian</font><br>
+								<br>
+								
+	Een sprankelende artiest. Dennie Christian oogstte vanaf de eerste gezongen noot al een groot respect ...							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td height="26" valign="bottom"><a href="/Dennie_Christian" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ImageHL5','','images/Kindershows_2009_3_30.jpg',0)"><img src="images/Kindershows_2009_19.jpg" name="ImageHL5" width="161" height="26" border="0"></a></td>
+				  </tr>
+				</table>
+			</td>
+		  </tr>
+		</table>
+		
+		<br>
+		<table width="161" border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td width="161" class="highlights" height="300">
+				<table height="300" width="100%" border="0" cellpadding="0" cellspacing="0">
+				  <tr>
+					<td height="135" valign="bottom" align="center">
+						<table class="shownieuws_content_foto" height="130" width="130" cellpadding="0" cellspacing="0">
+						  <tr>
+							<td>
+								<img src="http://www.jbproductions.nl/images/artiest/thumb/2656_1.jpg" alt="Jeffrey Schenk - Kindershows.nl">
+							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td>
+						<table class="highlights_content" width="100%" cellpadding="2">
+						  <tr>
+							<td height="110" valign="top" align="left">
+								<font class="titel">Jeffrey Schenk</font><br>
+								<br>
+								
+	Een artiest geboren om te zingen.
+
+	Zingen zit &lsquo;m in het bloed. Zelden is deze uitdrukking mee...							</td>
+						  </tr>
+						</table>
+					</td>
+				  </tr>
+				  <tr>
+					<td height="26" valign="bottom"><a href="/Jeffrey_Schenk" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ImageHL2656','','images/Kindershows_2009_3_30.jpg',0)"><img src="images/Kindershows_2009_19.jpg" name="ImageHL2656" width="161" height="26" border="0"></a></td>
+				  </tr>
+				</table>
+			</td>
+		  </tr>
+		</table>
+		
+			
+</td>
+  </tr>
+</table></td>
+      </tr>
+    </table></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1686726-14");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

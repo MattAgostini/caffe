@@ -1,0 +1,357 @@
+<!DOCTYPE html> <html lang="ja"><head>
+	    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://www.wolfhomeadventuring.com/xmlrpc.php">
+    <title>Choose From</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Choose From &raquo; フィード" href="http://www.wolfhomeadventuring.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Choose From &raquo; コメントフィード" href="http://www.wolfhomeadventuring.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.wolfhomeadventuring.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/third-party/font-awesome/css/font-awesome.min.css?ver=4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='education-hub-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A600%2C400%2C400italic%2C300%2C100%2C700%7CMerriweather+Sans%3A400%2C700&#038;ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='education-hub-style-css'  href='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/style.css?ver=4.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.wolfhomeadventuring.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.wolfhomeadventuring.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wolfhomeadventuring.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.3" />
+</head>
+
+<body class="home blog site-layout-fluid global-layout-right-sidebar">
+
+	    <div id="page" class="container hfeed site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    	<div id="tophead">
+		<div class="container">
+			<div id="quick-contact">
+				
+			</div>
+				</div>
+			
+		</div> <!-- .container -->
+	</div><!--  #tophead -->
+
+	<header id="masthead" class="site-header" role="banner"><div class="container">		    <div class="site-branding">
+				        <div id="site-logo"><a href="http://www.wolfhomeadventuring.com/"><img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/05/Choose-From.png" alt="Choose From" /></a></div><!-- #site-logo -->		
+						
+		    </div><!-- .site-branding -->
+
+    <div class="search-section">
+    	<form role="search" method="get" class="search-form" action="http://www.wolfhomeadventuring.com/">
+      <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+      </label>
+      <input type="submit" class="search-submit" value="Search" />
+    </form>    </div>
+
+        </div><!-- .container --></header><!-- #masthead -->    <div id="main-nav" class="clear-fix">
+        <div class="container">
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><i class="fa fa-bars"></i>
+Menu</button>
+            <div class="wrap-menu-content">
+				<ul><li><a href="http://www.wolfhomeadventuring.com/">Home</a></li></ul>            </div><!-- .menu-content -->
+        </nav><!-- #site-navigation -->
+       </div> <!-- .container -->
+    </div> <!-- #main-nav -->
+    
+		
+<!--headIMG-->
+<div id="featured-slider">
+      <div class="container">
+        <div class="cycle-slideshow" id="main-slider" data-cycle-fx="fadeout" data-cycle-speed="1000" data-cycle-pause-on-hover="true" data-cycle-loader="true" data-cycle-log="false" data-cycle-swipe="true" data-cycle-auto-height="container" data-cycle-caption-template="<h3><a href=&quot;{{url}}&quot; target=&quot;{{target}}&quot;>{{title}}</a></h3><p>{{excerpt}}</p>" data-cycle-timeout="3000" data-cycle-slides="article" style="height: 737px;">
+            			
+        <article class="first cycle-slide" >
+			<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/05/cropped-education-hub-img.jpg" />                                 
+         </article>
+	</div> 
+	
+      </div><!-- .container -->
+    </div>
+
+	
+<!--end_headIMG-->
+	<div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+						
+				
+<article id="post-49" class="post-49 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/49" rel="bookmark">腰痛は寝ている時に原因が？理由と改善の方法とは</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/49" rel="bookmark"><time class="entry-date published" datetime="2016-12-24T04:53:45+00:00">2016年12月24日</time><time class="updated" datetime="2017-06-28T23:03:28+00:00">2017年6月28日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/12/img94814951-640x427.jpg" />
+		一点だけに体重がかかることが原因人は寝るときに敷布団やマットレスを使っていますが、どんなものでもいいやと思って使っていることが腰痛を引き起こしているのかもしれません。柔らかい敷布団やマットレスを使っていると、身体の中でも重いお尻が深く沈み込んでしまいます。その結果お尻のすぐ上にある腰に体重がかかって&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/49">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-44" class="post-44 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/44" rel="bookmark">太陽光発電の投資を始めようと考えている方へ</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/44" rel="bookmark"><time class="entry-date published" datetime="2016-10-25T04:47:51+00:00">2016年10月25日</time><time class="updated" datetime="2017-03-31T23:16:50+00:00">2017年3月31日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/10/img280010505-640x427.jpg" />
+		太陽光発電に投資するメリット太陽光発電を投資として考えた場合、メリットがあるのか？勿論投資ですから、元本を保障される訳ではありません。可能性の問題になってきますが、現在の状況から考えて、かなりリスクは少ないのではないでしょうか？2012年から、太陽光発電した電力の固定買い取り制度が始まりました。投資&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/44">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-39" class="post-39 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/39" rel="bookmark">自宅の保管場所がなくても安心！？便利なトランクルームの活用方法</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/39" rel="bookmark"><time class="entry-date published" datetime="2016-07-26T04:39:48+00:00">2016年7月26日</time><time class="updated" datetime="2016-07-26T04:39:50+00:00">2016年7月26日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/07/img58489083-640x427.jpg" />
+		好きなスペースの場所を借りられる自宅が集合住宅なので物品を保管しておくスペースが無いという方、あるいは戸建住宅でももう自宅に余裕のあるスペースが無いので困っているという方は、トランクルームを使うことにしましょう。トランクルームは畳一畳分のスペースからある程度大きなスペースまで、保管しておきたいものに&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/39">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-35" class="post-35 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/35" rel="bookmark">備えて安心！？BCP対策とはどういう意味なの？</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/35" rel="bookmark"><time class="entry-date published" datetime="2016-07-24T05:08:32+00:00">2016年7月24日</time><time class="updated" datetime="2016-07-24T05:08:34+00:00">2016年7月24日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/07/img52502811-640x427.jpg" />
+		緊急時の事業継続に備える災害が発生してしまった場合には、会社によっては事業を行うのが難しくなってしまう場合が多いですよね。通常の業務を行えなくなってしまうだけでなく、他社との連絡も行えなくなってしまうでしょう。そんな時に、BCP対策を取っておくと、災害時などであっても通常通りの業務を継続できるように&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/35">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-31" class="post-31 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/31" rel="bookmark">包茎治療なら「上野クリニック」</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/31" rel="bookmark"><time class="entry-date published" datetime="2016-06-28T04:10:28+00:00">2016年6月28日</time><time class="updated" datetime="2016-06-28T04:10:30+00:00">2016年6月28日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/06/img6553799-640x427.jpg" />
+		日本一有名な包茎治療病院昔から男性雑誌の広告でお馴染みだった包茎治療の病院と言えば｢上野クリニック｣です。最近はタートルネックを着たイケメン男性のテレビCMが話題となっています。2015年の年間来院実績は、なんと12616人となっています。｢上野クリニック｣は、東京だけでなく、北は仙台、南は福岡まで&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/31">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-27" class="post-27 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/27" rel="bookmark">占い師の仕事について</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/27" rel="bookmark"><time class="entry-date published" datetime="2016-06-27T04:30:23+00:00">2016年6月27日</time><time class="updated" datetime="2016-07-29T23:04:39+00:00">2016年7月29日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/06/img9173224-640x430.jpg" />
+		誰もが不安を抱える時代先行きの不透明な時代が長く続いています。今後もこの傾向は加速することはあっても、改善されることはないでしょう。特にITやネットワーク技術は世界の進歩のスピードを劇的に早めてしまいました。未来の見通しを立てるのは、この先どんどん困難になってゆくでしょう。その流れは、決して止めるこ&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/27">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-23" class="post-23 post type-post status-publish format-standard hentry category-1">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://www.wolfhomeadventuring.com/archives/23" rel="bookmark">LED照明とは一体何か</a></h2>
+				<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.wolfhomeadventuring.com/archives/23" rel="bookmark"><time class="entry-date published" datetime="2016-06-27T04:12:51+00:00">2016年6月27日</time><time class="updated" datetime="2016-06-27T04:12:52+00:00">2016年6月27日</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://www.wolfhomeadventuring.com/archives/author/admin">admin</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+    		
+
+				<img src="http://www.wolfhomeadventuring.com/wp-content/uploads/2016/06/img7489408-640x425.jpg" />
+		LED照明の概要についてLED照明はLight emitting diodeの事を指し、従来型の白熱電球や蛍光灯タイプの製品と比較すると大幅に消費電力を抑制して発熱もあまりしないので、一般家庭や多くの事業所のメイン照明として利用されています。ここ数年のLED照明は蛍光灯タイプだと目に優しい商品も登場&hellip;		<a href="http://www.wolfhomeadventuring.com/archives/23">Read More &raquo;</a>
+		
+    
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+			
+			
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">投稿ナビゲーション</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://www.wolfhomeadventuring.com/page/2" >過去の投稿</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="sidebar-primary" class="widget-area" role="complementary">
+	    <aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.wolfhomeadventuring.com/">
+      <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+      </label>
+      <input type="submit" class="search-submit" value="Search" />
+    </form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">最近の投稿</h2>		<ul>
+					<li>
+				<a href="http://www.wolfhomeadventuring.com/archives/49">腰痛は寝ている時に原因が？理由と改善の方法とは</a>
+						</li>
+					<li>
+				<a href="http://www.wolfhomeadventuring.com/archives/44">太陽光発電の投資を始めようと考えている方へ</a>
+						</li>
+					<li>
+				<a href="http://www.wolfhomeadventuring.com/archives/39">自宅の保管場所がなくても安心！？便利なトランクルームの活用方法</a>
+						</li>
+					<li>
+				<a href="http://www.wolfhomeadventuring.com/archives/35">備えて安心！？BCP対策とはどういう意味なの？</a>
+						</li>
+					<li>
+				<a href="http://www.wolfhomeadventuring.com/archives/31">包茎治療なら「上野クリニック」</a>
+						</li>
+				</ul>
+		</aside>		<aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>2017年11月</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="月曜日">月</th>
+		<th scope="col" title="火曜日">火</th>
+		<th scope="col" title="水曜日">水</th>
+		<th scope="col" title="木曜日">木</th>
+		<th scope="col" title="金曜日">金</th>
+		<th scope="col" title="土曜日">土</th>
+		<th scope="col" title="日曜日">日</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.wolfhomeadventuring.com/archives/date/2016/12">&laquo; 12月</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td id="today">26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>	</div><!-- #sidebar-primary -->
+
+
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+	<footer id="colophon" class="site-footer" role="contentinfo"><div class="container">    
+           
+        <div class="site-info">
+      Copyright @ 2016 <a href="">Choose From </a>
+      <span class="sep"> | </span>
+	   All Rights Reserved.
+	<!-- .site-info -->
+	
+    	</div><!-- .container --></footer><!-- #colophon -->
+</div><!-- #page --><a href="#page" class="scrollup" id="btn-scrollup"><i class="fa fa-chevron-up"></i>
+
+  </a>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/js/custom.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EducationHubScreenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-content/themes/education-hub/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.wolfhomeadventuring.com/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+</body>
+</html>

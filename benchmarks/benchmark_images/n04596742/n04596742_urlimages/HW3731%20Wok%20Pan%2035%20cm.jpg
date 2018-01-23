@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+
+
+
+
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="nl"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="nl"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie10 lt-ie9" lang="nl"> <![endif]-->
+<!--[if IE 9]> <html class="no-js lt-ie10" lang="nl"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="NL"> <!--<![endif]-->
+   
+
+
+<head><title>
+	Rozenkwekerij De Wilde - Rozen bestellen en laten bezorgen
+</title><meta name="description" content="Rozen bestellen en bezorgen. Een mooie roos kunt u bestellen bij onze rozenkwekerij! Wij bezorgen uw rozen vers in huis. Gratis klimroos bij uw bestelling!" /><meta name="author" content="AGN Business Internet BV" /><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="language" content="NL" /><meta name="google-site-verification" content="HBGufWirTGPkmEwwuvRmenQkubsEzcTaDTkHrM7VwYw" /><link href="/css/application.min.css" rel="stylesheet" />
+    <!-- Content in header -->
+    
+    <!-- Place for extra script -->
+    <script type="text/javascript" language="javascript">
+    <!--
+        // javascript
+    //-->
+    </script>
+   
+    <!-- Place for extra CSS <link href="css/extra.css" rel="stylesheet" type="text/css" /> -->
+    
+<!-- AGN / Generated Google Code -->
+<script type="text/javascript">
+window.dataLayer = window.dataLayer || [];
+</script>
+<!-- AGN / Generated Google Code -->
+</head>
+<body class="home pageclass_nl pageId_2">
+
+        <!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T49MLBD"
+height ="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+ 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-T49MLBD');</script>
+<!-- End Google Tag Manager -->
+
+
+
+	<form method="post" action="./" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yI-Ee6W-pVQb4wDdzgBtTurJzYt1_9s5mJ1gF4d_wPbR-J3yv-_W2SCm1z6flI7cbBPbff6N49ZyAfyvEdO_DpLSa29vooVFB8BcwZY9Dh2fXzCtk74pa8T8Ghr_NvCsdpWYN9fEn2JhvGshlZN6D0g1&t=3d6efc1f"><\/script>');//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Vuvu99VCwvUswGkqgdQ/Req6MTBivDwivNKE80S2m+0xuOkccS6KnhgO8IonlWtV06E8vV3bEqBRr42UvxJqIlirFmbY8UExS2EuPJtyd8SqwvOuPCAcokzUtaP9/jKwI++nTujX7NvhtVd4Za/DdaVbQYBVQfTtcHrM/8mdy5L6+euaeG5/UAkKWvQ8EdlsKnhROIh7lEXfVpEgYMfWW9hNArAgfTlNsjfEr6nIAj2TkJoL/A1FU3BmqwT0xEr7bSSaAbOLr/ketQI84Z8aQl/LpezFVDntiAa4tRxC9A1wfmBBd+WbPJL4t4IAHnzc0dB/YtJouFMT4v31j/JEt1Ezpd8+jinrfHk5GmcxZgU=" />
+		
+
+		
+<div class="container">
+	<header class="rowHeader">
+		<div class="row">
+			<div class="large-3 large-push-0 medium-5 medium-push-7 small-10 columns colSearch">
+				
+					<div id="ctl00_controlSearch_pnlSearchContainer" class="zoeken">
+	
+    <input name="ctl00$controlSearch$tbSearchPhrase" type="text" value="ZOEKEN" maxlength="25" id="ctl00_controlSearch_tbSearchPhrase" class="zoekenInput" onfocus="javascript:if ( this.value == &#39;ZOEKEN&#39; ) this.value = &#39;&#39;;" onblur="javascript:if ( this.value.length == 0 ) this.value = &#39;ZOEKEN&#39;" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) { __doPostBack(&#39;ctl00$controlSearch$tbSearchPhrase&#39;,&#39;DoSearch_ctl00$controlSearch&#39;); return false;}} else {return true}; " />
+    <a id="ctl00_controlSearch_lbtnSearch" class="zoekenButton" href="javascript:__doPostBack(&#39;ctl00$controlSearch$lbtnSearch&#39;,&#39;&#39;)">ZOEKEN</a>
+    
+    
+
+</div>
+				
+			</div>
+			<div class="large-1 large-push-0 medium-1 medium-push-1 small-2 columns colLanguage">
+				
+						<ul class="languageMenu">
+					<li><a href="/nl" id="ctl00_ctl11_ctl02_A8" class="selected title-nl type-content depth-1 id-2" rel="NL" target="_self">NL</a></li><li><a href="/en" id="ctl00_ctl11_ctl05_A5" class="title-en type-content depth-1 id-9" rel="EN" target="_self">EN</a></li><li><a href="/de" id="ctl00_ctl11_ctl08_A5" class="title-de type-content depth-1 id-10" rel="DE" target="_self">DE</a></li>
+						</ul>
+					
+			</div>
+			<div class="large-4 large-pull-0 medium-6 medium-pull-6 small-12 columns colLogo text-center"><a href="/" class="logo"><img src="/img/logo.gif" alt="logo Dewilde" /></a></div>
+			<div class="large-4 medium-12 small-12 columns">
+				<div class="row rowMiniCart">
+					<div class="large-12 columns colWenslijst"></div>
+					<div class="large-12 columns colMinicart">
+						<!-- minishoppingcart -->
+						<div id="ctl00_ctrlAjaxShopping_upShoppingCart">
+	
+        <div id="winkelwagen">
+            <div id="naardekassa" class="naardekassa">
+                <a href="/nl/shoppingcart" class="cartIcon" rel="nofollow">
+                    <span id="miniWinkelwagenAmountTitle">MANDJE (<span id="miniWinkelwagenAmount">0</span>)</span>
+                    <span id="miniWinkelwagenTotalPriceTitle">Totaalprijs:</span><span id="miniWinkelwagenTotalPrice">€ 0,00</span>
+                </a>
+            </div>
+            
+            <div class="hoverCart">
+                <div class="row rowHeader">
+                    <div class="large-6 columns"><h4>Winkelwagen</h4></div>
+                    <div class="large-6 columns text-right"> <a href="/nl/shoppingcart" class="hoverCartToCart">Inhoud wijzigen</a></div>
+                    <hr />
+                </div>
+                <div class="row">
+                    
+
+                    
+                        <div class="large-12 columns">
+                            Uw winkelwagen is leeg.
+                        </div>
+                    
+                </div>
+
+            </div>
+        </div>
+        
+
+    
+</div>
+						<!-- einde minishoppingcart -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<nav class="row wide rowNav" id="mobileReady">
+		
+				<ul class="mainNav">
+			<li><a href="/nl/rozen" id="ctl00_ctl12_ctl02_A2" class="open title-rozen type-content depth-1 id-3" rel="Rozen" target="_self">Rozen</a>
+				<ul class="mainNav">
+			<li><a href="/nl/rozen/briljante-bottelrozen" id="ctl00_ctl12_ctl02_Menu4_ctl02_A1" class="title-briljante-bottelrozen type-content depth-2 id-368" rel="Briljante bottelrozen" target="_self">Briljante bottelrozen</a></li><li><a href="/nl/rozen/engelse-rozen" id="ctl00_ctl12_ctl02_Menu4_ctl05_A1" class="title-engelse-rozen type-content depth-2 id-372" rel="Engelse rozen" target="_self">Engelse rozen</a></li><li><a href="/nl/rozen/geurende-klimrozen" id="ctl00_ctl12_ctl02_Menu4_ctl08_A1" class="title-geurende-klimrozen type-content depth-2 id-369" rel="Geurende klimrozen" target="_self">Geurende klimrozen</a></li><li><a href="/nl/rozen/geurende-struikrozen" id="ctl00_ctl12_ctl02_Menu4_ctl11_A1" class="title-geurende-struikrozen type-content depth-2 id-373" rel="Geurende struikrozen" target="_self">Geurende struikrozen</a></li><li><a href="/nl/rozen/grootbloemige-rozen" id="ctl00_ctl12_ctl02_Menu4_ctl14_A1" class="title-grootbloemige-rozen type-content depth-2 id-374" rel="Grootbloemige rozen" target="_self">Grootbloemige rozen</a></li><li><a href="/nl/rozen/heesterrozen" id="ctl00_ctl12_ctl02_Menu4_ctl17_A1" class="title-heesterrozen type-content depth-2 id-375" rel="Heesterrozen" target="_self">Heesterrozen</a></li><li><a href="/nl/rozen/klimrozen" id="ctl00_ctl12_ctl02_Menu4_ctl20_A1" class="title-klimrozen type-content depth-2 id-376" rel="Klimrozen" target="_self">Klimrozen</a></li><li><a href="/nl/rozen/laagblijvende-rozen" id="ctl00_ctl12_ctl02_Menu4_ctl23_A1" class="title-laagblijvende-rozen type-content depth-2 id-377" rel="Laagblijvende rozen" target="_self">Laagblijvende rozen</a></li><li><a href="/nl/rozen/rambler" id="ctl00_ctl12_ctl02_Menu4_ctl26_A1" class="title-rambler type-content depth-2 id-378" rel="Rambler" target="_self">Rambler</a></li><li><a href="/nl/rozen/rozen-in-pot" id="ctl00_ctl12_ctl02_Menu4_ctl29_A1" class="title-rozen-in-pot type-content depth-2 id-379" rel="Rozen in pot" target="_self">Rozen in pot</a></li><li><a href="/nl/rozen/stamrozen" id="ctl00_ctl12_ctl02_Menu4_ctl32_A1" class="title-stamrozen type-content depth-2 id-380" rel="Stamrozen" target="_self">Stamrozen</a></li><li><a href="/nl/rozen/trosrozen" id="ctl00_ctl12_ctl02_Menu4_ctl35_A1" class="title-trosrozen type-content depth-2 id-381" rel="Trosrozen" target="_self">Trosrozen</a></li>
+				</ul>
+			</li><li><a href="/nl/bol-en-knol" id="ctl00_ctl12_ctl05_A2" class="open title-bol-en-knol type-content depth-1 id-7" rel="Bol en Knol" target="_self">Bol en Knol</a>
+				<ul class="mainNav">
+			<li><a href="/nl/bol-en-knol/anemoon" id="ctl00_ctl12_ctl05_Menu4_ctl02_A1" class="title-anemoon type-content depth-2 id-382" rel="Anemoon" target="_self">Anemoon</a></li><li><a href="/nl/bol-en-knol/blauw-druifje" id="ctl00_ctl12_ctl05_Menu4_ctl05_A1" class="title-blauw-druifje type-content depth-2 id-384" rel="Blauw druifje" target="_self">Blauw druifje</a></li><li><a href="/nl/bol-en-knol/boshyacint" id="ctl00_ctl12_ctl05_Menu4_ctl08_A1" class="title-boshyacint type-content depth-2 id-385" rel="Boshyacint" target="_self">Boshyacint</a></li><li><a href="/nl/bol-en-knol/hondstand" id="ctl00_ctl12_ctl05_Menu4_ctl11_A1" class="title-hondstand type-content depth-2 id-389" rel="Hondstand" target="_self">Hondstand</a></li><li><a href="/nl/bol-en-knol/hyacint" id="ctl00_ctl12_ctl05_Menu4_ctl14_A1" class="title-hyacint type-content depth-2 id-390" rel="Hyacint" target="_self">Hyacint</a></li><li><a href="/nl/bol-en-knol/ipheion" id="ctl00_ctl12_ctl05_Menu4_ctl17_A1" class="title-ipheion type-content depth-2 id-391" rel="Ipheion" target="_self">Ipheion</a></li><li><a href="/nl/bol-en-knol/iris" id="ctl00_ctl12_ctl05_Menu4_ctl20_A1" class="title-iris type-content depth-2 id-392" rel="Iris" target="_self">Iris</a></li><li><a href="/nl/bol-en-knol/keizerkroon" id="ctl00_ctl12_ctl05_Menu4_ctl23_A1" class="title-keizerkroon type-content depth-2 id-393" rel="Keizerkroon" target="_self">Keizerkroon</a></li><li><a href="/nl/bol-en-knol/krokus" id="ctl00_ctl12_ctl05_Menu4_ctl26_A1" class="title-krokus type-content depth-2 id-394" rel="Krokus" target="_self">Krokus</a></li><li><a href="/nl/bol-en-knol/narcis" id="ctl00_ctl12_ctl05_Menu4_ctl29_A1" class="title-narcis type-content depth-2 id-395" rel="Narcis" target="_self">Narcis</a></li><li><a href="/nl/bol-en-knol/pioenrozen" id="ctl00_ctl12_ctl05_Menu4_ctl32_A1" class="title-pioenrozen type-content depth-2 id-396" rel="Pioenrozen" target="_self">Pioenrozen</a></li><li><a href="/nl/bol-en-knol/prairielelie" id="ctl00_ctl12_ctl05_Menu4_ctl35_A1" class="title-prairielelie type-content depth-2 id-397" rel="Prairielelie" target="_self">Prairielelie</a></li><li><a href="/nl/bol-en-knol/puschkinia" id="ctl00_ctl12_ctl05_Menu4_ctl38_A1" class="title-puschkinia type-content depth-2 id-398" rel="Puschkinia" target="_self">Puschkinia</a></li><li><a href="/nl/bol-en-knol/sierui" id="ctl00_ctl12_ctl05_Menu4_ctl41_A1" class="title-sierui type-content depth-2 id-399" rel="Sierui" target="_self">Sierui</a></li><li><a href="/nl/bol-en-knol/sneeuwroem" id="ctl00_ctl12_ctl05_Menu4_ctl44_A1" class="title-sneeuwroem type-content depth-2 id-401" rel="Sneeuwroem" target="_self">Sneeuwroem</a></li><li><a href="/nl/bol-en-knol/sterhyacint" id="ctl00_ctl12_ctl05_Menu4_ctl47_A1" class="title-sterhyacint type-content depth-2 id-402" rel="Sterhyacint" target="_self">Sterhyacint</a></li><li><a href="/nl/bol-en-knol/tulp" id="ctl00_ctl12_ctl05_Menu4_ctl50_A1" class="title-tulp type-content depth-2 id-403" rel="Tulp" target="_self">Tulp</a></li><li><a href="/nl/bol-en-knol/vogelmelk" id="ctl00_ctl12_ctl05_Menu4_ctl53_A1" class="title-vogelmelk type-content depth-2 id-404" rel="Vogelmelk" target="_self">Vogelmelk</a></li><li><a href="/nl/bol-en-knol/vuurwerkbloem" id="ctl00_ctl12_ctl05_Menu4_ctl56_A1" class="title-vuurwerkbloem type-content depth-2 id-405" rel="Vuurwerkbloem" target="_self">Vuurwerkbloem</a></li><li><a href="/nl/bol-en-knol/winterakoniet" id="ctl00_ctl12_ctl05_Menu4_ctl59_A1" class="title-winterakoniet type-content depth-2 id-406" rel="Winterakoniet" target="_self">Winterakoniet</a></li>
+				</ul>
+			</li><li><a href="/nl/klimplanten" id="ctl00_ctl12_ctl08_A2" class="open title-klimplanten type-content depth-1 id-8" rel="Klimplanten" target="_self">Klimplanten</a>
+				<ul class="mainNav">
+			<li><a href="/nl/klimplanten/campsis" id="ctl00_ctl12_ctl08_Menu4_ctl02_A1" class="title-campsis type-content depth-2 id-407" rel="Campsis" target="_self">Campsis</a></li><li><a href="/nl/klimplanten/clematis" id="ctl00_ctl12_ctl08_Menu4_ctl05_A1" class="title-clematis type-content depth-2 id-408" rel="Clematis" target="_self">Clematis</a></li><li><a href="/nl/klimplanten/kiwi" id="ctl00_ctl12_ctl08_Menu4_ctl08_A1" class="title-kiwi type-content depth-2 id-409" rel="Kiwi" target="_self">Kiwi</a></li><li><a href="/nl/klimplanten/lonicera" id="ctl00_ctl12_ctl08_Menu4_ctl11_A1" class="title-lonicera type-content depth-2 id-410" rel="Lonicera" target="_self">Lonicera</a></li><li><a href="/nl/klimplanten/overige" id="ctl00_ctl12_ctl08_Menu4_ctl14_A1" class="title-overige type-content depth-2 id-411" rel="Overige" target="_self">Overige</a></li><li><a href="/nl/klimplanten/vitis--druif" id="ctl00_ctl12_ctl08_Menu4_ctl17_A1" class="title-vitis--druif type-content depth-2 id-412" rel="Vitis (Druif)" target="_self">Vitis (Druif)</a></li><li><a href="/nl/klimplanten/wisteria" id="ctl00_ctl12_ctl08_Menu4_ctl20_A1" class="title-wisteria type-content depth-2 id-413" rel="Wisteria" target="_self">Wisteria</a></li>
+				</ul>
+			</li><li><a href="/nl/heesters-en-hagen" id="ctl00_ctl12_ctl11_A2" class="open title-heesters-en-hagen type-content depth-1 id-38" rel="Heesters en Hagen" target="_self">Heesters en Hagen</a>
+				<ul class="mainNav">
+			<li><a href="/nl/heesters-en-hagen/beuk" id="ctl00_ctl12_ctl11_Menu4_ctl02_A1" class="title-beuk type-content depth-2 id-414" rel="Beuk" target="_self">Beuk</a></li><li><a href="/nl/heesters-en-hagen/bodembedekkers" id="ctl00_ctl12_ctl11_Menu4_ctl05_A1" class="title-bodembedekkers type-content depth-2 id-415" rel="Bodembedekkers" target="_self">Bodembedekkers</a></li><li><a href="/nl/heesters-en-hagen/borderpakketten" id="ctl00_ctl12_ctl11_Menu4_ctl08_A1" class="title-borderpakketten type-content depth-2 id-416" rel="Borderpakketten" target="_self">Borderpakketten</a></li><li><a href="/nl/heesters-en-hagen/buxus-wortelgoed" id="ctl00_ctl12_ctl11_Menu4_ctl11_A1" class="title-buxus-wortelgoed type-content depth-2 id-417" rel="Buxus wortelgoed" target="_self">Buxus wortelgoed</a></li><li><a href="/nl/heesters-en-hagen/eetbare-planten" id="ctl00_ctl12_ctl11_Menu4_ctl14_A1" class="title-eetbare-planten type-content depth-2 id-418" rel="Eetbare planten" target="_self">Eetbare planten</a></li><li><a href="/nl/heesters-en-hagen/haagbeuk" id="ctl00_ctl12_ctl11_Menu4_ctl17_A1" class="title-haagbeuk type-content depth-2 id-419" rel="Haagbeuk" target="_self">Haagbeuk</a></li><li><a href="/nl/heesters-en-hagen/hibiscus" id="ctl00_ctl12_ctl11_Menu4_ctl20_A1" class="title-hibiscus type-content depth-2 id-420" rel="Hibiscus" target="_self">Hibiscus</a></li><li><a href="/nl/heesters-en-hagen/hortensia" id="ctl00_ctl12_ctl11_Menu4_ctl23_A1" class="title-hortensia type-content depth-2 id-421" rel="Hortensia" target="_self">Hortensia</a></li><li><a href="/nl/heesters-en-hagen/hosta" id="ctl00_ctl12_ctl11_Menu4_ctl26_A1" class="title-hosta type-content depth-2 id-422" rel="Hosta" target="_self">Hosta</a></li><li><a href="/nl/heesters-en-hagen/krent" id="ctl00_ctl12_ctl11_Menu4_ctl29_A1" class="title-krent type-content depth-2 id-423" rel="Krent" target="_self">Krent</a></li><li><a href="/nl/heesters-en-hagen/kruiden" id="ctl00_ctl12_ctl11_Menu4_ctl32_A1" class="title-kruiden type-content depth-2 id-424" rel="Kruiden" target="_self">Kruiden</a></li><li><a href="/nl/heesters-en-hagen/meidoorn" id="ctl00_ctl12_ctl11_Menu4_ctl35_A1" class="title-meidoorn type-content depth-2 id-425" rel="Meidoorn" target="_self">Meidoorn</a></li><li><a href="/nl/heesters-en-hagen/pioenrozen" id="ctl00_ctl12_ctl11_Menu4_ctl38_A1" class="title-pioenrozen type-content depth-2 id-426" rel="Pioenrozen" target="_self">Pioenrozen</a></li><li><a href="/nl/heesters-en-hagen/rhododendrons" id="ctl00_ctl12_ctl11_Menu4_ctl41_A1" class="title-rhododendrons type-content depth-2 id-427" rel="Rhododendrons" target="_self">Rhododendrons</a></li><li><a href="/nl/heesters-en-hagen/siergrassen" id="ctl00_ctl12_ctl11_Menu4_ctl44_A1" class="title-siergrassen type-content depth-2 id-428" rel="Siergrassen" target="_self">Siergrassen</a></li><li><a href="/nl/heesters-en-hagen/sierheesters" id="ctl00_ctl12_ctl11_Menu4_ctl47_A1" class="title-sierheesters type-content depth-2 id-429" rel="Sierheesters" target="_self">Sierheesters</a></li><li><a href="/nl/heesters-en-hagen/tuinaanleg" id="ctl00_ctl12_ctl11_Menu4_ctl50_A1" class="title-tuinaanleg type-content depth-2 id-430" rel="Tuinaanleg" target="_self">Tuinaanleg</a></li><li><a href="/nl/heesters-en-hagen/varens" id="ctl00_ctl12_ctl11_Menu4_ctl53_A1" class="title-varens type-content depth-2 id-431" rel="Varens" target="_self">Varens</a></li><li><a href="/nl/heesters-en-hagen/vaste-planten" id="ctl00_ctl12_ctl11_Menu4_ctl56_A1" class="title-vaste-planten type-content depth-2 id-432" rel="Vaste planten" target="_self">Vaste planten</a></li><li><a href="/nl/heesters-en-hagen/veldesdoorn" id="ctl00_ctl12_ctl11_Menu4_ctl59_A1" class="title-veldesdoorn type-content depth-2 id-433" rel="Veldesdoorn" target="_self">Veldesdoorn</a></li><li><a href="/nl/heesters-en-hagen/vlinderstruiken" id="ctl00_ctl12_ctl11_Menu4_ctl62_A1" class="title-vlinderstruiken type-content depth-2 id-434" rel="Vlinderstruiken" target="_self">Vlinderstruiken</a></li><li><a href="/nl/heesters-en-hagen/winterheide" id="ctl00_ctl12_ctl11_Menu4_ctl65_A1" class="title-winterheide type-content depth-2 id-435" rel="Winterheide" target="_self">Winterheide</a></li><li><a href="/nl/heesters-en-hagen/zomerheide" id="ctl00_ctl12_ctl11_Menu4_ctl68_A1" class="title-zomerheide type-content depth-2 id-436" rel="Zomerheide" target="_self">Zomerheide</a></li>
+				</ul>
+			</li><li><a href="/nl/lavendel" id="ctl00_ctl12_ctl14_A1" class="title-lavendel type-content depth-1 id-42" rel="Lavendel" target="_self">Lavendel</a></li><li><a href="/nl/tuinbenodigdheden" id="ctl00_ctl12_ctl17_A2" class="open title-tuinbenodigdheden type-content depth-1 id-37" rel="Tuinbenodigdheden" target="_self">Tuinbenodigdheden</a>
+				<ul class="mainNav">
+			<li><a href="/nl/tuinbenodigdheden/bescherming-in-de-tuin" id="ctl00_ctl12_ctl17_Menu4_ctl02_A1" class="title-bescherming-in-de-tuin type-content depth-2 id-438" rel="Bescherming in de tuin" target="_self">Bescherming in de tuin</a></li><li><a href="/nl/tuinbenodigdheden/bestrijding--natuurlijk" id="ctl00_ctl12_ctl17_Menu4_ctl05_A1" class="title-bestrijding--natuurlijk type-content depth-2 id-439" rel="Bestrijding (Natuurlijk)" target="_self">Bestrijding (Natuurlijk)</a></li><li><a href="/nl/tuinbenodigdheden/binden-en-leiden" id="ctl00_ctl12_ctl17_Menu4_ctl08_A1" class="title-binden-en-leiden type-content depth-2 id-440" rel="Binden en leiden" target="_self">Binden en leiden</a></li><li><a href="/nl/tuinbenodigdheden/buitendouches" id="ctl00_ctl12_ctl17_Menu4_ctl11_A1" class="title-buitendouches type-content depth-2 id-441" rel="Buitendouches" target="_self">Buitendouches</a></li><li><a href="/nl/tuinbenodigdheden/emma-bridgewater" id="ctl00_ctl12_ctl17_Menu4_ctl14_A1" class="title-emma-bridgewater type-content depth-2 id-442" rel="Emma Bridgewater" target="_self">Emma Bridgewater</a></li><li><a href="/nl/tuinbenodigdheden/grond-en-mest" id="ctl00_ctl12_ctl17_Menu4_ctl17_A1" class="title-grond-en-mest type-content depth-2 id-443" rel="Grond en mest" target="_self">Grond en mest</a></li><li><a href="/nl/tuinbenodigdheden/grondbewerking" id="ctl00_ctl12_ctl17_Menu4_ctl20_A1" class="title-grondbewerking type-content depth-2 id-444" rel="Grondbewerking" target="_self">Grondbewerking</a></li><li><a href="/nl/tuinbenodigdheden/houthakken" id="ctl00_ctl12_ctl17_Menu4_ctl23_A1" class="title-houthakken type-content depth-2 id-446" rel="Houthakken" target="_self">Houthakken</a></li><li><a href="/nl/tuinbenodigdheden/rozenboog" id="ctl00_ctl12_ctl17_Menu4_ctl26_A1" class="title-rozenboog type-content depth-2 id-447" rel="Rozenboog" target="_self">Rozenboog</a></li><li><a href="/nl/tuinbenodigdheden/snijrozen" id="ctl00_ctl12_ctl17_Menu4_ctl29_A1" class="title-snijrozen type-content depth-2 id-448" rel="Snijrozen" target="_self">Snijrozen</a></li><li><a href="/nl/tuinbenodigdheden/snoeien" id="ctl00_ctl12_ctl17_Menu4_ctl32_A1" class="title-snoeien type-content depth-2 id-449" rel="Snoeien" target="_self">Snoeien</a></li><li><a href="/nl/tuinbenodigdheden/tuinboeken" id="ctl00_ctl12_ctl17_Menu4_ctl35_A1" class="title-tuinboeken type-content depth-2 id-450" rel="Tuinboeken" target="_self">Tuinboeken</a></li><li><a href="/nl/tuinbenodigdheden/tuingereedschap" id="ctl00_ctl12_ctl17_Menu4_ctl38_A1" class="title-tuingereedschap type-content depth-2 id-451" rel="Tuingereedschap" target="_self">Tuingereedschap</a></li><li><a href="/nl/tuinbenodigdheden/tuinmeubelen" id="ctl00_ctl12_ctl17_Menu4_ctl41_A1" class="title-tuinmeubelen type-content depth-2 id-452" rel="Tuinmeubelen" target="_self">Tuinmeubelen</a></li><li><a href="/nl/tuinbenodigdheden/vogelhuisjes-en-dergelijke" id="ctl00_ctl12_ctl17_Menu4_ctl44_A1" class="title-vogelhuisjes-en-dergelijke type-content depth-2 id-453" rel="Vogelhuisjes en dergelijke" target="_self">Vogelhuisjes en dergelijke</a></li><li><a href="/nl/tuinbenodigdheden/water-geven" id="ctl00_ctl12_ctl17_Menu4_ctl47_A1" class="title-water-geven type-content depth-2 id-454" rel="Water geven" target="_self">Water geven</a></li><li><a href="/nl/tuinbenodigdheden/zuidafrikaanse-buitenkeukens" id="ctl00_ctl12_ctl17_Menu4_ctl50_A1" class="title-zuidafrikaanse-buitenkeukens type-content depth-2 id-455" rel="Zuidafrikaanse buitenkeukens" target="_self">Zuidafrikaanse buitenkeukens</a></li>
+				</ul>
+			</li><li><a href="/nl/informatie" id="ctl00_ctl12_ctl20_A2" class="open title-informatie type-content depth-1 id-14" rel="Informatie" target="_self">Informatie</a>
+				<ul class="mainNav">
+			<li><a href="/nl/informatie/over-ons" id="ctl00_ctl12_ctl20_Menu4_ctl02_A1" class="title-over-ons type-content depth-2 id-15" rel="Over ons" target="_self">Over ons</a></li><li><a href="/nl/informatie/contact" id="ctl00_ctl12_ctl20_Menu4_ctl05_A1" class="title-contact type-content depth-2 id-75" rel="Contact" target="_self">Contact</a></li><li><a href="/nl/informatie/agenda" id="ctl00_ctl12_ctl20_Menu4_ctl08_A1" class="title-agenda type-content depth-2 id-284" rel="Agenda" target="_self">Agenda</a></li><li><a href="/nl/informatie/verkooppunten" id="ctl00_ctl12_ctl20_Menu4_ctl11_A1" class="title-verkooppunten type-content depth-2 id-158" rel="Verkooppunten" target="_self">Verkooppunten</a></li><li><a href="/nl/informatie/prijzen" id="ctl00_ctl12_ctl20_Menu4_ctl14_A1" class="title-prijzen type-content depth-2 id-269" rel="Prijzen" target="_self">Prijzen</a></li><li><a href="/nl/informatie/catalogus-aanvragen" id="ctl00_ctl12_ctl20_Menu4_ctl17_A1" class="title-catalogus-aanvragen type-content depth-2 id-63" rel="Catalogus aanvragen" target="_self">Catalogus aanvragen</a></li>
+				</ul>
+			</li>
+				</ul>
+			
+	</nav>
+
+	
+		<section class="rowHero wide">
+			<div class="heroWrap">
+				<div class="heroContent">
+					<h1>De grootste rozenkwekerij</h1>
+					<a href="/nl/rozen" class="button button__white">Shop nu</a>
+				</div>
+	<div id="pageitem5" class="wide hero"><img alt="De grootste rozenkwekerij van Nederland" src="https://www.dewilde.nl/write/Afbeeldingen1/frontfoto001.jpg.ashx?preset=content" /></div>
+			</div>
+		</section>
+	 
+                
+	<section class="wide rowUsp frontpage clearfix">
+		<div class="medium-4 columns">
+      <img src="/img/usp01b-nl.png" alt="nu geen verzendkosten" />
+    </div>
+		<div class="medium-4 columns">
+      <img src="/img/usp02-nl.png" alt="snelle bezorging" />
+    </div>
+		<div class="medium-4 columns">
+      <img src="/img/usp03-nl.png" alt="uitgebreide kennis" />
+    </div>
+	</section>
+                    
+
+    <section class="wide header-image hidden">
+        <div class="image"><img data-src="/img/bg-header.jpg" src="/img/transparents/black50.png" /></div>
+        <h1>De grootste rozenkwekerij</h1>
+    </section>
+
+
+			
+				 
+			
+
+
+    <div class="mainContentWrap clearfix">
+		
+
+    
+	       
+		    
+    <!-- Content voor magnet-content -->
+		         
+		    
+				    <section id="mainContent">
+
+                        
+			                
+			                <div id="pageitem1" class="rowWrap maxWidth800 large-12 columns"><h2 style="text-align: center;">De Wilde kwaliteitskwekerij</h2>
+<h3 style="text-align: center;"><span style="color: #9ea2cc;">Bij uw bestelling een gratis klimroos cadeau!</span></h3>
+<p style="text-align: center;">Wij zijn de marktleider op het gebied van verkoop van tuinrozen in de Benelux. Meer dan 800 soorten zijn getest, opgeslagen en gekweekt volgens de nieuwste productiemethodes. Hierdoor bent u verzekerd van de beste kwaliteit rozen en natuurlijk soortechtheid.</p>
+<p style="text-align: center;"><a class="button" href="/nl/informatie/over-ons">Meer over ons</a></p></div>
+			                
+			                <div id="pageitem16">
+<h3>
+    Populaire producten
+</h3>
+
+<div id="ctl00_ctl16_ctl06_ctl00_ctl00_ctl00">
+	
+        
+                <div class="row productcontainer populair">
+            
+                <div class="small-12 medium-3 large-3 columns text-center">
+                    <input type="hidden" name="ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl01$PopularItemControl1$hdKey" id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl01_PopularItemControl1_hdKey" value="3784" />
+<div id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl01_PopularItemControl1_pnlItem" class="productItem populair populair_nl sale sale_nl">
+		
+    <div class="ppanel">
+        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl01_PopularItemControl1_hprLink1" class="product" href="https://www.dewilde.nl/nl/rozen/de-wilde/r-westerland-kw/3784">
+            <div class="imgcontainer">
+                <img id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl01_PopularItemControl1_imgArticle" data-src="/write/afbeeldingen1/articleimages/iuyryjr_westerland-1..jpg?preset=ModelRundown" src="/img/transparents/white10.png" />
+            </div>
+            <h3>
+                R Westerland kw
+            </h3>
+            
+            <div class="prijs">
+                <span class="itemVanPrijs strikethrough">
+                    € 9,95
+                </span>
+                € 7,95
+            </div>
+
+                              
+                    <div class="pdpanel">
+                        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl01_PopularItemControl1_btnAddtoCart" class="click2cart cart button" href="javascript:__doPostBack(&#39;ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl01$PopularItemControl1$btnAddtoCart&#39;,&#39;&#39;)">Voeg toe</a>
+                    </div>
+                </a>
+    </div>
+
+	</div>
+                </div>
+            
+                <div class="small-12 medium-3 large-3 columns text-center">
+                    <input type="hidden" name="ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl02$PopularItemControl1$hdKey" id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl02_PopularItemControl1_hdKey" value="3876" />
+<div id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl02_PopularItemControl1_pnlItem" class="productItem populair populair_nl sale sale_nl">
+		
+    <div class="ppanel">
+        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl02_PopularItemControl1_hprLink1" class="product" href="https://www.dewilde.nl/nl/rozen/de-wilde/3-stuks-r-queen-elizabeth-kw/3876">
+            <div class="imgcontainer">
+                <img id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl02_PopularItemControl1_imgArticle" data-src="/write/afbeeldingen1/articleimages/1116a_queen-elizabeth-1..jpg?preset=ModelRundown" src="/img/transparents/white10.png" />
+            </div>
+            <h3>
+                3 stuks R Queen Elizabeth kw
+            </h3>
+            
+            <div class="prijs">
+                <span class="itemVanPrijs strikethrough">
+                    € 14,85
+                </span>
+                € 12,95
+            </div>
+
+                              
+                    <div class="pdpanel">
+                        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl02_PopularItemControl1_btnAddtoCart" class="click2cart cart button" href="javascript:__doPostBack(&#39;ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl02$PopularItemControl1$btnAddtoCart&#39;,&#39;&#39;)">Voeg toe</a>
+                    </div>
+                </a>
+    </div>
+
+	</div>
+                </div>
+            
+                <div class="small-12 medium-3 large-3 columns text-center">
+                    <input type="hidden" name="ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl03$PopularItemControl1$hdKey" id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl03_PopularItemControl1_hdKey" value="3878" />
+<div id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl03_PopularItemControl1_pnlItem" class="productItem populair populair_nl sale sale_nl">
+		
+    <div class="ppanel">
+        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl03_PopularItemControl1_hprLink1" class="product" href="https://www.dewilde.nl/nl/rozen/de-wilde/10-rozen-schneewittchen-kw/3878">
+            <div class="imgcontainer">
+                <img id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl03_PopularItemControl1_imgArticle" data-src="/write/afbeeldingen1/articleimages/hqgij_schneewittchen-1..jpg?preset=ModelRundown" src="/img/transparents/white10.png" />
+            </div>
+            <h3>
+                10 rozen Schneewittchen kw
+            </h3>
+            
+            <div class="prijs">
+                <span class="itemVanPrijs strikethrough">
+                    € 55,-
+                </span>
+                € 39,50
+            </div>
+
+                              
+                    <div class="pdpanel">
+                        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl03_PopularItemControl1_btnAddtoCart" class="click2cart cart button" href="javascript:__doPostBack(&#39;ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl03$PopularItemControl1$btnAddtoCart&#39;,&#39;&#39;)">Voeg toe</a>
+                    </div>
+                </a>
+    </div>
+
+	</div>
+                </div>
+            
+                <div class="small-12 medium-3 large-3 columns text-center">
+                    <input type="hidden" name="ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl04$PopularItemControl1$hdKey" id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl04_PopularItemControl1_hdKey" value="3888" />
+<div id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl04_PopularItemControl1_pnlItem" class="productItem populair populair_nl sale sale_nl">
+		
+    <div class="ppanel">
+        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl04_PopularItemControl1_hprLink1" class="product" href="https://www.dewilde.nl/nl/rozen/de-wilde/5-rozen-leonardo-da-vinci-kw/3888">
+            <div class="imgcontainer">
+                <img id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl04_PopularItemControl1_imgArticle" data-src="/write/afbeeldingen1/articleimages/1078a_leonardo-da-vinci-1..jpg?preset=ModelRundown" src="/img/transparents/white10.png" />
+            </div>
+            <h3>
+                5 rozen Leonardo da Vinci kw
+            </h3>
+            
+            <div class="prijs">
+                <span class="itemVanPrijs strikethrough">
+                    € 33,75
+                </span>
+                € 27,50
+            </div>
+
+                              
+                    <div class="pdpanel">
+                        <a id="ctl00_ctl16_ctl06_ctl00_ctl00_rptItems_ctl04_PopularItemControl1_btnAddtoCart" class="click2cart cart button" href="javascript:__doPostBack(&#39;ctl00$ctl16$ctl06$ctl00$ctl00$rptItems$ctl04$PopularItemControl1$btnAddtoCart&#39;,&#39;&#39;)">Voeg toe</a>
+                    </div>
+                </a>
+    </div>
+
+	</div>
+                </div>
+            
+                </div>
+            
+        
+</div></div>
+			                
+			                <div id="pageitem243" class="quote"><ul>
+    <li>Roy Haan</li>
+    <li>Een club met verstand van zaken en erg klantvriendelijk. Aanrader!</li>
+</ul></div>
+			                
+			                <div id="pageitem242" class="quote"><ul>
+    <li>Dio van der Veen</li>
+    <li>Een club met verstand van zaken en erg klantvriendelijk. Aanrader!</li>
+</ul></div>
+			                
+			                <div id="pageitem6" class="rozencatalogus"><h3 style="text-align: center;">Rozencatalogus</h3>
+<p style="text-align: center;">Een prachtig ge&iuml;llustreerde boekje met daarin ons assortiment rozen.</p>
+<p style="text-align: center;">Onze rozencatalogus is op papier verkrijgbaar, maar ook gratis te downloaden. </p>
+<p style="text-align: center;"><a target="_blank" href="https://www.dewilde.nl/write/Bestanden/Catalogus-rozenkwekerij-dewilde-2011.pdf" class="button" name="Downloaden">Downloaden</a></p></div>
+			                
+			                <div id="pageitem20" class="rowWrap medium-4 columns rowWrap nieuws"><h3>Agenda 2017</h3>
+<p>Bekijk hier wanneer we informatie- en snoeidagen organiseren.</p>
+<p><a href="/nl/informatie/agenda">Lees meer</a></p>
+<img alt="" src="https://www.dewilde.nl/write/Afbeeldingen1/bantrybay.jpg.ashx?preset=content" title="bantry bay" /></div>
+			                
+			                <div id="pageitem21" class="rowWrap medium-4 columns rowWrap nieuws"><h3>Over ons</h3>
+<p>Lees hier alles over ons mooie bedrijf. Onze oorsprong. Onze activiteiten. Onze passie.</p>
+<p><a href="/nl/informatie/over-ons">Lees meer</a></p>
+<img alt="" src="https://www.dewilde.nl/write/Afbeeldingen1/westerland.JPG.ashx?preset=content" title="westerland" /></div>
+			                
+			                <div id="pageitem24" class="rowWrap medium-4 columns rowWrap nieuws"><h3>Klantensupport</h3>
+<p>Lees hier alles over klantensupport.</p>
+<p><a href="/nl/service/bestellen">Lees meer</a></p>
+<img alt="" src="https://www.dewilde.nl/write/Afbeeldingen1/Guirlande%20d%20amour.jpg.ashx?preset=content" title="Guirlande amour" /></div>
+			                
+				    </section>
+			    
+		 
+		    
+    <!-- Content achter magnet-content -->
+    
+	    
+    </div>  
+</div>
+
+
+
+<div class="wide subscribeWrap">
+    <div class="row rowSubscribe">
+        <div class="large-12 columns text-center colSubscribe">
+            <h3 class="white">ONTVANG NIEUWS EN UPDATES</h3>
+            <div id="ctl00_SubscribeHome_UpdatePanel1">
+	
+
+                        <div id="ctl00_SubscribeHome_pnlSubscribe" class="nieuwsbriefaanmelding">
+		
+                            <input name="ctl00$SubscribeHome$tbEmail" id="ctl00_SubscribeHome_tbEmail" class="subscribeEmail" type="email" placeholder="EMAILADRES" />
+              
+                            <a id="ctl00_SubscribeHome_btnSubscribe" class="button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SubscribeHome$btnSubscribe&quot;, &quot;&quot;, true, &quot;subscribe&quot;, &quot;&quot;, false, true))">INSCHRIJVEN</a>
+
+                            <div class="subscribe-notice subscribe-error">
+                                
+                                
+                            </div>
+  
+
+                        
+	</div>
+                        
+
+                
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<footer class="row rowFooter">
+	<div class="small-12 columns">
+
+
+		
+				<ul class="footerNav">
+			<li><a id="ctl00_footerNav_ctl02_A7" class="open title-klantenservice type-folder depth-1 id-19" rel="Klantenservice" href="" target="_self">Klantenservice</a>
+				<ul class="footerNav">
+			<li><a href="/nl/informatie/kwaliteit-en-garantie" id="ctl00_footerNav_ctl02_Menu1_ctl02_A6" class="title-kwaliteit-en-garantie type-url depth-2 id-25" rel="Kwaliteit en garantie" target="_self">Kwaliteit en garantie</a></li><li><a href="/nl/service/bestellen" id="ctl00_footerNav_ctl02_Menu1_ctl05_A6" class="title-bestellen type-url depth-2 id-26" rel="Bestellen" target="_self">Bestellen</a></li><li><a href="/nl/service/algemene-voorwaarden" id="ctl00_footerNav_ctl02_Menu1_ctl08_A6" class="title-algemene-voorwaarden type-url depth-2 id-169" rel="Algemene voorwaarden" target="_self">Algemene voorwaarden</a></li><li><a href="/nl/informatie/stappenwijzer-bestellen" id="ctl00_footerNav_ctl02_Menu1_ctl11_A6" class="title-stappenwijzer-bestellen type-url depth-2 id-280" rel="Stappenwijzer bestellen" target="_self">Stappenwijzer bestellen</a></li><li><a href="/nl/informatie/verzenden" id="ctl00_footerNav_ctl02_Menu1_ctl14_A6" class="title-verzenden type-url depth-2 id-281" rel="Verzenden" target="_self">Verzenden</a></li><li><a href="/nl/informatie/zelf-afhalen" id="ctl00_footerNav_ctl02_Menu1_ctl17_A6" class="title-zelf-afhalen type-url depth-2 id-282" rel="Zelf afhalen" target="_self">Zelf afhalen</a></li><li><a href="/nl/service/routebeschrijving" id="ctl00_footerNav_ctl02_Menu1_ctl20_A6" class="title-routebeschrijving type-url depth-2 id-283" rel="Routebeschrijving" target="_self">Routebeschrijving</a></li><li><a href="/nl/service/privacyverklaring" id="ctl00_footerNav_ctl02_Menu1_ctl23_A6" class="title-privacyverklaring type-url depth-2 id-366" rel="Privacyverklaring" target="_self">Privacyverklaring</a></li>
+
+				</ul>
+			</li><li><a id="ctl00_footerNav_ctl05_A7" class="open title-categorieen type-folder depth-1 id-20" rel="Categorie&amp;euml;n" href="" target="_self">Categorie&euml;n</a>
+				<ul class="footerNav">
+			<li><a href="/nl/bol-en-knol" id="ctl00_footerNav_ctl05_Menu1_ctl02_A6" class="title-bol-en-knol type-url depth-2 id-272" rel="Bol en knol" target="_self">Bol en knol</a></li><li><a href="/nl/rozen" id="ctl00_footerNav_ctl05_Menu1_ctl05_A6" class="title-rozen type-url depth-2 id-275" rel="Rozen" target="_self">Rozen</a></li><li><a href="/nl/klimplanten" id="ctl00_footerNav_ctl05_Menu1_ctl08_A6" class="title-klimplanten type-url depth-2 id-276" rel="Klimplanten" target="_self">Klimplanten</a></li><li><a href="/nl/heesters-en-hagen" id="ctl00_footerNav_ctl05_Menu1_ctl11_A6" class="title-heesters-en-hagen type-url depth-2 id-277" rel="Heesters en Hagen" target="_self">Heesters en Hagen</a></li><li><a href="/nl/lavendel" id="ctl00_footerNav_ctl05_Menu1_ctl14_A6" class="title-lavendel type-url depth-2 id-278" rel="Lavendel" target="_self">Lavendel</a></li><li><a href="/nl/tuinbenodigdheden" id="ctl00_footerNav_ctl05_Menu1_ctl17_A6" class="title-tuinbenodigdheden type-url depth-2 id-279" rel="Tuinbenodigdheden" target="_self">Tuinbenodigdheden</a></li>
+
+				</ul>
+			</li><li><a id="ctl00_footerNav_ctl08_A7" class="open title-over-ons type-folder depth-1 id-21" rel="Over ons" href="" target="_self">Over ons</a>
+				<ul class="footerNav">
+			<li><a href="/nl/informatie/contact" id="ctl00_footerNav_ctl08_Menu1_ctl02_A6" class="title-contact type-url depth-2 id-176" rel="Contact" target="_self">Contact</a></li>
+
+				</ul>
+			</li>
+
+				</ul>
+			
+                
+        <ul class="footerContact">
+            <li>
+                <a href="#">CONTACT</a>
+                <ul>
+                    <li>
+                        
+      <strong>Rozenkwekerij De Wilde B.V.</strong><br />
+      Hoveniersweg 12<br /> 7205 DA Zutphen<br />
+      Tel. 0575-546810<br /><br />
+      Vanuit buitenland: 0031-575546810<br />
+      Fax: 0575-517168 <br />
+      dewilde@dewilde.nl<br /><br />
+      KvK: 50118145<br />
+      BTW: NL822558907B01<br /><br />
+			<strong>Openingstijden</strong><br />
+			Maandag t/m vrijdag van 09.00 tot 18.00 uur<br />
+			Zaterdag van 09.00 tot 17.00
+		
+                    </li>
+                </ul>
+            </li>
+        </ul>
+                    
+		
+		
+		<div id="footer">
+			
+    <!-- Content voor footer -->
+
+		</div>
+		<!-- einde footer -->
+	</div>
+</footer>   
+                
+<div class="row rowPaySocial">
+    <div class="large-9 columns">
+        <H4>VEILIG BETALEN</H4>
+        
+      <img src="/img/veiligbetalen-nl.png" alt="betaalmogelijkheden" />
+    
+    </div>
+    <div class="large-3 columns colSocial">
+        <h4>VOLG ONS</h4>
+        
+      <a href="https://nl-nl.facebook.com/Rozenkwekerij-de-Wilde-265281850177653/" class="social socialFacebook">facebook</a>
+      
+    
+    </div>
+</div>
+                    
+
+<div class="row rowCopy">
+    <div class="large-12 columns text-center">
+        &copy; <script type="text/javascript">var cdt = new Date(); var current_year = cdt.getFullYear();document.write(current_year);</script>	DeWilde
+    </div>
+</div>
+    <script src="/js/jquery_js/bundle.min.js"></script>	
+	</form>
+
+
+</body>
+
+</html>

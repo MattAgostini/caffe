@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="shortcut icon" href="http://www.car-finance-company.co.uk/assets/frontend/img/favicon.png">
+    <link rel="icon" href="http://www.car-finance-company.co.uk/assets/frontend/img/favicon.ico" type="image/x-icon" />
+
+    <link href="http://www.car-finance-company.co.uk/assets/frontend/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.car-finance-company.co.uk/assets/frontend/css/bespoke.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://www.car-finance-company.co.uk/assets/frontend/css/nerveSlider.min.css" rel="stylesheet">
+    <link href="http://www.car-finance-company.co.uk/assets/frontend/css/jquery.fancybox.css" rel="stylesheet">
+    
+    <title>Motorbike Finance Deals</title>
+    <meta name="description" content="We are able to offer you a wide variety of motorbike/bicycle finance deals across the United Kingdom!" />  <meta name="google-site-verification" content="NFYIXPytoMaheOFu16I6FEcs1PVyQqn0Eav8WVRkrZo" /><meta name="robots" content="index, follow">
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85831504-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </head>  <body itemscope itemtype="https://schema.org/WebPage">
+
+      <div id="header"><header>
+<div id="header__wrapper" class="container clearfix">
+<div id="header__logo"><a title="http://www.car-finance-company.co.uk/" href="http://www.car-finance-company.co.uk/"><img title="Header" src="http://www.car-finance-company.co.uk/uploads/images/FILE-20160922-0819MN7FDRFAW79Q.png" alt="" width="300" height="39" /></a></div>
+<div id="header__tel">
+<div class="tel"><a href="https://twitter.com/ukautofinance" target="_blank"><em class="fa fa-twitter">&nbsp;</em></a> <a href="https://www.pinterest.com/ukautofinance/" target="_blank"><em class="fa fa-pinterest">&nbsp;</em></a> <a href="https://plus.google.com/114107500465623179781/about" target="_blank"><em class="fa fa-google-plus">&nbsp;</em></a> <a href="https://www.youtube.com/channel/UCqJuDkIJLks0jvAE170myhA/about" target="_blank"><em class="fa fa-youtube">&nbsp;</em></a> <a href="http://carfinancecompany.tumblr.com/" target="_blank"><em class="fa fa-tumblr">&nbsp;</em></a></div>
+</div>
+<div id="header__advice">
+<p>We offer a <strong>Free</strong> quote and UK design service, get in touch today.</p>
+</div>
+<div id="header__navigation"><a href='' id='nav__toggle'><span class='bar1'></span><span class='bar2'></span><span class='bar3'></span></a><nav><ul class='clearfix'><li><a class=not_active href=http://www.car-finance-company.co.uk/>Home</a></li><li><a class=active href=#>Type</a><ul class='subnav'><li><a class=not_active href=http://www.car-finance-company.co.uk/type/vans>Vans</a></li><li><a class=active href=http://www.car-finance-company.co.uk/type/bikes>Bikes</a></li></ul></li><li><a class=not_active href=#>Manufacturer</a><ul class='subnav'><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/audi>Audi</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/mercedes>Mercedes</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/land-rover>Land Rover</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/ford>Ford</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/bmw>BMW</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/nissan>Nissan</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/kia>Kia</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/manufacturer/volkswagen>Volkswagen</a></li></ul></li><li><a class=not_active href=#>Leasing</a><ul class='subnav'><li><a class=not_active href=http://www.car-finance-company.co.uk/leasing/commercial>Commercial</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/leasing/personal>Personal</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/leasing/vehicle>Vehicle</a></li></ul></li><li><a class=not_active href=#>Finance</a><ul class='subnav'><li><a class=not_active href=http://www.car-finance-company.co.uk/finance/company>Company</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/finance/private>Private</a></li><li><a class=not_active href=http://www.car-finance-company.co.uk/finance/car>Car</a></li></ul></li><ul><nav></div>
+<div id="header__links"><ul id='location_links'><li><a href='#' class='loc-but fa fa-map-marker'><span>Locations Covered:</span></a><ul id='area-list'><li><a href=http://www.car-finance-company.co.uk/type/bikes/aberdeen-city/>Aberdeen City</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/aberdeenshire/>Aberdeenshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/angus/>Angus</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/antrim/>Antrim</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/ards/>Ards</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/argyll-and-bute/>Argyll and Bute</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/armagh/>Armagh</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/ballymena/>Ballymena</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/ballymoney/>Ballymoney</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/banbridge/>Banbridge</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/bedfordshire/>Bedfordshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/belfast/>Belfast</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/berkshire/>Berkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/blaenau-gwent/>Blaenau Gwent</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/bridgend/>Bridgend</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/bristol/>Bristol</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/buckinghamshire/>Buckinghamshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/caerphilly/>Caerphilly</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cambridgeshire/>Cambridgeshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cardiff/>Cardiff</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/carmarthenshire/>Carmarthenshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/carrickfergus/>Carrickfergus</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/castlereagh/>Castlereagh</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/ceredigion/>Ceredigion</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cheshire/>Cheshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/city-of-edinburgh/>City of Edinburgh</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/clackmannanshire/>Clackmannanshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/coleraine/>Coleraine</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/conwy/>Conwy</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cookstown/>Cookstown</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cornwall/>Cornwall</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/county-durham/>County Durham</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/craigavon/>Craigavon</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/cumbria/>Cumbria</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/denbighshire/>Denbighshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/derbyshire/>Derbyshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/derry/>Derry</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/devon/>Devon</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/dorset/>Dorset</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/down/>Down</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/dumfries-and-galloway/>Dumfries and Galloway</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/dundee-city/>Dundee City</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/dungannon/>Dungannon</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-ayrshire/>East Ayrshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-dunbartonshire/>East Dunbartonshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-lothian/>East Lothian</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-renfrewshire/>East Renfrewshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-riding-of-yorkshire/>East Riding of Yorkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/east-sussex/>East Sussex</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/essex/>Essex</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/falkirk/>Falkirk</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/fermanagh/>Fermanagh</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/fife/>Fife</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/flintshire/>Flintshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/glasgow-city/>Glasgow City</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/gloucestershire/>Gloucestershire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/greater-manchester/>Greater Manchester</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/gwynedd/>Gwynedd</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/hampshire/>Hampshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/herefordshire/>Herefordshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/hertfordshire/>Hertfordshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/highland/>Highland</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/inverclyde/>Inverclyde</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/isle-of-anglesey/>Isle of Anglesey</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/isle-of-wight/>Isle of Wight</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/isles-of-scilly/>Isles of Scilly</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/kent/>Kent</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/lancashire/>Lancashire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/larne/>Larne</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/leicestershire/>Leicestershire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/limavady/>Limavady</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/lincolnshire/>Lincolnshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/lisburn/>Lisburn</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/london/>London</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/magherafelt/>Magherafelt</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/merseyside/>Merseyside</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/merthyr-tydfil/>Merthyr Tydfil</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/midlothian/>Midlothian</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/monmouthshire/>Monmouthshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/moray/>Moray</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/moyle/>Moyle</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/na-h-eileanan-an-iar/>Na h-Eileanan an Iar</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/neath-port-talbot/>Neath Port Talbot</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/newport/>Newport</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/newry-and-mourne/>Newry and Mourne</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/newtownabbey/>Newtownabbey</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/norfolk/>Norfolk</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/north-ayrshire/>North Ayrshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/north-down/>North Down</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/north-lanarkshire/>North Lanarkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/north-yorkshire/>North Yorkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/northamptonshire/>Northamptonshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/northumberland/>Northumberland</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/nottinghamshire/>Nottinghamshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/omagh/>Omagh</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/orkney-islands/>Orkney Islands</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/oxfordshire/>Oxfordshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/pembrokeshire/>Pembrokeshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/perth-and-kinross/>Perth and Kinross</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/powys/>Powys</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/renfrewshire/>Renfrewshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/rhondda-cynon-taf/>Rhondda Cynon Taf</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/rutland/>Rutland</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/scottish-borders/>Scottish Borders</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/shetland-islands/>Shetland Islands</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/shropshire/>Shropshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/somerset/>Somerset</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/south-ayrshire/>South Ayrshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/south-lanarkshire/>South Lanarkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/south-yorkshire/>South Yorkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/staffordshire/>Staffordshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/stirling/>Stirling</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/strabane/>Strabane</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/suffolk/>Suffolk</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/surrey/>Surrey</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/swansea/>Swansea</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/the-vale-of-glamorgan/>The Vale of Glamorgan</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/torfaen/>Torfaen</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/tyne-and-wear/>Tyne and Wear</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/warwickshire/>Warwickshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/west-dunbartonshire/>West Dunbartonshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/west-lothian/>West Lothian</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/west-midlands/>West Midlands</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/west-sussex/>West Sussex</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/west-yorkshire/>West Yorkshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/wiltshire/>Wiltshire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/worcestershire/>Worcestershire</a></li><li><a href=http://www.car-finance-company.co.uk/type/bikes/wrexham/>Wrexham</a></li></li></ul></ul></div>
+</div>
+</header></div>
+  <div id="body">
+    <div class="container" id="body__wrapper">
+
+    <div id="slider__wrapper" class="row ">
+    <div class="homeSlider col-md-8">
+      <div><section><img src="/uploads/slider/used_bike_finance1.jpg" alt="Motorbike Finance Deals" /><div class="ns_slideContent container"><div class="ns_slideContent--inner slider_content"><h1>Motorbike Finance Deals</h1><p>We are capable of providing motorbike finance deals to suit you in your local and surrounding areas, so make sure to get in touch.</p></div></div></section></div><div><section><img src="/uploads/slider/motorbike_leasing_company1.jpg" alt="Financing Used Motorbikes" /><div class="ns_slideContent container"><div class="ns_slideContent--inner slider_content"><h1>Financing Used Motorbikes</h1><p>We provide many services including financing used motorbikes, which is often a lot more cost effective than financing brand new!</p></div></div></section></div><div><section><img src="/uploads/slider/bike_finance_uk1.jpg" alt="Bicycle Finance UK" /><div class="ns_slideContent container"><div class="ns_slideContent--inner slider_content"><h1>Bicycle Finance UK</h1><p>We can even provide leasing options for a range of bicycles too! Make sure to contact us for more information on the bikes available.</p></div></div></section></div>    </div>
+    <div class="mceNonEditable">
+    <div class="col-md-4 enquiry">
+    <h2>Get a quick quote <em class="fa fa-chevron-up pull-right visible-xs-inline">&nbsp;</em></h2>
+    <form class='contact-form' action='http://www.car-finance-company.co.uk/email/enquiry' method='post'><input class='ref' type='hidden' id='ref' name='ref' value=''><div class='form-group'><input type='text' id='name' name='name' class='form-control' placeholder='Full name *' value=''></div><div class='form-group'><input type='text' id='email' name='email' class='form-control' placeholder='Email Address *' value=''></div><div class='row'><div class='form-group col-xs-6'><input type='text' id='telephone' name='telephone' class='form-control' placeholder='Telephone *' value=''></div><div class='form-group col-xs-6'><input type='text' id='postcode' name='postcode' class='form-control' placeholder='Postcode *' value=''></div></div><div class='form-group'><textarea type='text' id='message' name='message' class='form-control' placeholder='Message *'></textarea></div><input type='submit' value='Send message' class='submit'><div class='errors'></div></form>    </div>
+    </div>
+    </div>
+
+      <div class="col-md-8 content">
+        <h1>Motorbike Finance Deals</h1>
+<p>Here at Car Finance Company we don't only offer finance for cars, we also offer motorbike finance deals too! From small cc bikes to extremely powerful ones, we have the right deal for you. One great benefit of financing these vehicles is that there is no need to break the bank with a massive upfront cost, and as we offer both new and used deals we can guarantee to find the right deal for you.</p>
+<p><a class="showform small_cta" href="#">FILL IN OUR CONTACT BOX FOR DETAILS</a></p>
+<p>Our motorbike finance deals can vary in price entirely depending on the budget of our customers, however if you have a specific type of vehicle you are looking for then please don't hesistate to fill out our contact form and we can showcase all of the options to you.</p>
+<h2>What is Bike Finance?</h2>
+<p>Bike finance is agreeing to spend a fee overtime to loan out the bike for your personal or commercial use. One great benefit of financing a bike is the ability to have access to a brand new or used motorbike/bicycle that can be used 24/7 without having to pay a very large upfront cost to own the vehicle. &nbsp;If you are interested in buying a vehicle on finance, you may want to have a look at this page&nbsp;<a href="http://www.car-finance-company.co.uk/leasing/vehicle/">http://www.car-finance-company.co.uk/leasing/vehicle/</a>&nbsp;Here you can find out more information on the various vehicles available.</p>
+<p>Purchasing a vehicle is no simple process. From buying in full to investing in a bike, there are a lot of possible choices. Running costs are in addition yet another variable that you need to think about when&nbsp;looking at bike finance. Aside from investing in a house, a bike or bicycle is one of the most costly belongings you will ever purchase. So it is very important to be sure to get the top deal on financing.</p>
+<h2>Bike Finance UK</h2>
+<p>Bike finance UK can be provided by us to the highest quality to make sure you get the perfect deal for you.&nbsp;It is essential that you decide on the very best bike finance UK for you and also compare top quality specialists the make sure you get the best offers. Ensure you can afford the monthly instalment. Be sure you compare and contrast interest rates by checking the APR (annual percentage rate), including all the charges you need to pay. In the event you put more cash down as a deposit, you will have a lower interest rate.</p>
+<div class="big_cta">
+<p class="text">get a free quote today</p>
+<a class="showform" href="#">CONTACT US NOW</a></div>
+<p>Assess the total cost of borrowing, including all charges over the loan. Insurance protection like GAP cover and Payment Protection Insurance could be high priced and might not provide complete cover, so make sure you think carefully before you accept this. GAP cover is also important when leasing cars and other vehicles like vans. Find out more on this page <a href="http://www.car-finance-company.co.uk/type/vans/">http://www.car-finance-company.co.uk/type/vans/</a> GAP coverage is a kind of insurance which will pay out if you have wrote off your vehicle and the vehicle value&nbsp;is less than the payments that are still outstanding. In the event you go over the arranged mileage, further fees or early repayment might become evident in PCP along with personal leasing.</p>
+<h2>Used Motorbike Finance</h2>
+<p>We don't just offer brand new bikes here, we can also provide you with great deals on used motorbike finance across the UK. Our used bikes have been checked over thoroughly to make sure they are in the best condition possible, giving you peice of mind regarding your purchase.</p>
+<p>While many individuals spend a lot of time evaluating and contrasting unique models and after that haggle hard to get the pricing down, the quantity of individuals who take time to scour the marketplace for the very best used motorbike finance offer is a lot smaller for that reason. You might risk making the price of the vehicle more expensive if you are paying over the odds to borrow money to buy it. In fact, you might find yourself paying out thousands over the odds, which is why it&rsquo;s really worth knowing the numerous options and checking the rates of interest and expenses around.</p>
+<h2>Finance Motorcycle Offers</h2>
+<p>Hire Purchase or HP (one of many finance motorcycle offers) involves distributing financial payments over a 12-60 month interval and frequently giving a 10% downpayment first. A bike trader can organise Personal Contract Hire, that is typically competitive for newer bikes. For this kind of leases, you won't own the bike until you've paid back the final instalment; this is due to the credit is secured against the vehicle. Personal contract hire is one of the most common kinds of getting a vehicle leased.&nbsp;</p>
+<p>A Personal contract plan is a type of motor deal on hire purchase and is likely to cause reduced monthly instalments. In a personal contract plan, you will pay the gap between sale and resale cost instead of buying the bike outright. For more information on this, have a look at this <a href="http://www.car-finance-company.co.uk/">http://www.car-finance-company.co.uk/</a> The annual mileage will have an impact on the month to month price. Repayments are spread across a shorter duration of 12-36 months. At the end of the agreement it is possible to give back the bike to the dealership and pay nothing, trade the bike in and begin once again or pay the reselling expense of the vehicle and keep it. With a PCP leasing plan, you need to pay an initial deposit and regular monthly instalments exactly like you would with a loan however these amounts are often smaller than some other types of leasing. The monthly payments are really low-cost, due to a big payment must be paid before you own the vehicle.</p>
+<p><a class="showform small_cta" href="#">SPEAK TO A MEMBER OF THE TEAM TODAY</a></p>
+<p><br />Most personal finance motorcycle offers will involve sticking to a specific mileage; you may then get maintenance as part of the fixed month-to-month cost. You have to give the bike back to the dealer after the contract ends. In a personal leasing contract, the vehicle never belongs to you. The benefits on this is driving at a fixed month-to-month cost with no concerns regarding the vehicle depreciating in value.</p>
+<p>For more information on motorbike finance deals please get in touch with us using the contact form provided.</p>      </div>
+
+      <div class="col-md-4 media">
+        <script src='https://apis.google.com/js/platform.js' async defer>{lang: 'en-GB'}</script><div class="g-plusone" data-size="medium"></div><a href="https://twitter.com/share" class="twitter-share-button" data-via="ukautofinance">Tweet</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a><script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script><hr /><div id="gallery__wrapper" class="clearfix"><div class="gallery__item"><a href="/uploads/images/Audi-Q2.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/Audi-Q2_list.jpg" alt="Bike Finance Offers 1" title="Bike Finance Offers 1"></div></a><div class="gallery__item"><a href="/uploads/images/VW_up.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/VW_up_list.jpg" alt="Bike Finance Offers 2" title="Bike Finance Offers 2"></div></a><div class="gallery__item"><a href="/uploads/images/mercedes2.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/mercedes2_list.jpg" alt="Bike Finance Offers 3" title="Bike Finance Offers 3"></div></a><div class="gallery__item"><a href="/uploads/images/car_finance.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/car_finance_list.jpg" alt="Bike Finance Offers 4" title="Bike Finance Offers 4"></div></a><div class="gallery__item"><a href="/uploads/images/BMW-3-Series.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/BMW-3-Series_list.jpg" alt="Bike Finance Offers 5" title="Bike Finance Offers 5"></div></a><div class="gallery__item"><a href="/uploads/images/Audi_Q5.JPG" class="fancybox" rel="gallery"><img src="/uploads/images/Audi_Q5_list.JPG" alt="Bike Finance Offers 6" title="Bike Finance Offers 6"></div></a><div class="gallery__item"><a href="/uploads/images/Ford_Mondeo.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/Ford_Mondeo_list.jpg" alt="Bike Finance Offers 7" title="Bike Finance Offers 7"></div></a><div class="gallery__item"><a href="/uploads/images/Audi-Q5.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/Audi-Q5_list.jpg" alt="Bike Finance Offers 8" title="Bike Finance Offers 8"></div></a><div class="gallery__item"><a href="/uploads/images/Kia-Sorento.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/Kia-Sorento_list.jpg" alt="Bike Finance Offers 9" title="Bike Finance Offers 9"></div></a><div class="gallery__item"><a href="/uploads/images/mercedes_lease.jpeg" class="fancybox" rel="gallery"><img src="/uploads/images/mercedes_lease_list.jpeg" alt="Bike Finance Offers 10" title="Bike Finance Offers 10"></div></a><div class="gallery__item"><a href="/uploads/images/Nissan_Juke.jpg" class="fancybox" rel="gallery"><img src="/uploads/images/Nissan_Juke_list.jpg" alt="Bike Finance Offers 11" title="Bike Finance Offers 11"></div></a><div class="gallery__item"><a href="/uploads/images/BMW_lease.jpeg" class="fancybox" rel="gallery"><img src="/uploads/images/BMW_lease_list.jpeg" alt="Bike Finance Offers 12" title="Bike Finance Offers 12"></div></a></div>      </div>
+
+    </div>
+  </div>
+
+  <div id="footer">
+<div class="container"><footer>
+<div class="col-lg-8 pull-left"><div class='footer-links'><a href='http://www.car-finance-company.co.uk/'/>Vehicle Finance Companies</a><a #/>Type</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/type/vans>Leasing Vans UK</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/type/bikes>Bike Finance Offers</a><a #/>Manufacturer</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/audi>Audi Car Financing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/mercedes>Mercedes Vehicle Financing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/land-rover>Land Rover Financing Deals</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/ford>Ford Vehicle Financing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/bmw>BMW Financing Company</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/nissan>Nissan Financing Company.</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/kia>Kia Car Financing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/manufacturer/volkswagen>VW Car Financing</a><a #/>Leasing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/leasing/commercial>Business Car Leasing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/leasing/personal>Private Car Leasing</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/leasing/vehicle>Vehicles Lease Specialists</a><a #/>Finance</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/finance/company>Business Car Finance</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/finance/private>Personal Finance Cars</a><a style="padding-left:15px;color:#759ABB;" href=http://www.car-finance-company.co.uk/finance/car>Cars Financing Specialists</a></div></div>
+</footer></div>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/main.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/droppy.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/jquery.fancybox.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/bootstrap.min.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/jquery.nerveSlider.min.js"></script>
+<script src="http://www.car-finance-company.co.uk/assets/frontend/js/bespoke.js"></script>
+
+
+  <div class="contact_modal">
+      <div class="content">
+          <div class="close">×</div>
+          <h2>Contact us</h2>
+          <form class="contact-form-pop" action="/email/enquiry" method="post">
+            <input class="ref" type="hidden" id="refpop" name="ref" value="">
+            <div class="form-group">
+              <input type="text" id="name" name="name" class="form-control" placeholder="Full name *" value=""; background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%; cursor: auto;">
+            </div>
+            <div class="form-group">
+              <input type="text" id="email" name="email" class="form-control" placeholder="Email Address *" value="">
+            </div>
+            <div class="row">
+              <div class="form-group col-xs-6">
+                <input type="text" id="telephone" name="telephone" class="form-control" placeholder="Telephone *" value="">
+              </div>
+              <div class="form-group col-xs-6">
+                <input type="text" id="postcode" name="postcode" class="form-control" placeholder="Postcode *" value="">
+              </div>
+            </div>
+            <div class="form-group">
+              <textarea type="text" id="message" name="message" class="form-control" placeholder="Message *"></textarea>
+            </div>
+            <input id="postSubmit" name="postSubmit" type="submit" value="Submit Enquiry" class="callsubmit btn btn-default">
+            <div class="errors"></div>
+          </form>   
+      </div>
+  </div>
+
+  <div class="contact_modal-overlay"></div>
+
+<script>
+
+  $('.showform').on('click', function(event){
+
+    event.preventDefault()
+
+    $('.contact_modal').addClass('show');
+    $('.contact_modal-overlay').addClass('show');
+
+  });
+
+  $('.close').on('click', function(event){
+
+    event.preventDefault()
+
+    $('.contact_modal').removeClass('show');
+    $('.contact_modal-overlay').removeClass('show');
+
+  });
+
+  // navigation toggle
+  $('#nav__toggle').click(function(e){
+    e.preventDefault(),
+    $(this).toggleClass('open');
+    $(this).closest('#header__navigation').find('nav').slideToggle();
+  });
+
+  // navigation sub menu
+  $('#header__navigation ul li').mouseover(function(){
+    $(this).find('.subnav').dequeue().stop().show();
+    //console.log("Complete");
+  });
+  $('#header__navigation ul li').mouseout(function(){
+    $(this).find('.subnav').dequeue().stop().hide();
+    //console.log("Complete");
+  });
+
+  // add URL to the hidden field
+  $('.ref').val(document.URL);
+
+  $(function() {
+  $(".contact-form-pop").bind(
+    'click',
+    function(){
+      $(".errors").fadeOut();
+    }
+  );
+  $(".contact-form-pop").submit(
+    function() {
+
+      var msgpop = $(".errors");
+      msgpop.removeClass('sending sent success').removeClass('msg-sent');
+
+      var emailpop = $(this).find("input[name='email']").val();
+      var telephonepop = $(this).find("input[name='telephone']").val();
+      var messagepop = $(this).find("textarea[name='message']").val();
+      var namepop = $(this).find("input[name='name']").val();
+      var refpop = $(this).find("input[name='ref']").val();
+      var postcodepop = $(this).find("input[name='postcode']").val();
+    
+    function validateEmail(e) {
+      var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+      if( !emailReg.test( e ) ) {
+      return false;
+      } else {
+      return true;
+      }
+    }
+    
+    if( !validateEmail(emailpop)) { 
+        msgpop.html('Please enter a valid email address.').fadeIn();
+        return false;
+    }
+
+      if (
+        emailpop == ""
+        || messagepop == ""
+        || messagepop == "message"
+        || namepop == "name"
+        || postcodepop == "postcode"
+      ){
+        msgpop.html('Please enter all the required fields.').fadeIn();
+        return false;
+      }
+
+      msgpop.addClass('sending');
+      msgpop.html('Sending...').fadeIn(); 
+
+      $.ajax(
+        {
+          type: "POST",
+          url: $("form[class='contact-form-pop']").attr('action'),
+          data: $(".contact-form-pop").serialize(),
+          success: function(data) {
+            $(".errors").fadeOut(
+              'normal',
+              function() {
+                $(".contact-form-pop").unbind('click');
+                $('.contact-form-pop input, .contact-form-pop textarea').attr('disabled','disabled');
+              $(this).removeClass('sending');
+              $(this).addClass('success');
+              $(this).html('Your message has been sent.').fadeIn().delay(2000);
+              ga("send", "event", "Website Conversions", "Form", "Enquiry", 1);
+              $(this).fadeOut();
+              $("input[name='email']").val('');
+              $("input[name='telephone']").val('');
+              $("textarea[name='message']").val('');
+              $("input[name='name']").val('');
+              $("input[name='postcode']").val('');
+              $("input[name='referer']").val('');
+
+              $('.contact-form-pop input, .contact-form-pop textarea').attr('disabled',false);
+
+              }
+            );
+          }
+        }
+      );
+      return false;
+    }
+  );
+
+  var textInput = $('input[type=text]');
+  textInput.bind(
+    'blur',
+    function(){
+      if (this.value == "") {
+        this.value = this.defaultValue;
+      }
+    }
+  );
+  textInput.bind(
+    'focus',
+    function() {
+      if (this.defaultValue == this.value) {
+        this.value = "";
+      }
+    }
+  );
+  $('.fader').hover(
+    function() {
+      $(this).stop().fadeTo(400,0.7);
+    },
+    function(){
+      $(this).stop().fadeTo(400,1);
+    }
+  );
+  $('.btt').bind(
+    'click',
+    function(){
+      $('html, body').animate({scrollTop: 0}, 2000);
+      return false
+    }
+  );
+
+});
+
+  </script>
+
+  <style>
+  
+    .contact_modal, .contact_modal-overlay {
+      display: none;
+    }
+
+    .contact_modal-overlay.show {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .contact_modal-overlay {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        visibility: hidden;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+        opacity: 0;
+        background: rgba(128,197,109,0.9);
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+    .contact_modal.show {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .contact_modal {
+        opacity: 0;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        width: 50%;
+        max-width: 430px;
+        min-width: 320px;
+        height: auto;
+        z-index: 2000;
+        visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        backface-visibility: hidden;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        -moz-transform: translateX(-50%) translateY(-50%);
+        -ms-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+    .contact_modal.show .content {
+        visibility: visible;
+        opacity: 1;
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+
+    .contact_modal .content {
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+        -webkit-transform: scale(0.7);
+        -moz-transform: scale(0.7);
+        -ms-transform: scale(0.7);
+        transform: scale(0.7);
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+        background-color: #FFF;
+        padding: 20px;
+        border-radius: 7px;
+        text-align: left;
+        position: relative;
+    }
+
+    .contact_modal .content .close {
+        position: fixed;
+        top: -10px;
+        right: -10px;
+        background-color: #CCC;
+        text-shadow: none;
+        padding: 10px 15px;
+        z-index: 99;
+        opacity: 1;
+        border-radius: 50%;
+        border-bottom: 0;
+        text-align: center;
+    }
+
+    .contact_modal h2 {
+        font-size: 2em;
+        color: #75a93e;
+        font-weight: 600;
+        margin-bottom: 20px;
+        font-family: 'Arvo', sans-serif;
+    }
+
+    .contact_modal .content input, .contact_modal .content textarea {
+        width: 100%;
+        padding: 5px;
+        border: 0;
+        background-color: #EEE;
+        margin: 5px 0 10px 0;
+        margin-bottom: 0 !important;
+    }
+
+    .contact_modal .callsubmit {
+        background-color: #8CCF45 !important;
+        color: #FFF;
+        padding: 10px !important;
+        text-transform: uppercase;
+        font-size: 1.2em;
+        font-weight: 600;
+        margin-bottom: 0 !important;
+    }
+
+    .small_cta {
+        width: 100%;
+        text-align: center;
+        display: block;
+        padding: 15px 10px;
+        border-radius: 6px;
+        background-color: #8dc650;
+        color: #FFF !important;
+        font-weight: 600;
+        font-size: 1.6em;
+        text-transform: uppercase;
+        letter-spacing: 0.1px;
+        margin-bottom: 5px;
+        box-shadow: 0px 1px 2px #DDD;
+        -webkit-transition: all 200ms ease-in-out;
+        -moz-transition: all 200ms ease-in-out;
+        -o-transition: all 200ms ease-in-out;
+        transition: all 200ms ease-in-out;
+    }
+
+    .big_cta p.text {
+        border: 2px solid #8dc650;
+        text-align: center;
+        padding: 30px 20px 30px 20px !important;
+        border-radius: 5px;
+        font-size: 1.4em !important;
+        text-transform: uppercase;
+    }
+
+    .big_cta a {
+        width: 60%;
+        text-align: center;
+        display: block;
+        padding: 15px 10px;
+        border-radius: 6px;
+        background-color: #8dc650;
+        color: #FFF !important;
+        font-weight: 600;
+        font-size: 2em;
+        text-transform: uppercase;
+        letter-spacing: 0.1px;
+        margin-bottom: 10px;
+        box-shadow: 0px 1px 2px #DDD;
+        -webkit-transition: all 200ms ease-in-out;
+        -moz-transition: all 200ms ease-in-out;
+        -o-transition: all 200ms ease-in-out;
+        transition: all 200ms ease-in-out;
+        margin: 0 auto;
+        margin-top: -20px;
+    }
+
+  </style>
+
+  </body>
+</html>

@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" id="cssSafe" ><!--<![endif]-->
+<head>
+		<script>
+		var _rollbarConfig = {
+			accessToken: "87a90968608e4ec8bf76019510ab65af",
+			captureUncaught: true,
+			payload: {
+				environment: "production"
+			}
+		};
+		// Rollbar Snippet
+		!function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.2.7/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+		// End Rollbar Snippet
+</script>
+	</script>
+				<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+	{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+	;if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '294072360975003'); // Insert your pixel ID here.
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=294072360975003&ev=PageView&noscript=1"/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="google" content="notranslate" />
+	<title>PR Services UK | Public Relation Services</title>
+	<meta name="keywords" content="online pr services, public relations services, pr service" />
+	<meta name="description" content="Press Loft offer affordable, easy to use PR tools.  Distribute press releases and display product images to thousands of journalists working for the top publications in the UK." />
+	<meta name="application-name" content="Press Loft on WEB2" />
+	<meta name="robots" content="index, follow" />
+	<meta name="test" content="test" />
+	<meta name="p:domain_verify" content="fe4fc4bbc3672de0d9d5950bb4b4e396"/>
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700" rel="stylesheet">
+	<link href="css/images/svg_flag_icons/css/flag-icon.min.css" rel="stylesheet" media="screen" type="text/css" />
+			<link href="css/screen.1.77.css" rel="stylesheet" media="screen" type="text/css" />	<link href="css/page_specific_css/index.css?1511692798" rel="stylesheet" media="screen" type="text/css" />		<script type="text/javascript" src="/library/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/library/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/library/jquery-migrate-3.0.1.min.js"></script>
+<script type="text/javascript" src="/library/jquery-tools.min.js"></script>
+<script type="text/javascript" src="/library/jquery-hoverintent.min.js"></script>
+<script type="text/javascript" src="/library/jquery-thickbox.min.js?1511692798"></script>
+<script type="text/javascript" src="/library/jquery-uploadifive.js"></script>
+<script type="text/javascript" src="library/jquery-waitforimages.js"></script><script type="text/javascript" src="library/jquery-scrollreveal.js"></script><script src="https://js.pusher.com/3.2/pusher.min.js"></script><script type="text/javascript" src="library/custom.2.34.js"></script>
+<script type="text/javascript" src="library/page_specific_js/index.js?1511692798"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-52064831-1', 'pressloft.com');ga('require', 'displayfeatures');ga('send', 'pageview');</script><!--<script type="text/javascript" src="--><!--/library/page_specific_js/cms/fullwidth.js"></script>--><!-- temporary -->
+<!--<link rel="stylesheet" href="--><!--/css/tmp_top.css" />-->
+<!--<script type="text/javascript" src="--><!--/library/tmp_top.js"></script>-->
+<!-- REFERSION TRACKING: BEGIN -->
+<script src="//pressloft.refersion.com/tracker/v3/pub_c5516ee01d8d5350ae90.js"></script>
+<script>try { _refersion(); } catch(e) { }</script>
+<!-- REFERSION TRACKING: END -->
+	<!-- Hotjar Tracking Code for www.pressloft.com -->
+			<script>
+			(function(h,o,t,j,a,r){
+				h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+				h._hjSettings={hjid:569395,hjsv:5};
+				a=o.getElementsByTagName('head')[0];
+				r=o.createElement('script');r.async=1;
+				r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+				a.appendChild(r);
+			})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+	</head>
+<body id="industry_" class="territory_2 fixedWidth ">
+
+<div id="content"  data-logout-triggerd="n">
+<div id="container" class="language_US cf">
+		<div id="headerContainer" class="fix">
+		
+				<div id="header">
+						<a href="index.php"><h1 id="strapline" ></h1></a>
+							<div id="headerMenus" class="menuIndex ">
+																		<div class="trialRequestWrapper">
+								<a href="trialrequest.php" id="trial-request">
+									<span class="outer">BRANDS: REQUEST A FREE TRIAL</span>
+								</a>
+								<div class="journalistSignupFreeWrapper">
+									<div class="journalistsFreeSignup">Journalists: free account</div>
+									<div class="journalistsFreeSignupHere"><a href="/app/influencers/register" id="hereLink">HERE</a></div>
+								</div>
+							</div>
+																		<div id="headerMenuAbout" class="headerMenu ">
+							<span>About<span class="glyphicons glyphiconChevronDown"></span></span>
+							<ul id="mainMenuAbout">
+								<li><a href="about/aboutus.php">Meet The Team</a></li>
+								<li><a href="support.php">Help & Support</a></li>
+								<li><a href="contact.php">Contact us</a></li>
+							</ul>
+						</div>
+						<div id="headerMenuTerritory" class="headerMenu">
+							<span class="flag-icon flag-icon-ca"></span>
+							<span class="glyphicons glyphiconChevronDown"></span>
+							<div id="territoryList">
+								<ul>
+									<li class="territoryBreak">I am located in:</li>
+									<li class="territoryBreak">----------</li>
+																											<li id="AU">Australia</li>
+																											<li id="CA">Canada</li>
+																											<li id="FR">France</li>
+																											<li id="DE">Germany</li>
+																											<li id="IT">Italy</li>
+																											<li id="NZ">New Zealand</li>
+																											<li id="ES">Spain</li>
+																											<li id="UK">United Kingdom</li>
+																											<li id="US">United States</li>
+																		<li class="territoryBreak">----------</li>									<li id="AF">Afghanistan</li>
+																											<li id="AX">Åland Islands</li>
+																											<li id="AL">Albania</li>
+																											<li id="DZ">Algeria</li>
+																											<li id="AS">American Samoa</li>
+																											<li id="AD">Andorra</li>
+																											<li id="AO">Angola</li>
+																											<li id="AI">Anguilla</li>
+																											<li id="AQ">Antarctica</li>
+																											<li id="AG">Antigua and Barbuda</li>
+																											<li id="AR">Argentina</li>
+																											<li id="AM">Armenia</li>
+																											<li id="AW">Aruba</li>
+																											<li id="AT">Austria</li>
+																											<li id="AZ">Azerbaijan</li>
+																											<li id="BS">Bahamas</li>
+																											<li id="BH">Bahrain</li>
+																											<li id="BD">Bangladesh</li>
+																											<li id="BB">Barbados</li>
+																											<li id="BY">Belarus</li>
+																											<li id="BE">Belgium</li>
+																											<li id="BZ">Belize</li>
+																											<li id="BJ">Benin</li>
+																											<li id="BM">Bermuda</li>
+																											<li id="BT">Bhutan</li>
+																											<li id="BO">Bolivia</li>
+																											<li id="BA">Bosnia and Herzegovina</li>
+																											<li id="BW">Botswana</li>
+																											<li id="BV">Bouvet Island</li>
+																											<li id="BR">Brazil</li>
+																											<li id="IO">British Indian Ocean Territory</li>
+																											<li id="VG">British Virgin Islands</li>
+																											<li id="BN">Brunei</li>
+																											<li id="BG">Bulgaria</li>
+																											<li id="BF">Burkina Faso</li>
+																											<li id="BI">Burundi</li>
+																											<li id="KH">Cambodia</li>
+																											<li id="CM">Cameroon</li>
+																											<li id="CV">Cape Verde</li>
+																											<li id="KY">Cayman Islands</li>
+																											<li id="CF">Central African Republic</li>
+																											<li id="TD">Chad</li>
+																											<li id="CL">Chile</li>
+																											<li id="CN">China</li>
+																											<li id="CX">Christmas Island</li>
+																											<li id="CC">Cocos [Keeling] Islands</li>
+																											<li id="CO">Colombia</li>
+																											<li id="KM">Comoros</li>
+																											<li id="CG">Congo - Brazzaville</li>
+																											<li id="CD">Congo - Kinshasa</li>
+																											<li id="CK">Cook Islands</li>
+																											<li id="CR">Costa Rica</li>
+																											<li id="CI">Côte d’Ivoire</li>
+																											<li id="HR">Croatia</li>
+																											<li id="CU">Cuba</li>
+																											<li id="CY">Cyprus</li>
+																											<li id="CZ">Czech Republic</li>
+																											<li id="DK">Denmark</li>
+																											<li id="DJ">Djibouti</li>
+																											<li id="DM">Dominica</li>
+																											<li id="DO">Dominican Republic</li>
+																											<li id="EC">Ecuador</li>
+																											<li id="EG">Egypt</li>
+																											<li id="SV">El Salvador</li>
+																											<li id="GQ">Equatorial Guinea</li>
+																											<li id="ER">Eritrea</li>
+																											<li id="EE">Estonia</li>
+																											<li id="ET">Ethiopia</li>
+																											<li id="FK">Falkland Islands</li>
+																											<li id="FO">Faroe Islands</li>
+																											<li id="FJ">Fiji</li>
+																											<li id="FI">Finland</li>
+																											<li id="GF">French Guiana</li>
+																											<li id="PF">French Polynesia</li>
+																											<li id="TF">French Southern Territories</li>
+																											<li id="GA">Gabon</li>
+																											<li id="GM">Gambia</li>
+																											<li id="GE">Georgia</li>
+																											<li id="GH">Ghana</li>
+																											<li id="GI">Gibraltar</li>
+																											<li id="GR">Greece</li>
+																											<li id="GL">Greenland</li>
+																											<li id="GD">Grenada</li>
+																											<li id="GP">Guadeloupe</li>
+																											<li id="GU">Guam</li>
+																											<li id="GT">Guatemala</li>
+																											<li id="GG">Guernsey</li>
+																											<li id="GN">Guinea</li>
+																											<li id="GW">Guinea-Bissau</li>
+																											<li id="GY">Guyana</li>
+																											<li id="HT">Haiti</li>
+																											<li id="HM">Heard Island and McDonald Islands</li>
+																											<li id="HN">Honduras</li>
+																											<li id="HK">Hong Kong SAR China</li>
+																											<li id="HU">Hungary</li>
+																											<li id="IS">Iceland</li>
+																											<li id="IN">India</li>
+																											<li id="ID">Indonesia</li>
+																											<li id="IR">Iran</li>
+																											<li id="IQ">Iraq</li>
+																											<li id="IE">Ireland</li>
+																											<li id="IM">Isle of Man</li>
+																											<li id="IL">Israel</li>
+																											<li id="JM">Jamaica</li>
+																											<li id="JP">Japan</li>
+																											<li id="JE">Jersey</li>
+																											<li id="JO">Jordan</li>
+																											<li id="KZ">Kazakhstan</li>
+																											<li id="KE">Kenya</li>
+																											<li id="KI">Kiribati</li>
+																											<li id="KW">Kuwait</li>
+																											<li id="KG">Kyrgyzstan</li>
+																											<li id="LA">Laos</li>
+																											<li id="LV">Latvia</li>
+																											<li id="LB">Lebanon</li>
+																											<li id="LS">Lesotho</li>
+																											<li id="LR">Liberia</li>
+																											<li id="LY">Libya</li>
+																											<li id="LI">Liechtenstein</li>
+																											<li id="LT">Lithuania</li>
+																											<li id="LU">Luxembourg</li>
+																											<li id="MO">Macau SAR China</li>
+																											<li id="MK">Macedonia</li>
+																											<li id="MG">Madagascar</li>
+																											<li id="MW">Malawi</li>
+																											<li id="MY">Malaysia</li>
+																											<li id="MV">Maldives</li>
+																											<li id="ML">Mali</li>
+																											<li id="MT">Malta</li>
+																											<li id="MH">Marshall Islands</li>
+																											<li id="MQ">Martinique</li>
+																											<li id="MR">Mauritania</li>
+																											<li id="MU">Mauritius</li>
+																											<li id="YT">Mayotte</li>
+																											<li id="MX">Mexico</li>
+																											<li id="FM">Micronesia</li>
+																											<li id="MD">Moldova</li>
+																											<li id="MC">Monaco</li>
+																											<li id="MN">Mongolia</li>
+																											<li id="ME">Montenegro</li>
+																											<li id="MS">Montserrat</li>
+																											<li id="MA">Morocco</li>
+																											<li id="MZ">Mozambique</li>
+																											<li id="MM">Myanmar [Burma]</li>
+																											<li id="NA">Namibia</li>
+																											<li id="NR">Nauru</li>
+																											<li id="NP">Nepal</li>
+																											<li id="NL">Netherlands</li>
+																											<li id="AN">Netherlands Antilles</li>
+																											<li id="NC">New Caledonia</li>
+																											<li id="NI">Nicaragua</li>
+																											<li id="NE">Niger</li>
+																											<li id="NG">Nigeria</li>
+																											<li id="NU">Niue</li>
+																											<li id="NF">Norfolk Island</li>
+																											<li id="KP">North Korea</li>
+																											<li id="MP">Northern Mariana Islands</li>
+																											<li id="NO">Norway</li>
+																											<li id="OM">Oman</li>
+																											<li id="PK">Pakistan</li>
+																											<li id="PW">Palau</li>
+																											<li id="PS">Palestinian Territories</li>
+																											<li id="PA">Panama</li>
+																											<li id="PG">Papua New Guinea</li>
+																											<li id="PY">Paraguay</li>
+																											<li id="PE">Peru</li>
+																											<li id="PH">Philippines</li>
+																											<li id="PN">Pitcairn Islands</li>
+																											<li id="PL">Poland</li>
+																											<li id="PT">Portugal</li>
+																											<li id="PR">Puerto Rico</li>
+																											<li id="QA">Qatar</li>
+																											<li id="RE">Réunion</li>
+																											<li id="RO">Romania</li>
+																											<li id="RU">Russia</li>
+																											<li id="RW">Rwanda</li>
+																											<li id="BL">Saint Barthélemy</li>
+																											<li id="SH">Saint Helena</li>
+																											<li id="KN">Saint Kitts and Nevis</li>
+																											<li id="LC">Saint Lucia</li>
+																											<li id="MF">Saint Martin</li>
+																											<li id="PM">Saint Pierre and Miquelon</li>
+																											<li id="VC">Saint Vincent and the Grenadines</li>
+																											<li id="WS">Samoa</li>
+																											<li id="SM">San Marino</li>
+																											<li id="ST">São Tomé and Príncipe</li>
+																											<li id="SA">Saudi Arabia</li>
+																											<li id="SN">Senegal</li>
+																											<li id="RS">Serbia</li>
+																											<li id="CS">Serbia and Montenegro</li>
+																											<li id="SC">Seychelles</li>
+																											<li id="SL">Sierra Leone</li>
+																											<li id="SG">Singapore</li>
+																											<li id="SK">Slovakia</li>
+																											<li id="SI">Slovenia</li>
+																											<li id="SB">Solomon Islands</li>
+																											<li id="SO">Somalia</li>
+																											<li id="ZA">South Africa</li>
+																											<li id="GS">South Georgia and the South Sandwich Islands</li>
+																											<li id="KR">South Korea</li>
+																											<li id="LK">Sri Lanka</li>
+																											<li id="SD">Sudan</li>
+																											<li id="SR">Suriname</li>
+																											<li id="SJ">Svalbard and Jan Mayen</li>
+																											<li id="SZ">Swaziland</li>
+																											<li id="SE">Sweden</li>
+																											<li id="CH">Switzerland</li>
+																											<li id="SY">Syria</li>
+																											<li id="TW">Taiwan</li>
+																											<li id="TJ">Tajikistan</li>
+																											<li id="TZ">Tanzania</li>
+																											<li id="TH">Thailand</li>
+																											<li id="TL">Timor-Leste</li>
+																											<li id="TG">Togo</li>
+																											<li id="TK">Tokelau</li>
+																											<li id="TO">Tonga</li>
+																											<li id="TT">Trinidad and Tobago</li>
+																											<li id="TN">Tunisia</li>
+																											<li id="TR">Turkey</li>
+																											<li id="TM">Turkmenistan</li>
+																											<li id="TC">Turks and Caicos Islands</li>
+																											<li id="TV">Tuvalu</li>
+																											<li id="UM">U.S. Minor Outlying Islands</li>
+																											<li id="VI">U.S. Virgin Islands</li>
+																											<li id="UG">Uganda</li>
+																											<li id="UA">Ukraine</li>
+																											<li id="AE">United Arab Emirates</li>
+																											<li id="UY">Uruguay</li>
+																											<li id="UZ">Uzbekistan</li>
+																											<li id="VU">Vanuatu</li>
+																											<li id="VA">Vatican City</li>
+																											<li id="VE">Venezuela</li>
+																											<li id="VN">Vietnam</li>
+																											<li id="WF">Wallis and Futuna</li>
+																											<li id="EH">Western Sahara</li>
+																											<li id="YE">Yemen</li>
+																											<li id="ZM">Zambia</li>
+																											<li id="ZW">Zimbabwe</li>
+																	</ul>
+							</div>
+						</div>
+						<div id="headerMenuLanguage" class="headerMenu">
+							<span id="languageMenuChoice">English - US</span>
+							<span class="glyphicons glyphiconChevronDown"></span>
+							<div id="languageMenuContainer">
+								<ul>
+																		<li><a href="processes/_change_language.php?language=DE&amp;u=/" >Deutsch</a></li>
+																		<li><a href="processes/_change_language.php?language=EN&amp;u=/" >English</a></li>
+																		<li><a href="processes/_change_language.php?language=US&amp;u=/" class="activeLang">English - US</a></li>
+																		<li><a href="processes/_change_language.php?language=FR&amp;u=/" >Français</a></li>
+																		<li><a href="processes/_change_language.php?language=IT&amp;u=/" >Italiano</a></li>
+																		<li><a href="processes/_change_language.php?language=ES&amp;u=/" >Spanish</a></li>
+																	</ul>
+							</div>
+						</div>
+																<div id="headerMenuSignIn" class="headerMenu">
+													<span class="userMenuTrigger">LOG IN <span class="glyphicons glyphiconChevronDown"></span></span>
+							<div id="loginFormContainer" class="userDropDown">
+								<form action="processes/_login.php" method="post" class="intForm">
+									<fieldset>
+										<legend>Login</legend>
+										<div class="formFieldContainer">
+	<div class="label">Email:</div>
+	<span class="glyphiconsFormInput glyphiconEmail"></span>
+	<input type="text" title="email" name="email" maxlength="75" tabindex="1" class="iconTrue" placeholder="Email" size="25"  value=""/>
+</div>
+<div class="formFieldContainer">
+	<div class="label">Password:</div>
+	<span class="glyphiconsFormInput glyphiconPassword"></span>
+	<input type="password" title="password" name="password" maxlength="25" class="iconTrue" tabindex="2" size="25" placeholder="Password" />
+	<div class="reminder"><a href="password.php" target="_top">Forgotten your password?</a></div>
+</div>
+<input type="hidden" name="currentPage" value="index" />
+<input type="hidden" name="forward" value="" />
+<input type="hidden" name="releaseCCID" value="" />
+<input type="hidden" name="releaseProduct" value="" />
+<input type="hidden" name="contactPR" value="" />
+										<input type="submit" value="Log in" class="button submitLock" />
+									</fieldset>
+								</form>
+							</div>
+											</div>
+				</div>
+					</div>
+		<div id="searchBar" class="cf">
+		<form action="browser.php" method="get" class="intForm">
+			<fieldset>
+				<legend>Search</legend>
+				<span class="glyphiconsFormInput glyphiconSearch"></span>
+				<input type="text" tabindex="3" class="iconTrue" value="" placeholder="What images are you looking for today?" name="searchFor" />
+				<input type="submit" tabindex="4" value="Search" />
+			</fieldset>
+		</form>
+	</div>
+		<ul id="mainMenu" class="">
+		<li id="home"><a href="home.php">Home Page</a></li>
+		<li id="library"><a href="browser.php?clear">Image Library</a></li>
+		<li id="clients"><a href="clients.php">Brands</a></li>
+		<li id="press"><a href="releases.php">Press Releases</a></li>
+		<li id="requests"><a href="request.php">Journalist Requests</a></li>
+		<li id="trends"><a href="trends.php">Trends / Seasonal</a></li>
+			</ul>
+		</div>
+<div id="indexOuterWrapper">
+	<div id="indexHeroSection" class="section">
+		<div id="heroSlide_1" class="heroSlide">
+			<h1 class="light">Where journalists & influencers quickly find<br />inspiring images from leading Interiors & Gift brands</h1>
+			<h2>Companies can easily secure coverage by connecting to an extensive network of journalists, bloggers & influencers always searching for new products to talk about.</h2>
+			<ul id="heroCategoryList" class="heroFadeInAnimation">
+				<a href="/app/category/gifts"><li>Gifts</li></a>
+				<a href="/app/category/kitchens"><li>Kitchens</li></a>
+				<a href="/app/category/bathrooms"><li>Bathrooms</li></a>
+				<a href="/app/category/furniture"><li>Furniture</li></a>
+				<a href="/app/category/homeware"><li>Homeware</li></a>
+				<a href="/app/category/weddings"><li>Weddings</li></a>
+				<a href="/app/category/baby-and-kids"><li>Baby / Kids</li></a>
+			</ul>
+		</div>
+	</div>
+	<div id="brandLogosBannerSection" class="section">
+		<div id="brandLogosBannerInnerWrapper" class="fixedOuterWrapper">
+			<div id="whosUsingCenter">
+            <a href="browser.php?ccid=11133"><img src="../css/index_logos/farrow.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=4615"><img src="../css/index_logos/dobbies.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=611"><img src="../css/index_logos/the_contemporary_home.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=14928"><img src="../css/index_logos/made.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=17018"><img src="../css/index_logos/etsy.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=15466"><img src="../css/index_logos/loaf.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=3655"><img src="../css/index_logos/dunelm.png" class="bannerLogo"/></a>
+            <a href="browser.php?ccid=18889"><img src="../css/index_logos/bandq.png" class="bannerLogo"/></a>
+    </div>
+		</div>
+	</div>
+	<div class="registrationOptionsSection fixedOuterWrapper section">
+		<div class="brandsSignUp signUpSection">
+			<div class="signUpContentWrapper brands">
+				<div class="signUpContentInnerWrapper">
+					<h2>Companies & PR Agencies</h2>
+					<p>Connect with relevant Journalists & Influencers to increase your brand / product exposure, expand social reach, and improve your SEO.</p>
+					<a href="signup.php">Join Now</a>
+				</div>
+			</div>
+		</div>
+		<div class="journalistSignUp signUpSection">
+			<div class="signUpContentWrapper journalists">
+				<div class="signUpContentInnerWrapper">
+					<h2>Journalists & Influencers</h2>
+					<p>Rapidly source and download images & content and connect & collaborate with Companies on campaigns - It's always FREE for you!</p>
+					<a href="/app/influencers/register">Free Forever!</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="servicesTabWrapper" class="section">
+		<ul id="mainServicesMenu">
+			<li><a href="#serviceImageLibrary">Image Library</a></li>
+			<li><a href="#servicePressReleases">Press Releases</a></li>
+			<li><a href="#serviceJournalistRequests">Journalist Requests</a></li>
+			<li><a href="#serviceInfluencerOutreach">Influencer Outreach <span class="newBubble">Coming Soon</span></a></li>
+		</ul>
+		<div id="serviceImageLibrary">
+			<div id="imageLibrarySection" class="fixedOuterWrapper">
+				<div id="imageLibrarySectionHeading">
+					<h3 class="sectionHeading">The Image Library</h3>
+					<p class="sectionSubText">Press Loft's Image Library showcases thousands of products for press exposure. Journalists and Influencers around the world search the image library and download images to use in their articles, posts and editorial work. We've made it easier than ever to upload images with support for CSV uploads and integration with Shopify.</p>
+				</div>
+				<div id="imageLibraryCarouselWrapper" class="carouselWrapper">
+					<div id="imageLibraryCarousel" class="carousel"></div>
+					<div id="imageCarouselSteps" class="carouselStepsWrapper">
+						<div class="step active" data-step="0"></div>
+						<div class="step" data-step="3"></div>
+						<div class="step" data-step="6"></div>
+						<div class="step" data-step="9"></div>
+						<div class="step" data-step="12"></div>
+					</div>
+					<div class="carouselDescription">
+						<div class="descriptionInnerWrapper">
+							<h2>Image Library</h2>
+							<h3>Newest Images</h3>
+							<p>Our image library is constantly updated with the latest product images from over 1000 companies worldwide.</p>
+							<a href="browser.php" class="button">See Newest Images</a>
+						</div>
+					</div>
+				</div>
+				<div id="trendingImagesCarouselWrapper" class="carouselWrapper">
+					<div id="trendingImagesDescription" class="carouselDescription">
+						<div class="descriptionInnerWrapper">
+							<h2>Image Library</h2>
+							<h3>Trending / Seasonal</h3>
+							<p>Our curated collaborations of Trending & Seasonal images bring together the latest images so you can see what's been making waves.</p>
+							<a href="trends.php" class="button">See latest trends</a>
+						</div>
+					</div>
+					<div id="trendingImagesCarousel" class="carousel"></div>
+					<div id="trendingImagesCarouselSteps" class="carouselStepsWrapper">
+						<div class="step active" data-step="0"></div>
+						<div class="step" data-step="3"></div>
+						<div class="step" data-step="6"></div>
+						<div class="step" data-step="9"></div>
+						<div class="step" data-step="12"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="servicePressReleases">
+			<div id="pressReleasesSection" class="fixedOuterWrapper">
+				<h3 class="sectionHeading">Press Releases</h3>
+				<p class="sectionSubText">Companies can create a great looking Press Release in minutes with our easy-to-use Press Release Creator to communicate with 1000's of journalists on our network who have opted to receive them. Companies get to share their stories and journalists and influencers get immediate access to the latest news.</p>
+				<div id="pressReleaseDescriptionWrapper">
+					<div id="pressReleaseDescription">
+						<p>Press Loft has thousands of journalists and bloggers home and abroad who have opted in to receive press releases.</p>
+						<p>If you're not ready to subscribe to a membership you can still send a press releases.</p>
+						<a href="freetrial.php?atype=oneoff&step=1">Send out a press release</a>
+					</div>
+					<img src="/css/images/homepage/macbook_releases.png" />
+				</div>
+				<div id="latestPressReleaseWrapper"></div>
+			</div>
+		</div>
+		<div id="serviceJournalistRequests">
+			<div id="journalistRequestsSection" class="fixedOuterWrapper">
+				<h3 class="sectionHeading">Journalist Requests</h3>
+				<p class="sectionSubText">Our Journalist Request service helps Journalists & Influencers who are seeking information for content they working on to quickly get in contact with Companies on the Press Loft network. Journalists post their requests and get help meeting deadlines - potentially bypassing hours of research. Companies receive the requests for help and provide information, expertise, product samples and images - whatever is required - gain exposure and develop relationships.</p>
+				<ul class="featuresList brands">
+					<li class="benefitListHeading">For companies & PR Agencies:<br><span class="seperator"></span></li>
+					<li><span class="glyphicons glyphiconBullHorn"></span>Get exposure & coverage</li>
+					<li><span class="glyphicons glyphiconCluster"></span>Reach 15,000+ Journalists & Bloggers</li>
+					<li><span class="glyphicons glyphiconHandshake"></span>Build Media Relationships</li>
+				</ul>
+				<ul class="featuresList journalists">
+					<div class="featuresListSeperator"></div>
+					<li class="benefitListHeading">For Journalists & Influencers:<br><span class="seperator"></span></li>
+					<li><span class="glyphicons glyphiconSearch"></span>Get the right content you need</li>
+					<li><span class="glyphicons glyphiconCluster"></span>Extend your network</li>
+					<li><span class="glyphicons glyphiconClock"></span>Save hours of research time</li>
+				</ul>
+				<div id="requestImagesWrapper">
+					<img src="/css/images/homepage/mac_journalist_requests.png" id="requestMacScreenshot"/>
+					<img src="/css/images/homepage/phone_requests.png" id="requestPhoneScreenshot"/>
+				</div>
+				<div id="requestDescriptionWrapper">
+					<h2>Journalist Requests</h2>
+					<p>Are you a journalist looking for images / loans / information / experts / competition prizes etc? Use Press Loft's Journalist Request Service to contact PRs.</p>
+					<a href="request.php">Send out a request</a>
+				</div>
+			</div>
+		</div>
+		<div id="serviceInfluencerOutreach">
+			<div id="influencerOutreachSection" class="fixedOuterWrapper">
+				<h3 class="sectionHeading">Influencer Outreach</h3>
+				<p class="sectionSubText" id="influencerOutreachDescription">Engaging with the right influencers is a powerful way for companies to build, sustain, and extend their brands. Social media marketing is increasingly recognised for its effectiveness, although many companies aren't taking advantage of it as much as they would like. We've developed a faster, easier way to bring brands & influencers on the Press Loft network together to create high quality, relevant and authentic content for their target audiences.</p>
+				<div id="IOHowItWorksWrapper">
+					<ul id="IOTabs">
+						<li><a href="#tabIOForBrands">Brands</a></li>
+						<li><a href="#tabIOForInfluencers">Influencers</a></li>
+					</ul>
+					<h4>How it works</h4>
+					<div class="seperator"></div>
+					<div id="tabIOForBrands" class="IOTabSection">
+						<div class="IOStepSection" id="IOBrandsStep_1">
+							<div class="IOStepDescription">
+								<h1>1. Create a collaboration alert</h1>
+								<p>Set the terms of your collaboration in minutes. Whether it's a giveaway or product review, it all begins by outlining::</p>
+								<ul>
+									<li><p>demographic (age, gender, location, etc)</p></li>
+									<li><p>channel (Instagram, Twitter, Pinterest, blog, print, etc)</p></li>
+									<li><p>collaboration type (social post, review, giveaway, etc.)</p></li>
+									<li><p>benefit offered (product, payment, reciprocal post, unpaid, etc.)</p></li>
+								</ul>
+							</div>
+							<img src="/app/assets/images/collaborations/1.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOBrandsStep_2">
+							<div class="IOStepDescription">
+								<h1>2. Post your alert to influencers</h1>
+								<p></p>
+							</div>
+							<img src="/app/assets/images/collaborations/2.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOBrandsStep_3">
+							<div class="IOStepDescription">
+								<h1>3. Get responses from influencers</h1>
+								<p></p>
+							</div>
+							<img src="/app/assets/images/collaborations/3.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOBrandsStep_4">
+							<div class="IOStepDescription">
+								<h1>4. </h1>
+								<p></p>
+							</div>
+							<img src="/app/assets/images/collaborations/4.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOBrandsStep_5">
+							<div class="IOStepDescription">
+								<h1>5. </h1>
+								<p></p>
+							</div>
+							<img src="/app/assets/images/collaborations/5.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOBrandsStep_6">
+							<div class="IOStepDescription">
+								<h1>6. </h1>
+								<p></p>
+							</div>
+							<img src="/app/assets/images/collaborations/6.png" />
+						</div>
+						<div id="IOBrandStepsControls" class="IOHowItWorksSteps">
+															<div class="step active" data-step="1"></div>
+															<div class="step " data-step="2"></div>
+															<div class="step " data-step="3"></div>
+															<div class="step " data-step="4"></div>
+															<div class="step " data-step="5"></div>
+															<div class="step " data-step="6"></div>
+													</div>
+					</div>
+					<div id="tabIOForInfluencers" class="IOTabSection">
+						<div class="IOStepSection" id="IOInfluencersStep_1">
+							<div class="IOStepDescription">
+								<h1>1. Create your profile</h1>
+								<p>Let brands know who you are & what you're all about. It'll only take a couple of minutes when you register.</p>
+							</div>
+							<img src="/app/assets/images/marketing/collaboration_steps/1.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOInfluencersStep_2">
+							<div class="IOStepDescription">
+								<h1>2. Browse your alerts</h1>
+								<p>Based on your profile, you'll start receiving targeted alerts that match you and your audience.</p>
+							</div>
+							<img src="/app/assets/images/marketing/collaboration_steps/2.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOInfluencersStep_3">
+							<div class="IOStepDescription">
+								<h1>3. Review and apply</h1>
+								<p>Click through the alerts and you'll see the complete details of the brand's brief. When you've found an appealing collaboration, just click 'Apply'.</p>
+							</div>
+							<img src="/app/assets/images/marketing/collaboration_steps/3.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOInfluencersStep_4">
+							<div class="IOStepDescription">
+								<h1>4. Collaborate</h1>
+								<p>Once you've applied, the brand will check out your profile. If you're both interested, set the terms and the collaboration is on! Create and share with your audience!</p>
+							</div>
+							<img src="/app/assets/images/marketing/collaboration_steps/4.png" />
+						</div>
+						<div class="IOStepSection hidden" id="IOInfluencersStep_5">
+							<div class="IOStepDescription">
+								<h1>5. Receive your benefit</h1>
+								<p>Once the collaboration is complete you reap the rewards - payments, gifts, discounts, etc. Not to mention great content for your audience and brand relationships!</p>
+							</div>
+							<img src="/app/assets/images/marketing/collaboration_steps/5.png" />
+						</div>
+						<div id="IOInfluencersStepsControls" class="IOHowItWorksSteps">
+															<div class="step active" data-step="1"></div>
+															<div class="step " data-step="2"></div>
+															<div class="step " data-step="3"></div>
+															<div class="step " data-step="4"></div>
+															<div class="step " data-step="5"></div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="pressLoftPlatformSection" class="fixedOuterWrapper section" >
+		<h3 class="sectionHeading headingBorder">The Press Loft Platform</h3>
+		<p class="sectionSubText"></p>
+		<ul class="featuresList brands">
+			<li class="benefitListHeading">For companies & PR Agencies:<br><span class="seperator"></span></li>
+			<li><span class="glyphicons glyphiconBullHorn"></span>Be discovered in The Image Library</li>
+			<li><span class="glyphicons glyphiconCluster"></span>Reach 15,000+ Journalists & Bloggers</li>
+			<li><span class="glyphicons glyphiconHandshake"></span>Discover and collaborate with Influencers</li>
+			<li><span class="glyphicons glyphiconLink"></span>Generate Inbound Links For SEO</li>
+			<li><span class="glyphicons glyphiconBarChart"></span>Powerful Download Reports & Monitoring</li>
+		</ul>
+		<ul class="featuresList journalists">
+			<li class="benefitListHeading">For Journalists & Influencers:<br><span class="seperator"></span></li>
+			<li><span class="glyphicons glyphiconSearch"></span>Discover Content For Your Audience</li>
+			<li><span class="glyphicons glyphiconCluster"></span>Extend your influence</li>
+			<li><span class="glyphicons glyphiconMoney"></span>Collaborate with Companies</li>
+			<li><span class="glyphicons glyphiconSpeech"></span>Send out Journalist Requests to Companies</li>
+			<li><span class="glyphicons glyphiconNewspaper"></span>Receive Press Releases from local and <br>global Companies</li>
+		</ul>
+	</div>
+	<div id="pressLoftStatisticsSection">
+		<div id="pressLoftStatisticsInnerWrapper" class="fixedOuterWrapper">
+			<h3 class="sectionHeading">Latest Statistics</h3>
+			<div id="statisticsRow">
+				<div class="statisticWrapper imageCount">
+					<span class="glyphicons glyphiconImage"></span>
+					<p class="activitySubText">Product Images</a></p>
+					<p class="stat" id="statTotalImages">185,699</p>
+					<input type="hidden" id="totalImagesCount" value="185699"/>
+				</div>
+				<div class="statisticWrapper imageCount">
+					<span class="glyphicons glyphiconUser"></span>
+					<p class="activitySubText">Journalists and Influencers</p>
+					<p class="stat">16,396</p>
+					<input type="hidden" id="totalJournalistsCount" value="16396"/>
+				</div>
+				<div class="statisticWrapper imageCount totalDownloads">
+					<span class="glyphicons glyphiconDownloads"></span>
+					<p class="activitySubText">Images Downloaded</p>
+					<p class="stat">1,549,700</p>
+					<input type="hidden" id="totalDownloadsCount" value="1549700"/>
+				</div>
+			</div>
+			<h3 class="sectionHeading" id="latestActivityHeading">Latest Activity</h3>
+			<div id="statisticsRow">
+				<div class="statisticWrapper imageCount">
+					<p class="brandName" id="statReleaseClient">Covet House</p>
+					<p class="activitySubText">just sent a <b>press release</b></p>
+				</div>
+				<div class="statisticWrapper imageCount">
+					<p class="brandName" id="statPublicationDownload">HOSS magazine</p>
+					<p class="activitySubText">just downloaded from the Image Library</p>
+				</div>
+				<div class="statisticWrapper imageCount">
+					<p class="brandName" id="statClientImage"><b>DelightFULL</b></p>
+					<p class="activitySubText">just added images</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="whosUsingPressLoftSection" class="fixedOuterWrapper section">
+		<h3 class="sectionHeading headingBorder">Who's using Press Loft?</h3>
+		<div id="whosUsingContent">
+	<h1></h1>
+		<div id="whosUsingQuotes">
+				<div class="clientQuotesUS">
+			<div class="quoteRow">
+				<div class="quote">
+					<a href="browser.php?ccid="><div class="clientLogo " style="background-image: url('css/logos/2_1.jpg');"></div></a>
+					<div class="clientQuote">Press Loft is a great tool to reach journalists and bloggers...</div>
+				</div>
+				<div class="quote mid">
+					<a href="browser.php?ccid="><div class="clientLogo" style="background-image: url('css/logos/2_2.jpg');"></div></a>
+					<div class="clientQuote">Press Loft is a brilliant resource...</div>
+				</div>
+			</div>
+			<div class="quoteRow">
+				<div class="quote quote3US">
+					<a href="browser.php?ccid="><div class="clientLogo" style="background-image: url('css/logos/2_3.jpg');"></div></a>
+					<div class="clientQuote">...I find the site really simple to navigate and the image allowance is amazing – thank you Press Loft!</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	</div>
+		<a href="clients.php" id="seeMoreClients">>> see more</p></a>
+	</div>
+	<div id="testimonialsSection">
+		<div id="testimonialsQuoteOuterWrapper" class="fixedOuterWrapper">
+			<div id="testimonialsQuoteInnerWrapper">
+				<button id="previousTestimonial" class="testimonialTrigger"><span class="glyphicons glyphiconPrevious"></span></button>
+				<div class="testimonialQuote"><img src="/css/images/homepage/quote.svg" /></div>
+				    <p class="testimonialText currentTestimonial animated fadeIn" id="testimonial_1">Press Loft has been an invaluable tool for me as part of a small PR team at a fast growing startup. We started to achieve coverage for Artfinder within weeks and the coverage we have continued to gain has been consistent and high profile - including Woman & Home, Good Homes and House Beautiful. Such a great idea, and a real time saver for a busy PR!</p>
+    <p class="testimonialText currentTestimonial animated fadeOut" id="testimonial_2">We have been working with Press Loft for over four years, and as a small business have found it to be inexpensive and beneficial to our marketing needs. It is simple to use and great to have an instant catalogue of our products for journalists to peruse and use for articles, which has subsequently given us valuable brand exposure</p>
+    <p class="testimonialText currentTestimonial animated fadeOut" id="testimonial_3">We have used Press Loft for nearly a decade now. They are our virtual 24- hour press office. In this digital era, having our bank of images that journalists can have instant access to 24-hours a day is priceless. The reporting tools also allow us to see anticipated coverage and therefore pre-order and adjust stock orders to accommodate for the sales uplift we see as a result of the press exposure.</p>
+    <p class="testimonialText currentTestimonial animated fadeOut" id="testimonial_4">As Loaf has grown, along with the number of designs we offer, Press Loft has been an invaluable tool for our press team. It's simple to use and without a doubt it has increased our press coverage by opening up our exposure to a new set of media. We'd be lost without it now!</p>
+    <p class="testimonialText currentTestimonial animated fadeOut" id="testimonial_5">Press Loft have been EXTREMELY helpful in generating coverage for us, we have had many products featured in top publications which really gives us the exposure we need! And not only that, they provide a great service and the site is quick, easy and simple to use. We would recommend Press Loft to anyone!</p>
+
+<div id="clientTestimonialLogos">
+                        <img src="/css/images/homepage/testimonials/1/art_finder.jpg" id="testimonialLogo_1" class="active clientLogo" data-step="1" />
+                                <img src="/css/images/homepage/testimonials/1/becky_and_lolo.jpg" id="testimonialLogo_2" class=" clientLogo" data-step="2" />
+                                <img src="/css/images/homepage/testimonials/1/french_bedroom_company.jpg" id="testimonialLogo_3" class=" clientLogo" data-step="3" />
+                                <img src="/css/images/homepage/testimonials/1/loaf.jpg" id="testimonialLogo_4" class=" clientLogo" data-step="4" />
+                                <img src="/css/images/homepage/testimonials/1/prezzy_box.jpg" id="testimonialLogo_5" class=" clientLogo" data-step="5" />
+            </div>
+				<button id="nextTestimonial" class="testimonialTrigger"><span class="glyphicons glyphiconNext"></span></button>
+				<input type="hidden" id="currentTestimonialCount" value="1" />
+				<input type="hidden" id="totalTestimonial" value="5" />
+			</div>
+		</div>
+	</div>
+	<div class="registrationOptionsSection registrationOptionsBottom fixedOuterWrapper section">
+		<div class="brandsSignUp signUpSection">
+			<div class="signUpContentWrapper brands">
+				<div class="signUpContentInnerWrapper">
+					<h2>Companies & PR Agencies</h2>
+					<p>Connect with relevant Journalists & Influencers to increase your brand / product exposure, expand social reach, and improve your SEO.</p>
+					<a href="signup.php">Join Now</a>
+				</div>
+			</div>
+		</div>
+		<div class="journalistSignUp signUpSection">
+			<div class="signUpContentWrapper journalists">
+				<div class="signUpContentInnerWrapper">
+					<h2>Journalists & Influencers</h2>
+					<p>Rapidly source and download images & content and connect & collaborate with Companies on campaigns - It's always FREE for you!</p>
+					<a href="/app/influencers/register">Join Now</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div style="visibility:hidden"></div>
+</div>
+<div id="footer"  >
+	<div id="footerContent">
+		<ul>
+			<li><a href="../index.php">HOME</a></li>
+			<li><a href="../register.php">Register</a></li>
+			<li><a href="../home.php">Image Library</a></li>
+			<li><a href="../clients.php">Brands</a></li>
+			<li><a href="../releases.php">Press Releases</a></li>
+			<li><a href="../request.php">Journalist Requests</a></li>
+			<li><a href="../trends.php">Trends / Seasonal</a></li>
+		</ul>
+		<ul>
+			<li><a href="../signup.php">Pricing</a></li>
+			<li><a href="../about/aboutus.php">About</a></li>
+			<li><a href="http://pressloft.wordpress.com/">Blog</a></li>
+			<li><a href="../support.php">Help & Support</a></li>
+			<li><a href="../about/troubleshooting.php">Troubleshooting</a></li>
+			<li><a href="../contact.php">Contact us</a></li>
+            <li><a href="../pdfs/2_journo_t_and_c.pdf?1511692798">Terms and conditions for journalists</a></li>
+			<li><a href="../pdfs/2_client_t_and_c.pdf?1511692798">Terms and conditions</a></li>
+						<li><a href="../pdfs/privacy_policy.pdf">Privacy policy</a></li>
+		</ul>
+		<div class="socialMedia">
+			<a href="../thickbox/tb_follow_social_media.php?type=twitter&amp;KeepThis=true&amp;TB_iframe=true&amp;height=300&amp;width=200&amp;refreshOnClose=false" class="twitter thickbox"></a>
+			<a href="http://www.facebook.com/pressloft" target="_blank" class="facebook"></a>
+			<a href="http://www.pinterest.com/pressloft" target="_blank" class="pinterest"></a>
+			<a href="http://instagram.com/pressloft" target="_blank" class="instagram"></a>
+		</div>
+		<div class="copyright">&copy; 2017 Press Loft Ltd.</div>
+	</div>
+</div>
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 971910081;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971910081/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Intercom -->
+<script>
+window.intercomSettings = {
+	app_id: 'efmzyyab',
+	language_override: 'us'
+};
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/efmzyyab';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+<input type="hidden" value="" />
+<div style="display: none;">Array
+(
+)
+1</div>
+</body>
+</html>

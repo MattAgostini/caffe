@@ -1,0 +1,146 @@
+#!/bin/bash
+
+clear
+rm -rf ./benchmarks/results/userTime.txt
+rm -rf ./benchmarks/results/sysTime.txt
+rm -rf ./benchmarks/results/realTime.txt
+
+benchmarkCommandBase="time ./build/examples/cpp_classification/classification.bin ../SqueezeNet/SqueezeNet_v1.1/deploy.prototxt ../SqueezeNet/SqueezeNet_v1.1/squeezenet_v1.1.caffemodel data/ilsvrc12/imagenet_mean.binaryproto data/ilsvrc12/synset_words.txt "
+declare -i totalCount=0
+declare -i maxBenchmarkCount=$1
+declare -i currentImagesPerClass=0
+declare -i maxImagesPerClass=5
+declare -i imageCount=0
+declare -i topOne=0
+declare -i topFive=0
+declare -i timeValue=0
+declare -i realTime=0
+declare -i userTime=0
+declare -i sysTime=0
+
+fileNameReal="./benchmarks/results/realTime_${maxBenchmarkCount}images.txt"
+fileNameUser="./benchmarks/results/userTime_${maxBenchmarkCount}images.txt"
+fileNameSys="./benchmarks/results/sysTime_${maxBenchmarkCount}images.txt"
+fileNameClassify="./benchmarks/results/classify_${maxBenchmarkCount}images.txt"
+fileNameSummary="./benchmarks/results/summary_${maxBenchmarkCount}images.txt"
+rm -rf "$fileNameReal"
+rm -rf "$fileNameUser"
+rm -rf "$fileNameSys"
+rm -rf "$fileNameClassify"
+rm -rf "$fileNameSummary"
+
+# iterate through all class folders
+# iterate through all .jpg's (images)up to maxBenchmarkCount
+
+#echo "testing 2 divided by 3 $(bc <<< "scale=2; 2/3")"
+
+# go down to the folder level containing the images
+for classes in ./benchmarks/benchmark_images/* ; do
+    if [[ -d $classes ]];
+    then
+	# folderSelection contains the pathname to the folder with the images
+	wnid=${classes##*/}
+	folderSelection=${classes}/${wnid}_urlimages
+
+	for images in $folderSelection/* ; do
+	    if [[ $images == *".jpg"* ]]; then
+		    # build the running command
+		    runCommand=$benchmarkCommandBase
+		    runCommand+=$images
+		    #runCommand+=" > $folderSelection/result.txt"
+
+		    # execute the benchmark for the image
+		    # store the results into a variable to parse
+		    result=$( ( $runCommand ) 2>&1 )
+		    echo "classifying image $totalCount" >> "$fileNameClassify"
+		    echo "$result" >> "$fileNameClassify"
+		    echo " " >> "$fileNameClassify"
+		    #echo $result
+
+		    # parse the output of the runCommand
+		    IFS='"'; resultArray=($result); unset IFS;
+		    timeResult="${resultArray[10]//./}"
+		    #echo $timeResult
+
+		    # error check
+		    if [ "$(echo ${resultArray[1]} | cut -c1)" != "n" ] ; then
+			echo "error in classifying image. skipping."
+			continue
+		    fi
+
+		    # increment the currentImagesPerClass and the totalCount
+		    totalCount=$((totalCount + 1))
+
+		    for index in {1..10} ; do
+			resultArray[index]=$(echo ${resultArray[index]} | cut -c1-9)
+		    done
+
+		    # compare resultArray[1] with wnid for topOne success
+		    # else compare resultArray[3, 5, 7, 9] with wnid for topFive success
+		    if [ "${resultArray[1]}" == "$wnid" ] ; then
+			#echo "correctly classified image (topOne)"
+			topOne=$((topOne + 1))
+			topFive=$((topFive + 1))
+		    elif [ "${resultArray[3]}" == "$wnid" ] ; then
+			topFive=$((topFive + 1))
+		    elif [ "${resultArray[5]}" == "$wnid" ] ; then
+			topFive=$((topFive + 1))
+		    elif [ "${resultArray[7]}" == "$wnid" ] ; then
+			topFive=$((topFive + 1))
+		    elif [ "${resultArray[9]}" == "$wnid" ] ; then
+			topFive=$((topFive + 1))
+		    fi
+
+		    # parse the timeResult to separate the real, user, and sys time
+		    # parsing user time and adding to total
+		    timeValue=$(echo $timeResult | cut -c1-3 | bc)
+		    userTime=$((userTime + timeValue))
+		    echo "userTime of image $totalCount is $(bc <<< "scale=3; $timeValue/100") seconds" >> "$fileNameUser"
+		    #echo $userTime
+
+		    # parsing sys time and adding to total
+		    timeValue=$(echo $timeResult | cut -c9-11 | bc)
+		    sysTime=$((sysTime + timeValue))
+		    echo "sysTime of image $totalCount is $(bc <<< "scale=3; $timeValue/100") seconds" >> "$fileNameSys"
+		    #echo $sysTime
+
+		    # parsing real time and adding to total
+		    timeValue=$(echo $timeResult | cut -c22-24 | bc)
+		    realTime=$((realTime + timeValue))
+		    echo "realTime of image $totalCount is $(bc <<< "scale=3; $timeValue/100") seconds" >> "$fileNameReal"
+		    #echo $realTime
+
+		    # echo completion of image classification
+		    echo "finished classifying image $totalCount"
+
+		    # check it we hit the maxBenchmarkCount
+		    # if so, break out of every for loop (maybe change later)
+		    if [ "$totalCount" -eq "$maxBenchmarkCount" ] ; then
+			break 2
+		    fi
+	    fi
+	done
+	currentImagesPerClass=0
+    fi
+done
+
+# write to the result text files
+echo "percentage of images classified as the topOne out of all classified images is ----- $(bc <<< "scale=2; $topOne*100/$maxBenchmarkCount")%" >> "$fileNameClassify"
+echo "percentage of images classified as the topFive out of all classified images is ---- $(bc <<< "scale=2; $topFive*100/$maxBenchmarkCount")%" >> "$fileNameClassify"
+echo "average real time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $realTime/100/$maxBenchmarkCount") seconds" >> "$fileNameReal"
+echo "average user time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $userTime/100/$maxBenchmarkCount") seconds" >> "$fileNameUser"
+echo "average sys time of classifying an image over $maxBenchmarkCount images is ------------------------- $(bc <<< "scale=3; $sysTime/100/$maxBenchmarkCount") seconds" >> "$fileNameSys"
+echo "percentage of images classified as the topOne out of all classified images is ----- $(bc <<< "scale=2; $topOne*100/$maxBenchmarkCount")%" >> "$fileNameSummary"
+echo "percentage of images classified as the topFive out of all classified images is ---- $(bc <<< "scale=2; $topFive*100/$maxBenchmarkCount")%" >> "$fileNameSummary"
+echo "average real time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $realTime/100/$maxBenchmarkCount") seconds" >> "$fileNameSummary"
+echo "average user time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $userTime/100/$maxBenchmarkCount") seconds" >> "$fileNameSummary"
+echo "average sys time of classifying an image over $maxBenchmarkCount images is ------------------------- $(bc <<< "scale=3; $sysTime/100/$maxBenchmarkCount") seconds" >> "$fileNameSummary"
+
+# output results to terminal
+echo "percentage of images classified as the topOne out of all classified images is ----- $(bc <<< "scale=2; $topOne*100/$maxBenchmarkCount")%"
+echo "percentage of images classified as the topFive out of all classified images is ---- $(bc <<< "scale=2; $topFive*100/$maxBenchmarkCount")%"
+echo "average real time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $realTime/100/$maxBenchmarkCount") seconds"
+echo "average user time of classifying an image over $maxBenchmarkCount images is ------------------------ $(bc <<< "scale=3; $userTime/100/$maxBenchmarkCount") seconds"
+echo "average sys time of classifying an image over $maxBenchmarkCount images is ------------------------- $(bc <<< "scale=3; $sysTime/100/$maxBenchmarkCount") seconds"
+echo "full results of benchmark can be found in the ./benchmarks/results folder"
+echo "benchmark completed $maxBenchmarkCount images of image classification"

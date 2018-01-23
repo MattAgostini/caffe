@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>404 - File or directory not found.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#FFFFFF;}
+h2{font-size:1.7em;margin:0;color:#000000;}
+#content{margin:60px 0 0 30%;}
+-->
+</style>
+<link href="https://vovve.net/css/style_2014.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="background-color:#FFFFFF;">
+
+<div id="subpage2">
+
+	<div id="header" style="height:112px;">
+		<a href="https://vovve.net/" style="float:left;">
+			<img src="https://vovve.net/i/logo/vovve_170x64.png" alt="" style="float:right;margin:13px 0px 0px 17px;" />
+			<img src="https://vovve.net/i/logo/vovven_90x78.png" alt="" style="float:left;margin-top:22px" />
+		</a>
+	</div>
+
+	<div id="headerad">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- 728x90, skapad 2010-11-30 -->
+	<ins class="adsbygoogle"
+		 style="display:inline-block;width:728px;height:90px"
+		 data-ad-client="ca-pub-1724329228522631"
+		 data-ad-slot="0698700468"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+	</div>
+
+<div style="clear:both;"></div>
+
+
+
+
+<div id="content">
+
+ 	<img src="/i/404.jpg">
+  <h2>Oj! Denna sida finns inte...</h2>
+
+
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1710 @@
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Le damos la bienvenida a nuestro Hotel de playa en Mazatlán │Costa de Oro Mazatlán
+</title><meta name="google-site-verification" content="cOayr0uFHLN48SswAJE3MQvZdJBeFRj_OuGMFcoxp4k" />
+
+    <!-- Stylesheets -->
+    <link href="/assets/css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/global.css" rel="stylesheet" type="text/css" />
+	 <link href="/assets/css/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+
+    <!-- Scripts -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+    <script src="/assets/js/scripts.js" type="text/javascript"></script>    
+    <script src="/assets/js/nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+	<script src="/clima/jquery.flash.js" type="text/javascript"></script>
+    <script src="/assets/js/jquery.sudoSlider.min.js" type="text/javascript"></script>
+	<script src="/assets/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+    
+    <!-- Loadgin Fancybox Styles and Scripts -->
+    <link href="/assets/js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
+    <script src="/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+
+			<script type="text/javascript">
+
+			    var cacheBuster = "?t=" + Date.parse(new Date());
+
+			    $(document).ready(function () {
+			        $('#weather').flash({
+			            'src': '/clima/weather-widget.swf' + cacheBuster,
+			            'width': '240',
+			            'height': '73',
+			            'wmode': 'transparent',
+			            'flashvars': {
+			                'dataXmlWeather': '/clima/clima-es.xml',
+			                'dataCode': 'MXSA0084',
+			                'urlImgWeather': '/clima/iconos/',
+			                'dataLang': 'es'
+			            }
+			        });
+			    });
+		</script>
+	  
+	
+    <script type="text/javascript"> var switchTo5x = false;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">  stLight.options({ publisher: '3713bb3e-5d21-4277-9cce-603cf1826485' }); </script>
+
+    <!--[if lt IE 7]> 
+            <script type="text/javascript" src="//assets/js/unitpngfix.js" ></script>
+            <style>
+                .st_sharethis
+                {
+	                position:relative; left: 25px; top:-15px;
+                }
+
+                .action-menu-last
+                {
+	                position:relative; right: 10px; top: 2px;
+                }
+
+                .social_buttons
+                {
+	                width: 120px; position: relative; float: right; bottom: 3px; margin-left: 12px;
+                }
+            </style>
+    <![endif]-->
+       <link id="ctl00_Link1" rel="shortcut icon" type="image/x-icon" href="assets/images/layout/fav.gif" />
+ 
+  
+    <!-- Inicia codigo Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21561873-1']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_setDomainName', '.costaoro.com']);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+		
+    </script>
+
+    <!--termina codigo google analytics -->
+
+    <!--script para el boton +1 de google -->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+        { lang: 'es-419' }
+    </script>
+    
+    <meta name="description" content="Reserve Costa de Oro en línea y obtenga automáticamente la tarifa más baja y descuentos de hasta el 40% en habitaciones frente al mar de Mazatlán." />
+    <meta name="keywords" content="hoteles mazatlan, costa de oro mazatlan, hotel de 4 estrellas en mazatlan, hoteles mazatlan todo incluido" />
+     <!-- Extra Scripts -->
+    
+
+
+
+    <script type="text/javascript">
+
+        var urlMobile = "http://m.costaoro.com/";
+
+        var createCookie = function (name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name + "=" + value + expires + "; path=/";
+        };
+
+        var readCookie = function (name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        };
+
+        var isFromMobile = function () {
+            var query = window.location.search.substring(1);
+            var mobile = false;
+            if (query.indexOf("nomobile") >= 0) {
+                mobile = true;
+                createCookie("mobile", "yes", 1);
+            }
+            return mobile;
+        };
+
+
+        if (!isFromMobile()) {
+            var redirectagent = navigator.userAgent.toLowerCase();
+            var redirect_devices = ['vnd.wap.xhtml+xml', 'sony', 'symbian', 'nokia', 'samsung', 'mobile', 'windows ce', 'epoc', 'opera mini', 'nitro', 'j2me', 'midp-', 'cldc-', 'netfront', 'mot', 'up.browser', 'up.link', 'audiovox', 'blackberry', 'ericsson', 'panasonic', 'philips', 'sanyo', 'sharp', 'sie-', 'portalmmm', 'blazer', 'avantgo', 'danger', 'palm', 'series60', 'palmsource', 'pocketpc', 'smartphone', 'rover', 'ipaq', 'au-mic', 'alcatel', 'ericy', 'vodafone', 'wap1', 'wap2', 'teleca', 'playstation', 'lge', 'lg-', 'iphone', 'android', 'htc', 'dream', 'webos', 'bolt', 'nintendo'];
+            for (var i in redirect_devices) {
+                if (redirectagent.indexOf(redirect_devices[i]) != -1) {
+                    if (!readCookie("mobile"))
+                        location.replace(urlMobile);
+                }
+            }
+        }
+
+
+        $(window).load(function () {
+            startNivoSlidehow({
+                directionNav:false                            
+            });
+        });
+              
+    </script>
+
+</head>
+<body>
+<div id="page-wrapper">
+    
+    <!-- Start: #header -->
+    <div id="header">
+        <div class="wrapper">
+            <div class="user-menu">
+                <ul>            
+                    <li><a href="/english/" class="lang-en">English</a></li>
+                </ul>
+            </div>
+            <div class="social-buttons">
+                <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                <a href="http://twitter.com/share" class="twitter-share-button"
+                    data-url="http://costaoro.com"
+                    data-via="hotelcostadeoro"
+                    data-count="none">Tweet</a> 
+                            
+                <iframe src="http://www.facebook.com/plugins/like.php?app_id=159895170745387&amp;href=http%3A%2F%2Fcostaoro.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21"
+                scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:72px; .width:72px; height:21px;" allowTransparency="true"></iframe>
+
+				
+                <!--boton +1 para el sitio -->
+                <g:plusone size="medium" count="false" href="http://www.costaoro.com"></g:plusone>
+            </div>
+            <div class="logo">
+                <a href="/default.aspx"><strong>Costa de Oro Beach Hotel</strong></a>
+            </div>
+
+            <div class="action-menu">
+                <ul>
+                    <li><a href="/reservaciones.aspx">Reservaciones</a></li>
+                    <li><a href="/ubicacion.aspx">Ubicación</a></li>
+                    <li><a href="/galeria-visual.aspx">Galería Visual</a></li>                    
+                    <li><a href="/contactanos.aspx">Contáctanos</a></li>
+                    <li><a href="http://www.univisit.com/costaoro/hotel/comentarios.aspx?PropertyNumber=360">Comentarios</a></li>
+                    <li><a href="https://crs.univisit.com/portals/costaoro/portal/secure/findboking.aspx" onclick="_gaq.push(['_link', this.href]); return false;" >Mis Viajes</a></li>
+                </ul>                  
+            </div>
+
+            <div class="extra-info">                  
+            </div>
+
+            <div id="main-nav">
+                <ul>
+                    <li><a href="/default.aspx">Inicio</a></li>
+                    <li><a href="/amenidades.aspx">Amenidades</a></li>
+                    <li><a href="/habitaciones.aspx">Habitaciones</a></li>					
+                    <li><a href="/ofertas-y-paquetes.aspx">Promociones</a></li>
+                    <li><a href="/restaurante-bar.aspx">Restaurante y Bar</a></li>             
+                   <!-- <li><a href="/ocio-y-familia.aspx">Ocio y Familia</a></li>
+                    <li><a href="/negocios-en-mazatlan.aspx">Negocios</a></li>-->
+                    <li><a href="/grupos-y-reuniones-en-mazatlan.aspx">Grupos y Convenciones</a></li>
+                    <li><a href="/bodas-y-lunas-de-miel-en-mazatlan.aspx">Bodas y Banquetes</a></li>
+                    <li><a href="/mazatlan-sinaloa.aspx">Mazatlán</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- End: #header -->
+
+
+
+
+    <!-- Start: #slideshow -->
+    <div id="slideshow">    
+            
+        <div id="slider">
+            <img src="./assets/images/slideshow/slideshow-01.jpg" alt="" title="" />             
+			<img src="./assets/images/slideshow/slideshow-02.jpg" alt="" title="" />             
+            <img src="./assets/images/slideshow/slideshow-03.jpg" alt="" title="" />
+            <img src="./assets/images/slideshow/slideshow-04.jpg" alt="" title="" />                                     
+            
+        </div>
+
+    </div>
+    <!-- End: #slideshow -->               
+
+    
+	<!-- Booking Engine  -->             
+	<!-- Load external requirements booking engine -->
+<script src="/assets/js/calendar.js" type="text/javascript"></script>    
+<link href="/assets/css/booking-engine.css" rel="stylesheet" type="text/css" />
+<link href="/assets/css/calendar.css" rel="stylesheet" type="text/css" />
+
+<link href="/assets/css/jquery.waitingpopup.css" rel="stylesheet" type="text/css" />
+<script src="/assets/js/jquery.waitingpopup.js" type="text/javascript"></script>
+<script type="text/javascript">
+	 $(function () {
+	 	 $().waitingpopup({ lableText: 'Por favor espere...', sublableText: 'procesando..' });
+	 });
+</script>
+
+<div id="booking-box">
+
+<div style="  padding:15px 10px 5px 16px">
+<form method="post" action="http://booking.internetpower.com.mx/Costaoro/hotel/hotelsearch.aspx" onsubmit="_gaq.push(['_linkByPost', this]);" id="booking-engine">
+    
+   
+    <div class="row">
+        <h3 class="titleBooking" style="float:left;">Reserve en Línea</h3>
+     
+        <div class="searchType">
+
+          <fieldset>         
+              <label><input type="radio" onclick="cambiarBoton(this);" name="PackagesType" value="H" id="opt_H" checked="checked" class=" packageType" />Hotel </label>          
+              <label><input type="radio" onclick="cambiarBoton(this);" name="PackagesType" value="A" id="opt_A" class=" packageType" />Actividad </label> 
+              <label><input id="opt_C" onclick="cambiarBoton(this);" class=" packageType" type="radio" name="PackagesType" value="C" />Auto</label>  
+              <label class="block"><input type="radio" class="packageType" value="HA" name="PackagesType" id="opt_HA" />Hotel + Actividad</label>
+              <label class="block"><input type="radio" class="packageType" value="HC" name="PackagesType" id="opt_HC" />Hotel + Auto</label>
+          </fieldset>
+
+        </div>        
+      
+    </div>
+
+    <!-- Start #booking-flight-search -->
+    <div style="display:none" id="booking-flight-search">
+      <label class="column grid_3" id="checkFlight">
+        <input type="radio" value="RT" checked="checked" name="type_trip" id="type_trip" />
+        Redondo </label>
+      <label class=" column grid_3">
+        <input type="radio" value="OW" name="type_trip" id=" " />
+        Sencillo</label>
+      <div class="row" id="DepartureCity">
+        <label>Saliendo de:
+          <input id="txtCity1" maxlength="40" name="txtCity1" style="  width: 200px;" class="block" title="Enter city name or airport code" />
+        </label>
+      </div>
+      <div class="row">
+        <label class="column grid_3">Departing:
+          <input id="txtFecha1" class="block" size="12" value="mm/dd/aaaa" name="txtFecha1" style="width: 70px;" />
+        </label>
+        <label class="column grid_3">Hora:
+          <select class="block" id="ddTime1" name="ddHorasalida" style="width: 80px;">
+            <option value=" " selected="selected">Cualquier</option>
+            <option value="DM">Mañana(7:00 to 11:00)</option>
+            <option value="DA">Tarde(12:00 to 16:00)</option>
+            <option value="DE">Noche(17:00 to 21:00)</option>
+            <option value="0000">12:00 Media Noche</option>
+            <option value="0100">1:00 AM</option>
+            <option value="0200">2:00 AM</option>
+            <option value="0300">3:00 AM</option>
+            <option value="0400">4:00 AM</option>
+            <option value="0500">5:00 AM</option>
+            <option value="0600">6:00 AM</option>
+            <option value="0700">7:00 AM</option>
+            <option value="0800">8:00 AM</option>
+            <option value="0900">9:00 AM</option>
+            <option value="1000">10:00 AM</option>
+            <option value="1100">11:00 AM</option>
+            <option value="1200">12:00 PM</option>
+            <option value="1300">1:00 PM</option>
+            <option value="1400">2:00 PM</option>
+            <option value="1500">3:00 PM</option>
+            <option value="1600">4:00 PM</option>
+            <option value="1700">5:00 PM</option>
+            <option value="1800">6:00 PM</option>
+            <option value="1900">7:00 PM</option>
+            <option value="2000">8:00 PM</option>
+            <option value="2100">9:00 PM</option>
+            <option value="2200">10:00 PM</option>
+            <option value="2300">11:00 PM</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <label>Going to:
+          <input maxlength="40" value="" style="width: 200px;" id="txtCity2" name="txtCity2" />
+        </label>
+      </div>
+      <div id="flight-return-dates" class="row">
+        <label class="column grid_3">Returning:
+          <input id="txtFecha2" size="12" value="mm/dd/aaaa" name="txtFecha2" style="width: 70px;" />
+        </label>
+        <label class="column grid_3">Hora:
+          <select id="ddTime2" name="ddhoraregreso" style="width: 80px;">
+            <option value=" " selected="selected">Cualquiera</option>
+            <option value="DM">Mañana(7:00 to 11:00)</option>
+            <option value="DA">Tarde(12:00 to 16:00)</option>
+            <option value="DE">Noche(17:00 to 21:00)</option>
+            <option value="0000">12:00 Media Noche</option>
+            <option value="0100">1:00 AM</option>
+            <option value="0200">2:00 AM</option>
+            <option value="0300">3:00 AM</option>
+            <option value="0400">4:00 AM</option>
+            <option value="0500">5:00 AM</option>
+            <option value="0600">6:00 AM</option>
+            <option value="0700">7:00 AM</option>
+            <option value="0800">8:00 AM</option>
+            <option value="0900">9:00 AM</option>
+            <option value="1000">10:00 AM</option>
+            <option value="1100">11:00 AM</option>
+            <option value="1200">12:00 PM</option>
+            <option value="1300">1:00 PM</option>
+            <option value="1400">2:00 PM</option>
+            <option value="1500">3:00 PM</option>
+            <option value="1600">4:00 PM</option>
+            <option value="1700">5:00 PM</option>
+            <option value="1800">6:00 PM</option>
+            <option value="1900">7:00 PM</option>
+            <option value="2000">8:00 PM</option>
+            <option value="2100">9:00 PM</option>
+            <option value="2200">10:00 PM</option>
+            <option value="2300">11:00 PM</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <label class="column grid_2">Adults:
+          <select id="ddlAdultos" name="ddlAdultos" style="width: 45px;">
+            <option value="0">0</option>
+            <option value="1" selected="selected">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+          </select>
+        </label>
+        <label class="column grid_2">Seniors:
+          <select id="ddlSeniors" name="ddlSeniors" style="width: 45px;">
+            <option value="0" selected="selected">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+          </select>
+        </label>
+        <label class="column grid_2">Children:
+          <select id="ddlNinios" name="ddlNinios" style="width: 45px;">
+            <option value="0" selected="selected">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+          </select>
+        </label>
+      </div>
+      <div class="row">
+        <label class="column grid_3">Airline:
+          <select id="ddlAerolinea" name="ddlAerolinea" class="block" style="width: 100px;">
+            <option value="" selected="selected">No Preference</option>
+            <option value="AA">American Airlines</option>
+            <option value="AC">Air Canada</option>
+            <option value="AF">Air France</option>
+            <option value="AM">Aeromexico</option>
+            <option value="AS">Alaska Airlines</option>
+            <option value="AT">Royal Air Maroc</option>
+            <option value="AY">Finnair</option>
+            <option value="AZ">Alitalia</option>
+            <option value="BA">British Airways</option>
+            <option value="CO">Continential Airlines</option>
+            <option value="DL">Delta Airlines</option>
+            <option value="EI">Aer Lingus</option>
+            <option value="F9">Frontier Airlines</option>
+            <option value="HP">America West</option>
+            <option value="IB">Iberia</option>
+            <option value="LA">Lan Chile</option>
+            <option value="LH">Lufthansa</option>
+            <option value="MA">Malev Hungarian</option>
+            <option value="MK">Air Mauritius</option>
+            <option value="MX">Mexicana</option>
+            <option value="NW">Northwest Airlines</option>
+            <option value="OS">Austria Air</option>
+            <option value="QF">Qantas Airways</option>
+            <option value="RG">Varig</option>
+            <option value="UA">United Airlines</option>
+            <option value="US">US Airways</option>
+          </select>
+        </label>
+        <label class="column grid_3">Class:
+          <select id="ddlClase" name="ddlClase" style="width: 90px;">
+            <option value="Y" selected="selected">Economy</option>
+            <option value="C">Bussines</option>
+            <option value="F">first class</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <!-- end #booking-flight-search --> 
+    <!-- start #booking-car-search -->
+    <div style="display:none" id="booking-car-search" class="column">
+      <div class="row" style="display:none"> Dónde quiere recoger su auto?
+        <div class="row" >
+          <label>
+            <input type="radio" id="rbAirport"  value="rbAirport" name="BySearch" />
+           Aeropuerto</label>
+          <label>
+            <input type="radio" id="rbCity" checked="checked" value="rbCity" name="BySearch" />
+            En la ciudad</label>
+        </div>
+        <input type="text"  title="Enter city name or airport code" style=" width: 200px;" id="txtciudad" name="txtciudad" value="Mazatlan" />
+      </div>
+    
+       
+        <select id="cmbClases" style="font-size: 12px; width: 100px;" name="cmbClases" class="column">
+                        <option value="0" selected="selected">Sin preferencia</option>
+                        <option value="1">Compacto</option>
+                        <option value="2">Mini</option>
+                        <option value="3">Económico</option>
+                        <option value="4">Intermedio</option>
+                        <option value="5">Estandard</option>
+                        <option value="6">Grande</option>
+                        <option value="7">Premium</option>
+                        <option value="8">De Lujo</option>
+                        <option value="9">Especial</option>
+        </select>
+
+        <label class="column grid_3">Tipo:
+<select id="cmbTipos" style="font-size: 12px; width: 100px;" name="cmbTipos">
+                        <option value="0" selected="selected">Sin Preferencias</option>
+                        <option value="1">2/4-Puertas</option>
+                        <option value="2">Vagoneta</option>
+                        <option value="3">4x4</option>
+                        <option value="4">Deportivo</option>
+                        <option value="5">2-Puertas</option>
+                        <option value="6">Van</option>
+                        <option value="7">Limosina</option>
+                        <option value="8">Pick up / Utility</option>
+                    </select>
+        </label>
+       
+       
+        <label class="column grid_3">Recoger:
+          <input class="calendarinput calendar-icon" id="txtcheckin" value="mm/dd/aaaa" name="txtcheckin"  />
+        </label>
+        <label class="column grid_3">Hora:
+          <select class="block" id="cmbTime1" name="cmbTime1">
+            <option value="00:30">00:30</option>
+            <option value="01:00">01:00</option>
+            <option value="01:30">01:30</option>
+            <option value="02:00">02:00</option>
+            <option value="02:30">02:30</option>
+            <option value="03:00">03:00</option>
+            <option value="03:30">03:30</option>
+            <option value="04:00">04:00</option>
+            <option value="04:30">04:30</option>
+            <option value="05:00">05:00</option>
+            <option value="05:30">05:30</option>
+            <option value="06:00">06:00</option>
+            <option value="06:30">06:30</option>
+            <option value="07:00">07:00</option>
+            <option value="07:30">07:30</option>
+            <option value="08:00">08:00</option>
+            <option value="08:30">08:30</option>
+            <option value="09:00">09:00</option>
+            <option value="09:30">09:30</option>
+            <option value="10:00">10:00</option>
+            <option value="10:30">10:30</option>
+            <option value="11:00">11:00</option>
+            <option value="11:30">11:30</option>
+            <option value="12:00" selected="selected">12:00</option>
+            <option value="12:30">12:30</option>
+            <option value="13:00">13:00</option>
+            <option value="13:30">13:30</option>
+            <option value="14:00">14:00</option>
+            <option value="14:30">14:30</option>
+            <option value="15:00">15:00</option>
+            <option value="15:30">15:30</option>
+            <option value="16:00">16:00</option>
+            <option value="16:30">16:30</option>
+            <option value="17:00">17:00</option>
+            <option value="17:30">17:30</option>
+            <option value="18:00">18:00</option>
+            <option value="18:30">18:30</option>
+            <option value="19:00">19:00</option>
+            <option value="19:30">19:30</option>
+            <option value="20:00">20:00</option>
+            <option value="20:30">20:30</option>
+            <option value="21:00">21:00</option>
+            <option value="21:30">21:30</option>
+            <option value="22:00">22:00</option>
+            <option value="22:30">22:30</option>
+            <option value="23:00">23:00</option>
+            <option value="23:30">23:30</option>
+          </select>
+        </label>
+         
+          <label class="column grid_3">Devolver:
+            <input type="text" name="txtcheckout" id="txtcheckout" value="mm/dd/aaaa" class="calendarinput calendar-icon">
+          </label>
+          <label class="column grid_3">Hora:
+            <select class="block" id="cmbTime2" name="cmbTime2">
+              <option value="00:30">00:30</option>
+              <option value="01:00">01:00</option>
+              <option value="01:30">01:30</option>
+              <option value="02:00">02:00</option>
+              <option value="02:30">02:30</option>
+              <option value="03:00">03:00</option>
+              <option value="03:30">03:30</option>
+              <option value="04:00">04:00</option>
+              <option value="04:30">04:30</option>
+              <option value="05:00">05:00</option>
+              <option value="05:30">05:30</option>
+              <option value="06:00">06:00</option>
+              <option value="06:30">06:30</option>
+              <option value="07:00">07:00</option>
+              <option value="07:30">07:30</option>
+              <option value="08:00">08:00</option>
+              <option value="08:30">08:30</option>
+              <option value="09:00">09:00</option>
+              <option value="09:30">09:30</option>
+              <option value="10:00">10:00</option>
+              <option value="10:30">10:30</option>
+              <option value="11:00">11:00</option>
+              <option value="11:30">11:30</option>
+              <option value="12:00" selected="selected">12:00</option>
+              <option value="12:30">12:30</option>
+              <option value="13:00">13:00</option>
+              <option value="13:30">13:30</option>
+              <option value="14:00">14:00</option>
+              <option value="14:30">14:30</option>
+              <option value="15:00">15:00</option>
+              <option value="15:30">15:30</option>
+              <option value="16:00">16:00</option>
+              <option value="16:30">16:30</option>
+              <option value="17:00">17:00</option>
+              <option value="17:30">17:30</option>
+              <option value="18:00">18:00</option>
+              <option value="18:30">18:30</option>
+              <option value="19:00">19:00</option>
+              <option value="19:30">19:30</option>
+              <option value="20:00">20:00</option>
+              <option value="20:30">20:30</option>
+              <option value="21:00">21:00</option>
+              <option value="21:30">21:30</option>
+              <option value="22:00">22:00</option>
+              <option value="22:30">22:30</option>
+              <option value="23:00">23:00</option>
+              <option value="23:30">23:30</option>
+            </select>
+          </label>
+         
+        <div class="column" style="display:none"> <a class="block" href="javascript:void(0);" id="CheckOutCarCityLink">El lugar donde entregaré el auto, es diferente del lugar donde lo recogeré</a>
+          <label style="display:none" class="block" id="CheckOutCarCity">pick-up location
+            <input type="Input" class="block" id="txtCiudadDrop" name="txtCiudadDrop">
+          </label>
+        </div>
+        <label style="display:none" >Compañia arrendadora: 
+          <select id="cmbfranquicias" style="  width: 200px;" name="cmbfranquicias">
+            <option value="0" selected="selected">No Preference</option>
+            <option value="73">AGA Rent a Car</option>
+            <option value="81">Europcar La Paz</option>
+            <option value="57">Budget</option>
+            <option value="72">Dollar</option>
+          </select>
+        </label>
+       
+    </div>
+    <!--end #booking-car-search -->
+    <div style="display: none;" id="booking-activity-search" class="column">
+       
+        <label id="txtCityLabel" style="display:none">Destino:
+          <select style="width:200px; font-size:12px" name="txtCity" id="txtCity">
+            <option value="Mazatlan, SI,MX">Mazatlán, Sinaloa</option>
+          </select>
+        </label>
+        <label class="column grid_3">Desde:
+          <input id="txtActF1" size="12" value="mm/dd/aaaa" name="txtActF1" class="calendarinput calendar-icon">
+        </label>
+        <label class="column grid_3">Hasta: 
+          <input type="text" id="txtActF2" size="12" value="mm/dd/aaaa" name="txtActF2" class="calendarinput block calendar-icon">
+        </label>
+      
+    </div>
+    <!-- end #booking-activity-search -->
+ 
+    <!-- Start: #booking-package-search -->
+    <div id="booking-package-search">
+      <div style="display:none" class="row" id="flightType">
+        <label>Saliendo de:
+          <input type="text" id="Departure" name="Departure" class="block grid_6" />
+        </label>
+      </div>
+      <div class="row grid_6" id="listDestination" style="display:none">
+        <label>Destino:
+          <select style="width: 200px; font-size: 12px;" id="dropListDestination" name="dropListDestination">
+            <option value="Mazatlan,SI,MX">Hotel Costa de Oro</option>
+          </select>
+          <input type="hidden" value="360" name="hddDestino" id="hddDestino" />
+        </label>
+      </div>
+      <div style="display:none" class="row grid_6" id="textDestination">
+        <label>Destino:
+          <input value="[DESTINATION_VALUE]" style="width: 200px; font-size: 12px;" id="txtDestination" name="txtDestination&quot;" />
+          <a href="javascript:;" id="linkListDestination">I want to select a city from list</a> <a href="javascript:;" id="linkTextDestination">I want to specify a city</a> </label>
+      </div>
+
+      <div class="column" >
+        <label class="column grid_2">Hab.:
+          <select class="block" id="cmbNumRooms">
+            <option selected="selected" value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+          </select>
+        </label>
+        <label class="column grid_2">Adultos:
+          <select class="block" id="cmbNumAdults">
+            <option value="1">1</option>
+            <option selected="selected" value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+          </select>
+        </label>
+        <label class="column grid_2">Menores:
+          <select class="block" id="cmbNumChildrens">
+            <option selected="selected" value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+          </select>
+        </label>
+      </div>
+      <div class="column">
+        <label class="column">Llegada:
+          <input value="mm/dd/aaaa" id="txtStartDate" class="calendarinput calendar-icon" readonly="readonly" style="width:95px" />
+        </label>
+        <label style="" class="column grid_3">Salida:
+          <input type="text" value="mm/dd/aaaa" id="txtEndDate" class="calendarinput block calendar-icon" readonly="readonly"  style="width:95px" />
+        </label>
+      </div>
+      <div style="display:none" id="booking-times">
+        <label class="column grid_3">Hora:
+          <select class="block" id="cmbStartTime">
+            <option selected="selected" value=" ">Cualquiera</option>
+            <option value="DM">Mañana(7:00 to 11:00)</option>
+            <option value="DA">Tarde(12:00 to 16:00)</option>
+            <option value="DE">Noche(17:00 to 21:00)</option>
+            <option value="0000">12:00 Medianoche</option>
+            <option value="0100">1:00 AM</option>
+            <option value="0200">2:00 AM</option>
+            <option value="0300">3:00 AM</option>
+            <option value="0400">4:00 AM</option>
+            <option value="0500">5:00 AM</option>
+            <option value="0600">6:00 AM</option>
+            <option value="0700">7:00 AM</option>
+            <option value="0800">8:00 AM</option>
+            <option value="0900">9:00 AM</option>
+            <option value="1000">10:00 AM</option>
+            <option value="1100">11:00 AM</option>
+            <option value="1200">12:00 PM</option>
+            <option value="1300">1:00 PM</option>
+            <option value="1400">2:00 PM</option>
+            <option value="1500">3:00 PM</option>
+            <option value="1600">4:00 PM</option>
+            <option value="1700">5:00 PM</option>
+            <option value="1800">6:00 PM</option>
+            <option value="1900">7:00 PM</option>
+            <option value="2000">8:00 PM</option>
+            <option value="2100">9:00 PM</option>
+            <option value="2200">10:00 PM</option>
+            <option value="2300">11:00 PM</option>
+          </select>
+        </label>
+        <label class="column grid_3">Hora:
+          <select class="block" id="cmbEndTime">
+            <option selected="selected" value=" ">Cualquiera</option>
+            <option value="DM">Mañana(7:00 to 11:00)</option>
+            <option value="DA">Tarde(12:00 to 16:00)</option>
+            <option value="DE">Noche(17:00 to 21:00)</option>
+            <option value="0000">12:00 Medianoche</option>
+            <option value="0100">1:00 AM</option>
+            <option value="0200">2:00 AM</option>
+            <option value="0300">3:00 AM</option>
+            <option value="0400">4:00 AM</option>
+            <option value="0500">5:00 AM</option>
+            <option value="0600">6:00 AM</option>
+            <option value="0700">7:00 AM</option>
+            <option value="0800">8:00 AM</option>
+            <option value="0900">9:00 AM</option>
+            <option value="1000">10:00 AM</option>
+            <option value="1100">11:00 AM</option>
+            <option value="1200">12:00 PM</option>
+            <option value="1300">1:00 PM</option>
+            <option value="1400">2:00 PM</option>
+            <option value="1500">3:00 PM</option>
+            <option value="1600">4:00 PM</option>
+            <option value="1700">5:00 PM</option>
+            <option value="1800">6:00 PM</option>
+            <option value="1900">7:00 PM</option>
+            <option value="2000">8:00 PM</option>
+            <option value="2100">9:00 PM</option>
+            <option value="2200">10:00 PM</option>
+            <option value="2300">11:00 PM</option>
+          </select>
+        </label>
+      </div>
+      
+    </div>
+    <!-- end #booking-package-search -->
+    <div id="booking-promocode" class="column">
+        <label>Promoción:
+          <input type="text" class="block" id="txtPromotionCode" style="width:50px" />
+        </label>
+      </div>
+      
+      <div id="agreement-code" class="column">
+        <label>Convenio:
+          <input type="text" class="block" id="iContract" style="width:50px" />
+        </label>      
+      
+      </div>
+      
+  
+      <div class="column" style="display:none;">
+        <label>Moneda:
+          <select class="block" id="txtCurrency">
+            <optgroup label="Principal">
+            <option value="EUR">EUR- ECC - Euro</option>
+            <option selected="selected" value="MXN">MXN - Mexico - Pesos</option>
+            <option value="USD">USD - United States - Dollars</option>
+            </optgroup>
+            <optgroup label="Others">
+            <option value="AED">AED - Arab Emir - Dirham</option>
+            <option value="ARS">ARS - Argentine - Peso</option>
+            <option value="AUD">AUD - Australia - Dollars</option>
+            <option value="BOB">BOB - Bolivian - Boliviano</option>
+            <option value="BRL">BRL - Brazil - Real</option>
+            <option value="BGN">BGN - Bulgaria - Leva</option>
+            <option value="CAD">CAD - Canada - Dollars</option>
+            <option value="CLP">CLP - Chilean - Peso</option>
+            <option value="CNY">CNY - China -  Renminbi</option>
+            <option value="COP">COP - Colombian - Peso</option>
+            <option value="HRK">HRK - Croatia - Kuna</option>
+            <option value="CYP">CYP - Cyprus - Pound</option>
+            <option value="CZK">CZK - Czech - Koruna</option>
+            <option value="DKK">DKK - Danmark - Kroner</option>
+            <option value="DOP">DOP - Dominican - Pesos</option>
+            <option value="EGP">EGP - Egyptian - Pound</option>
+            <option value="EEK">EEK - Estonia - Kroon</option>
+            <option value="HKD">HKD - Hong Kong - Dollars</option>
+            <option value="HUF">HUF - Hungarian - Forint</option>
+            <option value="ISK">ISK - Iceland - Krona</option>
+            <option value="INR">INR - India - Rupees</option>
+            <option value="IDR">IDR - Indonesia - Rupiah</option>
+            <option value="ILS">ILS - Israel-Shekel</option>
+            <option value="JPY">JPY - Japan - Yen</option>
+            <option value="LVL">LVL - Latvia - Lat</option>
+            <option value="LYD">LYD - Libya - Dinars</option>
+            <option value="LTL">LTL - Lithuania - Litas</option>
+            <option value="MYR">MYR - Malaysia - Ringgit</option>
+            <option value="MTL">MTL - Maltese - Lira</option>
+            <option value="MUR">MUR - Mautitius - Rupees</option>
+            <option value="MAD">MAD - Morocco - Dirhams</option>
+            <option value="NZD">NZD - New Zealand - Dollars</option>
+            <option value="NOK">NOK - Norwegia - Kroner</option>
+            <option value="OMR">OMR - Omani - Rial</option>
+            <option value="PEN">PEN - Peruvian - New Sol</option>
+            <option value="PHP">PHP - Philippines - Peso</option>
+            <option value="PLN">PLN - Poland - Zlotych</option>
+            <option value="RON">RON - Romania - New Lei</option>
+            <option value="RUB">RUB - Russian - Rouble</option>
+            <option value="SKK">SKK - Slovakia - Koruny</option>
+            <option value="ZAR">ZAR - South African - Rand</option>
+            <option value="KRW">KRW - South Korea - Won</option>
+            <option value="SDG">SDG - Sudan - Pounds</option>
+            <option value="SEK">SEK - Sweden - Krona</option>
+            <option value="CHF">CHF - Switzerland - Francs</option>
+            <option value="TWD">TWD - Taiwan - Dollars</option>
+            <option value="THB">THB - Thailand - Baht</option>
+            <option value="TRY">TRY - Turk - Lira</option>
+            <option value="GBP">GBP - UK - Pounds</option>
+            <option value="VEB">VEB - Venezuela - Bolivar</option>2
+            </optgroup>
+          </select>
+        </label>
+      </div>
+
+    <div class="column bookingFooter" style="margin:0">
+      <input type="submit" style="display: none;" value="Buscar" id="btnBookingSearch" name="btnBookingSearch" class="a_button_search" />
+      <input type="button" style="" onclick="javascript:BookingDescritionSearch();" value="Buscar" id="btnBookingDescritionSearch" name="btnBookingDescritionSearch" class="a_button_search" />
+       </div>
+
+    <div class="row" style="display:none"><img title="Powered by UniVisit" src="http://www.univisit.net/images/logo-powered-by-univisit-150x10.gif" class="poweredlogo" /></div>
+    <div class="clear"> </div>
+    <!-- Booking Variables --> 
+    <!-- Hotel -->
+    
+    <input type="hidden" name="iProperty" id="iProperty" />
+    <input type="hidden" name="iAccessCode" id="iAccessCode" />
+    <input type="hidden" value="0" name="iProvider" id="iProvider" />
+    <input type="hidden" name="iCurrency" id="iCurrency" />
+    <input type="hidden" value="Rates" name="iTab" id="iTab" />
+    <input type="hidden" name="iAdults" id="iAdults" />
+    <input type="hidden" name="iChildren" id="iChildren" />
+    <input type="hidden" name="txtHotelCompany" id="txtHotelCompany" />
+    <input type="hidden" name="txtHotF1" id="txtHotF1" />
+    <input type="hidden" name="txtHotF2" id="txtHotF2" />
+    <input type="hidden" name="cmbRooms" id="cmbRooms" />
+    <!-- Flight -->
+    <input type="hidden" name="cmdtipomoneda" id="cmdtipomoneda" />
+    <!-- Dynamic Packages -->
+    <input type="hidden" name="Packages" id="Packages" />
+    <input type="hidden" name="txtDeparture" id="txtDeparture" />
+    <input type="hidden" name="txtArrival" id="txtArrival" />
+    <input type="hidden" name="iStartDate" id="iStartDate" />
+    <input type="hidden" name="iEndDate" id="iEndDate" />
+    <input type="hidden" name="ddHorasalida" id="ddHorasalida" />
+    <input type="hidden" name="ddhoraregreso" id="ddhoraregreso" />
+    <!-- Activity tmp restaurant -->
+    <input type="hidden" name="itmpqrrest" id="itmpqrrest" />
+    <!-- Comun Variables -->
+    <input type="hidden" name="CurrencyType" id="CurrencyType" />
+    <input type="hidden" value="3" name="CmbAdultos" id="CmbAdultos" />
+    <input type="hidden" name="cmbChildren" id="cmbChildren" />
+    <input type="hidden" name="txtHotACode" id="txtHotACode" />
+    <input type="hidden" name="txtActPCode" id="txtActPCode" />
+    <!-- end Booking Variables --->
+  </form>
+
+
+
+	</div>
+    
+</div>
+
+
+<script type="text/javascript">
+	/**
+		@creator: Emmanuel Meza
+		@date:	June 2009
+		@description: BookingEngine Functions
+	**/
+	var searchType = 'H';
+	var searchTypeValue = searchType;
+	
+	var HTTP_RELATIVE_ACTION = "http://booking.internetpower.com.mx/CostaOro";
+		
+	
+	// Function to attach events to objects.    
+    var addEvent = function(elm, evType, fn, useCapture) {      		
+        if (elm.addEventListener) {
+            elm.addEventListener(evType, fn, useCapture);
+            return true;
+        } else if (elm.attachEvent) {
+            var r = elm.attachEvent('on' + evType, fn);
+            return r;
+        } else {
+            elm['on' + evType] = fn;
+        }
+    }; 
+
+    var _$ = function(idObj) {
+        return document.getElementById(idObj);
+    };
+	
+	 if (window.addEventListener) // W3C standard
+    {
+      window.addEventListener('load', cargaBooking, false); // NB **not** 'onload'
+    } 
+    else if (window.attachEvent) // Microsoft
+    {
+      window.attachEvent('onload', cargaBooking);
+    }
+	
+	var createCookie = function(name,value,days) {
+	/*	if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";*/
+		searchTypeValue = value;
+	};
+
+	var readCookie = function(name) {
+		/*var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;*/
+		return searchTypeValue;
+	};
+
+	var eraseCookie = function(name) {
+		createCookie(name,"",-1);
+	};
+
+	var showBooking = function (searchType) {
+	    var sBkDefault, sBkC, sBkF, sBkA, sBkAR;
+	    /*Is package or hotel*/
+	    sBkDefault = sBkC = sBkF = sBkA = sBkAR = 'none';
+
+	    if ((searchType == 'H') || (searchType == 'HC') || (searchType == 'HF') || (searchType == 'HCF') || (searchType == 'HA')) {
+	        sBkDefault = '';
+	    } else {
+
+	        if ((searchType == 'C')) {
+	            sBkC = '';
+	        }
+	        if ((searchType == 'F')) {
+	            sBkF = '';
+	        }
+	        if ((searchType == 'A')) {
+	            sBkA = '';
+	        }
+	        if ((searchType == 'AR')) {
+	            sBkAR = '';
+	        }
+
+	    }
+	    _$('booking-package-search').style.display = sBkDefault;
+	    _$('booking-car-search').style.display = sBkC;
+	    _$('booking-flight-search').style.display = sBkF;
+	    _$('booking-activity-search').style.display = sBkA;
+	    // _$('booking-restaurant-search').style.display = sBkAR;
+
+	    /*preview UI*/
+	    if (sBkDefault == '') {
+
+	        if ((searchType == 'HF') || (searchType == 'HCF')) {
+	            _$("flightType").style.display = '';
+	            _$("booking-times").style.display = '';
+	            _$("agreement-code").style.display = '';
+	            _$("booking-promocode").style.display = '';
+
+	        } else {
+	            _$("flightType").style.display = 'none';
+	            _$("booking-times").style.display = 'none';
+	            _$("agreement-code").style.display = '';
+	            _$("booking-promocode").style.display = '';
+
+	        }
+	        //Código que se agrego para controlar el dropdownlist de hoteles + actividades cuando se crea un dropdown único para estos.
+	        if (_$("HotelActividades")) {
+	            if (searchType == 'HA') {
+	                _$("HotelActividades").style.display = '';
+	                _$("CitySelector").style.display = 'none';
+	                _$("agreement-code").style.display = '';
+	                _$("booking-promocode").style.display = '';
+
+	            }
+	            else {
+	                _$("HotelActividades").style.display = 'none';
+	                _$("CitySelector").style.display = '';
+	                _$("agreement-code").style.display = '';
+	                _$("booking-promocode").style.display = '';
+	            }
+	        }
+	        if (searchType == 'H') {
+	            _$("booking-promocode").style.display = '';
+	            _$("agreement-code").style.display = '';
+	            //codigo para mostrar el boton del hotelsearch que manda al hoteldescription
+	            if (document.getElementById("btnBookingDescritionSearch")) {
+	                document.getElementById("btnBookingDescritionSearch").style.display = '';
+	                document.getElementById("btnBookingSearch").style.display = 'none';
+	            }
+	        }
+
+
+	        else {
+
+	            //codigo para mostrar el boton del hotelsearch que manda al hoteldescription
+	            if (document.getElementById("btnBookingDescritionSearch")) {
+	                document.getElementById("btnBookingDescritionSearch").style.display = 'none';
+	                document.getElementById("btnBookingSearch").style.display = '';
+	            }
+	        }
+	    } else if (sBkA == '') {
+	        _$("booking-promocode").style.display = '';
+	        _$("agreement-code").style.display = 'none';
+
+
+	    }
+
+	    if (sBkC == '') {
+	        _$("booking-promocode").style.display = 'none';
+	        _$("agreement-code").style.display = 'none';
+	    }
+
+
+	    if (null != readCookie(bkCookie)) {
+	        eraseCookie(bkCookie);
+	    }
+	    createCookie(bkCookie, searchType, 7);
+	};
+
+	
+	/*Constants elements*/
+    
+	var flightType = 'Rt';
+	var bkCookie = 'uv-bk-search';	
+	
+	if(null != readCookie(bkCookie)){
+		searchType = readCookie(bkCookie);
+			
+	}	
+	showBooking(searchType);
+
+	addEvent(window, 'load', function () {
+
+	    /*Submit booking form*/
+	    addEvent(_$('btnBookingSearch'), 'click', function () {
+
+	    		$().waitingpopup('open');
+
+	        var bk = document.forms["booking-engine"];
+	        if (null != readCookie(bkCookie)) {
+	            searchType = readCookie(bkCookie);
+	        } else {
+	            searchType = 'H';
+	        }
+
+	        if ((searchType != 'A') && (searchType != 'HA') && (searchType != 'C') && (searchType != 'F') && (searchType != 'AR') && (searchType != 'H') && (searchType != 'HC') && (searchType != 'HF') && (searchType != 'HCF'))
+	        { searchType = 'H'; }
+	        try {
+	            if (_$('inpValue'))
+	                _$('inpValue').value = searchTypeValue;
+	        }
+	        catch (e)
+			{ }
+
+	        switch (searchType) {
+	            case "H":
+	                _$('txtHotelCompany').value = (_$('textDestination').style.display == "none") ? _$('dropListDestination').value : _$('txtDestination').value;
+	                _$('txtHotF1').value = _$('txtStartDate').value;
+	                _$('txtHotF2').value = _$('txtEndDate').value;
+	                _$('cmbRooms').value = _$('cmbNumRooms').value;
+	                _$('CmbAdultos').value = _$('cmbNumAdults').value;
+	                _$('cmbChildren').value = _$('cmbNumChildrens').value;
+	                _$('txtHotACode').value = _$('txtPromotionCode').value;
+	                _$('CurrencyType').value = _$('txtCurrency').value;
+	                bk.action = HTTP_RELATIVE_ACTION + "/hotel/hotelsearch.aspx";
+	                break;
+	            case "C":
+
+	                _$('CurrencyType').value = _$('txtCurrency').value;
+	                bk.action = HTTP_RELATIVE_ACTION + "/autosystem/pgnautoincompletesearch.aspx";
+	                break;
+	            case "F":
+	                _$('cmdtipomoneda').value = _$('txtCurrency').value;
+	                bk.action = HTTP_RELATIVE_ACTION + "/Flight/pgnAirIncompleteSearch.aspx";
+	                break;
+	            case "A":
+	                _$('CurrencyType').value = _$('txtCurrency').value;
+	                if (_$('iAccessCode'))
+	                    _$('iAccessCode').value = _$('txtPromotionCode').value;
+	                bk.action = HTTP_RELATIVE_ACTION + "/activity/activitiessearch.aspx";
+	                break;
+	            case "AR":
+	                var date1 = _$('txtActF11').value;
+	                var date2 = _$('txtActF21').value;
+	                if (date1 != "mm/dd/aaaa")
+	                    date1 = date1.substring(6, 10) + date1.substring(0, 2) + date1.substring(3, 5);
+	                if (date2 != "mm/dd/aaaa")
+	                    date2 = date2.substring(6, 10) + date2.substring(0, 2) + date2.substring(3, 5);
+
+	                _$('CurrencyType').value = _$('txtCurrency').value;
+	                _$('itmpqrrest').value = "?&Code=LAP&Checkin=" + date1 + "&Checkout=" + date2 + " &loc=La+Paz%2c+Baja+California+Sur%2c+MÃ‰XICO&RefPoint=La+Paz&ClassificationMode=0&ClassificationCode=REST";
+	                bk.action = HTTP_RELATIVE_ACTION + "/activity/RestaurantSearch.aspx";
+	                break;
+	            default:
+	                //Se agrego esta línea en el caso de que se seleccione hotel + actividad toma el valor del dropdonwlist de hotel + actividad
+	                var destino = (_$("HotelActividades") && _$("HotelActividades").style.display == '') ? _$('dpLDestination').value : _$('dropListDestination').value;
+	                _$('Packages').value = searchType;
+	                _$('txtDeparture').value = _$('Departure').value;
+
+	                _$('txtArrival').value = (_$('textDestination').style.display == "none") ? destino : _$('txtDestination').value;
+	                //Se modificó para agregar un input oculto
+	                //_$('txtArrival').value = splitPackageId((_$('textDestination').style.display == "none") ? _$('dropListDestination').value : _$('txtDestination').value);
+	                _$('txtHotF1').value = _$('txtStartDate').value;
+	                _$('txtHotF2').value = _$('txtEndDate').value;
+	                _$('ddHorasalida').value = _$('cmbStartTime').value;
+	                _$('ddhoraregreso').value = _$('cmbEndTime').value;
+	                _$('cmbRooms').value = _$('cmbNumRooms').value;
+	                _$('CmbAdultos').value = _$('cmbNumAdults').value;
+	                _$('cmbChildren').value = _$('cmbNumChildrens').value;
+	                _$('CurrencyType').value = _$('txtCurrency').value;
+	                bk.action = HTTP_RELATIVE_ACTION + "/packages/PackageSearch.aspx";
+	                //  bk.action = "http://demo.univisit.com/costadeoro.com/packages/PackageSearch.aspx";				
+	                break;
+	        }
+	    
+	        bk.submit();
+	        return false;
+	    }, false);
+
+
+
+	    var optPk = document.getElementsByName("PackagesType");
+	    /* Set searchtypes radiobuttons events*/
+	    for (var i = 0; i < optPk.length; i++) {
+	        addEvent(optPk[i], 'click', function (e) {
+	            var srcElem = (window.event) ? window.event.srcElement : e.target;
+	            showBooking(srcElem.value);
+	        }, false);
+
+	        /*fire default selected*/
+	        if (optPk[i].value == searchType) optPk[i].click();
+	    }
+
+	    var optFm = document.getElementsByName("type_trip");
+	    /* Set flight modes radiobuttons events*/
+	    for (var i = 0; i < optFm.length; i++) {
+	        addEvent(optFm[i], 'click', function (e) {
+	            var srcElem = (window.event) ? window.event.srcElement : e.target;
+	            if (srcElem.value == 'OW')
+	                _$('flight-return-dates').style.display = 'none';
+	            else
+	                _$('flight-return-dates').style.display = '';
+	        }, false);
+
+	        /*fire default selected*/
+	        if (optFm[i].value == flightType) optFm[i].click();
+	    }
+
+	    /*Set car CheckOut City events*/
+	    addEvent(_$('CheckOutCarCityLink'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        srcElem.style.display = 'none';
+	        _$('CheckOutCarCity').style.display = '';
+	    }, false);
+
+	    /*Set calendar hotel-packages*/
+	    addEvent(_$('txtStartDate'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    addEvent(_$('txtEndDate'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    /*Set calendar flight*/
+	    addEvent(_$('txtFecha1'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    addEvent(_$('txtFecha2'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    /*Set calendar car*/
+	    addEvent(_$('txtcheckin'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    addEvent(_$('txtcheckout'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    /*Set calendar activities*/
+	    addEvent(_$('txtActF1'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    addEvent(_$('txtActF2'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    /*Set calendar activities Restaurants
+	    addEvent(_$('txtActF11'), 'click', function (e) {
+	    var srcElem = (window.event) ? window.event.srcElement : e.target;
+	    showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+
+	    addEvent(_$('txtActF21'), 'click', function (e) {
+	    var srcElem = (window.event) ? window.event.srcElement : e.target;
+	    showCalendar(srcElem.id, 'mm/dd/y');
+	    }, false);
+	    */
+
+	    addEvent(_$('linkTextDestination'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        var listDestination = _$('listDestination');
+	        var textDestination = _$('textDestination');
+	        listDestination.style.display = "none";
+	        textDestination.style.display = "";
+	    }, false);
+
+	    addEvent(_$('linkListDestination'), 'click', function (e) {
+	        var srcElem = (window.event) ? window.event.srcElement : e.target;
+	        var listDestination = _$('listDestination');
+	        var textDestination = _$('textDestination');
+	        listDestination.style.display = "";
+	        textDestination.style.display = "none";
+	    }, false);
+
+
+	}, false); 
+
+        
+function BookingDescritionSearch()
+{
+
+	 $().waitingpopup('open');
+
+  var strAdults;
+  var strChildren;
+  var r = document.getElementById('cmbNumRooms');
+     var bk = document.forms["booking-engine"];
+  if (r.value>1)
+   {
+	
+		for (var i=0;i<=r.value-1;i++)
+		 {
+		   if (i == 0)
+			    {
+					strAdults = (Math.floor(document.getElementById('cmbNumAdults').value / r.value)) + document.getElementById('cmbNumAdults').value % r.value;
+					strChildren = (Math.floor(document.getElementById('cmbNumChildrens').value / r.value)) + document.getElementById('cmbNumChildrens').value % r.value;
+				}
+			else
+				{
+					strAdults = strAdults + "," ;
+					strChildren = strChildren + "," ;
+					if (Math.floor(document.getElementById('cmbNumAdults').value / r.value) ==0) 
+					 {
+					 strAdults = strAdults + "1";
+					 }
+					 else
+					  {
+						strAdults = strAdults + Math.floor(document.getElementById('cmbNumAdults').value / r.value);
+					  }										
+					strChildren = strChildren + Math.floor(document.getElementById('cmbNumChildrens').value / r.value);
+					
+					 
+				}
+		 }
+		 
+	document.getElementById('iAdults').value = strAdults;
+	document.getElementById('iChildren').value = strChildren;
+	
+
+   } 
+   else
+   {
+   	document.getElementById('iAdults').value = document.getElementById('cmbNumAdults').value;
+	document.getElementById('iChildren').value = document.getElementById('cmbNumChildrens').value;
+   }
+   
+   
+  
+                
+                
+                bk.action = "http://booking.internetpower.com.mx/Costaoro/hotel/hoteldescription.aspx";				
+			
+	    
+       
+     
+        
+	var query="";
+	query=bk.action;
+	
+	//Se modifico par aque acepte el valor del hidden "hddDestino"
+	//
+	if(document.getElementById('hddDestino'))
+		query+="?PropertyNumber=" + _$('hddDestino').value;
+	else
+		query+="?PropertyNumber=" + _$('dropListDestination').value;
+	query+="&Provider=0";
+	query+="&Rooms=" + _$('cmbNumRooms').value;
+	query+="&AccessCode=" + _$('txtPromotionCode').value;
+	query+="&Currency=" +  _$('txtCurrency').value;
+	query+="&Adults=" + _$('iAdults').value;
+	query+="&Children=" + _$('iChildren').value;
+	query+="&CheckIn=" + ParseDate('txtStartDate');
+	query+="&CheckOut=" + ParseDate('txtEndDate');
+	query+="&Contract=" + _$('iContract').value;
+	query+="&Tab=Rates";
+
+	//window.location.href = query;
+    /**redireccionamiento google analytics*/
+    _gaq.push(['_link', query]);
+	
+}
+
+
+/*Selecciona el botón dependiendo de la opcion seleccionada en el radio*/
+function cambiarBoton(rtb){
+	var rbtSeleccionado = rtb;
+	if(rbtSeleccionado.value != 'H'){
+		 document.getElementById("btnBookingDescritionSearch").style.display = 'none';
+		 document.getElementById("btnBookingSearch").style.display = '';
+	}else{
+		document.getElementById("btnBookingDescritionSearch").style.display = '';
+        document.getElementById("btnBookingSearch").style.display = 'none';
+	}
+	
+} 
+
+function ParseDate(txt)
+ {
+    var e = document.getElementById(txt);
+    if (e)
+        {
+            if (e.value.split("/").length==3)
+             {
+                return (e.value.split("/")[2] + e.value.split("/")[0] + e.value.split("/")[1]);
+             }
+            else
+             {
+              return '';
+             }
+        }
+ }
+
+/*Programador: Jesus Antonio Zuñiga Arce*/
+//función que obtiene el nombre del hotel y desecha la identificador de este hotel.
+//En caso de que solo se proporcione el id del hotel se regresa este id.
+//Si no se proporciona ningún dato se regresa cadena vacía.
+function splitPackageId(strPackageId){
+	var hotelName = "";
+	strPackageId = allTrim(strPackageId);
+	var hotelArray = strPackageId.split(',');
+	if(hotelArray.length > 1){
+		for(var i = 1; i < hotelArray.length; i++){			
+			hotelName += hotelArray[i];
+			if(i != hotelArray.length - 1)
+				hotelName += ',';
+		}
+		/*if(hotelName.charAt(hotelName.length) == ',')
+			hotelName.slice(0,hotelName.length - 2);*/
+		if(allTrim(hotelName).length < 1)
+			hotelName = strPackageId;
+	}
+	else if(hotelArray.length == 1)
+		hotelName = hotelArray[0];
+	else
+		hotelName = "";
+	return hotelName;
+}
+
+function lTrim(sStr){
+	while (sStr.charAt(0) == " ")
+		sStr = sStr.substr(1, sStr.length - 1);
+	return sStr;
+}
+ 
+function rTrim(sStr){
+	while (sStr.charAt(sStr.length - 1) == " ")
+		sStr = sStr.substr(0, sStr.length - 1);
+	return sStr;
+}
+    
+function allTrim(sStr){
+	return rTrim(lTrim(sStr));
+}
+
+
+
+/*Selecciona el botón dependiendo de la opcion seleccionada en el radio*/
+function cambiarBoton(rtb) {
+ 
+	if (rtb.value != 'H') {
+		 document.getElementById("btnBookingDescritionSearch").style.display = 'none';
+		 document.getElementById("btnBookingSearch").style.display = '';		  
+     } else {        
+		document.getElementById("btnBookingDescritionSearch").style.display = '';
+        document.getElementById("btnBookingSearch").style.display = 'none';
+	}
+	
+} 
+
+/*Parche para que cargue la opción seleccionada en el booking IE*/
+function cargaBooking(){
+	try
+	{
+		if(_$('inpValue'))
+		{
+		if(_$('inpValue').value != '')
+			showBooking(_$('inpValue').value);        
+		}
+	}
+	catch(e)
+	{}
+	
+}
+				
+				
+
+
+</script> 
+	<!-- End: Booking Engine -->
+
+
+
+
+    <!-- Start: #section -->
+    <div id="section">
+        <div class="wrapper">
+
+            <div class="content">
+                
+
+    <div class="home-page">
+
+    <!--<center><p><a href="http://booking.internetpower.com.mx/costaoro/Hotel/HotelDescription.aspx?&PropertyNumber=360&Provider=0&Rooms=1&AccessCode=&Currency=MXN&Adults=1&Children=0&Tab=Rates&CheckIn=20141015&CheckOut=20141017&packageUv=PRO1"><img src="assets/images/content/promo.jpg" /></a></p></center>-->
+
+ 
+    
+        
+        <h1>Costa de Oro Beach Hotel les Da la Bienvenida</h1>
+        <p><a  href="/assets/images/content/content-inicio01.jpg"class="thumbnail">
+                <img src="/assets/images/content/content-inicio.jpg" alt="" class="photo" /></a></p>
+        <p>
+            Experimente un refugio moderno en un <b>hotel de Mazatlán</b> con verdadera tradición.
+            Hospedarse en <b>Hotel Costa de Oro</b> sobre las playas de <b>Mazatlán</b> ha sido por años la
+            opción ideal para pasar unas vacaciones en familia o amigos, al igual si viaja de
+            negocios. Ofrecemos servicios y hospedaje de primer nivel que nos hace destacar
+            entre los mejores <b>hoteles de Mazatlán</b>, con una excelente ubicación en la <b>Zona Dorada
+            de Mazatlán</b>, la principal Zona Turística donde los viajeros gozan de un agradable
+            ambiente.</p>
+
+        <p>
+            Cada una de las 230 Habitaciones de <b>Hotel Costa de Oro</b> combina la elegancia de un
+            estilo mexicano contemporáneo con comodidades como conexión a internet. Además,
+            disfrute de su amplia piscina templada con chapoteadero, tome un agradable baño
+            en <b>Jacuzzi al Aire Libre</b> acompañado de su bebida favorita del <b>Bar Lago Azul</b> o para
+            una relajación superior, goce de un masaje en el <b>Spa.</b></p>
+
+        <p>
+            Deguste de una gama de platillos para todos los gustos en <b>Restaurante Los Adobes</b>,
+            ubicado justo a la orilla del Mar donde podrá admirar bellos atardeceres, ideal
+            para una Cena Romántica.</p>
+        <p>
+            <b>Costa de Oro</b> es un <b>Hotel de playa</b> que lo tiene todo, Reserve directamente o en línea,
+            donde siempre obtendrá la tarifa más baja garantizada.</p>
+
+
+
+
+
+
+        <p>&nbsp;</p>
+        <h1>AVISO DE PRIVACIDAD</h1>
+        <p>
+            En conformidad con la Ley Federal de Protección de Datos Personales, HOTELERA COSTA
+            DE ORO S.A. DE C.V. (Costa de Oro Beach Hotel) a través de su Departamento de Privacidad,
+            utilizará sus datos personales para los servicios que presta. Para mayor información
+            acerca del tratamiento y de los derechos que puede hacer valer, usted puede consultar
+            el aviso de privacidad de HOTELERA COSTA DE ORO S.A. DE C.V. (Costa de Oro Beach
+            Hotel) en la página Web: <a href="http://www.costaoro.com/">www.costaoro.com</a>, o pedirlo físicamente en nuestras oficinas.</p>
+        <a href="soporte/aviso_privacidad_costa_oro.pdf" target="_blank" style="background:#748EB4;color:#FFF; padding:4px 7px; display:block; border-radius:3px;float: left;" >Leer Aviso de Privacidad</a>
+
+ 
+    
+ 
+	                
+</div>  
+
+
+
+
+            </div>
+
+
+            <div class="sidebar">
+                
+                
+                
+
+
+            <!--<div class="featured-event module" >
+                    <h2>Próximos Eventos</h2>
+                    <div id="sudoSlider">
+                     <ul class="events">
+                     
+                    </ul>
+                    </div>
+                </div>-->
+
+                <!-- Banner ofertas sidebar -->
+
+              <!--  <div id="modulo-ofertas"  class="module">
+                    <h2>Ofertas Especiales</h2>
+                                        
+                        <div class="promo-banners">
+                            <ul>
+                            <li><a rel="rotatorio" href="ofertas-y-paquetes.aspx">
+                                <img class="shadow-img" src="/assets/images/content/promos/luna-sueño01.jpg" /></a></li>
+
+                            <li><a rel="rotatorio" href="ofertas-y-paquetes.aspx">
+                                <img class="shadow-img" src="/assets/images/content/promos/side-promo-3-y-4.jpg" /></a></li>
+
+                            <li><a rel="rotatorio" href="bodas-y-lunas-de-miel-en-mazatlan.aspx">
+                                <img class="shadow-img" src="/assets/images/content/promos/side-lunamielero01.jpg" /></a></li>
+
+                     
+
+
+
+                            </ul>
+                        </div>
+                    <a href="/ofertas-y-paquetes.aspx">Ver más ofertas y paquetes</a>
+                    <p>&nbsp;</p>
+                </div>-->
+
+
+
+                <!-- Start: #sing-up-newsletter -->
+                <div id="sign-up-newsletter" class="module">
+                    <h2>Recibir Ofertas por Email</h2>
+					<div class="inner">
+						<p>Mantente informado de las últimas ofertas que Hotel Costa de Oro tiene para ti.</p>
+												
+						
+						<script type="text/javascript">
+						    // var VarNonSecureSite = 'http://www.costaoro.com';
+						    var VarNonSecureSite = '/';
+						    var InvalidEMail = 'El correo electrónico no es valido.';
+						    idioma = "es";
+						</script>     
+						<form id="PromotionsEmail" method="post" action="">
+							<p>
+								<input id="Sign_Up" name="Sign_Up" class="email" onkeypress="return validarkey(event);" style="float:left;" />
+								<img src="/assets/images/layout/button-sign-up-es.png" style="float:left; margin-left:5px;" onclick="RegisterUser();return false;" alt="Registrame" class="email-signup" />       
+							</p>	
+							 <div id="TrPromotions" style="display: none; clear:both">
+								  <p align="left" valign="middle" width="200">
+								  </p><div class="validators" id="lblMesaggePromotion">Datos Registradoss</div>         
+							 </div>
+						</form>
+					</div>
+                </div>    
+                <!-- End: .email-newsletter -->
+<br />
+                <div class="module">
+                     
+                     
+					<div id="weather"> </div> 
+					 
+					 
+                </div>
+
+            </div>
+ 
+
+        </div>
+    </div>
+    <!-- End: #section -->
+ 
+    <!-- Start: #footer  -->
+    <div id="footer">
+        <div class="wrapper">
+
+            <div class="info">
+
+                <div class="site-map">
+                    <h3>Costa de Oro Beach Hotel</h3>
+                    <ul class="column">                    
+                        <li><a href="/default.aspx">Inicio</a></li>
+                        <li><a href="/amenidades.aspx">Amenidades</a></li>
+						<li><a href="/habitaciones.aspx" class="nav-hotels">Habitaciones</a></li>						
+                        <li><a href="/ofertas-y-paquetes.aspx">Ofertas</a></li>            
+                    </ul>    
+                    <ul class="column">
+                        <li><a href="/ocio-y-familia.aspx">Ocio y Familia</a></li>
+                        <li><a href="/negocios-en-mazatlan.aspx">Negocios</a></li>                      
+                        <li><a href="/grupos-y-reuniones-en-mazatlan.aspx">Grupos y Reuniones</a></li>
+                        <li><a href="/bodas-y-lunas-de-miel-en-mazatlan.aspx">Bodas</a></li>                        
+                    </ul>
+                    <ul class="column">
+                        <li><a href="/mazatlan-sinaloa.aspx">Mazatlán</a></li>
+                        <li><a href="/ubicacion.aspx">Ubicación</a></li>
+                        <li><a href="/hotel-de-playa-costa-de-oro-mazatlan.aspx">Acerca de Costa de Oro</a></li>                        
+                        <li><a href="/contactanos.aspx">Contáctanos</a></li>  
+                    </ul>
+                </div>
+
+                <div class="customers-menu">
+                    <h3>Soporte</h3>
+                    <ul>                                            
+                        <li><a href="/soporte/agentes-de-viajes.aspx">Agentes de Viajes</a></li>            
+                        <li><a href="/soporte/politicas-de-privacidad.aspx">Políticas del sitio</a></li>
+                        <li><a href="/soporte/seguridad-del-sitio.aspx">Seguridad del sitio</a></li>
+                        <li><a href="/soporte/mapa-del-sitio.aspx">Mapa del sitio</a></li>                        
+                    </ul>  
+                </div>
+
+                <div class="social-links">
+                    <h3>Síguenos en </h3>
+                    <ul>
+                        <li><a href="https://www.facebook.com/HotelCostadeOroMazatlan" target="_blank" onclick="_gaq.push(['_trackPageview' ,  '/vpv/outbound/' + this.href]);" class="facebook">Facebook</a></li>
+                        <li><a href="http://twitter.com/hotelcostadeoro" target="_blank" onclick="_gaq.push(['_trackPageview' ,  '/vpv/outbound/' + this.href]);" class="twitter">Twitter</a></li>
+                        <li><a href="http://www.youtube.com/user/MazatlanCostadeOro" onclick="_gaq.push(['_trackPageview' ,  '/vpv/outbound/' + this.href]);" target="_blank" class="youtube">YouTube</a></li>
+                     </ul>
+                 </div>
+            </div>
+            
+            <div class="powered-by" style="clear:both">
+                    <p>Desarrollado por <a href="http://internetpowerhotel.com/" onclick="_gaq.push(['_trackPageview' ,  '/vpv/outbound/' + this.href]);" target="_blank">Internet Power</a></p>
+            </div>
+
+        </div>
+    </div>
+    <!-- End: #footer -->
+</div> 
+
+<script type="text/javascript">
+    $("#sudoSlider").sudoSlider({
+        auto: true,
+        pause: 4000,
+        resumePause: 10000,
+        controlsShow: false
+    });
+</script> 
+
+<!-- CODIGOS PARA MODULO DE PROMOCIONES EN SIDEBAR -->
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        /* Se aplica fancybox a los elementos de la galeria */
+        $(".thumbnail").fancybox({
+            'speedIn': 600,
+            'speedOut': 200,
+            'overlayShow': true
+        });
+    });
+
+    $(document).ready(function () {
+        var sudoSlider2 = $(".promo-banners").sudoSlider({
+            pause: 7000,
+            resumePause: 10000,
+            auto: true,
+            prevNext: true
+        });
+    });
+    
+    </script>
+<!-- CODIGOS PARA MODULO DE PROMOCIONES EN SIDEBAR -->
+ 
+</body>
+</html>

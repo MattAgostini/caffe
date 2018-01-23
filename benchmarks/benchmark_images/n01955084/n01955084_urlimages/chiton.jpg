@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+
+
+
+
+
+
+
+<title>Welcome to Heritage coast news</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="styles/layout.css" type="text/css" /><link rel="stylesheet" href="styles/layout.css" type="text/css" />
+</head>
+<body id="top">
+
+
+
+
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <h1><a href="/">Heritage coast news</a></h1>
+      <p><strong>Heritage coast news</strong></p>
+    </div>
+    <div id="newsletter">
+      <p>Sign up to our newsletter for the latest news, updates and offers.</p>
+      <form action="#" method="post">
+        <fieldset>
+          <legend>NewsLetter</legend>
+          <input type="text" value="Name&hellip;"  onfocus="this.value=(this.value=='Name&hellip;')? '' : this.value ;" />
+          <input type="text" value="Email&hellip;"  onfocus="this.value=(this.value=='Email&hellip;')? '' : this.value ;" />
+          <input type="submit" name="news_go" id="news_go" value="Sign Up" />
+        </fieldset>
+      </form>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+      <ul>
+<li><a href="/">Home</a></li>
+<li><a href="dorset/">Dorset </a></li>
+<li><a href="lyme-regis/">Lyme regis</a></li>
+<li><a href="beaches/">Beaches </a></li>
+<li><a href="devon/">Devon </a></li>
+<li><a href="about/">About </a></li>
+<li><a href="contact/">Contact </a></li>
+<li><a href="things_to_do/diving/diving/">Diving </a></li>
+      </ul>
+    </div>
+    
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col3">
+  <div id="intro">
+    <div class="fl_left">
+      
+   <p>The almost 100&nbsp;miles of coastline reaching&nbsp;from Exmouth <a href="http://cheap-hosting.reviews/" target="_blank">Click here</a> in East Devon to Studland Bay's Old Harry Rocks is world renowned as the Jurassic Coast and is certainly&nbsp;one of the places to visit during your stay in Dorset.</p>
+<p>The Jurassic Coast is the UK's&nbsp;first natural UNESCO World <a href="http://seo-hosting.org.uk/" target="_blank">seo-hosting.org.uk</a> Heritage Site and can be listed&nbsp;alongside&nbsp;the Great Barrier Reef and the Grand Canyon as one of the wonders of the natural world.</p>
+<p>Dorset&rsquo;s Jurassic Coast was given&nbsp;its UNESCO status for its stunning&nbsp;geology with parts dating back over 185 million years.</p>      <p class="readmore"><a href="/">Read More</a></p>
+    </div>
+    <div class="fl_right"><a href="/"><img src="images/UK_image.jpg" alt="" /></a></div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col4">
+  <div id="services">
+    <ul>
+      <li>
+        <div class="fl_left"><img src="images/poeple.jpg" alt="" /></div>
+        <div class="fl_right">
+                   <p class="readmore"><a href="/">Continue Reading &raquo;</a></p>
+        </div>
+      </li>
+      <li>
+        <div class="fl_left"><img src="images/mroe.gif" alt="" /></div>
+        <div class="fl_right">
+                 <div class="contact-form form-wrap">
+				<h2>Contact us below</h2><div id='contact_form_errorloc' class='err'></div>
+                    <form method="POST" name="contact_form" action="/"> 
+            
+					<input name="first_name" style="width:100%" onfocus="if(this.value=='NAME') this.value='';" onblur="if(this.value=='') this.value='NAME';" type="text" value="NAME" placeholder="Name">
+                    <input name="email_address" style="width:100%" onfocus="if(this.value=='EMAIL') this.value='';" onblur="if(this.value=='') this.value='EMAIL';" type="text" value="EMAIL" placeholder="Email">
+					<input id="check_me" name="check" style="width:100%" type="text" value="EMAIL" placeholder="EMAIL">				
+                    <textarea rows=3 id="mytextarea" name="message" style="width:100%" onfocus='if(document.getElementById("mytextarea").value =="PLEASE ENTER YOUR MESSAGE") document.getElementById("mytextarea").value="";' onblur='if(document.getElementById("mytextarea").value=="") document.getElementById("mytextarea").value ="PLEASE ENTER YOUR MESSAGE";' placeholder="Please enter your message">PLEASE ENTER YOUR MESSAGE</textarea>
+					<input name="check2" style="width:100%" onfocus="if(this.value=='2+5=?') this.value='';" onblur="if(this.value=='') this.value='2+5=?';" type="text" value="2+5=?" placeholder="2+5=?">
+					<input name="submit" style="width:100%" type="submit" value="Submit">
+					
+				</form>
+				
+				</div>
+				<script>
+				var x = document.getElementById("check_me");   // Get the element with id="demo"
+				x.style.display = "none"; 
+				</script>
+				          <p class="readmore"><a href="Continue-Reading/">Continue Reading &raquo;</a></p>
+        </div>
+      </li>
+      <li class="last">
+        <div class="fl_left"><img src="images/UK_meetings.gif" alt="" /></div>
+        <div class="fl_right">
+                   <p class="readmore"><a href="/">Continue Reading &raquo;</a></p>
+        </div>
+      </li>
+    </ul>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col5">
+  <div id="container">
+    <div id="content">
+      <h2>Welcome to Heritage coast news</h2>
+      <p>On this website we celebrate the stunning coast of Dorset and East Devon. If you&rsquo;re looking for holidays in Dorset, holiday parks, holiday cottages, caravan parks, camping sites or tourist attractions in or around the centre of the World Heritage section known as <a href="http://jurassiccoast.org/">"The Jurassic Coast"</a>, then search no further.</p>
+<p>We are lucky to have some of the most amazing scenery on the south coast and our beaches and harbour known as The Cobb is a gem in a many faceted crown.&nbsp; The Cobb is globally known as the location where Louisa Musgrove fell from steps, referred to locally as "Granny's Teeth" in the Jane Austen novel <em>Persuasion</em>.</p>
+<p>The Cobb has also became incredibly well known when the deceased John Fowles novel <em>The French Lieutenant&rsquo;s Woman </em>was crafted into a really successful movie of the same name.&nbsp; The beaches are abundant and include sandy beaches for all the family, pebble beaches and rock pools for discovering (at low tide) that are the boast of many coastal towns - please read the seashore code on our site.</p>
+<p><img style="padding: 10px;" src="image/England - mupe-bay-jurassic-coast-dorset-england.jpg" alt="" align="right" /></p>
+<p>If you do choose the fantastic Jurrasic Coast for your holiday then please register and leave your thoughts and comments on your hotel and restaurants etc. If you are an advertiser with a relevant business and you wish to advertise with us then please use the contact tab at the top.</p>
+<p>The Dorset and East Devon Coast World Heritage Site is England's number one natural World Heritage Site - it is renowned as The Jurassic Coast. It spans almost 100 miles of truly amazing coastline from<a href="/"> East Devon to Dorset</a>, with rocks showing marks of 185 million years of the Earth's history.</p>
+<p>World Heritage status was secured because of the site's individual insight into the Earth Sciences as it clearly portrays a geological &lsquo;walk through time&rsquo; encompassing the Triassic, Jurassic and Cretaceous periods.</p>     
+           
+ 
+  	<script async src="js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2121528995419082"
+     data-ad-slot="9028638606"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+    </div>
+    <div id="column">
+      <div class="holder">
+           <br /><br />
+<div id="search">
+ <form action="#" method="post">
+        <fieldset>
+          <legend>Site Search</legend>
+          <input type="text" class="search2" value="Search Heritage coast news"  onfocus="this.value=(this.value=='Search Heritage coast news')? '' : this.value ;" />
+          <input type="submit" name="go" id="go" value="Search" />
+        </fieldset>
+      </form>
+</div>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col6">
+  <div id="footer">
+    <div id="login">
+      <h2>Client Login</h2>
+      <p>Clients can Login to their accounts here.</p>
+      <form action="#" method="post">
+        <fieldset>
+          <legend>Client Login</legend>
+          <div class="fl_left">
+            <input type="text" value="Enter email address&hellip;"  onfocus="this.value=(this.value=='Enter email address&hellip;')? '' : this.value ;" />
+            <input type="password" value="Enter password&hellip;"  onfocus="this.value=(this.value=='Enter password&hellip;')? '' : this.value ;" />
+          </div>
+          <div class="fl_right">
+            <input type="submit" name="login_go" id="login_go" value="&raquo;" />
+          </div>
+        </fieldset>
+      </form>
+      <p><a href="#">&raquo; Lost Your Password</a> | <a href="#">Create An Account &raquo;</a></p>
+    </div>
+    <div class="footbox">
+      <h2>Please read</h2>
+      <ul>
+        <li><a href="Privacy-Policy/">Privacy Policy</a></li>
+        <li><a href="Cookies/">Cookies</a></li>
+        <li><a href="Accessibility/">Accessibility Help</a></li>
+        <li></li>
+      </ul>
+    </div>
+    <div class="footbox">
+    <h2>Social</h2>
+    <br />
+      <div id="social">
+    <!-- +1 -->
+    <div class="plusone">
+<script type="text/javascript" src="js/plusone.js"></script><g:plusone></g:plusone>
+</div>
+    <!-- end +1 -->
+    <!-- twitter -->
+    <div class="twitter">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-via="dominoc">Tweet</a><script type="text/javascript" src="js/widgets.js"></script>    
+    </div>
+    <!-- end twitter -->
+    <!-- like -->
+<div class="fb-like" data-href="http://www.theheritagecoast.co.uk" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial"></div>
+    <ul>
+    <li><a href="#">Find us on Facebook</a></li>
+    <li><a href="#">Follow us on Twitter</a></li>
+    </ul>
+    <!-- end like -->
+</div>
+    </div>
+    <div class="footbox">
+      <h2>Links</h2>
+      <ul>
+         <li><a href="dorset/">Dorset</a></li><li><a href="historyfile/portland_and_weymouth/garrison_life/weymouth_pubs_and_military/">Weymouth pubs and military</a></li><li><a href="cyberport_project/cyberport_project/">Cyberport project</a></li><li><a href="historyfile/">Historyfile</a></li><li><a href="old/bin/view/Main/WebHome/">WebHome</a></li><li><a href="_raquo/">&raquo</a></li>      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<div class="wrapper col7">
+  <div id="copyright">
+    <p class="fl_left"> <p>2015 &copy; Copyright Heritage coast news - theheritagecoast.co.uk All rights reserved. Email: <a href="mailto:heritagecoast@theheritagecoast.co.uk">heritagecoast@theheritagecoast.co.uk</a></p>
+</p><script type="text/javascript" src="js/spcjs.php_id_64.js"></script>
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(86);
+// ]]> --></script>      <div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://chat.mm-hmm.co.uk/server.php?a=b1bd9&request=track&output=jcrpt&fbpos=10&fbml=0&fbmt=0&fbmr=0&fbmb=0&fbw=34&fbh=166&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript></noscript><div style="display:none;"><a href="javascript:void(window.open('http://chat.mm-hmm.co.uk/chat.php?a=e78fa',','width=590,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_fl"></a></div>    
+<style>
+.review_hide{display:none}
+</style>
+<div class="review_hide" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
+    <span itemprop="itemreviewed">theheritagecoast.co.uk</span>
+    
+    <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+      <span itemprop="average">3.7</span>
+      out of <span itemprop="best">5</span>
+    </span>
+    based on <span itemprop="votes">49</span> ratings.
+    <span itemprop="count">23</span> user reviews.
+  </div>     <p class="fl_right"><a href="http://www.webmarketingplus.co.uk/" title="Another site manged by WM+" target="_blank">WM+ WebMarketingPlus</a></p>
+    <br class="clear" />
+  </div>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+var siteURL = window.location.hostname;
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://"+ siteURL + "/css/": "http://" + siteURL + "/css/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.php' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 131);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script>
+</body>
+</html>

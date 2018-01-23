@@ -1,0 +1,557 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <title>Animals - Australian Museum</title>
+    <link rel="contents" href="/sitemap/" title="Australian Museum sitemap">
+    <meta name="Description" content="
+Animals Category.">
+    <meta name="keywords" content="animals,test">
+    <meta name="robots" content="index, follow, noodp, noydir">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="/stylesheets/normalize.css" media="screen">
+	<link rel="stylesheet" href="/stylesheets/print.css" media="print">
+	<link rel="stylesheet" href="/stylesheets/am00.css" media="screen">
+	<link rel="stylesheet" href="/stylesheets/am01.css" media="screen and (max-width:499px)">
+	<link rel="stylesheet" href="/stylesheets/am02.css" media="screen and (min-width:500px) and (max-width:599px)">
+	<link rel="stylesheet" href="/stylesheets/am03.css" media="screen and (min-width:600px) and (max-width:769px)">
+	<link rel="stylesheet" href="/stylesheets/am04.css" media="screen and (min-width:770px) and (max-width:899px)">
+	<link rel="stylesheet" href="/stylesheets/am05.css" media="screen and (min-width:900px)">
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/stylesheets/am05.css" media="screen">
+	<![endif]-->
+    
+    
+
+
+    <!-- start javascript components -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="/scripts/sections/nav.js"></script>
+    <script type="text/javascript" src="/scripts/resize.js"></script>
+
+    <!-- Slider -->
+    <link rel="stylesheet" type="text/css"  href="/stylesheets/slider/slick.css" />
+    <link rel="stylesheet" type="text/css"  href="/stylesheets/slider/am-slider.css" />
+    <script type="text/javascript" src="/scripts/slider/slick.min.js"></script>
+    <script type="text/javascript" src="/scripts/slider/init-slider.js"></script>
+
+    <!-- Responsive Header & Nav -->
+    <link rel="stylesheet" type="text/css"  href="/stylesheets/header/am-header.css" />
+    <script type="text/javascript" src="/scripts/nav/am-nav.js"></script>
+
+    <!-- New Gotham Font from Typography.com -->
+    <link rel="stylesheet" type="text/css" href="https://australianmuseum.net.au/fonts/354402/3C6D4DFA34983F838.css" />
+
+    <link rel="stylesheet" type="text/css" href="/scripts/yui/calendar/assets/skins/sam/calendar.css">
+    <script type="text/javascript" src="/scripts/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+    
+	<script type="text/javascript">
+	var head = document.getElementsByTagName("head")[0];
+	var oLink = document.createElement('link');
+	oLink.href = '/stylesheets/fixnavJS.css';
+	oLink.rel = 'stylesheet';
+	oLink.type = 'text/css';
+	head.appendChild(oLink);
+	oLink = null;
+	</script>
+	
+    <!-- Updated 30/08/2017 -->
+    <!-- AMs Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WX8S3H');</script>
+    <!-- End Google Tag Manager -->
+
+	<!-- Updated 7/10/2014 -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-7855618-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+<!-- Google Scholar meta tags -->
+<!-- not a Google Scholar page -->
+<!-- end Google Scholar meta tags -->
+
+</head>
+<body id="category" class=" yui-skin-sam">
+    <!--Â GoogleÂ TagÂ ManagerÂ (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHCDZ9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- EndÂ GoogleÂ TagÂ ManagerÂ (noscript) -->
+
+    <!--
+    Start of DoubleClick Floodlight Tag: Please do not remove
+    Activity name of this tag: Australian Museum Homepage
+    URL of the webpage where the tag is expected to be placed: http://www.australianmuseum.net.au
+    This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+    Creation Date: 11/18/2015
+    -->
+    <script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="https://4833109.fls.doubleclick.net/activityi;src=4833109;type=ausmus0;cat=austr0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+    </script>
+    <noscript>
+    <iframe src="https://4833109.fls.doubleclick.net/activityi;src=4833109;type=ausmus0;cat=austr0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </noscript>
+    <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+    
+<div class="container">
+	<div class="skipLink">
+		<a href="#content">Skip to content (Press enter)</a>
+	</div>
+	<div class="header-desktop">
+		<div class="header">
+			<div class="logo">
+				<a href="/">
+					<h1>Australian Museum</h1>
+				</a>
+			</div>
+			<div class="utilities">
+				<div class="accessible-arts__link">
+	                <a href="//australianmuseum.net.au/visitors-with-disabilities"> </a>
+                </div>
+				<ul class="socialMedia">
+					<li class="facebook"><a href="http://www.facebook.com/australianmuseum">Facebook</a></li>
+					<li class="twitter"><a href="https://twitter.com/austmus">Twitter</a></li>
+					<li class="instagram"><a href="http://instagram.com/australianmuseum">Instagram</a></li>
+					<li class="youtube"><a href="http://www.youtube.com/user/austmus/">Youtube</a></li>
+				</ul>
+				<form action="/search/" method="get" class="siteSearch" role="search">
+					<div>
+						<label class="hidden" for="searchBox">Search the site</label>
+						<input name="keyword" class="searchBox" id="searchBox" type="text" placeholder="SEARCH THE SITE">
+						<input name="search" class="searchSubmit button" id="searchSubmit" type="submit" value="Search">
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="nav">
+			<ul id="menu">
+				<li><a href="/">Home</a></li>
+				<li><a href="/whatson">What's on</a></li>
+				<li><a href="/research-and-collections">Our science</a></li>
+				<li><a href="/cultures">Cultures</a></li>
+				<li><a href="/education-services">Education</a></li>
+				<li><a href="/animals">Animals</a></li>
+				<li><a href="/news-blogs">Blog</a></li>
+				<li><a href="/about-us"  class="last-nav">About us</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="header-mobile">
+		<ul class="header-mobile-nav">
+			<li class="header-brand">
+				<a href="/">
+					<img class="header-logo" src="/images/new/amLogoHeaderMobile.png" />
+				</a>
+			</li>
+			<li class="header-search">
+				<form action="/search/" method="get" role="search">
+					<label class="hidden" for="searchBox">Search the site</label>
+					<input name="keyword" class="searchBox" id="searchBox" type="text" placeholder="SEARCH THE SITE">
+					<input name="search" class="searchSubmit button" id="searchSubmit" type="submit" value="Search">
+				</form>
+			</li>
+			<li class="header-nav-toggle">
+				<a href="#" class="nav-toggle"></a>
+				<ul class="nav-flyout">
+					<li><a href="/">Home</a></li>
+					<li><a href="/whatson">What's on</a></li>
+					<li><a href="/research-and-collections">Our science</a></li>
+					<li><a href="/cultures">Cultures</a></li>
+					<li><a href="/education-services">Education</a></li>
+					<li><a href="/animals">Animals</a></li>
+					<li><a href="/news-blogs">Blog</a></li>
+					<li><a href="/about-us" class="last-nav">About us</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	
+    
+    <div id="content" class="categoryBanner category-Animals " role="main">
+ 	
+ 		<h2 class="font40">
+    		Animals
+    	</h2>
+    </div>
+
+
+	
+	
+        <!-- content starts here -->
+        
+    
+	<div class="row pageLeft">
+		<div class="row pageRight paddingTopDouble">
+            
+                <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_01_spiders.jpg" alt="Spider">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/spiders" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Spiders T1');">Spiders</a>
+                </h3>
+                <p class="font13">
+                    Fascinating and feared creatures
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_02_mammals.jpg" alt="Mammals">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/mammals" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Mammals T2');">Mammals</a>
+                </h3>
+                <p class="font13">
+                    Monotremes, marsupials and placentals
+                </p>
+            </div>
+        </div>   
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_03_frogs.jpg" alt="Frogs">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/frogs-amphibians" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Frogs T3');">Frogs</a>
+                </h3>
+                <p class="font13">
+                    The only native Australian amphibians
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_04_dangerous_australians.jpg" alt="Snake">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/dangerous-australians" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Dangerous T4');">Dangerous Australians</a>
+                </h3>
+                <p class="font13">
+                    Australia is the home of dangerous animals
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row pageRight">
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_05_birds.jpg" alt="Birds">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/birds" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Birds T5');">Birds</a>
+                </h3>
+                <p class="font13">
+                    They fly, walk, run, swim and occupy the air
+                </p>
+            </div>
+        </div>   
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_06_insects.jpg" alt="Insects">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/insects" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Insects T6');">Insects</a>
+                </h3>
+                <p class="font13">
+                    An amazingly diverse group of animals
+                </p>
+            </div>
+        </div>   
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_07_dinosaurs.jpg" alt="Dinosaurs">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/dinosaurs-and-their-relatives" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Dinosaurs T7');">Dinosaurs</a>
+                </h3>
+                <p class="font13">
+                    Factsheets, photos and more
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_08_fishes.jpg" alt="Fishes">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/fishes" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Fishes T8');">Fishes</a>
+                </h3>
+                <p class="font13">
+                    A startling variety of forms and behaviours
+                </p>
+            </div>
+        </div>    
+    </div>
+</div>
+<div class="row pageRight">
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_09_reptiles.jpg" alt="Reptiles">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/reptiles" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Reptiles T9');">Reptiles</a>
+                </h3>
+                <p class="font13">
+                    Crocodiles, snakes, lizards and more
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_10_search-discover.jpg" alt="Search Discover">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/searchdiscover" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'SnD T10');">Search &amp; Discover</a>
+                </h3>
+                <p class="font13">
+                    An engaging hands-on exhibit space
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_11_worms.jpg" alt="Worms">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/worms" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Worms T11');">Worms</a>
+                </h3>
+                <p class="font13">
+                    Worms are found everywhere
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_12_anemone.jpg" alt="Jellyfish">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/jellyfish-anemones-and-corals" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Jellyfish T12');">Jellyfish, anemones &amp; corals</a>
+                </h3>
+                <p class="font13">
+                    Over 10,000 known species
+                </p>
+            </div>
+        </div>    
+    </div>    
+</div>
+<div class="row pageRight">
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_13_wildlife.jpg" alt="Wildlife of Sydney">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/wildlife-of-sydney" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'WOS T13');">Wildlife of Sydney</a>
+                </h3>
+                <p class="font13">
+                    Who might you meet in Sydney?
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_14_bats.jpg" alt="Australian Bats">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/australian-bats" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'AusBats T14');">Australian bats</a>
+                </h3>
+                <p class="font13">
+                    Australai's bat fauna is diverse
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_15_sea-tulips.jpg" alt="Sea Squirts">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/sea-squirts-and-sea-tulips" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'SeaSquirts  T15');">Sea squirts &amp; sea tulips</a>
+                </h3>
+                <p class="font13">
+                    Invertebrates and vertebrates
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_16_molluscs.jpg" alt="Molluscs">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/molluscs" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Molluscs T16');">Molluscs</a>
+                </h3>
+                <p class="font13">
+                    The study of molluscs is called malacology
+                </p>
+            </div>
+        </div>    
+    </div>    
+</div>
+<div class="row pageRight">
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_17_sea-stars.jpg" alt="Sea Stars">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/sea-stars-sea-urchins-and-their-relatives" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'SeaStars T17');">Sea stars &amp; sea urchins</a>
+                </h3>
+                <p class="font13">
+                    Intertidal surf beaches to the deepest oceans
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_18_plankton.jpg" alt="Plankton">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/beyond-the-reef" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Plankton T18');">Plankton</a>
+                </h3>
+                <p class="font13">
+                    Learn more about the Bluewater Zone
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_19_crustaceans.jpg" alt="Crustaceans">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/crustaceans" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Crustaceans T19');">Crustaceans</a>
+                </h3>
+                <p class="font13">
+                    Life on land and at sea
+                </p>
+            </div>
+        </div>    
+    </div>
+    <div class="container4col">
+        <div class="featureItem cat-item">
+            <img src="../images/new/animals_20_centipedes.jpg" alt="Centipedes">
+            <div class="featureTeaser">
+                <h3 class="h4 cat-h">
+                    <a href="/centipedes-and-millipedes" onClick="ga('send', 'event', 'AnimalCategory 2015-8-19', 'click', 'Centipedes T20');">Centipedes &amp; millipedes</a>
+                </h3>
+                <p class="font13">
+                    Myriapods, meaning 'many pairs of legs'
+                </p>
+            </div>
+        </div>    
+    </div>    
+
+            <!-- As requested by client in PRF_AM004, client wants only one column showing for the entire 3 column span -->
+			
+			
+		</div>
+	</div>
+
+	<div class="row pageDarkLeft">
+		<div class="row pageDarkRight paddingTopDouble paddingBottomDouble">
+
+        
+            <div class="container3col">
+                
+                <ul>
+                    
+                    <li class="Section"><a href="Australias-extinct-animals">
+                        Australia's extinct animals</a> </li>
+                    
+                </ul>
+                
+            </div>           
+			<div class="container3col">
+            
+			</div>
+			<div class="container3col">
+            
+			</div>
+		</div>
+	</div>
+
+
+   
+
+	
+	<!-- end content container -->
+        
+
+<div class="footer">
+    <div class="row" role="contentinfo">
+		<div class="container4col noPrint">
+            <p class="font14">Australian Museum<br />
+1 William Street<br />
+Sydney<br />
+NSW 2010 Australia<br />
+(02) 93206000</p>
+<p class="font14 uppercase marginTop"><a href="http://australianmuseum.net.au/virtual-tour-of-the-australian-museum">Virtual Tour</a></p>
+		</div>
+		<div class="container4col noPrint">
+			<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'AM Store F10');" href="/am-store">AM Store</a></p>
+<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'Contact F1');" href="/contact/General">Contact us</a></p>
+<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'Opening F2');" href="/admission">Opening hours</a></p>
+<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'Admission F3');" href="/admission">Admission</a></p>
+<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'Getting Here F4');" href="/location-parking-and-public-transport">Getting Here</a></p>
+<p class="font14 uppercase"><a onClick="ga('send', 'event', 'Site Footer', 'click', 'Event Venues');" href="/venues-at-the-australian-museum">Event Venues</a></p>
+		</div>
+		<div class="container4col noPrint">
+			<p class="font14 uppercase"><a href="/media-resources" onClick="ga('send', 'event', 'Site Footer', 'click', 'Media F9');">Media Centre</a></p>
+<p class="font14 uppercase"><a href="/members" onClick="ga('send', 'event', 'Site Footer', 'click', 'Members F5');">Membership</a></p>
+<p class="font14 uppercase"><a href="/volunteering-at-the-australian-museum" onClick="ga('send', 'event', 'Site Footer', 'click', 'Volunteering F6');">Volunteering</a></p>
+<p class="font14 uppercase"><a href="/the-australian-museum-foundation" onClick="ga('send', 'event', 'Site Footer', 'click', 'Foundation F7');">Foundation</a></p>
+<p class="font14 uppercase"><a href="/working-at-the-australian-museum" onClick="ga('send', 'event', 'Site Footer', 'click', 'Careers F8');">Careers</a></p>
+<p class="font14 uppercase"><a href="http://australianmuseum.net.au/newsletter" onclick="ga('send', 'event', 'Site Footer', 'click', 'Newsletter F11');">Newsletters</a></p>
+		</div>
+		<div class="container4col noPrint">
+			<p><img src="/images/new/footer_AM_logo.png" alt="Australian Museum Logo" /></p>
+		</div>
+    </div>
+    <div class="row">
+		<div class="site-info">
+			<ul class="font12">
+    <li><a href="/sitemap" onClick="ga('send', 'event', 'Site Footer', 'click', 'SiteMap F9');">Site map</a></li>
+    <li><a href="/privacy" onClick="ga('send', 'event', 'Site Footer', 'click', 'Privacy F10');">Privacy</a></li>
+    <li><a href="/copyright" onClick="ga('send', 'event', 'Site Footer', 'click', 'Copyright F11');">Copyright</a></li>
+    <li><a href="/accessibility" onClick="ga('send', 'event', 'Site Footer', 'click', 'Accessibility F12');">Accessibility</a></li>
+    <li>Copyright &copy; Australian Museum 2017</li>
+</ul>
+		</div>
+	</div>
+</div>
+	
+
+
+</div>    
+    
+</body>
+</html>

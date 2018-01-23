@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+
+<style type="text/css">
+
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #FFF;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+a img { 
+	border: none;
+}
+
+
+a:link {
+	color: #42413C;
+	text-decoration: underline; 
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { 
+	text-decoration: none;
+}
+
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+
+
+.content {
+
+	padding: 10px 0;
+	width: 400px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.clearfloat { 
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+</style></head>
+
+<body> <!-- onload="location.href='/html/homepage.html';"-->
+
+<div class="container">
+  <div class="content">
+  
+	<a href="/html/homepage.html">
+		<img src="/images/index-laprofumeria.gif" width="394" height="265" alt="La Profumeria" />
+	</a>
+  </div>
+</div>
+<script type="text/javascript">
+	setTimeout('location.href=\'/html/homepage.html\'',500)
+</script>
+
+</body>
+</html>

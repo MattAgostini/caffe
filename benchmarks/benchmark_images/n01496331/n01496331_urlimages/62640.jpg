@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+		<head>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta name="description" content="MorphBank is an open web repository of biological images documenting specimen-based research 
+in comparative anatomy, morphological phylogenetics, taxonomy and related fields focused on increasing our 
+knowledge about biodiversity. The project receives its main funding from the Biological Databases and 
+Informatics program of the National Science Foundation. MorphBank is developing cyber infrastructure 
+to support a wide array of biological disciplines such as taxonomy, systematics, evolutionary biology, 
+plant science and animal science. MorphBank serves as a permanent archive allowing storage and sharing 
+of digital images. At the same time, it is a collaborative platform supporting large international groups 
+of scientists. Among other things, MorphBank tools allow scientists to share specimen images, add 
+information to existing images by annotating them, remotely curate natural history collections based 
+on images of their specimens, build phylogenetic character matrices based on images, and create, manage, 
+and share their own collections of digital images. MorphBank uses technologies such as Web Services and 
+LSID to link to other related systems such as GenBank, MorphoBank, DigiMorph, Tolkin, Specify, and 
+BioCorder. Coupling digital images with character state annotations, MorphBank is an excellent source 
+of information for producing digital keys for identification of biological specimens. In taxonomy, 
+description of new species or other nomenclatural acts can be documented by images and image annotations 
+in MorphBank. MorphBank provides stable links to image collections for use in online and traditional print 
+scientific publications. Large biological inventory projects can use MorphBank to share image information 
+about morphological types and allow experts to do remote identification. MorphBank aims to be an essential 
+resource for projects in programs such as NSF's PEET, AToL and PBI and we already collaborate many PEET, 
+PBI and AToL projects. DBI-0446224" />
+			<meta name="keywords" content="DBI-0446224,Morphbank,NSF,BDI,ATOL,biology,digital,images,web,services,taxonomy" />
+			<title>Welcome to Morphbank on Sky - Morphbank :: Biological Imaging</title>
+			<!-- Mimic Internet Explorer 7 -->
+			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+			<!-- compliance patch for microsoft browsers -->
+			<!--[if IE]>
+			<script src="/ie7/ie7-standard-p.js" type="text/javascript"></script>
+			<![endif]--> 
+			<link rel="stylesheet" title="Default" href="/style/morphbank2.css" type="text/css" media="screen"/>
+			<link rel="stylesheet" href="/style/smoothness/jquery-ui-1.8.custom.css" type="text/css" media="screen"/>
+			<link rel="shortcut icon" href="/style/webImages/mLogo16.ico" />
+			<script language="javascript" type="text/javascript" src="/js/spry/SpryData.js"></script>
+			<script language="javascript" type="text/javascript" src="/js/spry/SpryEffects.js"></script>
+			<script language="javascript" type="text/javascript" src="/js/HttpClient.js"></script>
+			<script type="text/javascript">
+				window.name="main";
+				var jsDomainName = "/";
+				function getWindowHeight() {
+					var windowHeight = 0;
+					if (typeof(window.innerHeight) == 'number') {
+						windowHeight = window.innerHeight;
+					}
+					else {
+						if (document.documentElement && document.documentElement.clientHeight) {
+							windowHeight = document.documentElement.clientHeight;
+						}
+						else {
+							if (document.body && document.body.clientHeight) {
+								windowHeight = document.body.clientHeight;
+							}
+						}
+					}
+					return windowHeight;
+				}
+				function setFooter() {
+					if (document.getElementById) {
+						var windowHeight = getWindowHeight();
+						if (windowHeight > 0) {
+							var contentHeight = document.getElementById('main').offsetHeight;
+							var footerElement = document.getElementById('footer');
+							var footerHeight  = footerElement.offsetHeight;
+							if (windowHeight - (contentHeight + footerHeight) >= 0) {
+								footerElement.style.position = 'relative';
+								footerElement.style.top = ((windowHeight - (contentHeight + footerHeight)) -0) + 'px';
+							}
+							else {
+								footerElement.style.position = 'static';
+							}
+						}
+						footerElement.style.visibility = 'visible';
+					}
+				}
+				window.onload = function() {
+					setFooter();
+				}
+				window.onresize = function() {
+					setFooter();
+				}
+				
+				
+			</script>
+			
+			<script type="text/javascript" src="/js/head.js"></script>
+</head>
+	<body><div id="ajaxHiddenDiv">&nbsp;</div><div id="HttpClientStatus" style="display:none;">&nbsp;</div><div id="main">
+		<div class="mainHeader">
+			<div class="mainHeaderLogo"><a href="/index.php"><img border="0" src="/style/webImages/mbLogoHeader.png" alt="logo" /></a>&nbsp;
+			</div>
+			<div class="mainHeaderTitle">Welcome to Morphbank on Sky</div>
+			<div id="mainHeaderLoginId" class="mainHeaderLogin">User: Guest&nbsp;&nbsp;<a href="#" onclick="show_login_ajax(); return false;">[click to login]</a>&nbsp;&nbsp;<a href="/Submit">[register]</a></div>	<div class="mainNavContainer" style="width:360px;">		<table class="mainNav" border="0">
+				<tr>	<td>	<a class="mainNavLink" href="/About/" onmouseover="hideAllMenus();expandMenuOptions('About');stopTime();"
+				onmouseout="startTime();">About</a>	</td>	<td>	<a class="mainNavLink" href="/MyManager/" onmouseover="hideAllMenus();expandMenuOptions('Browse');stopTime();"
+				onmouseout="startTime();">Browse</a>	</td>	<td>	<a class="mainNavLink" href="#" onmouseover="hideAllMenus();expandMenuOptions('Tools');stopTime();"
+				onmouseout="startTime();">Tools</a>	</td>	<td>	<a class="mainNavLink" href="/Help/" onmouseover="hideAllMenus();expandMenuOptions('Help');stopTime();"
+				onmouseout="startTime();">Help</a>	</td>
+				</tr>
+				</table>
+		
+			</div>
+			</div><div class="mainRibbon"></div>	<iframe id="iFrameMainMenuId" class="iFrameClass" style="display: none; left: 0px; position: absolute; top: 0px; z-index:2; border:0;" src="" scrolling="no"></iframe><iframe id="iFrameSubMenuId" class="iFrameClass" style="display: none; left: 0px; position: absolute; top: 0px; z-index:2; border:0;" src="" scrolling="no"></iframe><div class="mainNavSubMenu" id="About"
+				style="display:none;left:450px;width:154px" onmouseover="stopTime();" onmouseout="startTime();"><a class="mainNavSubLink" href="/" >Home</a>
+<a class="mainNavSubLink" href="/About/AboutMb/" >About Morphbank</a>
+<a class="mainNavSubLink" href="/About/Collaborations/" >Collaborations</a>
+<a class="mainNavSubLink" href="/About/Contributors/" >Contributors</a>
+<a class="mainNavSubLink" href="/About/Copyright/" >Copyright/Citation</a>
+<a class="mainNavSubLink" href="/About/Sponsors/" >Sponsors</a>
+<a class="mainNavSubLink" href="/About/Team/" >Team</a>
+<a class="mainNavSubLink" href="/About/History/" >History</a>
+</div><div class="mainNavSubMenu" id="Browse"
+				style="display:none;left:522px;width:105px" onmouseover="stopTime();" onmouseout="startTime();"><a class="mainNavSubLink" href="/MyManager/?tab=allTab" >All</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=imageTab" >Image</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=specimenTab" >Specimen</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=viewTab" >View</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=localityTab" >Locality</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=collectionTab" >Collection</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=annotationTab" >Annotation</a>
+<a class="mainNavSubLink" href="/MyManager/?tab=pubTab" >Publication</a>
+<a class="mainNavSubLink" href="/Browse/ByTaxon/" >Taxon Hierarchy</a>
+<a class="mainNavSubLink" href="/Browse/ByName/" >Taxon ABC</a>
+<a class="mainNavSubLink" href="/Admin/TaxonSearch/index.php?searchonly=1&amp;fromMenu=true" >Taxon Search</a>
+</div><div class="mainNavSubMenu" id="Tools"
+				style="display:none;left:622.8px;width:126px" onmouseover="stopTime();" onmouseout="startTime();"><a class="mainNavSubLink" href="/MyManager/index.php" onmouseover="hideSubMenus(); expandMenuOptions('managerSelectMenu', this); stopSubTime(); " onmouseout="startSubTime();" >My Manager</a>
+</div><div class="mainNavSubMenu" id="Help"
+				style="display:none;left:694.8px;width:126px" onmouseover="stopTime();" onmouseout="startTime();"><a class="mainNavSubLink" href="/About/Manual" target="_blank">Online User Manual</a>
+<a class="mainNavSubLink" href="/About/HowToContribute/" target="_blank">How to Submit Data</a>
+<a class="mainNavSubLink" href="/Help/Documents/" target="_blank">Documents/Links</a>
+<a class="mainNavSubLink" href="/Help/nameMatch/" >Name Query</a>
+<a class="mainNavSubLink" href="/Help/feedback/" >Feedback</a>
+<a class="mainNavSubLink" href="/Submit/" >Reset Password</a>
+</div>
+	<div style="float:right">
+		<form action="/MyManager/" >
+			<input type="text" name="keywords"/><input type="submit" value="Search images by keywords"/>
+		</form>
+	</div>
+	<div class="mainNavSubMenu subMenuBGColor" id="groupSelectMenu" onmouseover="stopSubTime();" onmouseout="startSubTime();">
+		  </div>
+		<div class="mainNavSubMenu subMenuBGColor" id="submitSelectMenu" onmouseover="stopSubTime();" onmouseout="startSubTime();">
+		  	<a class="mainNavSubSubLink" href="/Submit/Location/">Locality</a>
+			<a class="mainNavSubSubLink" href="/Submit/Specimen/">Specimen</a>
+			<a class="mainNavSubSubLink" href="/Submit/View/">View</a>
+			<a class="mainNavSubSubLink" href="/Submit/Image/">Image</a>
+			<a class="mainNavSubSubLink" href="/Admin/Publication/addPublication.php">Publication</a>
+			<a class="mainNavSubSubLink" href="/Admin/TaxonSearch/index.php?searchonly=1&amp;fromMenu=true">Taxon Name</a>
+		</div>
+		<div class="mainNavSubMenu subMenuBGColor" id="editSelectMenu" onmouseover="stopSubTime();" onmouseout="startSubTime();">
+		  	<a class="mainNavSubLink" href="/Edit/Locality/">Locality</a>
+			<a class="mainNavSubLink" href="/Edit/Specimen/">Specimen</a>
+			<a class="mainNavSubLink" href="/Edit/View/">View</a>
+			<a class="mainNavSubLink" href="/Edit/Image/">Image</a>
+			<a class="mainNavSubLink" href="/Admin/Publication/editPublication.php">Publication</a>
+			<a class="mainNavSubLink" href="/Admin/TaxonSearch/editTSN.php">Taxon Name</a>
+		</div>
+		<div class="mainNavSubMenu subMenuBGColor" id="managerSelectMenu" onmouseover="stopSubTime();" onmouseout="startSubTime();">
+		  	<a class="mainNavSubSubLink" href="/MyManager/?tab=allTab">All</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=imageTab">Images</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=specimenTab">Specimens</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=viewTab">Views</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=localityTab">Localities</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=taxaTab">Taxa</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=collectionTab">Collections</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=annotationTab">Annotations</a>
+			<a class="mainNavSubSubLink" href="/MyManager/?tab=pubTab">Publications</a>
+		</div>
+	  
+  <div class="mainNewsContainer">
+     <div id="left">
+       <h3>Featured from <a href="/MyManager/"> 383783 images</a></h3>
+          <br /><br />        
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" 
+  WIDTH="550" 
+  HEIGHT="400" 
+  id="slideshow" 
+  ALIGN="">
+<PARAM NAME=movie VALUE="/includes/swf/slideshow.swf?xml_source=/data/xml/sample.xml&license=KUBZ7-F2G3B6FWELRTO9DN6IKN49JK">
+<PARAM NAME=quality VALUE=high>
+<PARAM NAME=bgcolor VALUE=#000000>
+<PARAM NAME="wmode" VALUE="transparent">
+
+<EMBED src="/includes/swf/slideshow.swf?xml_source=/data/xml/sample.xml&license=KUBZ7-F2G3B6FWELRTO9DN6IKN49JK" 
+  quality=high 
+  bgcolor=#000000  
+  WIDTH="550" 
+  HEIGHT="400" 
+  wmode="transparent"
+  NAME="slideshow" 
+  ALIGN="" 
+  TYPE="application/x-shockwave-flash" 
+  PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+</EMBED>
+</OBJECT>
+
+          <br />
+          <br />
+          <b>click images below to <a href="/MyManager/">browse</a> new uploads and collections</b>
+           <center>
+       <table>
+         <tr>
+              <td><a href="/?id=464608" title="Anglerfish"><img src="http://morphbank.net/?id=114691&imgType=thumb" height="80"/></a>
+          <br />Anglerfish</td>
+              <td><a href="/?id=464705" title="Chromista"><img src="http://morphbank.net/?id=227161&imgType=jpg" height="80" /></a>
+          <br />Chromista</td>
+              <td><a href="/?id=464706" title="Manduca blackburni"><img src="http://morphbank.net/?id=234147&imgType=thumb" height="80" /></a>
+          <br /><i>M. blackburni</i></td>
+              <td><a href="/?id=237144" title="Aristolochia schultzeana"><img src="http://morphbank.net/?id=401844&imgType=thumb" height="80"/></a>
+          <br />Aristolochia</td>
+              <td><a href="/?id=77655" title="Cynipidae"><img src="http://morphbank.net/?id=70268&imgType=thumb" height="80"/></a>
+          <br />Cynipidae</td>
+        </tr>
+      </table>
+          </center>
+
+     </div>
+    <div id="right">
+        <h3>News and Updates</h3>
+        <img src="/style/webImages/blueHR-trans.png" class="blueHR"  width="200" alt="" /><table><tr><td><a href="/Show/?id=859644"><b>Morphbank up on new servers</b></a><br />The Morphbank images have all been processed and the website is fully functional. The migration to new servers was complicated by hardware and software failures. The images are now hosted on a Lustre file system at the FSU Research Computing Center.
+
+<p>We have a few images to restore from backup and some ...</td><td><img src="http://www.morphbank.net/images/newsImages/lustre-header.png" border="0" width="100px" alt="news" /><br /><i>(Posted:01-25-16)</i></td></tr></table><hr /><table><tr><td><a href="/Show/?id=855904"><b>Morphbank move to new servers</b></a><br />The Morphbank system at FSU has moved to the Sky server farm at the FSU Research Computing System and the Nolestor storage system. These new systems will keep Morphbank running into the future.                   ...</td><td><img src="http://sky.www.morphbank.net/images/newsImages/nolestor.PNG" border="0" width="100px" alt="news" /><br /><i>(Posted:07-27-15)</i></td></tr></table><hr /><table><tr><td><a href="/Show/?id=851035"><b>Filtered Push plugin in process</b></a><br />The Filtered Push group have created a Morphbank plugin that extracts annotations from the Morphbank database and pushes them into the FP annotation services.                            ...</td><td><img src="http://www.morphbank.net/images/newsImages/Fp_small_7.png" border="0" width="100px" alt="news" /><br /><i>(Posted:11-07-14)</i></td></tr></table><hr /><table><tr><td><a href="/Show/?id=851034"><b>Morphbank in DINA Project</b></a><br />The DINA project develops an open-source Web-based information management system for natural history data. At the core of the system is support for assembling, managing and sharing data associated with natural history collections and their curation ("collection management"). Target collections include zoological, botanical, geological and paleontological collections, living collections, biodiversity inventories, ...</td><td><img src="http://www.morphbank.net/images/newsImages/DINA_Logo_135x135.png" border="0" width="100px" alt="news" /><br /><i>(Posted:11-07-14)</i></td></tr></table><hr />(<a href="/About/News">see all past news</a>)
+      </div>
+      </div><div style="clear:both;">&nbsp;</div></div><div id="footer"><div id="footerRibbon">&nbsp;</div><div style="float:left;"><a href="http://www.nsf.gov"><img src="/style/webImages/nsf-trans.png" width="50" height="50" alt="NSF" title="NSF" /></a></div><div style="float:right;"><a href="http://www.fsu.edu"><img src="/style/webImages/fsu-trans.png" width="50" height="50" alt="FSU" title="FSU" /></a></div><div class="footerContent"><a href="/About/Copyright/">Copyright Policy</a> - <a href="/About/Team">Contact</a> - <a href="/About/AboutMB/">About Morphbank</a><br /><a href="/About/Manual/">Online User Manual</a> - <a href="/Help/Documents/">Documents</a> - <a href="/Help/feedback/">Feedback</a></div></div>
+		</body>
+	</html>

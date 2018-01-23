@@ -1,0 +1,10 @@
+#!/bin/bash
+
+clear
+
+folderSelection="n02119789"
+if [ -d "$folderSelection" ]; then
+    echo "folder exists"
+else
+    echo "folder does not exist"
+fi

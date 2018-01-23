@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html><!--<![endif]-->
+<head>
+    <script type="text/javascript">
+        var pfjs = pfjs ? pfjs : {}
+        pfjs.photo_host = 'photos.petfinder.com'
+    </script>
+    <script type="text/javascript" src="//nexus.ensighten.com/purina/Bootstrap.js"></script>
+
+        <meta charset="UTF-8" />
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="pingback" href="https://www.petfinder.com/xmlrpc.php" />
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://www.petfinder.com/wp-content/themes/petfinder2013/css/ie.css" />
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+
+    <!-- Fav and touch icons -->
+    <link rel="icon" href="https://www.petfinder.com/wp-content/themes/petfinder2013/favicon-16.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="https://www.petfinder.com/wp-content/themes/petfinder2013/favicon-32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="https://www.petfinder.com/wp-content/themes/petfinder2013/favicon-48.png" sizes="48x48" type="image/png">
+    <link rel="icon" href="https://www.petfinder.com/wp-content/themes/petfinder2013/favicon-62.png" sizes="62x62" type="image/png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.petfinder.com/wp-content/themes/petfinder2013/img/apple-touch-icon-180x180.png">
+
+    <meta name="msapplication-TileImage" content="https://www.petfinder.com/wp-content/themes/petfinder2013/mstile-144x144.png">
+
+    <!-- Global Vars -->
+    <script type="text/javascript">
+        var featuredPetAdLoaded = false;
+        var happyTailAdLoaded = false;
+    </script>
+    <!-- End Global Vars -->
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+    <script type="text/javascript">
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+
+    <script type='text/javascript'>var ajaxURL='https://www.petfinder.com/wp-admin/admin-ajax.php';</script>
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Celebrating Over 20 Years of Pet Adoption - Petfinder</title>
+<meta name="description" content="Petfinder has helped more than 25 million pets find their families through adoption. Search our extensive list of dogs, cats and other pets available for adoption and rescue near you."/>
+<link rel="canonical" href="https://www.petfinder.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Celebrating Over 20 Years of Pet Adoption - Petfinder" />
+<meta property="og:description" content="Petfinder has helped more than 25 million pets find their families through adoption. Search our extensive list of dogs, cats and other pets available for adoption and rescue near you." />
+<meta property="og:url" content="https://www.petfinder.com/" />
+<meta property="og:site_name" content="Petfinder" />
+<meta property="fb:app_id" content="1650864228532522" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/animated-logo.gif" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/slide-5.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/df-1.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/df-2.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/df-3.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/about-1.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/about-2.jpg" />
+<meta property="og:image" content="https://www.petfinder.com/wp-content/uploads/2016/08/about-3.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.petfinder.com\/","name":"Petfinder","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.petfinder.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.petfinder.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='css/modern.min.css-css'  href='https://www.petfinder.com/wp-content/themes/petfinder2013/css/modern.min.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.petfinder.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.petfinder.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.petfinder.com/wp-content/plugins/stop-user-enumeration/js/commentauthor.js?ver=4.8.2'></script>
+<link rel='https://api.w.org/' href='https://www.petfinder.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.petfinder.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.petfinder.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.petfinder.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.petfinder.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.petfinder.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.petfinder.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.petfinder.com%2F&#038;format=xml" />
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async src="https://assets.pinterest.com/js/pinit.js"></script>            <!-- Include google_services.js -->
+            <script type='text/javascript'>
+                var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+                (function() {
+                    var gads = document.createElement('script');
+                    gads.async = true;
+                    gads.type = 'text/javascript';
+                    var useSSL = 'https:' == document.location.protocol;
+                    gads.src = (useSSL ? 'https:' : 'http:') +
+                        '//www.googletagservices.com/tag/js/gpt.js';
+                    var node = document.getElementsByTagName('script')[0];
+                    node.parentNode.insertBefore(gads, node);
+                })();
+            </script>
+            <!-- Google Ad configuration -->
+            <script type='text/javascript'>
+                function debounce(func, wait, immediate) {
+                    var timeout;
+                    return function() {
+                        var context = this, args = arguments;
+                        var later = function() {
+                            timeout = null;
+                            if (!immediate) func.apply(context, args);
+                        };
+                        var callNow = immediate && !timeout;
+                        clearTimeout(timeout);
+                        timeout = setTimeout(later, wait);
+                        if (callNow) func.apply(context, args);
+                    };
+                };
+
+                googletag.cmd.push(function() {
+                    // setup responsive ad sizes per https://support.google.com/dfp_premium/answer/3423562?hl=en
+                    var leaderboardMapping = googletag.sizeMapping()
+                        .addSize([0, 0], [320,50])
+                        .addSize([728, 0], [728,90])
+                        .build();
+
+                    //Footer Ad only shows at desktop resolution
+                    var footerMapping = googletag.sizeMapping()
+                        .addSize([0, 0], [320,50])
+                        .addSize([728, 0], [728,90])
+                        .build();
+
+                    var mediumRectangleTopMapping = googletag.sizeMapping()
+                        .addSize([0, 0], [320, 50])
+                        .addSize([728, 0], [728,90])
+                        .addSize([998, 0], [300,250])
+                        .build();
+
+                    //Bottom Sidebar Ad only shows at desktop resolution
+                    var mediumRectangleBottomMapping = googletag.sizeMapping()
+                        .addSize([0, 0], [])
+                        .addSize([998, 0], [300,250])
+                        .build();
+
+                    
+                    var mediumRectangleTopMapping = googletag.defineSlot('/46267414/Petfinder/Homepage', [300, 250], "acm-ad-tag-medium-rectangle-homepage")
+                        .defineSizeMapping(mediumRectangleTopMapping)
+                        .addService(googletag.pubads());
+
+                    
+                    var mediumRectangleBottomMapping = googletag.defineSlot('/46267414/Petfinder/Home/Homepage_3', [300, 250], "acm-ad-tag-medium-rectangle-second")
+                        .defineSizeMapping(mediumRectangleBottomMapping)
+                        .addService(googletag.pubads());
+
+                    
+                    var leaderboardMapping = googletag.defineSlot('/46267414/Petfinder/Homepage', [728, 90], "acm-ad-tag-leaderboard-homepage")
+                        .defineSizeMapping(leaderboardMapping)
+                        .addService(googletag.pubads());
+
+                    
+                    var footerMapping = googletag.defineSlot('/46267414/Petfinder/Home/Homepage_3', [0, 0], "acm-ad-tag-footer-ad")
+                        .defineSizeMapping(footerMapping)
+                        .addService(googletag.pubads());
+
+                    
+                    // refresh all add units, which are set to vars equal to the name of their mapping
+                    function refreshAds () {
+                        googletag.pubads().refresh([mediumRectangleTopMapping, mediumRectangleBottomMapping,leaderboardMapping, footerMapping]);
+                    }
+
+                    // gives the page some time to load before hooking up resize listeners
+                    // debounce resize events to not thrash reloading during resizing
+                    setTimeout(function() {
+                        if(window.attachEvent) {
+                            window.attachEvent('onresize', debounce(refreshAds, 1000));
+                        }
+                        else if(window.addEventListener) {
+                            window.addEventListener('resize', debounce(refreshAds, 1000));
+                        }
+                    }, 5000);
+
+                    googletag.pubads().enableAsyncRendering();
+                    googletag.pubads().collapseEmptyDivs();
+                    googletag.enableServices();
+                });
+            </script>
+            
+</head>
+
+<body class="home page-template page-template-page-fullWidthNoPad page-template-page-fullWidthNoPad-php page page-id-40819">
+
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+
+    /* New Facebook Script */
+    window.fbAsyncInit = function() {
+        // init the FB JS SDK
+        FB.init({
+            appId      : '1650864228532522', // App ID from the App Dashboard
+            version    : 'v2.5',
+            status     : true, // check the login status upon init?
+            cookie     : true, // set sessions cookies to allow your server to access the session?
+            xfbml      : true  // parse XFBML tags on this page?
+        });
+    };
+
+    // Load the SDK's source Asynchronously
+    // Note that the debug version is being actively developed and might
+    // contain some type checks that are overly strict.
+    // Please report such bugs using the bugs tool.
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    /* end new facebook script */
+
+
+</script>
+
+<div class="modal js-modal" style="display: none;" aria-hidden="true">
+        <div class="modal-overlay js-modal-overlay"></div>
+        <div class="modal-spinner js-modal-spinner">
+            
+<div class="throbber">
+    <svg class="throbber-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+        
+        <line class="throbber-svg-spindle" x1="48" y1="26" x2="48" y2="4"/>
+        <line class="throbber-svg-spindle" x1="37" y1="28.95" x2="26" y2="9.89"/>
+        <line class="throbber-svg-spindle" x1="28.95" y1="37" x2="9.89" y2="26"/>
+        <line class="throbber-svg-spindle" x1="26" y1="48" x2="4" y2="48"/>
+        <line class="throbber-svg-spindle" x1="28.95" y1="59" x2="9.89" y2="70"/>
+        <line class="throbber-svg-spindle" x1="37" y1="67.05" x2="26" y2="86.11"/>
+        <line class="throbber-svg-spindle" x1="48" y1="70" x2="48" y2="92"/>
+        <line class="throbber-svg-spindle" x1="59" y1="67.05" x2="70" y2="86.11"/>
+        <line class="throbber-svg-spindle" x1="67.05" y1="59" x2="86.11" y2="70"/>
+        <line class="throbber-svg-spindle" x1="70" y1="48" x2="92" y2="48"/>
+        <line class="throbber-svg-spindle" x1="67.05" y1="37" x2="86.11" y2="26"/>
+        <line class="throbber-svg-spindle" x1="59" y1="28.95" x2="70" y2="9.89"/>
+    </svg>
+</div>        </div>
+        <div class="modal-wrap">
+            <div class="modal-wrap-inner">
+                <div class="modal-content js-modal-content" style="display: none;"></div>
+            </div>
+        </div>
+</div>
+
+<div id="Site" class="site js-LockPageScroll-site" aria-hidden="false">
+
+    <div class="nrd-helloBar-container js-helloBar-insertionPoint"></div>
+
+    <div class="site-section m-site-section_constrained">
+        <div class="ad ad-banner" id="ad-TopLeft">
+            <div id='acm-ad-tag-leaderboard-homepage' class='adContainer'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('acm-ad-tag-leaderboard-homepage'); });
+    </script>
+</div>        </div><!-- /#top-ad -->
+        <div class="box m-box_bg">
+            <header id="header" role="banner" class="header-site">
+
+                <div class="siteHeader">
+                    <div class="siteHeader-logo">
+                        <h1>
+                            <a href="/" data-category="global-nav" data-action="petfinder logo" title="Petfinder Home">
+                                <img src="https://www.petfinder.com/wp-content/themes/petfinder2013/img/pet_finder_logo_tm.svg" onerror="this.src='https://www.petfinder.com/wp-content/themes/petfinder2013/img/pet_finder_logo_tm.png'; this.onerror=null;" alt="Petfinder">
+                            </a>
+                        </h1>
+                    </div>
+
+                    <p class="siteHeader-slogan" id="logo-tagline">
+                        Home of
+                        <span id="welcome-pet-total" data-id="pet-total" class="siteHeader-slogan-highlight"></span>
+                        adoptable pets from
+                        <span id="welcome-shelter-total" data-id="shelter-total" class="siteHeader-slogan-highlight"></span>
+                        adoption groups.
+                    </p>
+
+                    <div class="siteHeader-actions">
+
+                        <div class="siteHeader-actions-account">
+                            <div class="nav-overall">
+                                <ul id="js-header-userMenu" class="nav-site-toggle">
+                                    
+<li class="your-profile frm-purple">
+	<div class="frame" name="_profile_widget">
+		<a href="/user/login/" class="link-block with-icon signin" onclick="purinaTrackEvent('','sign in','go to login or registration modal widow')">
+			Sign In<span class="psdui-arrow"></span>
+		</a>
+	</div>
+</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="siteHeader-actions-social">
+                            <div id="tophat-follow-us" class="">
+                                <div class="siteHeader-actions-social-hdg">Follow Us</div>
+                                <ul class="follow-icons">
+                                    <li class="fb"><a href="http://www.facebook.com/Petfinder " target="_blank"></a></li>
+                                    <li class="twt"><a href="http://twitter.com/Petfinder" target="_blank"></a></li>
+                                    <li class="pin"><a href="http://pinterest.com/petfinder/ " target="_blank"></a></li>
+                                    <li class="e">
+                                                                                    <a href="https://profiles.petfinder.com/subscription/subscribe/brand/PF" target="_blank" data-category="email sign up" data-action="initiate new sign up">&nbsp;</a>
+                                                                            </li>
+                                </ul>
+                            </div><!-- /#tophat-follow-us -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- navigation -->
+                <nav class="siteNav js-globalNav">
+                    <button class="siteNav-hamburger js-globalNav-trigger"><span class="u-isVisuallyHidden">Menu</span></button>
+                    <div class="siteNav-overlay js-globalNav-overlay"></div>
+                    <div class="siteNav-main js-globalNav-menu">
+                        <div class="siteNav-main-hd">
+                            <div class="siteNav-main-hd-social">
+                                <div id="tophat-follow-us" class="">
+                                    <div class="siteHeader-actions-social-hdg">Follow Us</div>
+                                    <ul class="follow-icons">
+                                        <li class="fb"><a href="http://www.facebook.com/Petfinder " target="_blank"></a></li>
+                                        <li class="twt"><a href="http://twitter.com/Petfinder" target="_blank"></a></li>
+                                        <li class="pin"><a href="http://pinterest.com/petfinder/ " target="_blank"></a></li>
+                                        <li class="e">
+                                                                                            <a href="https://profiles.petfinder.com/subscription/subscribe/brand/PF" target="_blank" data-category="email sign up" data-action="initiate new sign up">&nbsp;</a>
+                                                                                    </li>
+                                    </ul>
+                                </div><!-- /#tophat-follow-us -->
+                            </div>
+                            <button class="siteNav-main-hd-close js-globalNav-close">Close</button>
+                        </div>
+                        <ul id="siteNav" class="siteNav-main-list js-globalNav-list"><li id="menu-item-13761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13761 siteNav-main-list-item js-keyboardFocus"><a href="/pet-adoption/" data-category="global-nav" data-action="about-pet-adoption" class='siteNav-main-list-item-btn' >About Pet Adoption</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16283" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16283 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/" data-category="global-nav" data-action="adoption-centers" class='siteNav-main-list-item-subMenu-item-btn' >Adoption Centers</a></li>
+	<li id="menu-item-13762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13762 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/dog-adoption/" data-category="global-nav" data-action="dog-adoption" class='siteNav-main-list-item-subMenu-item-btn' >Dog Adoption</a></li>
+	<li id="menu-item-13763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13763 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/cat-adoption/" data-category="global-nav" data-action="cat-adoption" class='siteNav-main-list-item-subMenu-item-btn' >Cat Adoption</a></li>
+	<li id="menu-item-13764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13764 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/other-pet-adoption/" data-category="global-nav" data-action="other-pet-adoption" class='siteNav-main-list-item-subMenu-item-btn' >Other Pet Adoption</a></li>
+	<li id="menu-item-15621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15621 siteNav-main-list-item-subMenu-item"><a href="/adoption-stories/" data-category="global-nav" data-action="happy-tails-pet-adoption-stories" class='siteNav-main-list-item-subMenu-item-btn' >Happy Tails Pet Adoption Stories</a></li>
+	<li id="menu-item-15620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15620 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/pet-adoption-information/" data-category="global-nav" data-action="pet-adoption-information" class='siteNav-main-list-item-subMenu-item-btn' >Pet Adoption Information</a></li>
+	<li id="menu-item-15631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15631 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/exotic-pets/" data-category="global-nav" data-action="exotic-pets" class='siteNav-main-list-item-subMenu-item-btn' >Exotic Pets</a></li>
+	<li id="menu-item-16284" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16284 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/" data-category="global-nav" data-action="more-about-pet-adoption" class='siteNav-main-list-item-subMenu-item-btn' >More About Pet Adoption</a></li>
+</ul>
+</li>
+<li id="menu-item-13766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13766 siteNav-main-list-item js-keyboardFocus"><a href="/dogs/" data-category="global-nav" data-action="dog-care" class='siteNav-main-list-item-btn' >Dog Care</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16285" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16285 siteNav-main-list-item-subMenu-item"><a href="/dogs/" data-category="global-nav" data-action="dog-care-centers" class='siteNav-main-list-item-subMenu-item-btn' >Dog Care Centers</a></li>
+	<li id="menu-item-13767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13767 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/dog-adoption/" data-category="global-nav" data-action="dog-adoption" class='siteNav-main-list-item-subMenu-item-btn' >Dog Adoption</a></li>
+	<li id="menu-item-15636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15636 siteNav-main-list-item-subMenu-item"><a href="/dog-breeds/" data-category="global-nav" data-action="dog-breeds" class='siteNav-main-list-item-subMenu-item-btn' >Dog Breeds</a></li>
+	<li id="menu-item-15638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15638 siteNav-main-list-item-subMenu-item"><a href="/dogs/bringing-a-dog-home/" data-category="global-nav" data-action="bringing-a-dog-home" class='siteNav-main-list-item-subMenu-item-btn' >Bringing a Dog Home</a></li>
+	<li id="menu-item-15640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15640 siteNav-main-list-item-subMenu-item"><a href="/dogs/dog-training/" data-category="global-nav" data-action="dog-training" class='siteNav-main-list-item-subMenu-item-btn' >Dog Training</a></li>
+	<li id="menu-item-15642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15642 siteNav-main-list-item-subMenu-item"><a href="/dogs/dog-problems/" data-category="global-nav" data-action="dog-problems" class='siteNav-main-list-item-subMenu-item-btn' >Dog Problems</a></li>
+	<li id="menu-item-15644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15644 siteNav-main-list-item-subMenu-item"><a href="/dogs/dog-grooming/" data-category="global-nav" data-action="dog-grooming" class='siteNav-main-list-item-subMenu-item-btn' >Dog Grooming</a></li>
+	<li id="menu-item-15645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15645 siteNav-main-list-item-subMenu-item"><a href="/videos/" data-category="global-nav" data-action="pet-care-videos" class='siteNav-main-list-item-subMenu-item-btn' >Pet Care Videos</a></li>
+	<li id="menu-item-16286" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16286 siteNav-main-list-item-subMenu-item"><a href="/dogs/" data-category="global-nav" data-action="more-about-dog-care" class='siteNav-main-list-item-subMenu-item-btn' >More About Dog Care</a></li>
+</ul>
+</li>
+<li id="menu-item-13768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13768 siteNav-main-list-item js-keyboardFocus"><a href="/cats/" data-category="global-nav" data-action="cat-care" class='siteNav-main-list-item-btn' >Cat Care</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16287" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16287 siteNav-main-list-item-subMenu-item"><a href="/cats/" data-category="global-nav" data-action="cat-care-centers" class='siteNav-main-list-item-subMenu-item-btn' >Cat Care Centers</a></li>
+	<li id="menu-item-13769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13769 siteNav-main-list-item-subMenu-item"><a href="/pet-adoption/cat-adoption/" data-category="global-nav" data-action="cat-adoption" class='siteNav-main-list-item-subMenu-item-btn' >Cat Adoption</a></li>
+	<li id="menu-item-15664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15664 siteNav-main-list-item-subMenu-item"><a href="/cat-breeds/" data-category="global-nav" data-action="cat-breeds" class='siteNav-main-list-item-subMenu-item-btn' >Cat Breeds</a></li>
+	<li id="menu-item-15666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15666 siteNav-main-list-item-subMenu-item"><a href="/cats/bringing-a-cat-home/" data-category="global-nav" data-action="bringing-a-cat-home" class='siteNav-main-list-item-subMenu-item-btn' >Bringing a Cat Home</a></li>
+	<li id="menu-item-15668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15668 siteNav-main-list-item-subMenu-item"><a href="/cats/cat-behavior-and-training/" data-category="global-nav" data-action="cat-behavior-training" class='siteNav-main-list-item-subMenu-item-btn' >Cat Behavior &#038; Training</a></li>
+	<li id="menu-item-15670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15670 siteNav-main-list-item-subMenu-item"><a href="/cats/cat-problems/" data-category="global-nav" data-action="cat-problems" class='siteNav-main-list-item-subMenu-item-btn' >Cat Problems</a></li>
+	<li id="menu-item-15672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15672 siteNav-main-list-item-subMenu-item"><a href="/cats/cat-grooming/" data-category="global-nav" data-action="cat-grooming" class='siteNav-main-list-item-subMenu-item-btn' >Cat Grooming</a></li>
+	<li id="menu-item-15673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15673 siteNav-main-list-item-subMenu-item"><a href="/videos/" data-category="global-nav" data-action="pet-care-videos" class='siteNav-main-list-item-subMenu-item-btn' >Pet Care Videos</a></li>
+	<li id="menu-item-16288" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16288 siteNav-main-list-item-subMenu-item"><a href="/cats/" data-category="global-nav" data-action="more-about-cat-care" class='siteNav-main-list-item-subMenu-item-btn' >More About Cat Care</a></li>
+</ul>
+</li>
+<li id="menu-item-13770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13770 siteNav-main-list-item js-keyboardFocus"><a href="/pet-care/" data-category="global-nav" data-action="all-pet-care" class='siteNav-main-list-item-btn' >All Pet Care</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16289" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16289 siteNav-main-list-item-subMenu-item"><a href="/pet-care/" data-category="global-nav" data-action="pet-care-centers" class='siteNav-main-list-item-subMenu-item-btn' >Pet Care Centers</a></li>
+	<li id="menu-item-15690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15690 siteNav-main-list-item-subMenu-item"><a href="/videos/" data-category="global-nav" data-action="pet-care-videos" class='siteNav-main-list-item-subMenu-item-btn' >Pet Care Videos</a></li>
+	<li id="menu-item-15693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15693 siteNav-main-list-item-subMenu-item"><a href="/dogs/" data-category="global-nav" data-action="dogs" class='siteNav-main-list-item-subMenu-item-btn' >Dogs</a></li>
+	<li id="menu-item-15694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15694 siteNav-main-list-item-subMenu-item"><a href="/cats/" data-category="global-nav" data-action="cats" class='siteNav-main-list-item-subMenu-item-btn' >Cats</a></li>
+	<li id="menu-item-15695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15695 siteNav-main-list-item-subMenu-item"><a href="/pet-care/rabbit-care/" data-category="global-nav" data-action="rabbits" class='siteNav-main-list-item-subMenu-item-btn' >Rabbits</a></li>
+	<li id="menu-item-15696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15696 siteNav-main-list-item-subMenu-item"><a href="/pet-care/horse-care/" data-category="global-nav" data-action="horses" class='siteNav-main-list-item-subMenu-item-btn' >Horses</a></li>
+	<li id="menu-item-15697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15697 siteNav-main-list-item-subMenu-item"><a href="/pet-care/bird-care/" data-category="global-nav" data-action="birds" class='siteNav-main-list-item-subMenu-item-btn' >Birds</a></li>
+	<li id="menu-item-15698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15698 siteNav-main-list-item-subMenu-item"><a href="/pet-care/small-and-furry-care/" data-category="global-nav" data-action="small-furry-pets" class='siteNav-main-list-item-subMenu-item-btn' >Small &#038; Furry Pets</a></li>
+	<li id="menu-item-16290" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16290 siteNav-main-list-item-subMenu-item"><a href="/pet-care/" data-category="global-nav" data-action="more-about-pet-care" class='siteNav-main-list-item-subMenu-item-btn' >More About Pet Care</a></li>
+</ul>
+</li>
+<li id="menu-item-13771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13771 siteNav-main-list-item js-keyboardFocus"><a href="/animal-shelters-and-rescues/" data-category="global-nav" data-action="shelters-rescues" class='siteNav-main-list-item-btn' >Shelters &#038; Rescues</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16291" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16291 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/" data-category="global-nav" data-action="adoption-group-centers" class='siteNav-main-list-item-subMenu-item-btn' >Adoption Group Centers</a></li>
+	<li id="menu-item-15700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15700 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/search/" data-category="global-nav" data-action="find-an-animal-shelter-or-rescue-group" class='siteNav-main-list-item-subMenu-item-btn' >Find an Animal Shelter or Rescue Group</a></li>
+	<li id="menu-item-15701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15701 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/starting-a-pet-adoption-organization/" data-category="global-nav" data-action="starting-a-pet-adoption-organization" class='siteNav-main-list-item-subMenu-item-btn' >Starting a Pet-Adoption Organization</a></li>
+	<li id="menu-item-15703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15703 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/volunteering-with-dogs/" data-category="global-nav" data-action="volunteering-with-dogs" class='siteNav-main-list-item-subMenu-item-btn' >Volunteering with Dogs</a></li>
+	<li id="menu-item-15704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15704 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/volunteering-with-cats/" data-category="global-nav" data-action="volunteering-with-cats" class='siteNav-main-list-item-subMenu-item-btn' >Volunteering with Cats</a></li>
+	<li id="menu-item-15705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15705 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/volunteering-with-shelters-and-rescues/" data-category="global-nav" data-action="volunteering-with-shelters-and-rescues" class='siteNav-main-list-item-subMenu-item-btn' >Volunteering with Shelters and Rescues</a></li>
+	<li id="menu-item-15706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15706 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/fostering-dogs/" data-category="global-nav" data-action="fostering-dogs" class='siteNav-main-list-item-subMenu-item-btn' >Fostering Dogs</a></li>
+	<li id="menu-item-15707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15707 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/fostering-cats/" data-category="global-nav" data-action="fostering-cats" class='siteNav-main-list-item-subMenu-item-btn' >Fostering Cats</a></li>
+	<li id="menu-item-16292" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16292 siteNav-main-list-item-subMenu-item"><a href="/animal-shelters-and-rescues/" data-category="global-nav" data-action="more-about-shelters-rescues" class='siteNav-main-list-item-subMenu-item-btn' >More About Shelters &#038; Rescues</a></li>
+</ul>
+</li>
+<li id="menu-item-13772" class="dd-right menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13772 siteNav-main-list-item js-keyboardFocus"><a href="/helping-pets/" data-category="global-nav" data-action="helping-pets" class='siteNav-main-list-item-btn' >Helping Pets</a>
+<ul  class="sub-menu">
+	<li id="menu-item-16293" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-16293 siteNav-main-list-item-subMenu-item"><a href="/helping-pets/" data-category="global-nav" data-action="how-to-help-pets" class='siteNav-main-list-item-subMenu-item-btn' >How to Help Pets</a></li>
+	<li id="menu-item-15711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15711 siteNav-main-list-item-subMenu-item"><a href="/helping-pets/" data-category="global-nav" data-action="get-involved" class='siteNav-main-list-item-subMenu-item-btn' >Get Involved</a></li>
+	<li id="menu-item-15726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15726 siteNav-main-list-item-subMenu-item"><a href="/blog/" data-category="global-nav" data-action="read-our-blog" class='siteNav-main-list-item-subMenu-item-btn' >Read Our Blog</a></li>
+	<li id="menu-item-15724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15724 siteNav-main-list-item-subMenu-item"><a href="/widgets-graphics/" data-category="global-nav" data-action="put-petfinder-on-your-site" class='siteNav-main-list-item-subMenu-item-btn' >Put Petfinder on Your Site</a></li>
+	<li id="menu-item-16503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16503 siteNav-main-list-item-subMenu-item"><a href="/forums/" data-category="global-nav" data-action="message-boards" class='siteNav-main-list-item-subMenu-item-btn' >Message Boards</a></li>
+	<li id="menu-item-15725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15725 siteNav-main-list-item-subMenu-item"><a target="_blank" href="http://www.petfinderfoundation.com" data-category="global-nav" data-action="petfinder-foundation" class='siteNav-main-list-item-subMenu-item-btn' >Petfinder Foundation</a></li>
+	<li id="menu-item-16294" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-16294 siteNav-main-list-item-subMenu-item"><a href="/helping-pets/" data-category="global-nav" data-action="more-about-helping-pets" class='siteNav-main-list-item-subMenu-item-btn' >More About Helping Pets</a></li>
+</ul>
+</li>
+<li id="menu-item-13773" class="dd-right menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13773 siteNav-main-list-item js-keyboardFocus"><a href="/videos/" data-category="global-nav" data-action="videos" class='siteNav-main-list-item-btn' >Videos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-19857" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-19857 siteNav-main-list-item-subMenu-item"><a href="/videos/" data-category="global-nav" data-action="videos" class='siteNav-main-list-item-subMenu-item-btn' >Videos</a></li>
+	<li id="menu-item-19859" class="footer menu-item menu-item-type-custom menu-item-object-custom menu-item-19859 siteNav-main-list-item-subMenu-item"><a href="/videos/" data-category="global-nav" data-action="more-pet-videos" class='siteNav-main-list-item-subMenu-item-btn' >More Pet Videos</a></li>
+</ul>
+</li>
+</ul>                    </div>
+                    <div class="siteNav-cta">Find a Pet to Adopt</div>
+                </nav><!-- /navigation -->
+
+                
+<style id="js-antiClickJack-petSearchFormStyle"> .js-antiClickjack-petSearchForm {display:none !important;} </style>
+<script type="text/javascript">
+	if (self === top) {
+		var antiClickjack = document.getElementById("js-antiClickJack-petSearchFormStyle");
+		antiClickjack.parentNode.removeChild(antiClickjack);
+	} else {
+		top.location = self.location;
+	}
+</script>
+
+
+<form id="frm-find-a-pet" class="frm-find-a-pet clear js-sanitize js-antiClickjack-petSearchForm" action="https://www.petfinder.com/pet-search" method="get" autocomplete="off">
+    <div class="petSearch">
+        <fieldset>
+            <ul class="petSearch-filter">
+                <li class="petSearch-filter-param">
+                    <label for="location">Location</label>
+                    <div class="input-wrap input-wrap_fill m-input-wrap_medium">
+                        <div class="styled-text-input">
+                            <input type="text" id="location" class="loc-input-field fap-field" name="location" placeholder="Ex: Atlanta, GA or 30303" required="required" title="Location is required." />
+                        </div>
+                    </div>
+                    <div id="requiredPopup">Please fill out this field.</div>
+                </li>
+                <li class="petSearch-filter-param">
+                    <label for="fap-type">Type</label>
+                    <div class="input-wrap input-wrap_fill m-input-wrap_medium">
+                        <div class="styled-select">
+                            <select id="fap-type" name="animal" class="fap-type pet-types fap-field">
+                                <option value="" class="any">Any</option>
+                                <option value="dog" class="pet dog">Dog</option>
+                                <option value="cat" class="pet cat">Cat</option>
+                                <option value="rabbit" class="pet rabbit">Rabbit</option>
+                                <option value="smallFurry" class="pet small-furry">Small &amp; Furry</option>
+                                <option value="horse" class="pet horse">Horse</option>
+                                <option value="bird" class="pet birds">Bird</option>
+                                <option value="scalesFinsOther" class="pet reptile">Scales, Fins &amp; Others</option>
+                                <option value="barnyard" class="pet barnyard">Barnyard</option>
+                            </select>
+                        </div>
+                    </div>
+                </li>
+                <li class="petSearch-filter-param">
+                    <label for="fap-breed-id">Breed (<a href="/breeds/">See All</a>)</label>
+                    <div class="input-wrap input-wrap_fill m-input-wrap_medium">
+                        <div class="styled-text-input">
+                            <input id="fap-breed-id" class="fap-field" type="text" name="breed" placeholder="Please select Type first" autocomplete="off" />
+                        </div>
+                    </div>
+                </li>
+                <li class="petSearch-filter-param" id="fap-top-age">
+                    <span class="label-cbox">Age</span>
+                    <div class="styled-age-gender-wrap input-wrap input-wrap_fill m-input-wrap_small">
+                        <div class="styled-age-gender js-keyboardFocus">
+                            <div class="styled-age-gender-button"></div>
+                            <div class="selected-value">Any Age</div>
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="age" value="baby" /> Baby</label><br />
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="age" value="young" /> Young</label><br />
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="age" value="adult" /> Adult</label><br />
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="age" value="senior" /> Senior</label>
+                        </div>
+                    </div>
+                </li>
+                <li class="petSearch-filter-param" id="fap-top-gender">
+                    <span class="label-cbox">Gender</span>
+                    <div class="styled-age-gender-wrap input-wrap input-wrap_fill m-input-wrap_small">
+                        <div class="styled-age-gender js-keyboardFocus">
+                            <div class="styled-age-gender-button"></div>
+                            <div class="selected-value">Any</div>
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="gender" value="male" /> Male</label><br />
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="gender" value="female" /> Female</label><br />
+                            <label class="cbox"><input type="checkbox" class="fap-field" name="gender" value="unknown" /> Unknown</label>
+                        </div>
+                    </div>
+                </li>
+                <li class="petSearch-filter-param petSearch-filter-param_offset">
+                                            <input type="hidden" name = "distance"  value = "25" />
+                                        <button type="submit" onclick="purinaTrackEvent('','pet search','submit search criteria')" id="find-pets-btn" class="petSearch-filter-param-btn js-sanitize-submit">Find Pets</button>
+                </li>
+            </ul>
+        </fieldset>
+
+            </div>
+</form><!-- end search form -->
+            </header><!-- /#header -->
+        </div><!-- /.box -->
+    </div><!-- /.site-section -->
+
+    <script id="js-helloBar" type="text/x-handlebars-template">
+        <a href="{{hello_bar_link_target_url}}" class="nrd-helloBar js-helloBar-body"  style="display: none">
+            <div class="nrd-helloBar-inner">
+                {{hello_bar_normal_text}}
+                <span class="u-bold">
+                    {{hello_bar_bold_text}}
+                    <span class="nrd-helloBar-icon nrd-helloBar-icon_chevronRight"></span>
+                </span>
+                <button class="nrd-helloBar-inner-close js-helloBar-close">
+                    <span class="nrd-helloBar-icon nrd-helloBar-icon_closeWhite"></span>
+                </button>
+            </div>
+        </a>
+    </script>
+
+<div class="site-section site-section_main m-site-section_constrained">
+    <div class="grid">
+        <div class="grid-col grid-col_1of1">
+            <div class="box m-box_bg">
+                <div class="box-body m-box-body_noPad">
+                    <div class="vrArray vrArray_4x m-vrArray_piped">
+                        <div>
+					    	<div class="inline-scripts"><link rel="stylesheet" href="https://dlnlzw8bcvvud.cloudfront.net/css/leverage.css?cachebust101220171120"></div>
+<div class="custom-content-wrap">
+<div class="custom-content-wrap-inner">
+<div class="header">
+<div class="hero-slider">
+<div class="slide slide-0">
+<div class="inner">
+<h2>Help Puerto Rico&#8217;s Pets!</h2>
+<p class="teaser">Hurricane Maria has devastated animal shelters and rescue efforts on the island. Your donation will help the Petfinder Foundation save lives.</p>
+<p class="button cta"><a class="read-more-slide-0" href="https://connect.clickandpledge.com/w/Form/7733e56d-1e6c-4cd8-a413-f3d1debef941" target="_blank" data-category="featured content" data-action="slider 0" data-label="Help Puerto Rico's Pets!">Donate Now</a></p>
+</div>
+</div>
+<div class="slide slide-1">
+<div class="inner">
+<h2>Understanding Pet Food Ingredients</h2>
+<p class="teaser">Pet food ingredients and pet nutrition in general can be confusing for pet owners, but by-products get a bad rap that&#8217;s not always deserved.</p>
+<p class="button cta"><a class="read-more-slide-1" href="/dogs/understanding-pet-food-ingredients/" data-category="featured content" data-action="slider 1" data-label="Understanding Pet Food Ingredients">Read More</a></p>
+</div>
+</div>
+<div class="slide slide-2">
+<div class="inner">
+<h2>The Power of Play</h2>
+<p class="teaser">Learn to train your dog while playing! Combined with positive reinforcement your dog will learn the exercise and ultimately begin to predict the desired behavior.</p>
+<p class="button cta"><a class="read-more-slide-2" href="/dog-training/the-power-of-play/" data-category="featured content" data-action="slider 2" data-label="The Power of Play">Read More</a></p>
+</div>
+</div>
+<div class="slide slide-3">
+<div class="inner">
+<h2>Comprehensive Guide to Adopting a Pet</h2>
+<p class="teaser">Adopting a pet is a big step — but we have a feeling your family is ready to grow. Before starting your search, read some of our tips.</p>
+<p class="button cta"><a class="read-more-slide-3" href="/pet-adoption/dog-adoption/the-pet-adoption-guide/" data-category="featured content" data-action="slider 3" data-label="The Comprehensive Guide to Adopting a Pet">Read More</a></p>
+</div>
+</div>
+<div class="slide slide-4">
+<div class="inner">
+<h2>When to Choose a Small Breed Dog Food?</h2>
+<p class="teaser">Every dog has unique needs, and some dogs can benefit from a dog food for small dogs. Here are some things you may want to consider when you&#8217;re looking for a small breed dog food.</p>
+<p class="button cta"><a class="read-more-slide-4" href="/dogs/feeding-small-dogs-choose-small-breed-dog-food/" data-category="featured content" data-action="slider 4" data-label="Feeding Small Dogs: When to Choose a Small Breed Dog Food?">Read More</a></p>
+</div>
+</div>
+<div class="slide slide-5">
+<div class="inner">
+<h2>Wet vs. Dry Cat Food</h2>
+<p class="teaser">It&#8217;s one of the most often asked questions of cat owners: When it comes to feeding my cat, what&#8217;s better? Wet or dry cat food?</p>
+<p class="button cta"><a class="read-more-slide-5" href="/cats/cat-health/wet-vs-dry-cat-food-whats-better-cat/" data-category="featured content" data-action="slider 5" data-label="Wet vs. Dry Cat Food">Read More</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="about">
+<div class="info"> <img class="animated-logo" src="https://www.petfinder.com/wp-content/uploads/2016/08/animated-logo.gif" alt="Petfinder Logo"></p>
+<h2>For the past 20 years, Petfinder has helped 25 million pets find their families through adoption.</h2>
+<p>We&#8217;re using this moment to celebrate our incredible legacy with our shelter and rescue members while inspiring a new generation of pet lovers – just like you – to adopt.</p>
+</div>
+<picture class="left"> <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://www.petfinder.com/wp-content/uploads/2016/08/left-desktop@2x.jpg" media="(min-width: 998px)"><source srcset="https://www.petfinder.com/wp-content/uploads/2016/08/left-tablet@2x.jpg" media="(min-width: 728px)"><!--[if IE 9]></video><![endif]--> <img srcset="https://www.petfinder.com/wp-content/uploads/2016/08/left-base@2x.jpg" alt=""> </picture> <picture class="right"> <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://www.petfinder.com/wp-content/uploads/2016/08/right-desktop@2x.jpg" media="(min-width: 998px)"><source srcset="https://www.petfinder.com/wp-content/uploads/2016/08/right-tablet@2x.jpg" media="(min-width: 728px)"><!--[if IE 9]></video><![endif]--> <img srcset="https://www.petfinder.com/wp-content/uploads/2016/08/right-base@2x.jpg" alt=""> </picture></div>
+<div class="available-pets">
+<div id="welcome-pet-total" data-id="pet-total" class="siteHeader-slogan-highlight total-available-pets">299,890</div>
+<p>Adoptable pets that could be your perfect match</p>
+<p style="display: inline;"> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/slide-5.jpg" alt="A child laying on the bed with their black cat."></p>
+</div>
+<div class="members">
+<div class="total-members-wrap">
+<div id="welcome-shelter-total" data-id="shelter-total" class="siteHeader-slogan-highlight total-members">12,910</div>
+<p>Shelter and rescue members across <b>North America</b></p>
+</div>
+<picture class="right"> <!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://www.petfinder.com/wp-content/uploads/2016/09/SlidingGif_Desktop_NonRetina.jpg" media="(min-width: 998px)"><source srcset="https://www.petfinder.com/wp-content/uploads/2016/09/SlidingGif_Tablet_NonRetina.jpg" media="(min-width: 728px)"><!--[if IE 9]></video><![endif]--> <img srcset="https://www.petfinder.com/wp-content/uploads/2016/09/SlidingGif_Mobile_NonRetina.jpg" alt="Animated image of cats and dogs"> </picture></div>
+<div class="types-of-pets">
+<h3>Pets Available for Adoption</h3>
+<p>Dogs, Cats, Barnyard, Birds, Horses, Rabbits, Scales &amp; Fins, Small &amp; Furry</p>
+</div>
+<div class="tagline">
+<h4>Where pets find their people&trade;</h4>
+</div>
+<div class="timeline">
+<h2>20 Years of Petfinder</h2>
+<h3>25 Million Adopted Pets</h3>
+<div class="graph">
+<p>2006: 10 Million Pets Adopted</p>
+<p>2010: 15 Million Pets Adopted</p>
+<p>2016: 25 Million Pets Adopted</p>
+</div>
+</div>
+<div class="locations-slider">
+<div class="new-jersey location slide">
+<div class="inner">
+<h4>New Jersey</h4>
+<p class="year">1996</p>
+<p class="caption">Betsy Banks Saul and Jared Saul founded Petfinder, the first ever online pet adoption service.</p>
+</div>
+</div>
+<div class="canada location slide">
+<div class="inner">
+<h4>Canada</h4>
+<p class="year">2000</p>
+<p class="caption">The first adoption organization in Canada joins Petfinder.</p>
+</div>
+</div>
+<div class="mexico location slide">
+<div class="inner">
+<h4>Mexico</h4>
+<p class="year">2003</p>
+<p class="caption">The first adoption organization in Mexico joins Petfinder.</p>
+</div>
+</div>
+</div>
+<div class="pull-quote">
+<p>&#8220;You don&#8217;t have to be human to be family.&#8221; &#8211; Meredith, Petfinder Pet Parent</p>
+</div>
+<div class="join">
+<p>Join us for all the latest Petfinder news and updates.</p>
+<form autocomplete="off" class="join-petfinder" action="" method="post"> <label for="email">Your Email:</label> <input type="email" name="email" id="email" class="required email" aria-required="true" value="Your Email"> <input class="submit" name="action" type="submit" value="Submit" data-category="homepage email sign up" data-action="email sign up"></form>
+</div>
+<div class="blog-feed">
+<div class="daily-fetch">
+<h3>The Daily Fetch</h3>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/df-1.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Happy Tail</p>
+<h4><a href="https://www.petfinder.com/blog/2016/02/happy-tail-pony-prances-into-a-couples-life-and-heart/" data-category="homepage featured articles" data-action="article click" data-label="Pony Prance's into a Couple's Life and Heart">Pony Prance&#8217;s into a Couple&#8217;s Life and Heart</a></h4>
+<p> <span class="date">Feb 11, 2016</span></div>
+</article>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/df-2.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Daily Fetch</p>
+<h4><a href="https://www.petfinder.com/blog/2016/02/5-pet-safety-tips-to-always-remember/" data-category="homepage featured articles" data-action="article click" data-label="5 Pet Safety Tips to Always Remember">5 Pet Safety Tips to Always Remember</a></h4>
+<p> <span class="date">by Petfinder</span></div>
+</article>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/df-3.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Happy Tail</p>
+<h4><a href="https://www.petfinder.com/blog/2016/01/happy-tail-for-this-cat-loving-couple-two-is-better-than-one/" data-category="homepage featured articles" data-action="article click" data-label="For this Cat-Loving Couple, Two is Better than One">For this Cat-Loving Couple, Two is Better than One</a></h4>
+<p> <span class="date">Jan 28, 2016</span></div>
+</article>
+</div>
+<div class="about-petfinder">
+<h3>About Pet Adoption</h3>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/about-1.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Dog Adoption</p>
+<h4><a href="https://www.petfinder.com/pet-adoption/dog-adoption/the-pet-adoption-guide/" data-category="homepage featured articles" data-action="article click" data-label="The Comprehensive Guide to Adopting a Pet">The Comprehensive Guide to Adopting a Pet</a></h4>
+<p> <span class="author">by Petfinder</span></div>
+</article>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/about-2.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Cat Adoption</p>
+<h4><a href="https://www.petfinder.com/iamacatparent/" data-category="homepage featured articles" data-action="article click" data-label="I am a Cat Parent">I am a Cat Parent</a></h4>
+<p> <span class="author">by Petfinder</span></div>
+</article>
+<article> <img src="https://www.petfinder.com/wp-content/uploads/2016/08/about-3.jpg" width="123" alt=""></p>
+<div class="intro-content">
+<p class="type">Dog Adoption</p>
+<h4><a href="https://www.petfinder.com/pet-adoption/dog-adoption/finding-your-best-bud/" data-category="homepage featured articles" data-action="article click" data-label="Finding Your Best Bud">Finding Your Best Bud</a></h4>
+<p> <span class="author">by Petfinder</span></div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="inline-scripts"> <script defer src="https://dlnlzw8bcvvud.cloudfront.net/js/leverage.js?cachebust09010923"></script> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>jQuery('.rss_feed article section img').hide();</script>
+
+
+    <div class="site-section m-site-section_constrained">
+        <div class="box m-box_bg">
+            <div class="footerAd">
+                <div id='acm-ad-tag-footer-ad' class='adContainer'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('acm-ad-tag-footer-ad'); });
+    </script>
+</div>            </div>
+            <div class="siteFooter">
+                <div class="backToTop backToTop_isHidden js-backToTop">
+                    <div class="backToTop-btn">
+                        <span class="u-isVisuallyHidden">Return to top of page</span>
+                    </div>
+                    <div class="backToTop-beacon js-backToTop-beacon"></div>
+                </div>
+                <div class="siteFooter-main">
+                    <div class="siteFooter-main-logo">
+                        <img src="https://www.petfinder.com/wp-content/themes/petfinder2013/img/pet_finder_logo_tm.svg" onerror="this.src='https://www.petfinder.com/wp-content/themes/petfinder2013/img/pet_finder_logo_tm.png'; this.onerror=null;" alt="Petfinder" width="160" height="46" />
+                    </div>
+                    <div class="siteFooter-main-social">
+                        <div class="socialGroup">
+                            <div class="socialGroup-title">
+                                <h4>Follow Us</h4>
+                            </div>
+                            <ul class="socialGroup-set js-loginLinksToggler">
+                                <li class="socialGroup-set-media">
+                                    <a href="http://www.facebook.com/Petfinder" class="socialIconSmall socialIconSmall_fb" target="_blank"></a>
+                                </li>
+                                <li class="socialGroup-set-media">
+                                    <a href="http://twitter.com/Petfinder" class="socialIconSmall socialIconSmall_twt" target="_blank"></a>
+                                </li>
+                                <li class="socialGroup-set-media">
+                                    <a href="http://pinterest.com/petfinder" class="socialIconSmall socialIconSmall_pin" target="_blank"></a>
+                                </li>
+                                <li class="socialGroup-set-media">
+                                                                            <a href="https://profiles.petfinder.com/subscription/subscribe/brand/PF" class="socialIconSmall socialIconSmall_mail" target="_blank" data-category="email sign up" data-action="initiate new sign up">&nbsp;</a>
+                                                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="siteFooter-nav">
+                    <h2 class="u-isVisuallyHidden">Site Navigation</h2>
+                    <div class="siteFooter-nav-cell">
+                        <h4 class="widget-title u-vr1x">ABOUT PETFINDER</h4>
+                        <ul class="vrArray vrArray_1x">
+                            <li><a class="link link_alt m-link_xs" href="/about/">About Us</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/pet-adoption/pet-adoption-information/pet-adoption-faqs/">Help</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/mobile/">Mobile Site &amp; Apps</a></li>
+                            <li><a class="link link_alt m-link_xs" target="_blank" href="http://www.petfinderfoundation.com/">Petfinder Foundation</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/widgets-graphics/">Free Widgets &amp; Graphics</a></li>
+                            <li><a class="link link_alt m-link_xs" href="http://newscenter.purina.com" target="_blank">Press</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/register/index.html">For Shelters</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/developers/api-key">For Developers</a></li>
+                        </ul>
+                    </div>
+                    <div class="siteFooter-nav-cell">
+                        <h4 class="widget-title u-vr1x">PET ADOPTION</h4>
+                        <ul class="vrArray vrArray_1x">
+                            <li><a class="link link_alt m-link_xs" href="/pet-adoption/dog-adoption/">Dog Adoption</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/pet-adoption/cat-adoption/">Cat Adoption</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/pet-adoption/other-pet-adoption/">Other Pet Adoption</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/animal-shelters-and-rescues/search/">Search Adoption Organizations</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/adoption-stories/">Pet-Adoption Stories</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/calendar/">Local Adoption Events</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/animal-shelters-and-rescues/">Shelters &amp; Rescues</a></li>
+                        </ul>
+                    </div>
+                    <div class="siteFooter-nav-cell">
+                        <h4 class="widget-title u-vr1x">PET-CARE TOPICS</h4>
+                        <ul class="vrArray vrArray_1x">
+                            <li><a class="link link_alt m-link_xs" href="/dogs/">Dog Care</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/dog-breeds/">Dog Breeds</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/cats/">Cat Care</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/cat-breeds/">Cat Breeds</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/pet-care/">All Pet Care</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/videos/">Pet-Care Videos</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/helping-pets/">Helping Pets</a></li>
+                        </ul>
+                    </div>
+                    <div class="siteFooter-nav-cell">
+                        <h4 class="widget-title u-vr1x">CORPORATE</h4>
+                        <ul class="vrArray vrArray_1x">
+                            <li><a class="link link_alt m-link_xs" href="/partnerships/">Partnerships</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/privacy-policy/">Privacy Policy</a></li>
+                            <li><a class="link link_alt m-link_xs" href="/terms-of-service/">Terms of Service</a></li>
+                            <li><a class="link link_alt m-link_xs" target="_blank" href="https://www.nestlepurinacareers.com/">Careers</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="siteFooter-legal">
+                    <small class="txt m-txt_xs m-txt_gray">All trademarks are owned by Soci&eacute;t&eacute; des Produits Nestl&eacute; S.A., or used with permission.</small>
+                </div>
+            </div>
+        </div><!-- /.box -->
+    </div><!-- /.site-section -->
+</div><!-- /.site -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JAVASCRIPT_ENVIRONMENT = {"production":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.petfinder.com/wp-content/themes/petfinder2013/js/build/main.min.js?ver=1.3'></script>
+<script type='text/javascript' src='https://www.petfinder.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+
+    <!-- handlebar templates -->
+    <script id="js-recentlyViewedPets-template" type="text/x-handlebars-template">
+        <div id="recentpets-container">
+            <div class="content_box" id="recentpets">
+                <h2 class="u-vr3x">Recently Viewed Pets</h2>
+                <ul id="rvp-list" class="grid grid_blocks2up bpMD-grid_blocks4up m-grid_gutterMd">
+                 {{#each pets}}
+                    <li class="grid-col">
+                        <div class="nrd-recentlyViewedPet">
+                            <a href="/petdetail/{{id}}" class="nrd-recentlyViewedPet-image"><img src="{{recentlyViewedPhotoURL}}" alt="{{name}}" data-category="pet details" data-action="click recently viewed pets"/></a>
+                            <a href="/petdetail/{{id}}" class="nrd-recentlyViewedPet-title" data-category="pet details" data-action="click recently viewed pets">{{name}}</a>
+                        </div>
+                    </li>
+                 {{/each}}
+                </ul>
+            </div>
+        </div>
+    </script>
+
+    <script id="js-eventsNearYouModule-template" type="text/x-handlebars-template">
+    <header><h3>Events near you</h3></header>
+
+    <ul class="grid grid_blocks1up bpMD-grid_blocks2up bpLG-grid_blocks1up m-grid_gutterMd">
+        {{#each events}}
+            <div class="grid-col">
+                <div class="item event" itemtype="http://schema.org/Event">
+                    <time itemprop="startDate" content="{{start_date_time}}" class="event-date">
+                        <span>{{start_date_day_shortname}}</span>
+                        {{start_date_month}}{{start_date_day}}
+                    </time>
+                    <div class="content" itemscope="" itemtype="http://schema.org/Place">
+                        <h4 class="js-eventTitle" itemprop="name">
+                            <a href="/calendar/displayevent.cgi?event_id={{event_id}}">
+                                {{title}}
+                            </a>
+                        </h4>
+                        {{#if show_event_duration}}
+                        <time itemprop="endDate" content="{{start_date_time}}">
+                            {{event_start_time}} - {{event_end_time}}
+                        </time>
+                        {{/if}}
+                        <dl>
+                            <dt>Location:</dt>
+                            <dd>
+                                <div itemprop="name">{{location}}</div>
+                                <p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                                    <div itemprop="streetAddress">{{street_address}}</div>
+                                    <span itemprop="addressLocality">{{locality}}{{#if locality}}, {{/if}}</span>
+                                    <span itemprop="addressRegion">{{region}}</span>
+                                    <span itemprop="postalCode">{{postal_code}}</span>
+                                </p>
+                                <p>
+                                    <a href="/calendar/displayevent.cgi?event_id={{event_id}}" class="greater">
+                                        Learn More
+                                    </a>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    </ul>
+    </script>
+
+    <script id="js-eventsNearYouModule-noResultsTemplate" type="text/x-handlebars-template">
+        <header><h3>Events near you</h3></header>
+        <p>No events found near you. <a href="/calendar/">Click here to change search parameters.</a></p>
+    </script>
+
+    <script id="js-petsearch-searchTitle-template" type="text/x-handlebars-template">
+
+        {{#if shelterName}}
+            {{status}}
+            {{pluralize_animal_types results 'Pet' }}
+            {{preposition}}
+            {{shelterName}}
+        {{else}}
+             {{status}}
+
+             {{#ifCond breed '||' type}}
+                {{#ifCond breed '&&' type}}
+                    {{breed}}
+                    {{pluralize_animal_types results type }}
+                {{else}}
+                    {{#if breed}}
+                        {{pluralize_breed results breed}}
+                    {{else}}
+                        {{pluralize_animal_types results type }}
+                    {{/if}}
+                {{/ifCond}}
+            {{else}}
+                {{pluralize_animal_types results 'Pet' }}
+            {{/ifCond}}
+
+            {{preposition}}
+            {{distance}}
+            {{distanceUnits}}
+            {{distancePreposition}}
+            {{location}}
+        {{/if}}
+
+    </script>
+
+    <!-- handlebar templates end -->
+
+
+    <script type="text/javascript" src="//www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+    <script>
+        (function($) {
+            /*fancy box support via jQuery plugin*/
+            if($('.js-emailShare').length) {
+                $('.js-emailShare').on('click', 'a', function(e) {
+                    e.preventDefault();
+                    var $clickTarget = $(e.currentTarget);
+
+                    var modal = new PF['views/modals/EmailShareArticleModalView']();
+                    modal.init()
+                    modal.setTarget($clickTarget)
+                    modal.present();
+                });
+            }
+
+            if($('.js-print-link').length > 0) {
+                $(".js-print-link").on('click', function(e) {
+                    e.preventDefault();
+
+                    if ($('.slideshow').length > 0) {
+                        var printWindow = window.open('?print=true', '_blank', '', true);
+                        if (printWindow.addEventListener) {
+                            printWindow.addEventListener('load', function () {
+                                printWindow.print()
+                            }, false);
+                        } else {
+                            printWindow.attachEvent('onload', function () {
+                                printWindow.print()
+                            })
+                        }
+                    } else {
+                        window.print();
+                    }
+                });
+            }
+
+            /*form validation fallback via jQuery plugin
+            plugin will disable HTML5 form validation
+            custom validation for safari and browseres which dont support input.required*/
+            var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+            if (!Modernizr.input.required || isSafari) {
+                $('form').validator(PF.VALIDATE_OPTIONS);
+            }
+
+            /*set the base url for pet photos*/
+            PF['services/ServiceConfiguration'].photoHost = 'photos.petfinder.com';
+
+            /*create PetSearchFormView for all pages except search results
+            PetSearchFormView is created and managed by PetSearchView for this page*/
+            if(PF['Configuration/isPetSearchPage'] !== true) {
+                var searchFormView = new PF['views/PetSearchFormView']();
+                var petSearchRequestModel = new PF['models/PetSearchRequestModel']().updateFromCookies();
+                searchFormView
+                    .init()
+                    .setPetSearchRequestModel(petSearchRequestModel)
+                    .updateFromPetSearchRequestModel();
+            }
+
+            new PF['views/RecentlyViewedPetsView']()
+                .init();
+
+        /*create slider view if needed*/
+            window.onload = function () {
+                if ($('.js-slider .nrd-slide').size() > 1){
+                    new PF['views/SliderView']()
+                        .setEl($('.js-slider'))
+                        .init();
+                }
+            };
+
+        /*setup header view, it is a singleton*/
+            PF['views/HeaderView']
+                .init()
+                .update();
+
+        /*seutp up sidebar view*/
+            new PF['views/SidebarView']()
+                .setEl($('.js-sidebar'))
+                .init();
+//            new PF['controllers/FormSubmitController']()
+//                .init();
+
+            new PF['views/SearchPageView']().init();
+
+            new PF['views/BackToTopView']().init();
+
+            new PF['views/ConditionalAuthenticationView']()
+                .setEl($('body'))
+                .init();
+
+            new PF['views/HelloBarView']()
+                .setEl($('body'))
+                .init();
+
+            new PF['views/GlobalNavView']()
+                .setEl($('.js-globalNav'))
+                .init();
+
+            new PF['views/SearchFilterVisibilityView']()
+                .setEl($('.js-searchFilter'))
+                .init();
+
+            var $KeyboardFocusView = $('.js-keyboardFocus');
+            $KeyboardFocusView.map(function(i) {
+                new PF['views/KeyboardFocusView']()
+                    .setEl($KeyboardFocusView.eq(i))
+                    .init();
+            });
+
+            if($('#js-video').size() > 0) {
+                new PF['views/VideoView']()
+                    .setEl($('#js-video'))
+                    .init()
+                    .update();
+
+            }
+
+            new PF['views/BlogAuthorSelectView']().init();
+
+            // $('.js-nrdModalTrigger').each(function() {
+            //     var $this = $(this);
+            //     new PF['views/ModalTrigger']()
+            //         .setEl($this)
+            //         .init()
+            //         .setTemplate(
+            //             $this.data('template')
+            //         );
+            // });
+
+            // new PF['views/modals/SpecificModalView']()
+            //     .setEl($('.nrd-modal'))
+            //     .init()
+            //     .present();
+
+
+        }(jQuery));
+    </script>
+    </body>
+</html>

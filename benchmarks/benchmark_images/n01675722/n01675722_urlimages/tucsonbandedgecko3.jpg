@@ -1,0 +1,157 @@
+<!doctype html>
+<html>
+  <head>
+    <title>EBV Photo Gallery</title>
+    <meta name="theme-color" content="#457D70"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel='icon' type='image/png' sizes='16x16' href='http://eastbayvivarium.com/favicon16.png' />
+    <link rel='icon' type='image/png' sizes='32x32' href='http://eastbayvivarium.com/favicon32.png' />
+    <link rel='icon' type='image/png' sizes='64x64' href='http://eastbayvivarium.com/favicon64.png' />
+    <link rel='icon' type='image/png' sizes='128x128' href='http://eastbayvivarium.com/favicon128.png' />
+    <link rel='icon' type='image/png' sizes='256x254' href='http://eastbayvivarium.com/favicon256.png' />
+    <link rel='icon' type='image/png' sizes='512x512' href='http://eastbayvivarium.com/favicon512.png' />
+    <link href="../style_new.css" rel="stylesheet" type="text/css" />
+    <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" async defer
+            src="https://apis.google.com/js/platform.js?publisherid=103171790279899123459">
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-60445604-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+  <a name="top"></a>
+  <body class="container-fluid">
+    <header class="row hidden-sm hidden-xs">
+      <div>
+        <img src="../images/nav/ebvtitle.jpg" alt="EBV Logo" class="pull-left" style="max-height:150px"/>
+        <img src="../images/nav/topbarlizard.jpg" alt="Tiliqua scincoides" class="pull-right"/>
+      </div>
+    </header>
+    <section class="row">
+      <nav class="navbar navbar-default pull-left col-md-3 col-sm-12 col-xs-12" role="navigation">
+        <div class="navbar-header visible-sm-block visible-xs-block">
+          <a class="navbar-brand" href="http://eastbayvivarium.com">
+            <img src="../images/nav/ebvtitle.jpg" alt="EBV Logo" style="max-height:1.5em"/>
+          </a>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-ebv-nav">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <ul class="nav navbar-nav nav-pills nav-stacked collapse navbar-collapse" id="main-ebv-nav">
+          <li role="presentation">
+            <a href="//eastbayvivarium.com" onMouseOver="act('one')" onMouseOut="inact('one')">
+              <img alt="Home" src="../images/nav/option01.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Home</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/virtual/index.html" onMouseOver="act('two')" onMouseOut="inact('two')">
+              <img alt="Virtual Store" src="../images/nav/option02.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Virtual Store</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/pricelist/pricelist.html" onMouseOver="act('three')" onMouseOut="inact('three')">
+              <img alt="Price List" src="../images/nav/option03.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Price List</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/aboutus/shows.html" onMouseOver="act('four')" onMouseOut="inact('four')">
+              <img alt="Birthday Parties and Shows" src="../images/nav/option04.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Shows</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/caresheets/caresheets.html" onMouseOver="act('five')" onMouseOut="inact('five')">
+              <img alt="Care Sheets" src="../images/nav/option05.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Care Sheets</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/gallery/gallery.html" onMouseOver="act('six')" onMouseOut="inact('six')">
+              <img alt="Image Gallery" src="../images/nav/option06.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Gallery</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/aboutus/aboutus.html" onMouseOver="act('seven')" onMouseOut="inact('seven')">
+              <img alt="About Us" src="../images/nav/option07.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">About Us</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/order/order.html" onMouseOver="act('eight')" onMouseOut="inact('eight')">
+              <img alt="Ordering" src="../images/nav/option08.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Ordering</span>
+            </a>
+          </li>
+          <li role="presentation">
+            <a href="//eastbayvivarium.com/contact/contact.html" onMouseOver="act('nine')" onMouseOut="inact('nine')">
+              <img alt="Contact" src="../images/nav/option09.jpg" class="hidden-sm hidden-xs"/>
+              <span class="visible-sm-inline-block visible-xs-inline-block">Contact Us</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <article class="col-md-9 col-sm-12 col-xs-12">
+        <!-- 
+        End additions for mobile compliance at the header level ... 
+        -->
+        <div class="center-block text-center">
+          <h1>
+            Photo Gallery
+          </h1>     
+	  <p>
+            This page is no longer updated, but we frequently post pictures of new animals on our <a href='https://www.facebook.com/EBViv' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>Facebook Page</a>, <a href='https://twitter.com/east_bay_viv' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>Twitter Feed</a>, and <a href='https://plus.google.com/103171790279899123459?prsrc=5' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>Google+ Page</a>. Additionally, representative animals can often be found linked in our <a href="//eastbayvivarium.com/pricelist/pricelist.html">price lists</a>.
+	  </p>
+          <p>
+            This page will be deprecated and removed in the coming months.
+          </p>
+          <div id='simple_share_block' style='text-align:center;'>
+            <p>For up-to-the-minute posts and pictures, check us out on these networks:</p>
+            <a href='https://facebook.com/EBViv' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>
+              <img src='../pricelist/Facebook.png' alt='Facebook' />
+            </a>
+            <a href='https://twitter.com/east_bay_viv' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>
+              <img src='../pricelist/Twitter.png' alt='Twitter' />
+            </a>
+            <a href='https://google.com/+EastBayVivarium' onclick='window.open(this.href); return false;' onkeypress='window.open(this.href); return false;'>
+              <img src='../pricelist/Google+.png' alt='Google+' />
+            </a>
+          </div>
+        </div>
+      </article>
+    </section>
+    <footer class="row clearfix">
+      <p>
+        Copyright &copy;
+        2000-2015 East Bay Vivarium  all
+        photographs
+        <br/>
+        
+        All rights
+        reserved. Do Not Duplicate Without Permission.<br/>
+        All photographs on this site are only
+        representations of the species and may not be the exact specimen
+        available for purchase.
+      </p>
+    </footer>
+
+  </body>
+
+</html>

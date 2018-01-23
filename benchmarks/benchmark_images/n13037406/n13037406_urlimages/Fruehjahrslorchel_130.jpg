@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="de" class="no-js lt-ie9 lt-ie8 lt-ie7" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>         <html lang="de" class="no-js lt-ie9 lt-ie8" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>         <html lang="de" class="no-js lt-ie9" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="de" class="no-js" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>Fehler 404 - Dokument nicht gefunden - BZfE</title>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Diese Seite wird angezeigt, wenn ein angefordertes Dokument auf unserem Server nicht gefunden wurde.">
+        <meta name="keywords" content="Fehler, 404">
+        <meta name="pageid" content="40">
+        <meta name="pagetype" content="onecol">
+        <meta name="date" content="2017-11-26T11:29:38+01:00">
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="category" content="">
+        <meta name="revisit-after" content="1 year">
+                
+        <link rel="canonical" href="https://www.bzfe.de404.php">
+        <link rel="shortcut icon" href="/_data/site/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/_data/site/favicon.ico" type="image/x-icon">
+        
+        <meta property="og:url" content="https://www.bzfe.de404.php">
+        <meta property="og:title" content="Fehler 404 - Dokument nicht gefunden">
+        <meta property="og:description" content="Die von Ihnen gew&auml;hlte Adresse/URL ist auf unserem Server nicht bzw. nicht mehr vorhanden.">                
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="/_data/site/project.css">
+<style type="text/css">
+ 
+ @font-face { font-family: "slick"; src: url("/_data/site/slick.eot"); src: url("/_data/site/slick.eot?#iefix") format("embedded-opentype"), url("/_data/site/slick.woff") format("woff"), url("/_data/site/slick.ttf") format("truetype"), url("/_data/site/slick.svg#slick") format("svg"); font-weight: normal; font-style: normal; }
+</style>
+<link rel="stylesheet" href="/_data/site/css-datei-30029.css">
+<script src="/_data/site/top.js"></script>
+ 
+ 
+        <script>
+        function sformat(s) {
+            var h = Math.floor(s/3600); 
+            s -= h*3600;
+            var m = Math.floor(s/60);
+            s -= m*60;
+            return m+":"+(s < 10 ? '0'+Math.round(s) : Math.round(s));
+        }
+        var curPlaying;
+        var curButton;
+        </script>
+    </head>
+    <body id="pageid_40" class="menu-use-csshover pagelayout-onecol">
+        <!--[if lt IE 7]>
+            <p class="browsehappy">Sie benutzen einen <strong>veralteten</strong> Browser. Bitte <a href="http://browsehappy.com/">aktualisieren Sie Ihren Browser</a> für einen besseren und sichereren Zugang ins Internet.</p>
+        <![endif]-->
+     
+        <a id="start"></a>
+        
+        <div class="skip-navigation" title="Stand: 22.05.2017 09:38 ID:40">
+            <span class="sr-only">Springe direkt</span>        
+            <a class="sr-only sr-only-focusable" href="#content">zum Inhalt</a>
+            <span class="sr-only">,</span>        
+            <a class="sr-only sr-only-focusable" href="#navbar-collapse-main">zum Menü</a>
+            <span class="sr-only">.</span>    
+        </div>
+        
+        <div id="pagetitle" class="sr-only">
+            <h1>Fehler 404 - Dokument nicht gefunden</h1>
+        </div>
+        
+        <header id="header" data-spy="affix" data-offset-top="60" data-offset-bottom="200" role="banner">
+            <div class="container">
+                <h2 class="sr-only">Navigation und Service</h2>
+                <div class="menu-main">
+                    <nav id="nav-main" class="navbar navbar-default" role="navigation">
+                        <div class="navbar-header">
+                            <h3 class="sr-only">Hauptmenü</h3>
+                            <button type="button" class="navbar-toggle c-hamburger c-hamburger--htx" data-toggle="collapse" data-target="#navbar-collapse-main">
+                                <span>Menü umschalten</span>
+                            </button>
+                            <a href="/inhalt/suche.php" title="" class="mobile-search">
+                                <span>Suche</span>
+                            </a>
+                            <div class="site-title">
+                                <a href="/index.html" class="navbar-brand" title="BLE">
+                                    <img class="logo" src="/_data/site/img/bzfe_logo.png" alt="Logo BLE">
+                                    <strong class="sr-only"><br />BLE</strong>
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <div class="collapse navbar-collapse" id="navbar-collapse-main">
+                            <ul class="nav navbar-nav">                                                                                      
+                            
+                        <li data-id="901443cc-cecf-4533-8d67-53f948b796c2" role="presentation" class="dropdown "><a href="/ernaehrung-18.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ernährung <span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li data-id="bb033222-5535-4320-b0ed-86c237e8afb2" role="presentation"><a href="/inhalt/ernaehrungspyramide-615.html">Die Ernährungspyramide</a></li>
+ <li data-id="5d10f6cc-577c-44fd-9d41-71ab5b6b7f5a" role="presentation"><a href="/inhalt/ernaehrungswissen-616.html">Ernährungswissen</a></li>
+ <li data-id="fc785510-a512-460a-ac53-cdfa572d6bac" role="presentation"><a href="/inhalt/beratungspraxis-617.html">Beratungspraxis</a></li>
+ <li data-id="67a96432-195f-4753-9616-76d5845c1a89" role="presentation"><a href="/inhalt/ernaehrungskommunikation-618.html">Ernährungskommunikation</a></li>
+ <li data-id="d650bd5b-c8d1-48f4-a176-ae798eb1ed65" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="aa2767dc-2a03-4ae4-a5c7-e35bfbc85d38" role="presentation"><a href="/inhalt/ernaehrung-im-fokus-93.html">Fachzeitschrift Ernährung im Fokus</a></li>
+ </ul></li>
+ <li data-id="3861c5ad-8f32-451f-8237-d71781d68553" role="presentation" class="dropdown "><a href="/lebensmittel-16.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Lebensmittel <span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li data-id="65594488-696c-484f-aa61-69937d6f066f" role="presentation"><a href="/inhalt/vom-acker-bis-zum-teller-489.html">Vom Acker bis zum Teller</a></li>
+ <li data-id="acddd006-aa98-4ef6-80a5-cb7b4fb4538a" role="presentation"><a href="/inhalt/trendlebensmittel-466.html">Trendlebensmittel</a></li>
+ <li data-id="7fe872ef-1a37-42c5-88f2-f3324c5b6062" role="presentation"><a href="/inhalt/lebensmittelkunde-465.html">Lebensmittelkunde</a></li>
+ <li data-id="a8816347-8c4f-4af0-a348-ad63ad203d64" role="presentation"><a href="/inhalt/einkauf-und-kennzeichnung-468.html">Einkauf und Kennzeichnung</a></li>
+ <li data-id="521735d6-978d-469f-a74a-333b62f3d629" role="presentation"><a href="/inhalt/zubereitung-und-lagerung-469.html">Zubereitung und Lagerung</a></li>
+ <li data-id="697545bb-0242-40c3-955f-44d7d50f3d0a" role="presentation"><a href="/inhalt/hygiene-1855.html">Hygiene</a></li>
+ <li data-id="d8092d30-4e7e-41cd-bcf0-ffdbcf82be0e" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="513c112a-006d-41c6-9143-519aa5cf6172" role="presentation"><a href="/inhalt/was-wir-essen-blog-70.php">was-wir-essen-Blog</a></li>
+ <li data-id="a28c82cc-38cc-44ff-8f1f-43e646515449" role="presentation"><a href="/inhalt/ernaehrung-im-fokus-93.html">Fachzeitschrift Ernährung im Fokus</a></li>
+ </ul></li>
+ <li data-id="1aa991d3-e1e0-452e-83bd-58bea901c7c3" role="presentation" class="dropdown "><a href="/nachhaltiger-konsum-29922.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Nachhaltiger Konsum <span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li data-id="bd3e144f-dc8d-484b-87c3-eb46defe0379" role="presentation"><a href="/inhalt/nachhaltig-essen-warum-31289.html">Nachhaltig essen - warum?</a></li>
+ <li data-id="8538534b-7ad1-4e07-9ea8-1c3813249ce7" role="presentation"><a href="/inhalt/netzwerke-bilden-31290.html">Netzwerke bilden</a></li>
+ <li data-id="63f92ab1-387a-477c-b376-1183c5f6945e" role="presentation"><a href="/inhalt/staedte-essbar-machen-31291.html">Städte essbar machen</a></li>
+ <li data-id="018fa426-ba00-477d-ae82-c1d576575001" role="presentation"><a href="/inhalt/einkaufsorte-finden-31292.html">Einkaufsorte finden</a></li>
+ <li data-id="2a69c665-499b-40ba-9585-ff471b840f08" role="presentation"><a href="/inhalt/orientierung-beim-einkauf-31293.html">Orientierung beim Einkauf</a></li>
+ <li data-id="891755c0-d716-4955-98f4-c82ee65e1eea" role="presentation"><a href="/inhalt/lagern-kochen-essen-teilen-31294.html">Lagern, Kochen, Essen, Teilen</a></li>
+ <li data-id="fc802f94-47df-4437-b091-7c6a0698a9cf" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="3c7cc505-a3c2-48d6-8fdc-814e596bce89" role="presentation"><a href="/inhalt/nachhaltiger-konsum-29922.html">was-wir-essen-Blog</a></li>
+ </ul></li>
+ <li data-id="de0e5ea2-8e30-4102-90c3-168f8adeb283" role="presentation" class="dropdown "><a href="/bildung-73.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Bildung <span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li data-id="9cb114a7-2cb0-4ed7-9691-d0e16bf01195" role="presentation"><a href="/inhalt/ernaehrungs-und-verbraucherbildung-in-der-schule-931.html">Ernährungs- und Verbraucherbildung</a></li>
+ <li data-id="7164d580-c35d-48bc-b9fb-5d5a1a4f264c" role="presentation"><a href="/inhalt/landwirtschaft-wald-2997.html">Landwirtschaft + Wald</a></li>
+ <li data-id="aa242c3d-8aef-4183-92e7-6c92dd53a93f" role="presentation"><a href="/inhalt/garten-2914.html">Mit Kindern in den Garten</a></li>
+ <li data-id="24e1674a-5350-410f-b9f4-3b9510d96e3b" role="presentation"><a href="/inhalt/didaktik-methodik-1485.html">Didaktik + Methodik</a></li>
+ <li data-id="69115bb0-28b6-4825-a04c-9af8a9c243b8" role="presentation"><a href="/inhalt/gesunder-schulalltag-1938.html">Gesunder Schulalltag</a></li>
+ <li data-id="6e7df797-d11a-46ab-9bfc-d9f48cd68716" role="presentation"><a href="/inhalt/kita-tagespflege-1332.html">Kita / Tagespflege</a></li>
+ <li data-id="1b0969e2-c2eb-4852-aa7d-cb95ceac4dc8" role="presentation"><a href="/inhalt/erwachsenenbildung-1396.html">Erwachsenenbildung</a></li>
+ <li data-id="bdc256b7-2d7c-4de6-9e0a-8c7ee05f90a5" role="presentation"><a href="/inhalt/online-befragung-31088.html">Bildungsnews</a></li>
+ </ul></li>
+ 
+            
+ 
+ 
+ 
+                            </ul>
+                            
+                            <h3 class="sr-only">Servicemenü</h3>
+                            <ul id="nav-service" class="nav nav-pills">
+                                <li  role="presentation"><a href="/inhalt/ueber-das-bzfe-30046.html">Über das BZfE</a></li><li  role="presentation"><a href="/inhalt/service-89.html">Service</a></li><li  role="presentation"><a href="/inhalt/news-122.html">News</a></li><li  role="presentation"><a href="https://shop.aid.de">Shop</a></li><li  role="presentation"><a href="/inhalt/kontakt-98.php">Kontakt</a></li>
+                            </ul>
+                            
+                            <h3 class="sr-only">Volltextsuche</h3>
+                            <form action="/inhalt/suche.php" class="navbar-form navbar-right" method="get" role="search">
+                                <div class="input-group">
+                                    <input type="text" id="query" name="q" class="form-control input-search" placeholder="Suchen nach...">
+                                    <span class="input-group-btn">
+                                        <button type="submit" class="btn btn-default" aria-label="Suche starten">
+                                            <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                                        </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                    </nav>
+                </div>    
+            </div>
+        </header>
+        
+        <div itemscope itemtype="http://schema.org/Article">
+                        <div id="content" class="container">
+                <article id="main-article">
+                                        <div class="row">
+                                                
+                                                    <div class="col-md-12">
+                                                                                                            <header id="article-header">
+                                <div class="page-header">
+                                    
+                                                                                                                    
+                                                                                                                
+                                    <h2><span class="headline" itemprop="headline">Fehler 404 - Dokument nicht gefunden</span></h2>
+                                </div>
+                            </header>
+                                                        <div id="content_article">
+                            
+                                                                
+                                     
+
+                                    
+                                    <div class="lead" itemprop="description">
+                                        <p>Die von Ihnen gew&auml;hlte Adresse/URL ist auf unserem Server nicht bzw. nicht mehr vorhanden.</p>                                    </div>
+                                    
+                                    
+                                                                        
+                                                                                                            <div class="page-teaser page-teaser--imagecenter">    <figure class="teaser-image" itemprop="image" itemscope itemtype="http://schema.org/ImageObject" data-teaser-small-src="">     </figure></div>
+                                                                         
+               
+                                    <div class="article texteditor" itemprop="articleBody">
+
+
+<div class="form if_flexform"><form name="kontaktformular_auf_aid.de" class="form-horizontal" action="/inhalt/suche.php" method="get">
+
+
+<fieldset class="col-md-6">
+<legend></legend>
+
+
+				<div id="searchfield" class="form-group formitem object_input type_text">
+
+										<label for="inpQuery">Nach der gewünschten Seite suchen</label><br>
+										<input id="query" name="q" type="text" placeholder="Suchen nach..." value="" class="form-control input-md input-search" maxlength="200" autocomplete="off">
+				</div>
+
+
+
+            <div class="form-group">
+
+					<input id="if_sendform" class="btn btn-default" name="if_sendform" type="submit" value="Suche starten">
+
+			            </div>
+
+							            </fieldset>
+
+</form></div>
+
+<h3>M&ouml;gliche Gr&uuml;nde hierf&uuml;r k&ouml;nnen sein:</h3>
+
+<ul>
+	<li>
+	<p><strong>Sie haben ein Lesezeichen verwendet:</strong><br />
+	Die Stuktur der Website hat sich ge&auml;ndert. Sicherlich finden Sie die von Ihnen gew&uuml;nschten Informationen an anderer Stelle. Verwenden Sie hierf&uuml;r unsere Suche oder entdecken Sie unser komplettes Angebot von der <a href="/index.html">Homepage</a> aus.</p>
+	</li>
+	<li>
+	<p><strong>Sie haben die Adresse per Hand in die Adresszeile Ihres Browsers eingegeben:</strong><br />
+	M&ouml;glicherweise haben Sie sich vertippt oder die Adresse ist veraltet. Kontrollieren Sie die Eingabe und versuchen Sie es erneut!</p>
+	</li>
+	<li>
+	<p><strong>Inhalt und Design dieser Seite werden derzeit &uuml;berarbeitet.</strong><br />
+	Versuchen Sie es in einigen Minuten noch einmal.</p>
+	</li>
+	<li>
+	<p><strong>Sie haben einen Link innerhalb unserer Webseiten geklickt:</strong><br />
+	Der Link ist wahrscheinlich falsch. Wir werden ihn so schnell wie m&ouml;glich korrigieren, wenn Sie eine kurze E-Mail an unseren Service schreiben. Bitte nennen Sie darin unbedingt die Adresse der Seite, auf der Sie den Link gefunden haben. Vielen Dank.</p>
+	</li>
+	<li>
+	<p><strong>Sie sind &uuml;ber einen Link einer anderen Website auf diese Seite gelangt:</strong><br />
+	Die Seite ist nicht vorhanden. Sie k&ouml;nnen den Betreiber der anderen Website darauf hinweisen.</p>
+	</li>
+</ul>
+
+<p>Sicherlich finden Sie andere interessante Themen in unserem Angebot &uuml;ber die <a href="/index.html">Homepage</a> oder die Suche. Fragen und Anregungen zum Angebot nimmt unsere Redaktion gerne entgegen.</p>
+<h3>Der aid infodienst e.V hat sich verändert!</h3>
+<p>Der aid infodienst e.V. (aid) existiert in seiner ursprünglichen Form nicht mehr. Unter dem Dach der Bundesanstalt für Landwirtschaft und Ernährung (BLE) wurden zwei neue zentrale Einrichtungen gegründet: Das Bundeszentrum für Ernährung (BZfE) und das <a class="external" href="http://www.ble.de/DE/BZL/bzl_node.html" rel="external" target="_blank">Bundesinformationszentrum Landwirtschaft (BZL)</a>.</p>
+<p>In den beiden Zentren werden die Kompetenzen der BLE und des bisherigen aid neu gebündelt.</p>
+
+<figure class="cms-imagebox left">
+<div class="cms-imagebox-image"><img alt="Logo des BZL" src="/_data/site/img/bzl.jpg" title=""></div>
+
+<div class="cms-imagebox-copyright-wrapper">
+<footer class="cms-imagebox-copyright">BLE</footer>
+</div>
+
+<figcaption class="cms-imagebox-caption"></figcaption>
+</figure>
+<p>Ziel des BZL ist es, durch neutrale und wissensbasierte Information ein besseres Verständnis heutiger Landwirtschaft zu fördern und einen Beitrag zum gesellschaftlichen Dialog über Landwirtschaft und ihre Rolle in der Gesellschaft zu leisten.</p>
+<p></p>
+<p>Vielen Dank f&uuml;r Ihre Unterst&uuml;tzung.</p>
+
+</div>
+                                                            </div>
+                            
+                            
+                                                        
+                            
+                            
+                                                        <footer class="article-footer hidden-print sr-only" id="article-footer">
+                                                                    <a class="favorit" id="favorit" data-page-id="40" href="">als hilfreich bewerten <span id="count" class="count jget-count" data-page-id="40">0</span></a>
+                                    <a href="mailto:?body=http://www.bzfe.de/404.php" class="mail">Versenden</a>
+                                    <script type="text/javascript">
+/* <![CDATA[ */
+eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6a%61%76%61%73%63%72%69%70%74%3a%77%69%6e%64%6f%77%2e%70%72%69%6e%74%28%29%22%20%63%6c%61%73%73%3d%22%70%72%69%6e%74%20%68%69%64%64%65%6e%2d%73%6d%20%68%69%64%64%65%6e%2d%78%73%22%3e%44%72%75%63%6b%65%6e%3c%2f%61%3e%27%29%3b'));
+/* ]]> */
+</script>
+                                                                <div class="social shariff" data-services="[&quot;twitter&quot;,&quot;facebook&quot;,&quot;googleplus&quot;]" data-theme="white"></div>
+                                
+                            </footer>
+                                                        <!-- zusätzliche CONTAINER START -->
+                                
+                            <!-- zusätzliche CONTAINER ENDE -->
+                            
+                                                    </div>
+                                                
+                    </div>
+                </article>
+            </div>
+        </div>
+        
+<footer id="footer">
+    <hr class="hidden" />
+    <h2 class="sr-only">Weitere Navigationsmöglichkeiten</h2>
+            
+    
+    <div class="container">
+        <nav role="navigation" class="hidden-print">
+            <!--
+            <div class="row special-links">
+                <h3 class="sr-only">Allgemein</h3>
+                <div class="col-xs-6 col-sm-3">
+                    <a class="impressum" href="/inhalt/impressum-11.html">Impressum</a>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <a class="kontakt" href="#">Kontakt</a>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <a class="anfahrt" href="#">Anfahrt</a>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <a class="mitglieder" href="http://www.informedia.de">Datenschutz</a>
+                </div>
+            </div>
+            -->
+            
+            <div class="servicebar">
+                <ul>
+                  <li>
+                    <a href="https://twitter.com/bzfe_de" class="servicebar-button twitter">                              
+                      <span>BZfE auf Twitter folgen</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/inhalt/rss-feed-twitter-und-co-1844.html" class="servicebar-button rss">
+                      <span>RSS-Feed abonnieren</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.youtube.com/channel/UCmKc8jm89oS9qIE4BbSqK2Q" title="" class="servicebar-button youtube">
+                      <span>BZfE auf Youtube</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/inhalt/aid-apps-2031.html" class="servicebar-button apps">
+                      <span>BZfE Apps</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.facebook.com/bzfe.bund" class="servicebar-button facebook">
+                      <span>BZfE auf Facebook</span>
+                    </a>
+                  </li>
+                  <!--<li>
+                    <a href="#" class="servicebar-button googlep">
+                      <span>aid auf Google+</span>
+                    </a>
+                  </li>-->
+                  <li>
+                    <a href="/inhalt/was-wir-essen-forenarchiv-5142.html" class="servicebar-button foren">
+                      <span>BZfE-Foren</span>
+                    </a>
+                  </li>
+                </ul>
+            </div>
+            
+        
+            <div class="row footer-links">
+                <h3 class="sr-only">Angebote</h3>
+                
+ 
+                        
+        <div class="col-sm-2">
+            <h4><a href="/inhalt/info-88.html">Info</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="6dd2d686-c46c-4e7e-b930-394b1a3aaa3d" role="presentation"><a href="/inhalt/inhalt-33.html">Sitemap</a></li>
+ <li data-id="e7f0a797-afe8-4f1c-a5d5-f0fbc9cc1178" role="presentation"><a href="/inhalt/ueber-das-bzfe-30046.html">Über das BZfE</a></li>
+ <li data-id="98a1c6ac-00df-4298-93c5-9d9d1b0b83a0" role="presentation"><a href="/inhalt/impressum-11.html">Impressum und Datenschutz</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/inhalt/service-89.html">Service</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="b084baf6-c3f3-4592-aa73-92d04362a686" role="presentation"><a href="/inhalt/kontakt-98.php">Kontakt</a></li>
+ <li data-id="0d19ec96-cca9-4722-bd1b-deed669d32dc" role="presentation"><a href="/inhalt/ansprechpartner-101.html">Ansprechpartner</a></li>
+ <li data-id="dcb2a005-0f5b-4556-ad9a-c4e013fb3d53" role="presentation"><a href="/inhalt/news-122.html">News </a></li>
+ <li data-id="f406542d-124e-4815-83af-b10d6e19e121" role="presentation"><a href="/inhalt/veranstaltungen-5255.html">Termine</a></li>
+ <li data-id="79bd59eb-d6e2-4b7b-9ca8-22a08170a559" role="presentation"><a href="/inhalt/wie-sie-uns-finden-100.html">Anreise</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/inhalt/mediathek-90.html">Mediathek</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="4e1bd951-943b-4978-a3fc-6fd9238bdac4" role="presentation"><a href="/inhalt/aid-apps-2031.html">Apps</a></li>
+ <li data-id="efd43b53-3640-4033-8dbf-ee0c6653173c" role="presentation"><a href="/inhalt/hoerfunkbeitraege-1837.html">Hörfunkbeiträge</a></li>
+ <li data-id="bc3accee-213e-4db8-b516-80bcf07fa9eb" role="presentation"><a href="/inhalt/webinare-514.html">Webinare</a></li>
+ <li data-id="f2386004-0a0b-4abb-9e30-3c3aa34ab6f2" role="presentation"><a href="/inhalt/bilderstrecken-6072.html">Bilderstrecken</a></li>
+ <li data-id="8a0f8b3e-fea0-408c-bcf0-fb82701b53ec" role="presentation"><a href="/inhalt/pageflow-5642.html">Pageflow</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/inhalt/was-wir-essen-blog-70.php">was-wir-essen-Blog</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="30956703-3c51-40ff-ae37-c2a5263c8a60" role="presentation"><a href="/inhalt/blog-archiv-2016-94.php">Blog-Archiv</a></li>
+ <li data-id="1b558a25-b9e8-47af-819e-fd90f99c0f70" role="presentation"><a href="/inhalt/die-bloggerinnen-95.html">Die Bloggerinnen</a></li>
+ <li data-id="286b693a-f7a5-48ae-986b-5f321c884af8" role="presentation"><a href="/inhalt/ueber-diesen-blog-6077.html">Über diesen Blog</a></li>
+ <li data-id="0feb3817-956e-4384-9c37-7ade3bd3d9ec" role="presentation"><a href="/inhalt/blog-netiquette-5266.html">Blog-Netiquette</a></li>
+ <li data-id="b830278e-b69b-4e21-84a5-c220a5edef3f" role="presentation"><a href="/inhalt/was-wir-essen-forenarchiv-5142.html">was-wir-essen-Forenarchiv</a></li>
+ 
+            </ul>
+        </div>
+    
+            
+ 
+ 
+                
+                <div class="col-sm-2 social">
+                    <h4>Informiert bleiben <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+                    <ul class="nav nav-pills nav-stacked">
+                        <li role="presentation"><a href="/newsletter/?p=subscribe&id=2" class="newsletter">Newsletter</a></li>
+                        <li role="presentation"><a href="https://twitter.com/bzfe_de" class="twitter">auf Twitter folgen</a></li>
+                        <li role="presentation"><a href="https://www.youtube.com/channel/UCmKc8jm89oS9qIE4BbSqK2Q" class="youtube">BZfE auf Youtube</a></li>
+                        <li role="presentation"><a href="https://www.facebook.com/bzfe.bund" class="facebook">BZfE auf Facebook</a></li>
+                        <li role="presentation"><a href="/inhalt/rss-feed-twitter-und-co-1844.html" class="facebook">RSS-Feed abonnieren</a></li>
+                        <!-- <li role="presentation"><a href="#" class="googlep">aid auf Google+</a></li> -->
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="row footer-links">
+                <h3>Themenportale</h3>
+                
+                        
+        <div class="col-sm-2">
+            <h4><a href="/ernaehrung-18.html">Ernährung</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="bb033222-5535-4320-b0ed-86c237e8afb2" role="presentation"><a href="/inhalt/ernaehrungspyramide-615.html">Die Ernährungspyramide</a></li>
+ <li data-id="5d10f6cc-577c-44fd-9d41-71ab5b6b7f5a" role="presentation"><a href="/inhalt/ernaehrungswissen-616.html">Ernährungswissen</a></li>
+ <li data-id="fc785510-a512-460a-ac53-cdfa572d6bac" role="presentation"><a href="/inhalt/beratungspraxis-617.html">Beratungspraxis</a></li>
+ <li data-id="67a96432-195f-4753-9616-76d5845c1a89" role="presentation"><a href="/inhalt/ernaehrungskommunikation-618.html">Ernährungskommunikation</a></li>
+ <li data-id="d650bd5b-c8d1-48f4-a176-ae798eb1ed65" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="aa2767dc-2a03-4ae4-a5c7-e35bfbc85d38" role="presentation"><a href="/inhalt/ernaehrung-im-fokus-93.html">Fachzeitschrift Ernährung im Fokus</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/lebensmittel-16.html">Lebensmittel</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="65594488-696c-484f-aa61-69937d6f066f" role="presentation"><a href="/inhalt/vom-acker-bis-zum-teller-489.html">Vom Acker bis zum Teller</a></li>
+ <li data-id="acddd006-aa98-4ef6-80a5-cb7b4fb4538a" role="presentation"><a href="/inhalt/trendlebensmittel-466.html">Trendlebensmittel</a></li>
+ <li data-id="7fe872ef-1a37-42c5-88f2-f3324c5b6062" role="presentation"><a href="/inhalt/lebensmittelkunde-465.html">Lebensmittelkunde</a></li>
+ <li data-id="a8816347-8c4f-4af0-a348-ad63ad203d64" role="presentation"><a href="/inhalt/einkauf-und-kennzeichnung-468.html">Einkauf und Kennzeichnung</a></li>
+ <li data-id="521735d6-978d-469f-a74a-333b62f3d629" role="presentation"><a href="/inhalt/zubereitung-und-lagerung-469.html">Zubereitung und Lagerung</a></li>
+ <li data-id="697545bb-0242-40c3-955f-44d7d50f3d0a" role="presentation"><a href="/inhalt/hygiene-1855.html">Hygiene</a></li>
+ <li data-id="d8092d30-4e7e-41cd-bcf0-ffdbcf82be0e" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="513c112a-006d-41c6-9143-519aa5cf6172" role="presentation"><a href="/inhalt/was-wir-essen-blog-70.php">was-wir-essen-Blog</a></li>
+ <li data-id="a28c82cc-38cc-44ff-8f1f-43e646515449" role="presentation"><a href="/inhalt/ernaehrung-im-fokus-93.html">Fachzeitschrift Ernährung im Fokus</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/nachhaltiger-konsum-29922.html">Nachhaltiger Konsum</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="bd3e144f-dc8d-484b-87c3-eb46defe0379" role="presentation"><a href="/inhalt/nachhaltig-essen-warum-31289.html">Nachhaltig essen - warum?</a></li>
+ <li data-id="8538534b-7ad1-4e07-9ea8-1c3813249ce7" role="presentation"><a href="/inhalt/netzwerke-bilden-31290.html">Netzwerke bilden</a></li>
+ <li data-id="63f92ab1-387a-477c-b376-1183c5f6945e" role="presentation"><a href="/inhalt/staedte-essbar-machen-31291.html">Städte essbar machen</a></li>
+ <li data-id="018fa426-ba00-477d-ae82-c1d576575001" role="presentation"><a href="/inhalt/einkaufsorte-finden-31292.html">Einkaufsorte finden</a></li>
+ <li data-id="2a69c665-499b-40ba-9585-ff471b840f08" role="presentation"><a href="/inhalt/orientierung-beim-einkauf-31293.html">Orientierung beim Einkauf</a></li>
+ <li data-id="891755c0-d716-4955-98f4-c82ee65e1eea" role="presentation"><a href="/inhalt/lagern-kochen-essen-teilen-31294.html">Lagern, Kochen, Essen, Teilen</a></li>
+ <li data-id="fc802f94-47df-4437-b091-7c6a0698a9cf" role="presentation"><a href="/bildung-73.html">Bildung</a></li>
+ <li data-id="3c7cc505-a3c2-48d6-8fdc-814e596bce89" role="presentation"><a href="/inhalt/nachhaltiger-konsum-29922.html">was-wir-essen-Blog</a></li>
+ 
+            </ul>
+        </div>
+    
+        <div class="col-sm-2">
+            <h4><a href="/bildung-73.html">Bildung</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="9cb114a7-2cb0-4ed7-9691-d0e16bf01195" role="presentation"><a href="/inhalt/ernaehrungs-und-verbraucherbildung-in-der-schule-931.html">Ernährungs- und Verbraucherbildung</a></li>
+ <li data-id="7164d580-c35d-48bc-b9fb-5d5a1a4f264c" role="presentation"><a href="/inhalt/landwirtschaft-wald-2997.html">Landwirtschaft + Wald</a></li>
+ <li data-id="aa242c3d-8aef-4183-92e7-6c92dd53a93f" role="presentation"><a href="/inhalt/garten-2914.html">Mit Kindern in den Garten</a></li>
+ <li data-id="24e1674a-5350-410f-b9f4-3b9510d96e3b" role="presentation"><a href="/inhalt/didaktik-methodik-1485.html">Didaktik + Methodik</a></li>
+ <li data-id="69115bb0-28b6-4825-a04c-9af8a9c243b8" role="presentation"><a href="/inhalt/gesunder-schulalltag-1938.html">Gesunder Schulalltag</a></li>
+ <li data-id="6e7df797-d11a-46ab-9bfc-d9f48cd68716" role="presentation"><a href="/inhalt/kita-tagespflege-1332.html">Kita / Tagespflege</a></li>
+ <li data-id="1b0969e2-c2eb-4852-aa7d-cb95ceac4dc8" role="presentation"><a href="/inhalt/erwachsenenbildung-1396.html">Erwachsenenbildung</a></li>
+ <li data-id="bdc256b7-2d7c-4de6-9e0a-8c7ee05f90a5" role="presentation"><a href="/inhalt/online-befragung-31088.html">Bildungsnews</a></li>
+ 
+            </ul>
+        </div>
+    
+            
+ 
+ 
+ 
+            </div>
+            
+            <div class="row footer-links">
+                <h3>Fachzeitschrift</h3>
+                
+ 
+ 
+                        
+        <div class="col-sm-2">
+            <h4><a href="/inhalt/ernaehrung-im-fokus-93.html">Ernährung im Fokus</a> <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></h4>
+            <ul class="nav nav-pills nav-stacked">
+                <li data-id="c4c9c21a-1cad-429c-af49-7554b02e22c8" role="presentation"><a href="/inhalt/online-spezial-4247.html">Online-Spezial</a></li>
+ <li data-id="5da85527-0041-4252-b24b-b9419b0655ef" role="presentation"><a href="/inhalt/abo-4251.html">Abonnent werden</a></li>
+ <li data-id="643b1f18-4c4b-4325-937d-84171eee3f26" role="presentation"><a href="/inhalt/archiv-4249.html">Archiv </a></li>
+ <li data-id="587f23c9-3a0a-4067-a620-695f2b90d6f1" role="presentation"><a href="/inhalt/probeexemplar-4250.php">Probeexemplar</a></li>
+ <li data-id="4427d3f6-f8dd-4d4c-8ca5-4c46e0f2d8a0" role="presentation"><a href="/newsletter/?p=subscribe&id=2">Benachrichtigungsservice</a></li>
+ <li data-id="dc63fe8f-340c-4509-bb8b-c5de1580cea5" role="presentation"><a href="/inhalt/kontakt-4245.html">Kontakt</a></li>
+ <li data-id="ed9d807a-6e28-4e8e-a897-4b5559e5ccf4" role="presentation"><a href="/inhalt/login.php">Login</a></li>
+ 
+            </ul>
+        </div>
+    
+            
+ 
+            </div>
+            
+            <div class="toplink text-center"><a class="button" href="#top" title="An Seitenanfang springen">nach oben</a></div>
+        </nav>
+        <hr class="hidden" />
+        <p class="text-left">© 2017 BLE</p>
+    </div>
+</footer>
+<script src="/_data/site/bottom.js"></script>
+
+
+<!-- dont load jquery twice it makes jquery plugins crash
+<script type="text/javascript" src="/_common/search/solr-search/web/jquery-1.10.2.min.js"></script>
+-->
+<script type="text/javascript" src="/_common/search/solr-search/web/jquery.autocomplete.min.js"></script>
+<script type="text/javascript">
+	(function($){
+		$(document).ready(function(){
+			$('.input-search').autocomplete({
+				serviceUrl: '/_common/search/solr-search/autocomplete.php',
+				type: 'POST',
+				params: {
+					config: 'aid2015',
+					language: 'de_DE'
+				},
+				minChars: 3,
+				triggerSelectOnValidInput: false,
+				onSelect: function (suggestion) {
+                    $('.input-search').closest("form").submit();
+                }
+			});
+		});
+	})(jQuery.noConflict());
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.title.replace('/','|').replace(/ - BZfE$/g, "") + " [ID:40]"]);
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//tracking.aid.de/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//tracking.aid.de/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+            
+ 
+
+    </body>
+</html>
+
+    
+

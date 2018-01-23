@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="en">
+	<head>
+
+		
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>The Nat | </title>
+<meta name="description" content="" />
+<meta name="generator" content="MusePadCMS - 5.5.2.1" />
+
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 0;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/musepad/images";
+var CCM_TOOLS_PATH = "/tools/required";
+var CCM_BASE_URL = "http://www.sdnhm.org";
+var CCM_REL = "";
+
+</script>
+
+	<link rel="shortcut icon" href="/files/8413/2695/9560/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/files/8413/2695/9560/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/musepad/css/ccm.base.css?v=bf3ecd7372517ed8305358623a2f86f8" />
+<script type="text/javascript" src="/musepad/js/jquery.js?v=bf3ecd7372517ed8305358623a2f86f8"></script>
+<script type="text/javascript" src="/musepad/js/ccm.base.js?v=bf3ecd7372517ed8305358623a2f86f8"></script>
+<script type="text/javascript" src="/musepad/js/jquery.form.js?v=bf3ecd7372517ed8305358623a2f86f8"></script>
+
+		<!-- Mobile Specific Meta -->
+		<!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+		<!-- Bootstrap v3.3.4 -->
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/bootstrap.min.css" rel="stylesheet">
+
+		<!-- icon fonts Font Awesome 4.3.0 -->
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/font-awesome.min.css" rel="stylesheet">
+
+		<!-- Plugins  -->
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/jquery.fs.boxer.css" rel="stylesheet" />
+		<link rel="stylesheet" href="/packages/sdnhm/themes/sdnhmv4/assets/css/owl.carousel.css">
+		<link rel="stylesheet" href="/packages/sdnhm/themes/sdnhmv4/assets/rs-plugin/css/settings.css" media="screen" />
+		<!-- SLIDER REVOLUTION -->
+
+		<!-- Import Custom Styles -->
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/custom.css" rel="stylesheet">
+		<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/253a26f1-fbac-4ce4-8580-d43b36e1c495.css"/>
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/style.css?v=1511648996" rel="stylesheet">
+
+		<!-- Import Responsive Styles -->
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/responsive.css" rel="stylesheet">
+
+
+		
+		<link href="/packages/sdnhm/themes/sdnhmv4/assets/css/responsive-home.css" rel="stylesheet">
+		
+		<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+		<![endif]-->
+
+<link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.0/animate.min.css" rel="stylesheet">
+
+	</head>
+	<body>
+
+		
+			<div id="nav" class="navbar navbar-fixed-top" role="navigation">
+				
+				<header >
+
+
+				<div id="header-top" class="header-top green-bg hidden-xs">
+					<div class="container">
+						<div class="logo pull-left">
+							<a class="navbar-brand" href="/"> <img src="/packages/sdnhm/themes/sdnhmv4/images/logo.png" alt="Logo"> </a>
+						</div>
+
+						<div class="pull-right">
+							<!--<input name="subscibe_email" id="subscibe_email" placeholder="Enter your email address here" required="">-->
+						</div>
+
+						<div class="top-right pull-right text-right hidden-xs">
+
+								<div class="social-icon">
+									<a target="_blank" href="https://twitter.com/SDNHM" class="twitter"><i class="fa fa-twitter"></i></a>
+									<a target="_blank" href="http://www.facebook.com/SanDiegoNaturalHistoryMuseum?sk=wall" class="facebook"><i class="fa fa-facebook-official"></i></a>
+									<a target="_blank" href="http://www.youtube.com/user/SDNaturalHistory/featured" class="flickr"><i class="fa fa-youtube-play"></i></a>
+									<a target="_blank" href="http://instagram.com/sdnhm/" class="tumblr"><i class="fa fa-instagram"></i></a>
+									<br/><br/>
+								</div>								
+<div class="cell topnavs">
+	<a href="http://shop.sdnhm.org" target="_blank" >Museum Store</a> | <a href="/consulting-services/">Consulting Services</a> | <a href="/plan-an-event/">Plan an Event</a> |    &nbsp;<a title="Search" style="font-size: 22px !important;cursor: pointer;" target="_blank" id="flip" class="flip"><i class="fa fa-search"></i></a>
+
+
+</div>
+   							
+							
+							
+						</div>
+					</div>
+				</div>
+
+				</header>
+
+				<!-- Main Menu -->
+				<div class="main-menu-container">
+					<div id="main-menu" class="navbar navbar-default" role="navigation">
+						<div class="container">
+
+
+<div class="logo pull-left visible-xs">
+	<a class="navbar-brand" href="/"> <img src="/packages/sdnhm/themes/sdnhmv4/images/logo.png" alt="Logo"> </a>
+</div>
+
+<div class="navbar-header">
+	<!-- responsive navigation -->
+
+	<div class="wsmenucontent overlapblackbg"></div>
+	<div class="wsmenuexpandermain slideRight">
+		<a id="navToggle" class="animated-arrow slideLeft"><span></span></a>
+
+	</div>
+
+	<a class="navToggle slideLeft navbar-toggle"> <span class="sr-only">Search</span> <i class="fa fa-bars"></i> </a>
+
+	<a style="margin-right: 0px" class="navbar-toggle flip" data-toggle="collapse"> <span class="sr-only">Search</span> <i class="fa fa-search"></i> </a>
+
+	<!-- /.navbar-toggle -->
+</div>
+<!-- /.navbar-header -->
+
+<nav class="wsmenu slideLeft clearfix">
+
+	<!-- Main navigation -->
+
+	<ul class='mobile-sub wsmenu-list'><li class=""><a href="/visit/"  >Visit</a><ul class="wsmenu-submenu"><li class=""><a href="/visit/parking-and-directions/"  >Parking and Directions</a></li><li class=""><a href="http://sdnhm.org/visit/"  >Hours and Admission</a></li><li class=""><a href="/visit/admission/"  >Amenities</a></li><li class=""><a href="/visit/giant-screen-theater/"  >Giant-Screen Theater</a></li><li class=""><a href="/visit/residents-free-days/"  >Residents Free Days</a></li><li class=""><a href="/visit/accessibility/"  >Services for Visitors with Disabilities</a></li><li class=""><a href="/visit/explorer/"  >Balboa Park Explorer</a></li><li class=""><a href="/visit/december-nights/"  >December Nights</a></li><li class=""><a href="/visit/group-discounts/"  >Group Discounts</a></li><li class=""><a href="/visit/wifarer/"  >Mobile Apps</a></li></ul></li><li class=""><a href="/calendar/"  >Events</a><ul class="wsmenu-submenu"><li class=""><a href="http://sdnhm.org/calendar/"  >Calendar</a></li><li class=""><a href="http://sdnhm.org/index.php?cID=900"  >For Members</a></li><li class=""><a href="/calendar/family-programs/"  >For Families</a></li><li class=""><a href="/calendar/family-programs/camps/"  >Camps</a></li><li class=""><a href="http://sdnhm.org/calendar/public-programs/nattalks-and-films/"  >NATtalks & Films</a></li><li class=""><a href="http://sdnhm.org/calendar/public-programs/canyoneer-hikes/"  >Nature Hikes</a></li><li class=""><a href="http://sdnhm.org/whalewatching"  >Whale Watching</a></li><li class=""><a href="/calendar/asd-mornings/"  >ASD Mornings</a></li><li class=""><a href="/calendar/artist-in-residence/"  >Artist in Residence</a></li></ul></li><li class=""><a href="/exhibitions/"  >Exhibitions</a></li><li class=""><a href="/education/"  >Education</a><ul class="wsmenu-submenu"><li class=""><a href="/education/school-programs/"  >School Programs</a></li><li class=""><a href="/education/education-resources/"  >Education Resources</a></li><li class=""><a href="/education/programas-de-educacion-mexico/"  >Programas de México - PROBEA</a></li><li class=""><a href="/education/community-groups/"  >Community Groups and Scouts</a></li></ul></li><li class=""><a href="/science/"  >Science</a><ul class="wsmenu-submenu"><li class=""><a href="/science/brcc-mission/"  >BRCC Mission</a></li><li class=""><a href="/science/birds-and-mammals/"  >Birds and Mammals</a></li><li class=""><a href="/science/botany/"  >Botany</a></li><li class=""><a href="/science/entomology/"  >Entomology</a></li><li class=""><a href="/science/herpetology/"  >Herpetology</a></li><li class=""><a href="/science/marine-invertebrates/"  >Marine Invertebrates</a></li><li class=""><a href="/science/mineralogy/"  >Mineralogy</a></li><li class=""><a href="/science/paleontology/"  >Paleontology</a></li><li class=""><a href="/science/research-library/"  >Research Library</a></li><li class=""><a href="/science/collections/"  >Collections Care</a></li><li class=""><a href="/science/binational-expeditions/"  >Binational Expeditions</a></li><li class=""><a href="/science/demonstration-lab/"  >Demonstration Lab</a></li><li class=""><a href="/science/atlas-projects/"  >Atlas Projects</a></li><li class=""><a href="/science/conservation-priorities/"  >Conservation Priorities</a></li><li class=""><a href="/science/publications/"  >Publications</a></li><li class=""><a href="/science/field-guide/"  >Field Guide</a></li></ul></li><li class=""><a href="/join-and-give/donate/"  >Join + Give</a><ul class="wsmenu-submenu"><li class=""><a href="/join-and-give/donate/"  >Donate</a></li><li class=""><a href="/join-and-give/membership/"  >Membership</a></li><li class=""><a href="/join-and-give/leadership-circles/"  >Leadership Circles</a></li><li class=""><a href="/join-and-give/live-oaks-society/"  >Planned Giving</a></li><li class=""><a href="/join-and-give/corporate-membership/"  >Corporate Membership</a></li><li class=""><a href="/join-and-give/volunteer/"  >Volunteer</a></li><li class=""><a href="/join-and-give/moth-ball/"  >Moth Ball</a></li></ul></li><li class=""><a href="/about-us/"  >About Us</a><ul class="wsmenu-submenu"><li class=""><a href="/about-us/mission/"  >Mission</a></li><li class=""><a href="/about-us/leadership/"  >Leadership</a></li><li class=""><a href="/about-us/field-notes/"  >Field Notes</a></li><li class=""><a href="/about-us/annual-reports-and-financials/"  >Annual Reports & Financials</a></li><li class=""><a href="/about-us/employment/"  >Employment</a></li><li class=""><a href="/about-us/history/"  >History</a></li><li class=""><a href="http://sdnhm.org/blog/"  >Blog</a></li><li class=""><a href="/about-us/contact-us/"  >Contact Us</a></li><li class=""><a href="/pressroom/"  >Press Room</a></li><li class="visible-xs visible-sm"><a target="_blank" href="http://shop.sdnhm.org/">Shop</a></li><li class="visible-xs visible-sm"><a href="/consulting-services/">Consulting Services</a></li><li class="visible-xs visible-sm"><a href="/events/">Events</a></li></ul></li><li class="visible-xs visible-sm"><a target="_blank" href="http://shop.sdnhm.org/">Shop</a></li><li class="visible-xs visible-sm"><a href="/consulting-services/">Consulting Services</a></li><li class="visible-xs visible-sm"><a href="/events/">Events</a></li></ul>
+	<!-- /#mainNavigation -->
+</nav>
+<!-- /.navbar-collapse  -->
+						</div>
+						<!-- /.container -->
+					</div><!-- /#main-menu -->
+					
+				<div id="panel">
+					
+					
+<form class="form-horizontal" method="get" action="/search-results/">
+  <div class="form-group" style="margin-bottom: 0px !important;">
+    <label for="searchbox" class="col-sm-2 control-label">Search for</label>
+    <div class="col-sm-9">
+    	<input name="search_paths[]" type="hidden" value="">
+      <input name="query" type="text" class="form-control" id="searchbox" style="background-color: #249a8c;border-color: rgba(115, 199, 191, 1);outline: 0;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(115, 199, 191, 0.6);box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(115, 199, 191, 0.6);font-size: 30px;color: #ffffff;">
+    </div>
+  </div>
+
+</form>
+  
+					
+					
+					</div>
+					
+				</div><!-- /.main-menu-container -->
+				<!-- Main Menu End -->
+
+			</div>
+
+			<div class="page-naem-container" style="">
+				<div class="container text-center">
+					<h2 class="page-name"></h2>
+					<!--<div class="current-page-link">
+					<a href="index.html">Home </a> <i class="fa fa-angle-double-right"></i>  Cremation
+					</div>-->
+				</div><!-- /.container -->
+			</div><!-- /.page-naem-container -->
+
+			<section id="contact-page" class="page contact-page page-container" style="padding-top: 0px !important;">
+				<div class="container">
+					<div class="row">
+						<!-- Post Container -->
+						<div id="post-container" class="col-md-8 post-container" role="main">
+							<article class="post">
+
+								<div class="post-content" style="margin-top: -40px;">
+									
+										                        <h2 class="post-title"></h2>										
+
+								</div><!-- /.post-content -->
+							</article><!-- /.post -->
+
+<div class="sub-post">
+
+<h1>The page you requested may have been moved or deleted</h1>
+
+<p>Let's try one of the following remedies to get you back on track...</p>
+
+<ul class="dot-bullet-list">
+<li>Check the Web address you entered to make sure if it's correct.&nbsp;</li>
+<li>Try to access the page directly from our <a title="Home" href="/">Homepage</a> instead of using a bookmark. If the page has moved, reset your bookmark.&nbsp;</li>
+<li>Click the search icon on the top right of this page and enter keywords in the search box.</li>
+</ul>
+
+</div>
+						</div><!-- /.post-container -->
+						<!-- Post Container End -->
+
+						<!-- Sidebar -->
+						<div id="sidebar" class="col-md-4 sidebar">
+							<!-- Banner Section -->
+
+                    
+
+
+<aside class="widget widget_post hidden-xs hidden-sm">
+		<h3 class="banner-title">EXPLORE MORE</h3>
+                            
+                            <ul  class="treeview" id="tree"><li class="menu-item-has-children"><a href="/visit/"  >Visit</a></li><li class="menu-item-has-children"><a href="/calendar/"  >Events</a></li><li class="menu-item-has-children"><a href="/exhibitions/"  >Exhibitions</a></li><li class="menu-item-has-children"><a href="/education/"  >Education</a></li><li class="menu-item-has-children"><a href="/science/"  >Science</a></li><li class="menu-item-has-children"><a href="/join-and-give/donate/"  >Join + Give</a></li><li class="menu-item-has-children"><a href="/about-us/"  >About Us</a></li></ul>                            
+                           </aside>
+                            
+
+							</aside><!-- /.widget -->
+
+							<!--<aside class="widget widget_recent_entries">
+								<h4 class="widget-title"> From the blog </h4>
+								<ul class="latest-post">
+									<li>
+										<div class="widget_img" style="margin-right: 20px;width: 72px;">
+											<a href="#"> <img src="images/blog1.jpg" alt="avatar"> </a>
+										</div>
+										<div class="recent-post-details" style="margin-left: 92px;">
+											<a class="post-title" href="#">START HERE!</a>
+											<br>
+											<a href="#"><i class="fa fa-user"></i> theNAT</a>
+											<time datetime="2015-03-29">
+												<i class="fa fa-calendar-o"></i>March 9, 2015
+											</time>
+										</div>
+									</li>
+
+									<li>
+										<div class="widget_img" style="margin-right: 20px;width: 72px;">
+											<a href="#"> <img src="images/blog2.jpg" alt="avatar"> </a>
+										</div>
+										<div class="recent-post-details" style="margin-left: 92px;">
+											<a class="post-title" href="#">COAST to CACTUS: BRINGING FIRE INTO FOCUS</a>
+											<br>
+											<a href="#"><i class="fa fa-user"></i> theNAT</a>
+											<time datetime="2015-03-29">
+												<i class="fa fa-calendar-o"></i>August 29, 2014
+											</time>
+										</div>
+									</li>
+								</ul>
+							</aside>-->
+
+						</div><!-- /#sidebar -->
+						<!-- Sidebar End-->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section><!-- /#exhibit-page -->
+
+			<!-- Footer Widget -->
+			<footer id="footer-widget" class="footer-widget green-bg">
+				<div class="container">
+					<div class="row">
+						
+
+
+					<div class="col-md-3">
+						<aside class="widget widget_newslatter">
+							
+							<div class="social-icon visible-xs visible-sm">
+									<a target="_blank" href="https://twitter.com/SDNHM" class="twitter"><i class="fa fa-twitter fa-3x"></i></a>
+									<a target="_blank" href="http://www.facebook.com/SanDiegoNaturalHistoryMuseum?sk=wall" class="facebook"><i class="fa fa-facebook fa-3x"></i></a>
+									<a target="_blank" href="http://www.youtube.com/user/SDNaturalHistory/featured" class="flickr"><i class="fa fa-youtube fa-3x"></i></a>
+									<a target="_blank" href="http://instagram.com/sdnhm/" class="tumblr"><i class="fa fa-instagram fa-3x"></i></a>
+									
+								</div>
+								
+					
+								<h4 class="widget-title"> Newsletter </h4>
+								
+								<!--<form class="subscirbe-form" name="newsletterAdd" id="newsletterAdd" method="get" action="/widgets/widget_newsletter">
+									
+								<input id="emailField" name="emailField" onfocus="if (this.value == 'Enter your email address here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address here';}" value="Enter your email address here" type="text" /> 
+								<input class="subscibe-btn" type="submit" value="Subscribe" id="submitnewsletterAdd">
+								
+							</form>-->
+							
+                                        <p>Receive the latest information about our new exhibitions, programs, events, and more.</p>
+<form class="subscirbe-form" name="newsletterAdd" id="newsletterAdd" method="get" action="/widgets/widget_newsletter"><input id="emailField" name="emailField" onfocus="if (this.value == 'Enter your email address here') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address here';}" value="Enter your email address here" type="text" /> <input class="subscibe-btn" type="submit" value="Subscribe" id="submitnewsletterAdd" /></form>
+<script type="text/javascript">
+$( document ).ready(function() {
+
+
+
+    console.log( "ready!" );
+});
+</script>
+<div id="HTMLBlock13821" class="HTMLBlock">
+<br/>
+<p class="small text-center"><a href="/about-us/about-this-website/">Terms of Use</a> | <a href="/about-us/privacy-policy/">Privacy Policy</a.</p></div>							
+						</aside><!-- /.widget -->
+					</div><!-- /.col-md-3 -->
+
+						<div class="col-md-3">
+							<aside class="widget widget_text">
+								<h4 class="widget-title"> Museum Hours </h4>
+                    <ul>
+<li><a title="Hours and Admission" href="/visit/admission/"> </a> <span> <a title="Hours and Admission" href="/visit/admission/"> Daily 10 AM to 5 PM  <br /></a></span><a title="Hours and Admission" href="/visit/admission/"><small>Closed Thanksgiving and Christmas Day. <br /> Hours subject to change. </small> </a></li>
+</ul>
+<h4 class="widget-title">Museum Guide</h4>
+<p>To prepare for a visit to the Museum, download or print a copy of <a style="color: #238d83 !important;" title="Map_Guide_111817.pdf" href="/download_file/view/5317/1/"> our guide</a>. (PDF)</p>							</aside><!-- /.widget -->
+						</div><!-- /.col-md-3 -->
+
+					<div class="col-md-3">
+						<aside class="widget widget_links">
+							<h4 class="widget-title"> Important Links </h4>
+                  
+<ul class="ccm-manual-nav">
+	<li>
+		<a href="/join-and-give/membership/">
+			Become a Member		</a>
+	</li>
+	<li>
+		<a href="/join-and-give/volunteer/volunteer-intern-application/">
+			Volunteer Application		</a>
+	</li>
+	<li>
+		<a href="/join-and-give/donate/">
+			Donate Now!		</a>
+	</li>
+	<li>
+		<a href="/visit/parking-and-directions/">
+			Parking and Directions		</a>
+	</li>
+	<li>
+		<a href="/calendar/">
+			theNAT Calendar		</a>
+	</li>
+	<li>
+		<a href="/about-us/contact-us/">
+			Contact Us		</a>
+	</li>
+	<li>
+		<a href="/pressroom/">
+			Press Room		</a>
+	</li>
+</ul>
+                    
+						</aside><!-- /.widget -->
+					</div><!-- /.col-md-3 -->
+
+					<div class="col-md-3">
+						<aside class="widget widget_twitter_feeds">
+							<div class="stripe-full">
+								<h4 class="widget-title"> Connect with Us </h4>
+							</div>
+              <p>San Diego Natural History Museum<br />1788 El Prado, Balboa Park<br />San Diego, CA 92101</p>
+<p>619.232.3821<br />877.946.7797 (<span>Toll Free) <br /></span><span style="font-size: 0.9375em;"></span></p>
+<p>619.232.0248 (Fax) </p>
+<p>Mailing Address:<br />P.O. Box 121390<br />San Diego, CA 92112-1390</p>						</aside><!-- /.widget -->
+					</div><!-- /.col-md-3 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</footer><!-- /#footer-widget -->
+			<!-- Footer Widget End -->
+
+			<!-- Include modernizr-2.8.0.min.js -->
+			<script src="/packages/sdnhm/themes/sdnhmv4/assets/js/modernizr.js"></script>
+
+			<!-- Include jquery.min.js plugin -->
+			<!--<script src="/packages/sdnhm/themes/sdnhmv4/assets/js/jquery-2.1.0.min.js"></script>-->
+			<script src="/packages/sdnhm/themes/sdnhmv4/assets/js/plugins.js"></script>
+			<script src="/packages/sdnhm/themes/sdnhmv4/assets/js/custom.js"></script>
+
+			
+			<script src="http://sdnhm.org/packages/sdnhm/themes/sdnhmv2/js/jquery.treeview.js"></script>
+			
+			
+
+			<!-- Slider Revolution  -->
+			<script type="text/javascript" src="/packages/sdnhm/themes/sdnhmv4/assets/js/jquery.themepunch.tools.min.js"></script>
+			<script type="text/javascript" src="/packages/sdnhm/themes/sdnhmv4/assets/js/jquery.themepunch.revolution.min.js"></script>
+
+			<script type="text/javascript">
+				jQuery(document).ready(function() {
+jQuery('.tp-banner').show().revolution({
+dottedOverlay : "twoxtwo",
+delay : 12000,
+startwidth : 1200,
+startheight : 640,
+hideThumbs : 200,
+thumbWidth : 100,
+thumbHeight : 50,
+thumbAmount : 5,
+navigationType : "bullet",
+navigationArrows : "solo",
+navigationStyle : "preview1",
+touchenabled : "on",
+onHoverStop : "on",
+swipe_velocity : 0.7,
+swipe_min_touches : 1,
+swipe_max_touches : 1,
+drag_block_vertical : false,
+parallax : "mouse",
+parallaxBgFreeze : "on",
+parallaxLevels : [7, 4, 3, 2, 5, 4, 3, 2, 1, 0],
+keyboardNavigation : "off",
+navigationHAlign : "center",
+navigationVAlign : "bottom",
+navigationHOffset : 0,
+navigationVOffset : 20,
+soloArrowLeftHalign : "left",
+soloArrowLeftValign : "center",
+soloArrowLeftHOffset : 20,
+soloArrowLeftVOffset : 0,
+soloArrowRightHalign : "right",
+soloArrowRightValign : "center",
+soloArrowRightHOffset : 20,
+soloArrowRightVOffset : 0,
+shadow : 0,
+fullWidth : "on",
+fullScreen : "off",
+spinner : "spinner4",
+stopLoop : "off",
+stopAfterLoops : -1,
+stopAtSlide : -1,
+shuffle : "off",
+autoHeight : "off",
+forceFullWidth : "off",
+hideThumbsOnMobile : "off",
+hideNavDelayOnMobile : 1500,
+hideBulletsOnMobile : "off",
+hideArrowsOnMobile : "off",
+hideThumbsUnderResolution : 0,
+hideSliderAtLimit : 0,
+hideCaptionAtLimit : 0,
+hideAllCaptionAtLilmit : 0,
+startWithSlide : 0,
+videoJsPath : "rs-plugin/videojs/",
+fullScreenOffsetContainer : ""
+});
+
+
+$("#tree").treeview({
+            collapsed: true,
+            animated: "medium",
+            persist: "location",
+            unique: false
+
+        });
+
+
+});
+//ready
+
+			</script>
+			<!-- Begin GA code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8264177-1', 'auto', {'allowLinker': true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['oceanoasis.org']);
+  ga('send', 'pageview');
+</script>
+<!-- End GA code -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KQ6PLM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6PLM');</script>
+<!-- End Google Tag Manager -->			
+			<script>
+				  /* Track 404 Errors */
+  var url = "/404/?URL=" + window.location.pathname + window.location.search + "&FROM=" + document.referrer;
+  ga('send', 'pageview', url);
+			</script>
+			
+	</body>
+</html>

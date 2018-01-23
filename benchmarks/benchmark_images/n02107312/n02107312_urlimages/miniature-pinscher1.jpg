@@ -1,0 +1,258 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>お探しのページは存在しません～子犬のへや</title>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=2.0">
+<meta name="description" content="お探しのページは存在しません。ファイル名が間違っているか、ファイル自体が削除されたか、あるいはファイル名が変更された可能性があります。">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- css3-mediaqueries.js for IE less than 9 -->
+<!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!--CSS3 EFFECTS OFF FOR IE8 OR OLDER-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="css/base-ie.css" />
+<![endif]-->
+
+<!--STYLESHEETS-->
+<link rel="stylesheet" type="text/css" href="css/reset.css">
+<link rel="stylesheet" type="text/css" href="css/base.css">
+<link rel="stylesheet" type="text/css" href="css/mediaqueries.css">
+
+<style type="text/css">
+<!--
+p#not-found{
+width:100%;
+padding-top:120px;
+margin-top:15px;
+background:url(images/downward.gif) no-repeat top center;
+
+}
+p#not-found a{
+display:block;
+width:80%;
+margin:auto;
+line-height:2.0em;
+font-weight:bolder;
+text-align:center;
+font-size:1.25em;
+color:#666600;
+background:#e4d88f url(../images/pref-jump.gif) repeat-x bottom;
+border-style:solid;
+border-width:1px;
+border-color:#fff #bfa92d #bfa92d #f8f4e0;
+}
+p#not-found a:hover{
+background:#e1d280;
+color:#333;
+}
+
+
+-->
+</style>
+
+<!--PAGENATION-->
+<link rel="home" href="http://www.koinuno-heya.com/index.html" title="子犬のへや・トップ">
+
+<!--ICONS-->
+<link rel="shortcut icon" href="http://www.koinuno-heya.com/favicon.ico">
+<link rel="apple-touch-icon" href="http://www.koinuno-heya.com/apple-touch-icon.png">
+
+
+<!--GOOGLE ANALYTICS-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-25487254-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<!--▼//////////HEADER//////////▼-->
+<div id="header"> 
+<header>
+<a id="site-id" href="http://www.koinuno-heya.com/index.html"><span></span></a>
+<div id="searchbox-top">
+<script>
+  (function() {
+    var cx = 'partner-pub-3459286919137543:5598998273';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
+</div>
+
+<!--▼NAVIGATION-->
+<div id="navi-overlay">
+<div id="navi-grouping">
+<nav>
+<a id="sitemap-button" href="http://www.koinuno-heya.com/sitemap.html"><span></span></a>
+<a id="kaumade-button" href="http://www.koinuno-heya.com/sitemap.html#kaumade"><span></span></a>
+<a id="kattara-button" href="http://www.koinuno-heya.com/sitemap.html#kattara"><span></span></a>
+<a id="shiritai-button" href="http://www.koinuno-heya.com/sitemap.html#shiritai"><span></span></a>
+<span class="clearfix"></span>
+</nav>
+</div>
+</div>
+</header>
+</div>
+
+
+<!--▼//////////WRAP//////////▼-->
+<div id="wrap">
+<!--▼PANKUZU-->
+<div id="pankuzu"><a id="top-level" href="http://www.koinuno-heya.com/index.html">トップ</a><a id="bottom-level" href="404.html">お探しのページは存在しません</a></div>
+
+
+<!--▼//////////UPPER//////////▼-->
+<div id="upper">
+<div id="upper-left">
+<section>
+<h1 class="headerI">お探しのページは存在しません</h1>
+<div class="intro">
+　<b>お探しのページは存在しません。<br>
+　ファイル名が間違っているか、ファイル自体が削除されたか、あるいはファイル名が変更された可能性があります。下のリンクボタンからサイトトップへアクセスしてください。</b>
+<p id="not-found">
+<a href="http://www.koinuno-heya.com/index.html">子犬のへや・トップ</a>
+</p>
+</div>
+
+
+</section>
+
+
+</div>
+
+<aside>
+<div id="upper-right">
+<img src="images/404.jpg" alt="申し訳ございません。お探しのページは存在しません。">
+
+</div>
+</aside>
+<span id="upper-cf" class="clearfix"></span>
+</div>
+
+
+<div class="partition-flower"></div>
+
+
+<!--▼/////////LOWER//////////▼-->
+<div id="lower">
+<div id="lower-left">
+
+
+<div class="spacer-awasete"></div>
+<!--▼AWASEYOMI-->
+<div class="awasete">
+<a class="parent" href="index.html">子犬のへや・トップ</a>
+<a class="sibling" href="http://www.koinuno-heya.com/sitemap.html#kaumade">犬を飼うまで</a>
+<a class="sibling" href="http://www.koinuno-heya.com/sitemap.html#kattara">犬を飼ったら</a>
+<a class="sibling" href="http://www.koinuno-heya.com/sitemap.html#shiritai">犬を知りたい</a>
+</div>
+
+
+<!--▼SEARCHBOX BOTTOM-->
+<div id="searchbox-bottom">
+<script>
+  (function() {
+    var cx = 'partner-pub-3459286919137543:7009114208';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+<div id="under-awasete" class="partition"></div>
+</div>
+<!--▲LOWER LEFT END HERE-->
+
+<!--▼SIDEBAR-->
+<div id="lower-right">
+<div id="side-navi">
+
+<a class="meta-navi" href="http://www.koinuno-heya.com/sitemap.html#kaumade"><img src="http://www.koinuno-heya.com/images/kaumade.jpg" alt="犬を飼うまでに備えておきたい知識一覧です" title="犬を飼うまで"></a>
+<ul class="sub-navi">
+<li><a href="http://www.koinuno-heya.com/kaumae/index.html">犬を飼う前に</a></li>
+<li><a href="http://www.koinuno-heya.com/aikenka/index.html">愛犬家の基本</a></li>
+<li><a href="http://www.koinuno-heya.com/erabikata/index.html">犬の選び方</a></li>
+<li><a href="http://www.koinuno-heya.com/mukaekata/index.html">犬の迎え方</a></li>
+<li><a href="http://www.koinuno-heya.com/bousai/index.html">災害とペットの防災</a></li>
+<li><a href="http://www.koinuno-heya.com/fukushi/index.html">犬の幸せとストレス</a></li>
+</ul>
+
+<a class="meta-navi" href="http://www.koinuno-heya.com/sitemap.html#kattara"><img src="http://www.koinuno-heya.com/images/kattara.jpg" alt="犬を飼ったら抑えておきたい知識一覧です" title="犬を飼ったら"></a>
+<ul class="sub-navi">
+<li><a href="http://www.koinuno-heya.com/shitsuke/index.html">犬のしつけ方</a></li>
+<li><a href="http://www.koinuno-heya.com/trick/index.html">犬の芸・トリック</a></li>
+<li><a href="http://www.koinuno-heya.com/byouki/index.html">犬の健康と病気</a></li>
+<li><a href="http://www.koinuno-heya.com/syokuji/index.html">犬の食事</a></li>
+<li><a href="http://www.koinuno-heya.com/sanpo/index.html">犬の散歩</a></li>
+<li><a href="http://www.koinuno-heya.com/teire/index.html">犬のケア</a></li>
+<li><a href="http://www.koinuno-heya.com/massage/index.html">犬のマッサージ</a></li>
+<li><a href="http://www.koinuno-heya.com/hansyoku/index.html">犬の繁殖</a></li>
+<li><a href="http://www.koinuno-heya.com/rouka/index.html">犬の老化</a></li>
+</ul>
+
+<a class="meta-navi" href="http://www.koinuno-heya.com/sitemap.html#shiritai"><img src="http://www.koinuno-heya.com/images/shiritai.jpg" alt="犬に関する雑学や役立つ知識を集めました" title="犬を知りたい"></a>
+<ul class="sub-navi">
+<li><a href="http://www.koinuno-heya.com/zukan/index.html">犬の体図鑑</a></li>
+<li><a href="http://www.koinuno-heya.com/kokoro/index.html">犬の心を知る</a></li>
+<li><a href="http://www.koinuno-heya.com/syurui/index.html">犬の種類</a></li>
+<li><a href="http://www.koinuno-heya.com/yado/index.html">犬との外泊とドライブ</a></li>
+<li><a href="http://www.koinuno-heya.com/seikei/index.html">犬の整形手術</a></li>
+<li><a href="http://www.koinuno-heya.com/fushigi/index.html">犬の不思議な能力</a></li>
+<li><a href="http://www.koinuno-heya.com/culture/index.html">犬の文化</a></li>
+<li><a href="http://www.koinuno-heya.com/famous/index.html">有名な犬一覧リスト</a></li>
+<li><a href="http://www.koinuno-heya.com/news/index.html">犬の最新ニュース</a></li>
+</ul>
+</div>
+<div id="side-links">
+
+<a id="twitter" href="https://twitter.com/koinuno_heya?lang=ja" target="_blank"></a>
+<a id="petgoods" href="http://www.koinuno-heya.com/mukaekata/necessity.html"></a>
+<a id="bridge" href="http://www.konekono-heya.com/index.html"></a>
+</div>
+</div>
+<span class="clearfix"></span>
+</div>
+<!--▲LOWER END-->
+</div>
+<!--▲WRAP END-->
+
+<!--▼//////////FOOTER//////////▼-->
+<div id="footer">
+<div id="footer-container">
+<footer>
+
+<div id="footer-links">
+<div>
+<a class="left" href="http://www.koinuno-heya.com/index.html">サイトトップへ</a>
+<a class="right" href="http://www.koinuno-heya.com/about.html">サイトについて</a>
+</div>
+</div>
+<span id="copyright"><small>Copyright (C) 子犬のへや　All rights reserved.</small></span>
+</footer>
+</div>
+</div>
+</body>
+</html>

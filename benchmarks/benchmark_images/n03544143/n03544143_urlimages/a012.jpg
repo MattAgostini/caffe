@@ -1,0 +1,778 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8"> <![endif]-->
+<head><title>
+	Washington State Historical Society > History Lab Field Trips
+</title><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script src="/js/modernizr-2.5.3.js" type="text/javascript"></script><script src="/js/jquery-1.7.2.min.js" type="text/javascript"></script><script src="/js/jquery-ui-1.8.2.min.js" type="text/javascript"></script><script src="/js/wshm.js" type="text/javascript"></script><script src="/js/jquery.bxSlider.min.js" type="text/javascript"></script><script src="/js/jquery.autocomplete.collections.js" type="text/javascript"></script><link href="/css/print.css" rel="stylesheet" type="text/css" media="print" /><link href="/css/utility.css" rel="stylesheet" type="text/css" /><link href="/css/style.css" rel="stylesheet" type="text/css" /><link href="/css/collections.css" rel="stylesheet" type="text/css" /><link href="/css/responsive.css" rel="stylesheet" type="text/css" /><link href="/css/jquery-ui-1.9.1.custom.css" rel="stylesheet" type="text/css" /><link href="/css/acstyle.css" rel="stylesheet" type="text/css" /><link href="/css/jquery.autocomplete.collections.css" rel="stylesheet" type="text/css" /><meta name="keywords" content="Website" /><meta name="description" content="Website description" /></head>
+<body>
+
+<script>
+    window.SITE_ROOT = "/";
+    window.IMU_API_URL = "http://www.washingtonhistory.org/imu";
+    window.IMU_NAME_LIST_END_POINT = "/api/party/list/";
+    window.IMU_SUBJECT_LIST_END_POINT = "/api/subject/list/";
+    window.IMU_OBJECT_LIST_END_POINT = "/api/object/list/";
+    window.IMU_COLLECTION_AUTOCOMPLETE_END_POINT = "/api/catalog/autocomplete/";
+    window.IMU_OBJECT_AUTOCOMPLETE_END_POINT = "/api/object/autocomplete/";
+</script>
+
+    <div id="container">
+        <header>           
+			<a class="search-btn" href="javascript:void(null);">
+				Search
+			</a>
+			<a class="menu-btn" href="javascript:void(null);">
+				<div class="toggle">
+					<span class="l1"></span>
+					<span class="l2"></span>
+					<span class="l3"></span>
+				</div>
+				Menu
+			</a>
+            <div id="logo">
+    <a href="/" title="Home">Washington State Historical Society</a>
+</div>
+<div id="global">
+    <div id="search">
+        <form id="frmSearch" action="/search.aspx" method="GET">
+            <input type="text" name="q" value="" maxlength="255" placeholder="Search..." class="placeholder" />
+            <input type="submit" value="" />
+        </form>
+    </div>
+    <div id="social">
+        <a href="https://www.facebook.com/historymuseum" class="icon facebook">Facebook</a>
+        <a href="https://twitter.com/HistoryMuseum" class="icon twitter">Twitter</a>
+        <a href="https://www.youtube.com/channel/UCZRXAl-JqixtE7toeX4BTrg" class="icon youtube">YouTube</a>
+        <a href="/rss.aspx?type=calendar" class="icon rss">RSS</a>
+        <a href="http://pinterest.com/wahistory" class="icon pinterest">PInterest</a>
+    </div>
+</div>
+
+		    <nav>
+		        <ul id="mainNav">
+<li>
+<a href="/support">Support</a>
+<div class="navDropdown">
+<div class="column">
+<h3><a href="/support/membership" title="Membership">Membership</a></h3>
+<h3><a href="/support/donate" title="Donate">Donate</a></h3>
+<h3><a href="/support/affiliates" title="Affiliate Organizations">Affiliate Organizations</a></h3>
+<ul>
+<li><a href="/support/affiliates/join" title="Become an Affiliate">Become an Affiliate</a>
+</li></ul>
+<h3><a href="/support/volunteer" title="Volunteer">Volunteer</a></h3>
+<ul>
+<li><a href="/support/volunteer/SummerYouthDocentProgram" title="Summer Youth Docent Program">Summer Youth Docent Program</a>
+</li></ul>
+<h3><a href="/support/heritage" title="Heritage Resources">Heritage Resources</a></h3>
+<ul>
+<li><a href="/support/heritage/capitalprojectsfund" title="Heritage Capital Projects Fund">Heritage Capital Projects Fund</a>
+</li><li><a href="/support/heritage/pnwhc" title="Pacific Northwest History Conference">Pacific Northwest History Conference</a>
+</li><li><a href="/support/heritage/workshops" title="Heritage Workshops">Heritage Workshops</a>
+</li></ul>
+</div>
+</div>
+<!-- End of navDropdown -->
+</li>
+<li>
+<a href="/visit">Visit</a>
+<div class="navDropdown">
+<div class="column">
+<h3><a href="/visit/wshm" title="History Museum">History Museum</a></h3>
+<ul>
+<li><a href="/visit/wshm/directions" title="Directions & Parking">Directions & Parking</a>
+<ul>
+<li><a href="/visit/wshm/directions/parking" title="Parking Registration">Parking Registration</a>
+</li></ul>
+</li><li><a href="/visit/wshm/exhibits" title="Exhibits">Exhibits</a>
+<ul>
+<li><a href="/visit/wshm/exhibits/greathall" title="Great Hall of Washington History">Great Hall of Washington History</a>
+</li><li><a href="/visit/wshm/exhibits/Witness" title="Witness to Wartime: The Painted Diary of Takuichi Fujii">Witness to Wartime: The Painted Diary of Takuichi Fujii</a>
+</li><li><a href="/visit/wshm/exhibits/LoyalOpposition" title="Loyal Opposition: The Protest Photos of George P. Hickey">Loyal Opposition: The Protest Photos of George P. Hickey</a>
+</li><li><a href="/visit/wshm/exhibits/GlasnostGoodwill" title="Glasnost & Goodwill: Citizen Diplomacy in the Northwest">Glasnost & Goodwill: Citizen Diplomacy in the Northwest</a>
+</li><li><a href="/visit/wshm/exhibits/WAmyHome" title="Washington: My Home">Washington: My Home</a>
+</li></ul>
+</li><li><a href="/visit/wshm/eventsprograms" title="Events & Programs">Events & Programs</a>
+<ul>
+<li><a href="/visit/wshm/eventsprograms/festivals" title="Annual Community Events">Annual Community Events</a>
+</li><li><a href="/visit/wshm/eventsprograms/festivals/trainfest" title="Model Train Festival">Model Train Festival</a>
+<ul>
+<li><a href="/visit/wshm/eventsprograms/festivals/trainfest/trains" title="Model Train Festival Photo Gallery">Model Train Festival Photo Gallery</a>
+</li></ul>
+</li><li><a href="/visit/wshm/eventsprograms/festivals/spirit" title="In the Spirit Northwest Native Festival">In the Spirit Northwest Native Festival</a>
+<ul>
+<li><a href="/visit/wshm/eventsprograms/festivals/spirit/ITS2016" title="In The Spirit 2016 Photo Gallery">In The Spirit 2016 Photo Gallery</a>
+</li><li><a href="/visit/wshm/eventsprograms/festivals/spirit/2015photos" title="In The Spirit 2015 Photo Gallery">In The Spirit 2015 Photo Gallery</a>
+</li><li><a href="/visit/wshm/eventsprograms/festivals/spirit/2014photos" title="In the Spirit 2014 Photo Gallery">In the Spirit 2014 Photo Gallery</a>
+</li><li><a href="/visit/wshm/eventsprograms/festivals/spirit/ITSphotos" title="In the Spirit Photo Gallery Years Past">In the Spirit Photo Gallery Years Past</a>
+</li></ul>
+</li></ul>
+</li><li><a href="/visit/wshm/HoursandAdmissions" title="Hours and Admission Prices for Washington State History Museum">Hours and Admission Prices for Washington State History Museum</a>
+</li><li><a href="/visit/wshm/outreach" title="Outreach">Outreach</a>
+<ul>
+<li><a href="/visit/wshm/outreach/girlscouts" title="Girl Scouts">Girl Scouts</a>
+<ul>
+<li><a href="/visit/wshm/outreach/girlscouts/reservations" title="Scout Troop Reservations">Scout Troop Reservations</a>
+</li></ul>
+</li><li><a href="/visit/wshm/outreach/seymour" title="Seymour History">Seymour History</a>
+<ul>
+<li><a href="/visit/wshm/outreach/seymour/seymourphotos" title="Seymour History Photo Gallery">Seymour History Photo Gallery</a>
+</li></ul>
+</li></ul>
+</li><li><a href="/visit/wshm/rentals" title="Facility Rentals">Facility Rentals</a>
+<ul>
+<li><a href="/visit/wshm/rentals/rates" title="Rates & Details">Rates & Details</a>
+</li><li><a href="/visit/wshm/rentals/caterers" title="Authorized Caterers">Authorized Caterers</a>
+</li><li><a href="/visit/wshm/rentals/inquiry" title="Rental Inquiry">Rental Inquiry</a>
+</li><li><a href="/visit/wshm/rentals/facilityphotos" title="Facility Photo Gallery">Facility Photo Gallery</a>
+</li><li><a href="/visit/wshm/rentals/weddingphotos" title="Wedding Photo Gallery">Wedding Photo Gallery</a>
+</li><li><a href="/visit/wshm/rentals/facilityfaqs" title="Facility Rental FAQs">Facility Rental FAQs</a>
+</li></ul>
+</li><li><a href="/visit/wshm/amenities" title="Museum Amenities">Museum Amenities</a>
+</li><li><a href="/visit/wshm/museumdistrict" title="Tacoma Museum District">Tacoma Museum District</a>
+</li></ul>
+</div>
+<div class="column">
+<h3><a href="/visit/scm" title="Historic Lord Mansion and Coach House">Historic Lord Mansion and Coach House</a></h3>
+<ul>
+<li><a href="/visit/scm/directions" title="Directions & Parking">Directions & Parking</a>
+</li><li><a href="/visit/scm/eventsprograms" title="Events & Programs">Events & Programs</a>
+</li><li><a href="/visit/scm/education" title="Education & Field Trips">Education & Field Trips</a>
+</li><li><a href="/visit/scm/mansion" title="The Lord Mansion and Gardens">The Lord Mansion and Gardens</a>
+</li><li><a href="/visit/scm/rentals" title="Facility Rentals">Facility Rentals</a>
+<ul>
+<li><a href="/visit/scm/rentals/facilityphotos" title="Facility Photo Gallery">Facility Photo Gallery</a>
+</li></ul>
+</li></ul>
+</div>
+</div>
+<!-- End of navDropdown -->
+</li>
+<li>
+<a href="/education">Education</a>
+<div class="navDropdown large">
+<div class="column">
+<h3><a href="/education/fieldtrips" title="Field Trips">Field Trips</a></h3>
+<ul>
+<li><a href="/education/fieldtrips/selfguided" title="Self-Guided Visits">Self-Guided Visits</a>
+<ul>
+<li><a href="/education/fieldtrips/selfguided/galleryactivities" title="Gallery Activities from the WSHS Field Guide">Gallery Activities from the WSHS Field Guide</a>
+</li></ul>
+</li><li><a href="/education/fieldtrips/historylab" title="History Lab Field Trips">History Lab Field Trips</a>
+<ul>
+<li><a href="/education/fieldtrips/historylab/photos" title="History Lab Photo Gallery">History Lab Photo Gallery</a>
+</li><li><a href="/education/fieldtrips/historylab/pre-visit" title="History Lab: Pre-Visit">History Lab: Pre-Visit</a>
+</li><li><a href="/education/fieldtrips/historylab/transportation" title="History Lab: Transportation Artifacts & Ephemera">History Lab: Transportation Artifacts & Ephemera</a>
+</li></ul>
+</li><li><a href="/education/fieldtrips/voices" title="Voices of the Great Hall Field Trip">Voices of the Great Hall Field Trip</a>
+</li><li><a href="/education/fieldtrips/reservation" title="Field Trip Reservations">Field Trip Reservations</a>
+</li></ul>
+<h3><a href="/education/historyboxes" title="History Boxes">History Boxes</a></h3>
+<ul>
+<li><a href="/education/historyboxes/reservation" title="History Box Reservation">History Box Reservation</a>
+</li></ul>
+<h3><a href="/education/curriculum" title="Curriculum">Curriculum</a></h3>
+<ul>
+<li><a href="/education/curriculum/lessons" title="Classroom Materials">Classroom Materials</a>
+</li></ul>
+</div>
+<div class="column">
+<h3><a href="/education/teacherprograms" title="Teacher Programs">Teacher Programs</a></h3>
+<h3><a href="/education/historyday" title="History Day">History Day</a></h3>
+<ul>
+<li><a href="/education/historyday/students" title="Student Resources">Student Resources</a>
+</li><li><a href="/education/historyday/teachers" title="Teacher Resources">Teacher Resources</a>
+</li><li><a href="/education/historyday/judges" title="Judges Resources">Judges Resources</a>
+</li><li><a href="/education/historyday/contests" title="Contests">Contests</a>
+</li><li><a href="/education/historyday/workshops" title="Workshops">Workshops</a>
+</li><li><a href="/education/historyday/samples" title="Sample Projects">Sample Projects</a>
+</li><li><a href="/education/historyday/sponsors" title="Sponsors">Sponsors</a>
+</li><li><a href="/education/historyday/photos" title="History Day Photo Gallery">History Day Photo Gallery</a>
+</li><li><a href="/education/historyday/pastresults" title="Past History Day Results">Past History Day Results</a>
+</li></ul>
+</div>
+<div class="column">
+<h3><a href="/education/families" title="Kids and Families">Kids and Families</a></h3>
+<h3><a href="/education/girlscouts" title="Girl Scouts">Girl Scouts</a></h3>
+</div>
+</div>
+<!-- End of navDropdown -->
+</li>
+<li>
+<a href="/research">Research</a>
+<div class="navDropdown large">
+<div class="column">
+<h3><a href="/research/collections" title="Collections">Collections</a></h3>
+<ul>
+<li><a href="/research/collections/highlights" title="Collection Highlights">Collection Highlights</a>
+</li><li><a href="/research/collections/collections-donation" title="Collections Donation">Collections Donation</a>
+</li></ul>
+<div id="collection_search">
+    <label>Search Our Collections Catalog</label>
+    <div class="search">
+        <form id="frmCatalogSearch" method="get" action="/collections/results.aspx">
+            <input type="text" class="placeholder" placeholder="Search Terms..." value="" name="query" />
+            <input type="hidden" value="simple" name="searchType" />
+            <input type="submit" value="">
+        </form>
+    </div>
+</div>
+</div>
+<div class="column">
+<h3><a href="/research/images" title="Image Services">Image Services</a></h3>
+<ul>
+<li><a href="/research/images/order" title="Image Order Form">Image Order Form</a>
+</li><li><a href="/research/images/policy" title="Image Use Policy">Image Use Policy</a>
+</li></ul>
+<h3><a href="/research/columbia" title="COLUMBIA">COLUMBIA</a></h3>
+<ul>
+<li><a href="/research/columbia/purchase" title="Purchase COLUMBIA">Purchase COLUMBIA</a>
+</li><li><a href="/research/columbia/archives" title="COLUMBIA Archives">COLUMBIA Archives</a>
+<ul>
+<li><a href="/research/columbia/archives/2017" title="2017">2017</a>
+</li><li><a href="/research/columbia/archives/2016" title="2016">2016</a>
+<ul>
+<li><a href="/research/columbia/archives/2016/spring" title="Spring">Spring</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2015" title="2015">2015</a>
+</li><li><a href="/research/columbia/archives/2014" title="2014">2014</a>
+</li><li><a href="/research/columbia/archives/2013" title="2013">2013</a>
+</li><li><a href="/research/columbia/archives/2012" title="2012">2012</a>
+</li><li><a href="/research/columbia/archives/2011" title="2011">2011</a>
+<ul>
+<li><a href="/research/columbia/archives/2011/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2010" title="2010">2010</a>
+<ul>
+<li><a href="/research/columbia/archives/2010/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2010/fall" title="Fall">Fall</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2009" title="2009">2009</a>
+<ul>
+<li><a href="/research/columbia/archives/2009/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2008" title="2008">2008</a>
+<ul>
+<li><a href="/research/columbia/archives/2008/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2008/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2007" title="2007">2007</a>
+</li><li><a href="/research/columbia/archives/2006" title="2006">2006</a>
+<ul>
+<li><a href="/research/columbia/archives/2006/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2006/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2006/fall" title="Fall">Fall</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2005" title="2005">2005</a>
+<ul>
+<li><a href="/research/columbia/archives/2005/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2005/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2005/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2005/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2004" title="2004">2004</a>
+<ul>
+<li><a href="/research/columbia/archives/2004/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2004/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2004/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2004/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2003" title="2003">2003</a>
+<ul>
+<li><a href="/research/columbia/archives/2003/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2003/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2003/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2003/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2002" title="2002">2002</a>
+<ul>
+<li><a href="/research/columbia/archives/2002/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2002/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2002/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2002/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2001" title="2001">2001</a>
+<ul>
+<li><a href="/research/columbia/archives/2001/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2001/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2001/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2001/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/2000" title="2000">2000</a>
+<ul>
+<li><a href="/research/columbia/archives/2000/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/2000/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/2000/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/2000/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1999" title="1999">1999</a>
+<ul>
+<li><a href="/research/columbia/archives/1999/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/1999/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/1999/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1998" title="1998">1998</a>
+<ul>
+<li><a href="/research/columbia/archives/1998/spring" title="Spring">Spring</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1997" title="1997">1997</a>
+<ul>
+<li><a href="/research/columbia/archives/1997/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/1997/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1996" title="1996">1996</a>
+<ul>
+<li><a href="/research/columbia/archives/1996/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1995" title="1995">1995</a>
+</li><li><a href="/research/columbia/archives/1994" title="1994">1994</a>
+<ul>
+<li><a href="/research/columbia/archives/1994/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1993" title="1993">1993</a>
+<ul>
+<li><a href="/research/columbia/archives/1993/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1992" title="1992">1992</a>
+</li><li><a href="/research/columbia/archives/1991" title="1991">1991</a>
+</li><li><a href="/research/columbia/archives/1990" title="1990">1990</a>
+<ul>
+<li><a href="/research/columbia/archives/1990/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1989" title="1989">1989</a>
+<ul>
+<li><a href="/research/columbia/archives/1989/summer" title="Summer">Summer</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1988" title="1988">1988</a>
+<ul>
+<li><a href="/research/columbia/archives/1988/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/1988/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/1988/winter" title="Winter">Winter</a>
+</li></ul>
+</li><li><a href="/research/columbia/archives/1987" title="1987">1987</a>
+<ul>
+<li><a href="/research/columbia/archives/1987/spring" title="Spring">Spring</a>
+</li><li><a href="/research/columbia/archives/1987/summer" title="Summer">Summer</a>
+</li><li><a href="/research/columbia/archives/1987/fall" title="Fall">Fall</a>
+</li><li><a href="/research/columbia/archives/1987/winter" title="Winter">Winter</a>
+</li></ul>
+</li></ul>
+</li><li><a href="/research/columbia/anthology" title="COLUMBIA Anthology">COLUMBIA Anthology</a>
+<ul>
+<li><a href="/research/columbia/anthology/washington" title="The State Called Washington">The State Called Washington</a>
+</li><li><a href="/research/columbia/anthology/settlers" title="The Earliest Settlers and How They Lived">The Earliest Settlers and How They Lived</a>
+</li><li><a href="/research/columbia/anthology/explorers" title="Explorers By Sea, Explorers By Land">Explorers By Sea, Explorers By Land</a>
+</li><li><a href="/research/columbia/anthology/tradersmissionaries" title="Fur Trade and Missionaries">Fur Trade and Missionaries</a>
+</li><li><a href="/research/columbia/anthology/settlements" title="Settlers and Settlements">Settlers and Settlements</a>
+</li><li><a href="/research/columbia/anthology/tribaltostatehood" title="From Tribal Lands to Statehood">From Tribal Lands to Statehood</a>
+</li><li><a href="/research/columbia/anthology/growth" title="Years of Growth 1870-1910">Years of Growth 1870-1910</a>
+</li><li><a href="/research/columbia/anthology/war" title="From War to War">From War to War</a>
+</li><li><a href="/research/columbia/anthology/maturing" title="The Maturing State">The Maturing State</a>
+</li><li><a href="/research/columbia/anthology/economy" title="The Economy of Washington">The Economy of Washington</a>
+</li><li><a href="/research/columbia/anthology/washingtonians" title="Washingtonians and How They Live">Washingtonians and How They Live</a>
+</li><li><a href="/research/columbia/anthology/government" title="Government in Washington">Government in Washington</a>
+</li></ul>
+</li><li><a href="/research/columbia/guidelines" title="For Authors & Advertisers">For Authors & Advertisers</a>
+</li></ul>
+</div>
+<div class="column">
+<h3><a href="/research/ExcitingFinds" title="Exciting Finds">Exciting Finds</a></h3>
+<h3><a href="/research/whc" title="Women's History Consortium">Women's History Consortium</a></h3>
+<ul>
+<li><a href="/research/whc/about" title="About WHC">About WHC</a>
+<ul>
+<li><a href="/research/whc/about/statute" title="State Statute">State Statute</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections" title="Women's History Consortium Collections">Women's History Consortium Collections</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/AssociatePartners" title="Associate Partners">Associate Partners</a>
+</li><li><a href="/research/whc/WHCcollections/cwu" title="Central Washington University">Central Washington University</a>
+</li><li><a href="/research/whc/WHCcollections/ewu" title="Eastern Washington University">Eastern Washington University</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants" title="Local Grant Awardees">Local Grant Awardees</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/localgrants/nhroralhistory" title="Northwest Heritage Resources">Northwest Heritage Resources</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/localgrants/nhroralhistory/Grinnell" title="Elaine Grinnell">Elaine Grinnell</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/localgrants/BainbridgeIsland" title="Bainbridge Island Japanese American Community">Bainbridge Island Japanese American Community</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/AIWSL" title="American Indian Women's Service League">American Indian Women's Service League</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/GigHarbor" title="Gig Harbor Peninsula Historical Society">Gig Harbor Peninsula Historical Society</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/GovMansion" title="Governor's Mansion Foundation">Governor's Mansion Foundation</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/HistoryLink" title="HistoryLink">HistoryLink</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/KittitasMuseum" title="Kittitas County Historical Museum">Kittitas County Historical Museum</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/Lakewold" title="Lakewold Gardens">Lakewold Gardens</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/SnohomishHeritage" title="League of Snohomish County Heritage Organizations">League of Snohomish County Heritage Organizations</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/LWV" title="League of Women Voters/Spokane Area Education Fund">League of Women Voters/Spokane Area Education Fund</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/SJHS" title="San Juan Historical Society">San Juan Historical Society</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/SMA" title="Seattle Municipal Archives">Seattle Municipal Archives</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/Shoreline" title="Shoreline Historical Museum">Shoreline Historical Museum</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/Steilacoom" title="Steilacoom Historical Museum">Steilacoom Historical Museum</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/TCW" title="Tacoma City Association of Colored Women's Clubs, Inc.">Tacoma City Association of Colored Women's Clubs, Inc.</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/UpperValley" title="Upper Valley Historical Society of Leavenworth">Upper Valley Historical Society of Leavenworth</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WVM" title="Wenatchee Valley Museum">Wenatchee Valley Museum</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/localgrants/WVM/AboutFilm" title="About the Film">About the Film</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WVM/filmmakers" title="Abouth the Filmmakers">Abouth the Filmmakers</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WMHA" title="Whatcom Museum of History & Art">Whatcom Museum of History & Art</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WRVM" title="White River Valley Museum">White River Valley Museum</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WLAM" title="Wing Luke Asian Museum">Wing Luke Asian Museum</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/WCO" title="Woman's Club of Olympia">Woman's Club of Olympia</a>
+</li><li><a href="/research/whc/WHCcollections/localgrants/YWCA" title="YWCA of Bellingham">YWCA of Bellingham</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/nwmac" title="Northwest Museum of Arts & Culture">Northwest Museum of Arts & Culture</a>
+</li><li><a href="/research/whc/WHCcollections/tesc" title="The Evergreen State College">The Evergreen State College</a>
+</li><li><a href="/research/whc/WHCcollections/uw" title="University of Washington">University of Washington</a>
+</li><li><a href="/research/whc/WHCcollections/wsa" title="Washington State Archives">Washington State Archives</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/wsa/EqualRights" title="Equal Rights Amendment Collection">Equal Rights Amendment Collection</a>
+</li><li><a href="/research/whc/WHCcollections/wsa/GovernorsPapers" title="Governors' Papers Related to Women's Issues, 1904-1984">Governors' Papers Related to Women's Issues, 1904-1984</a>
+</li><li><a href="/research/whc/WHCcollections/wsa/StatusWomen" title="The Status of Women, 1963-2006">The Status of Women, 1963-2006</a>
+</li><li><a href="/research/whc/WHCcollections/wsa/WomenPolitics" title="Women In Politics">Women In Politics</a>
+</li><li><a href="/research/whc/WHCcollections/wsa/WomensSuffrage" title="Women's Suffrage Collection">Women's Suffrage Collection</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/wshs" title="Washington State Historical Society">Washington State Historical Society</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/wshs/Columbia" title="Washington Women's History in Columbia Magazine">Washington Women's History in Columbia Magazine</a>
+</li><li><a href="/research/whc/WHCcollections/wshs/CurtissHillLectures" title="Curtiss Hill Memorial Lectures on Women's History Topics">Curtiss Hill Memorial Lectures on Women's History Topics</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/wsl" title="Washington State Library">Washington State Library</a>
+</li><li><a href="/research/whc/WHCcollections/wsu" title="Washington State University">Washington State University</a>
+<ul>
+<li><a href="/research/whc/WHCcollections/wsu/Lucullus" title="Images of Native American Women from the Lucullus V. McWhorter Photograph Collection">Images of Native American Women from the Lucullus V. McWhorter Photograph Collection</a>
+</li><li><a href="/research/whc/WHCcollections/wsu/WSU_Selections" title="Washington State Women's History Selections, 1870-1950">Washington State Women's History Selections, 1870-1950</a>
+</li></ul>
+</li><li><a href="/research/whc/WHCcollections/wwu" title="Western Washington University">Western Washington University</a>
+</li></ul>
+</li><li><a href="/research/whc/milestones" title="Milestones in Women's History">Milestones in Women's History</a>
+<ul>
+<li><a href="/research/whc/milestones/suffrage" title="Suffrage">Suffrage</a>
+<ul>
+<li><a href="/research/whc/milestones/suffrage/anthony" title="Susan B. Anthony's Visit to Washington">Susan B. Anthony's Visit to Washington</a>
+</li><li><a href="/research/whc/milestones/suffrage/HB59" title="House Bill 59">House Bill 59</a>
+</li><li><a href="/research/whc/milestones/suffrage/mercergirls" title="Mercer Girls">Mercer Girls</a>
+</li><li><a href="/research/whc/milestones/suffrage/19thamendment" title="19th Amendment">19th Amendment</a>
+</li><li><a href="/research/whc/milestones/suffrage/hutton" title="May Arkwright Hutton and the Battle for Women's Suffrage">May Arkwright Hutton and the Battle for Women's Suffrage</a>
+</li><li><a href="/research/whc/milestones/suffrage/peters" title="Laura Hall Peters">Laura Hall Peters</a>
+</li><li><a href="/research/whc/milestones/suffrage/devoe" title="Emma Smith Devoe">Emma Smith Devoe</a>
+</li></ul>
+</li><li><a href="/research/whc/milestones/late20thcentury" title="Late 20th Century Women's Rights">Late 20th Century Women's Rights</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage" title="After Suffrage Topics">After Suffrage Topics</a>
+<ul>
+<li><a href="/research/whc/milestones/aftersuffrage/eighthourday" title="The Eight-hour Day">The Eight-hour Day</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/minutewomen" title="Minute Women of Washington">Minute Women of Washington</a>
+<ul>
+<li><a href="/research/whc/milestones/aftersuffrage/minutewomen/nlws" title="National League for Woman’s Service">National League for Woman’s Service</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/minutewomen/wccnd" title="Woman’s Committee of the Council of National Defense">Woman’s Committee of the Council of National Defense</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/minutewomen/wscd" title="Washington State Council of Defense">Washington State Council of Defense</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/minutewomen/postww1" title="Minute Women after WWI">Minute Women after WWI</a>
+</li></ul>
+</li><li><a href="/research/whc/milestones/aftersuffrage/motherspensions" title="Mothers' Pensions">Mothers' Pensions</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/ncwv" title="National Council of Women Voters">National Council of Women Voters</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/prohibition" title="Prohibition">Prohibition</a>
+</li><li><a href="/research/whc/milestones/aftersuffrage/law" title="Women Working in the Legal System">Women Working in the Legal System</a>
+</li></ul>
+</li><li><a href="/research/whc/milestones/centennial" title="Washington Suffrage Centennial, 1910-2010">Washington Suffrage Centennial, 1910-2010</a>
+<ul>
+<li><a href="/research/whc/milestones/centennial/dayofjubilation" title="Day of Jubilation — November 8, 2010">Day of Jubilation — November 8, 2010</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference" title="Proceedings of the Pacific Northwest History Conference 2010">Proceedings of the Pacific Northwest History Conference 2010</a>
+<ul>
+<li><a href="/research/whc/milestones/centennial/pnwconference/coontz" title="The Second Century of Struggle">The Second Century of Struggle</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference/kirk" title="Ruth Kirk, Paper Ranger">Ruth Kirk, Paper Ranger</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference/burton_three" title="A Three-Generational Women's Lookout Team">A Three-Generational Women's Lookout Team</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference/burton_ladies" title="Ladies’ Cascade Expedition">Ladies’ Cascade Expedition</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference/burton_tatoosh" title="Review: Martha Hardy's Tatoosh">Review: Martha Hardy's Tatoosh</a>
+</li><li><a href="/research/whc/milestones/centennial/pnwconference/egan" title="Nursing Education in the Northwest">Nursing Education in the Northwest</a>
+</li></ul>
+</li><li><a href="/research/whc/milestones/centennial/whatyoucando" title="What can you do to Celebrate Women's Right to Vote?">What can you do to Celebrate Women's Right to Vote?</a>
+</li></ul>
+</li></ul>
+</li><li><a href="/research/whc/oralhistory" title="Oral History Projects">Oral History Projects</a>
+<ul>
+<li><a href="/research/whc/oralhistory/ERAOralHistory" title="ERA Oral History Project">ERA Oral History Project</a>
+</li><li><a href="/research/whc/oralhistory/IWYOralHistory" title="International Women's Year Oral History Project">International Women's Year Oral History Project</a>
+</li><li><a href="/research/whc/oralhistory/comparableworth" title="Comparable Worth in Washington">Comparable Worth in Washington</a>
+</li></ul>
+</li><li><a href="/research/whc/ElectedWomen" title="Elected Washington Women">Elected Washington Women</a>
+<ul>
+<li><a href="/research/whc/ElectedWomen/axtell" title="Frances C. Axtell">Frances C. Axtell</a>
+<ul>
+<li><a href="/research/whc/ElectedWomen/axtell/axtellspeech" title="Speech by Frances Axtell, homecoming luncheon, November 13, 1948.">Speech by Frances Axtell, homecoming luncheon, November 13, 1948.</a>
+</li></ul>
+</li><li><a href="/research/whc/ElectedWomen/colwell" title="Anna K. Colwell">Anna K. Colwell</a>
+</li><li><a href="/research/whc/ElectedWomen/croake" title="Nena Jolidon Croake">Nena Jolidon Croake</a>
+</li><li><a href="/research/whc/ElectedWomen/hansen" title="Julia Butler Hansen">Julia Butler Hansen</a>
+</li><li><a href="/research/whc/ElectedWomen/haskell" title="Frances M. Haskell">Frances M. Haskell</a>
+</li><li><a href="/research/whc/ElectedWomen/preston" title="Josephine Corliss Preston, Term of Office, 1913-1929">Josephine Corliss Preston, Term of Office, 1913-1929</a>
+</li><li><a href="/research/whc/ElectedWomen/rust" title="Nancy Rust, Washington State Representative, 1981-1996">Nancy Rust, Washington State Representative, 1981-1996</a>
+</li><li><a href="/research/whc/ElectedWomen/wanamaker" title="Pearl Wanamaker">Pearl Wanamaker</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen" title="Women in Washington">Women in Washington</a>
+<ul>
+<li><a href="/research/whc/WAWomen/bios" title="Biographies">Biographies</a>
+<ul>
+<li><a href="/research/whc/WAWomen/bios/AfricanAmericans" title="African American Women">African American Women</a>
+<ul>
+<li><a href="/research/whc/WAWomen/bios/AfricanAmericans/caver" title="Vivian Caver">Vivian Caver</a>
+</li><li><a href="/research/whc/WAWomen/bios/AfricanAmericans/franklin" title="Rosa Franklin">Rosa Franklin</a>
+</li><li><a href="/research/whc/WAWomen/bios/AfricanAmericans/king" title="Marjorie Pitter King">Marjorie Pitter King</a>
+</li><li><a href="/research/whc/WAWomen/bios/AfricanAmericans/mason" title="Dawn Mason">Dawn Mason</a>
+</li><li><a href="/research/whc/WAWomen/bios/AfricanAmericans/maxie" title="Peggy Joan Maxie">Peggy Joan Maxie</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen/bios/NativeAmericans" title="Native American Women">Native American Women</a>
+</li><li><a href="/research/whc/WAWomen/bios/womenshistory" title="Women Making History">Women Making History</a>
+<ul>
+<li><a href="/research/whc/WAWomen/bios/womenshistory/rice" title="Carolyn (Carrie) V. Shaw Rice (1862-1926)">Carolyn (Carrie) V. Shaw Rice (1862-1926)</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen/bios/AsianAmericans" title="Asian Americans">Asian Americans</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen/organizations" title="Clubs and Organizations">Clubs and Organizations</a>
+<ul>
+<li><a href="/research/whc/WAWomen/organizations/aauw" title="American Association of University Women">American Association of University Women</a>
+</li><li><a href="/research/whc/WAWomen/organizations/utsalady" title="Utsalady [Utsaladdy] Ladies Aid">Utsalady [Utsaladdy] Ladies Aid</a>
+</li><li><a href="/research/whc/WAWomen/organizations/wsfwc" title="Washington State Federation of Women's Clubs">Washington State Federation of Women's Clubs</a>
+<ul>
+<li><a href="/research/whc/WAWomen/organizations/wsfwc/gfwc" title="Capsule History of General Federation of Women's Clubs">Capsule History of General Federation of Women's Clubs</a>
+</li><li><a href="/research/whc/WAWomen/organizations/wsfwc/juniors" title="Capsule History of Washington State Juniors">Capsule History of Washington State Juniors</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen/organizations/womensclubolympia" title="Woman's Club of Olympia">Woman's Club of Olympia</a>
+</li><li><a href="/research/whc/WAWomen/organizations/blairpodcast" title="History of Women's Clubs">History of Women's Clubs</a>
+</li><li><a href="/research/whc/WAWomen/organizations/haarsager" title="Organized Womanhood: Cultural Politics in the Northwest, 1840-1920">Organized Womanhood: Cultural Politics in the Northwest, 1840-1920</a>
+</li></ul>
+</li><li><a href="/research/whc/WAWomen/walkingtour" title="Walking Tour">Walking Tour</a>
+</li><li><a href="/research/whc/WAWomen/blaine" title="Catharine Paine Blaine">Catharine Paine Blaine</a>
+</li></ul>
+</li><li><a href="/research/whc/curricula" title="Curricula">Curricula</a>
+<ul>
+<li><a href="/research/whc/curricula/HerDayInCourt" title="Her Day In Court">Her Day In Court</a>
+</li><li><a href="/research/whc/curricula/research" title="Researching Women's History">Researching Women's History</a>
+</li><li><a href="/research/whc/curricula/wvmcurriculum" title="Wenatchee Valley Museum : How Can I Keep on Singing?">Wenatchee Valley Museum : How Can I Keep on Singing?</a>
+</li></ul>
+</li><li><a href="/research/whc/webresources" title="Additional Web Resources">Additional Web Resources</a>
+</li></ul>
+</div>
+<div class="column">
+<h3><a href="/research/research-center" title="Research Center">Research Center</a></h3>
+<ul>
+<li><a href="/research/research-center/directions" title="Directions & Map">Directions & Map</a>
+</li><li><a href="/research/research-center/research-request" title="Research Request">Research Request</a>
+</li></ul>
+</div>
+</div>
+<!-- End of navDropdown -->
+</li>
+<li>
+<a href="/shop">Shop</a>
+</li>
+<li>
+<a href="/contact">Contact</a>
+</li>
+<li>
+<a href="/about">About</a>
+<div class="navDropdown">
+<div class="column">
+<h3><a href="/about/media" title="Media">Media</a></h3>
+<ul>
+<li><a href="/about/media/news" title="News Releases">News Releases</a>
+</li></ul>
+<h3><a href="/about/board" title="Board of Trustees">Board of Trustees</a></h3>
+<h3><a href="/about/awards" title="History Awards">History Awards</a></h3>
+<h3><a href="/about/jobs" title="Career Opportunities">Career Opportunities</a></h3>
+<ul>
+<li><a href="/about/jobs/internship" title="Internship Inquiry">Internship Inquiry</a>
+</li><li><a href="/about/jobs/contracts" title="Contracts">Contracts</a>
+</li></ul>
+<h3><a href="/about/disclosure" title="Privacy and Disclosure Policies">Privacy and Disclosure Policies</a></h3>
+</div>
+</div>
+<!-- End of navDropdown -->
+</li>
+</ul>
+		    
+		    </nav>
+	    </header>
+
+        
+<script type="text/javascript">
+<!--
+var HOMEPAGE_HERO_SPEED = 5000;
+-->
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3989C74E" />
+            <div id="content_container" class="with_nav">
+                
+<nav>
+
+
+
+        <!-- NAV ITEMS START -->
+<ul>
+             <li><a href="/education/fieldtrips" class=" active">Field Trips</a>
+<ul>
+                <li><a href="/education/fieldtrips/selfguided" class="">Self-Guided Visits</a>
+</li>
+                <li><a href="/education/fieldtrips/historylab" class=" active">History Lab Field Trips</a>
+<ul>
+                    <li><a href="/education/fieldtrips/historylab/photos" class="">History Lab Photo Gallery</a>
+</li>
+                    <li><a href="/education/fieldtrips/historylab/pre-visit" class="">History Lab: Pre-Visit</a>
+</li>
+                    <li><a href="/education/fieldtrips/historylab/transportation" class="">History Lab: Transportation Artifacts & Ephemera</a>
+</li>
+
+</ul></li>
+                <li><a href="/education/fieldtrips/voices" class="">Voices of the Great Hall Field Trip</a>
+</li>
+                <li><a href="/education/fieldtrips/reservation" class="">Field Trip Reservations</a>
+</li>
+
+</ul></li>
+            <li><a href="/education/historyboxes" class="">History Boxes</a>
+</li>
+            <li><a href="/education/curriculum" class="">Curriculum</a>
+</li>
+            <li><a href="/education/teacherprograms" class="">Teacher Programs</a>
+</li>
+            <li><a href="/education/historyday" class="">History Day</a>
+</li>
+            <li><a href="/education/families" class="">Kids and Families</a>
+</li>
+            <li><a href="/education/girlscouts" class="">Girl Scouts</a>
+</li>
+</ul>
+        <!-- NAV ITEMS END -->
+
+</nav>
+
+<div id="content">
+<div class="context">
+<div class="breadcrumbs"><a href="/" title="Home">Home</a> > <a href="/education" title="Education">Education</a> > <a href="/education/fieldtrips" title="Field Trips">Field Trips</a> > History Lab Field Trips</div>
+<div class="extras">
+    <a href="" class="share">Share</a>
+<a href="javascript:void(0);" class="print" onclick="window.print();">Print</a>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script><script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50b652655b7b820e"></script>
+<!-- AddThis Button END --></div>
+
+<div class="textarea">
+    <h1>History Lab Field Trips</h1>
+    <img class="int_feature" src="/img/pages/schoolhouse1.jpg" alt="" />
+    <div class="rtecontent top">
+        <p><a href="http://www.washingtonhistory.org/education/fieldtrips/reservation/"><img style="margin-bottom: -2px;" src="/files/library/book-field-trip_001.png?0.9318587868653656" alt="Book a Field Trip" border="0" /></a></p>
+<p>In the History Lab, students work in teams to explore a theme in Washington's history. This visit includes an engaging introduction as well as in-depth and hands-on examination of real artifacts. History Labs are offered on Thursdays and Fridays.</p>
+<p>Is a History Lab Field Trip right for your class? Check these requirements:</p>
+<ul>
+<li>Your class is Third Grade or above. <em>(The Labs are written at 4<sup>th </sup>grade, Middle School, and High School levels).</em></li>
+<li>You have only one or two adjacent grade levels<em>. (Ex: A 4<sup>th</sup>/5<sup>th</sup>&nbsp;group is fine, a 4<sup>th</sup>&nbsp;<em>&ndash;</em> 8<sup>th</sup> is not).</em></li>
+<li>Your group can stay the entire time&nbsp;<em>(9:30 &ndash; 11:00am or 11am &ndash; 12:30pm).</em></li>
+<li>You have a minimum of 15 students.&nbsp;</li>
+<li>The Lab can accomodate up to two classes per time slot <em>&ndash;</em>&nbsp;four classes total for the day.</li>
+</ul>
+<p>If you can meet these requirements, feel free to book a History Lab Field Trip. If not, we welcome you to book a <a href="/education/fieldtrips/selfguided">Self-Guided Field Trip</a>, which has more flexibility with times and numbers.&nbsp;</p>
+<p>From the moment a class walks into the&nbsp;<a href="/education/fieldtrips/historylab">History Lab</a>, the excitement begins. Students become historians in this engaging, one-and-a-half hour facilitated field trip where they learn about historical evidence by interacting directly with objects. Artifacts and ephemera are used as primary sources to explore Washington state&rsquo;s history through object analysis and deep artifact-based inquiry. Armed with their senses of observation, students will understand how historians unlock the many secrets in Washington's past.</p>
+<p>If you plan on a History Lab field trip, be prepared by placing students in a chaperone group based on their learning styles and abilities as these groups will work together in the Lab. Also, see below for pre-visit lessons and extension activities that make it easy for you to adapt materials for your students.</p>
+<p>History Lab field trip admission is <strong>$7 per student</strong>.&nbsp;</p>
+<p>This program is offered on Thursdays and Fridays.</p>
+<p>Teachers and chaperones at a 1:5 ratio are free. &nbsp;Additional chaperone admission is $5 each.</p>
+<p>For more information, contact the&nbsp;<a href="mailto:schoolprograms@wshs.wa.gov" target="_blank">Education Department</a>.</p>    </div>
+</div>
+<div class="column first">
+<h2>History Lab Pre-Visit</h2>
+<img class="int_col" src="/img/pages/postcard.jpg" alt="" />
+<div class="rtecontent">
+<span>Click <a href="/files/library/history-lab-pre.pdf">here</a>&nbsp;for a brief pre-visit lesson on primary sources and interacting with objects.</span>
+<div><span><br /></span></div>
+<div>Ready for artifact and ephemera analysis? Check out the <a href="http://www.washingtonhistory.org/education/fieldtrips/historylab/pre-visit">pre-visit photo gallery</a> as part of your pre-visit lesson.</div>
+</div>
+</div>
+<div class="column">
+<h2>History Lab Extension Lessons</h2>
+<img class="int_col" src="/img/pages/inspecta.jpg" alt="" />
+<div class="rtecontent">
+<div><span>Ready for extension activities after your visit?&nbsp;<a href="/files/library/history-lab-post.pdf">Here is a post-visit activity for investigating artifacts in the classroom or at home.</a></span></div>
+<div>&nbsp;</div>
+<div>You can also explore the artifact and ephemera you experienced in the History Lab lesson through this<a href="http://www.washingtonhistory.org/education/fieldtrips/historylab/transportation/"> photo gallery</a>.</div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div class="column">
+<h2>History Lab Chaperones</h2>
+<img class="int_col" src="/img/pages/chaperone_001.jpg" alt="" />
+<div class="rtecontent">
+<a href="/files/library/chaperoneguidehl_002.pdf">Download</a>&nbsp;a schedule and map for your school's visit.
+<div>&nbsp;</div>
+<div>Check out these guiding questions for chaperones they can use in the History Lab with their group.</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="cleaner"></div>
+
+
+            </div>
+        
+
+        <footer>
+            <div class="col1">
+    <h3>Contact</h3>
+    <p>Washington State Historical Society<br/>
+1911 Pacific Avenue, Tacoma, WA 98402<br/>
+Toll-free 1-888-BE THERE (1-888-238-4373)</p>
+    &copy; 2017 Washington State Historical Society.<br/>    All rights reserved. Website by <a href="http://www.sitecrafting.com" target="_blank" title="Visit SiteCrafting">SiteCrafting</a>.</div>
+<div class="nav_col">
+    <h3>Locations</h3>
+    <a href="/visit/wshm">History Museum</a>
+<a href="/research">Research Center</a>
+</div>
+<div class="nav_col">
+    <h3>Quicklinks</h3>
+    <a href="/sitemap">Sitemap</a>
+<a href="/contact">Contact Us</a>
+<a href="/about/disclosure/">Privacy Policy</a>
+<a href="/about/disclosure/">Public Records Privacy Policy</a>
+<a href="/about/disclosure/">Public Disclosure</a>
+</div>
+<div class="last_col">
+    <h3>Sign Up For Our Newsletter</h3>
+    <div id="signup">
+        <form id="command" target="_blank" action="http://visitor.r20.constantcontact.com/manage/optin/ea?v=001wHcMLujjwHL7xwaUELpTeLca90KN1FndQmOxt5UUxY8c8nv-ySbwbW_ZBYtHqfN29mg-CHKx7jWnKtCWScJtVhvkITP4IOx40KZve_i8dChB8ls8yxB0eg%3D%3D" method="POST">
+        <input type="text" id="emailAddr" name="emailAddr" maxlength="80" value="" placeholder="Enter Email Address" class="placeholder email-input" />
+        <input type="submit" value=""/>
+        </form>
+    </div>
+    <div id="donation">
+        <a href="https://webformsrig02bo3.blackbaudhosting.com/49882/Operating-Support" title="Donate Today">
+            <img src="/img/donate_butt.jpg" alt="Donate Today"/>
+        </a>
+    </div>
+</div>
+<div class="cleaner"></div>
+
+        </footer>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                if ($(".share").length > 0) {
+                    addthis.button(".share");
+                }
+            });
+
+            //<!--Google Analytics Script-->
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-43970020-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() 
+          {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+            
+        </script>
+    </div>
+
+</body>
+</html>

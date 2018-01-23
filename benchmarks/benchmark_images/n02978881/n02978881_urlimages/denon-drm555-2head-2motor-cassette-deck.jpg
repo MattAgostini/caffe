@@ -1,0 +1,647 @@
+
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Welcome to BW Broadcast</title>
+    
+    <meta name="description" content="BW Broadcast, manufacturer of professional broadcast equipment including FM transmitters, Audio processors, RDS encoders, FM amplifiers, FM receivers and audio over IP codecs.">
+    <meta name="keywords" content="fm amplifier, fm amplifiers, rds encoder, rds encoders, rds, fm transmitter, fm transmitters, audio processors, audio processor, fm receiver, receiver, fm tuner, audio over ip, audio codec"> 
+    <meta name="author" content="">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--  <meta name="viewport" content="width=1000" />  -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/style.css?v=7">
+
+    <!-- ### Change! Add line below. ### -->
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/mobile.css?v=2">
+
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/nivo.css?v=5" media="screen"> <!-- load this only on the home page -->
+
+    <!-- ### Change! Add line below. ### -->
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/nivo-mobile.css?v=5" media="screen"> <!-- load this only on the home page -->
+
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/fancybox.css?v=5" media="screen">
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/scroll.css?v=5" media="screen">
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/uniform.css?v=5" media="screen"> <!-- only on contact page -->
+
+    <!-- ### Change! Add line below. ### -->
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/uniform-mobile.css?v=5" media="screen"> <!-- only on contact page -->
+
+    <!-- ### Change! Add 3 lines below. ### -->
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/jquery.mmenu.css">
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/jquery.mmenu.positioning.css">        
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/menu_bg-mobile.css">
+
+
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/user.css?v=5" media="screen"> <!-- only on contact page -->
+    <link rel="stylesheet" href="http://www.bwbroadcast.com/css/themes/base/jquery.ui.all.css"  media="screen">   
+
+    <!--### Change! Add 3 scripts below. ###-->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>       
+    <!--     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>  -->
+    <script type="text/javascript" src="http://www.bwbroadcast.com/js/jquery.mmenu.js"></script>        
+    <script type="text/javascript" src="http://www.bwbroadcast.com/js/mob-menu.js"></script>
+
+    <script src="http://www.bwbroadcast.com/js/libs/modernizr-1.7.min.js"></script>  
+<!--    <script type="text/javascript" src="jw/jwplayer.js?ver=1511685390"></script> 
+-->    <script src="jwplayer/jwplayer.js"></script>
+    <script>jwplayer.key="EizLl/bT5iKSi1e2yf60PEACiM+bzNXpEQ/RDg==";</script>
+                
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-3408115-12']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+ 
+<!-- #SUPPORT PAGE FILES -->  
+    
+
+</head>
+
+<body>
+<noscript>
+    <div  style="text-align: center;background:#d8d8d8;color:red;font-weight:bold;padding:2px;width:99.5%;font-size:11px">Please make sure you have javascript enabled to use the site.</div>
+</noscript>
+<!--[if IE 6]>
+<div id="alert_ie" style="padding:10px 0;">
+<h2>Did you know that your Internet Explorer is out of date?</h2>
+<p>To get the best possible experience using our website we recommend that you upgrade to a newer version or other web browser.</p>
+</div>
+<![endif]-->
+<!--      <div id="newsite">Like our new website? Got any feedback? Send us an email or click <a href="http://old.bwbroadcast.com" >here</a> to go back to the old site.</div> -->
+
+<div id="container" class="mm-page">
+<div style="clear: both;"></div>
+
+<header>
+
+    <div id="logo">
+        <!--### Change! Add line below. ###-->
+        <a href="#main-menu" class="menu-left">Menu left</a>
+        <a href="http://www.bwbroadcast.com" title="BW Broadcast">
+            <span class="org">BW Broadcast</span>
+            <span class="tagline"></span>
+        </a>
+        <!--### Change! Add line below. ###-->
+        <a href="#quick-sub-menu" class="menu-right">Menu right</a>
+    </div>
+    <!--### Change! Added id to nav below! ###-->
+    <nav id="main-menu"> 
+        <ul>
+            <li class="sub"><span class="mobile-override"><a href="#" class="mobile-override">Products<span class="arr-down">&nbsp;</span></a></span>
+                <ul class="subnav"> 
+                    <li><a href='http://www.bwbroadcast.com/fm-transmitters' title='FM Transmitters'>FM Transmitters</a></li><li><a href='http://www.bwbroadcast.com/fm-translators' title='FM Translators'>FM Translators</a></li><li><a href='http://www.bwbroadcast.com/fm-amplifiers' title='FM Amplifiers'>FM Amplifiers</a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/rbrx-encore/64/product' title='RBRX Encore Rebroadcast Receiver'>RBRX Encore <br><span class='minitext'>Rebroadcast Receiver</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/modmon-encore/66/product' title='ModMon encore FM & MPX Modulation Monitor'>ModMon encore <br><span class='minitext'>FM & MPX Modulation Monitor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/ariane-encore/71/product' title='Ariane Encore Audio Leveler'>Ariane Encore <br><span class='minitext'>Audio Leveler</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspmpx-encore/67/product' title='DSPmpX encore Stereo Encoder & Decoder'>DSPmpX encore <br><span class='minitext'>Stereo Encoder & Decoder</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspxmini-encore/68/product' title='DSPXmini Encore AM, FM & HD Audio Processor'>DSPXmini Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspxtra-encore/69/product' title='DSPXtra Encore AM, FM & HD Audio Processor'>DSPXtra Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/rds-encore/70/product' title='RDS Encore Radio Data System Encoder'>RDS Encore <br><span class='minitext'>Radio Data System Encoder</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/plan-b-encore/65/product' title='Plan B Encore Audio Backup Device'>Plan B Encore <br><span class='minitext'>Audio Backup Device</span></a></li>                </ul>
+            </li>
+            <li><a href="/about" title="About Us" >About</a></li>
+
+            <li class="sub"><span class="mobile-override"><a href="http://www.bwbroadcast.com/news/" class="mobile-override" title="News">News <span class="arr-down">&nbsp;</span></a></span>
+                <ul class="subnav"> 
+                    <li><a href="http://www.bwbroadcast.com/news/" title="News">News</a></li>
+                    <li><a href="http://www.bwbroadcast.com/news/category/events" title="Events">Events</a></li>
+                </ul>
+            </li>
+
+            <!--<li><a href="http://blog.bwbroadcast.com" >News</a></li>-->
+            <li><a href="http://www.bwbroadcast.com/support" title="Support" >Support</a></li>
+            <li class="sub"><span class="mobile-override"><a href="#" class="mobile-override">Downloads <span class="arr-down">&nbsp;</span></a></span> 
+                <ul class="subnav"> 
+                    <li><a href='/downloads#FM Transmitters' title='FM Transmitters'>FM Transmitters</a></li><li><a href='/downloads#FM Translators' title='FM Translators'>FM Translators</a></li><li><a href='/downloads#FM Amplifiers' title='FM Amplifiers'>FM Amplifiers</a></li><li><a href='/downloads#RBRX Encore Rebroadcast Receiver' title='RBRX Encore Rebroadcast Receiver'>RBRX Encore <br><span class='minitext'>Rebroadcast Receiver</span></a></li><li><a href='/downloads#ModMon encore FM & MPX Modulation Monitor' title='ModMon encore FM & MPX Modulation Monitor'>ModMon encore <br><span class='minitext'>FM & MPX Modulation Monitor</span></a></li><li><a href='/downloads#Ariane Encore Audio Leveler' title='Ariane Encore Audio Leveler'>Ariane Encore <br><span class='minitext'>Audio Leveler</span></a></li><li><a href='/downloads#DSPmpX encore Stereo Encoder & Decoder' title='DSPmpX encore Stereo Encoder & Decoder'>DSPmpX encore <br><span class='minitext'>Stereo Encoder & Decoder</span></a></li><li><a href='/downloads#DSPXmini Encore AM, FM & HD Audio Processor' title='DSPXmini Encore AM, FM & HD Audio Processor'>DSPXmini Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='/downloads#DSPXtra Encore AM, FM & HD Audio Processor' title='DSPXtra Encore AM, FM & HD Audio Processor'>DSPXtra Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='/downloads#RDS Encore Radio Data System Encoder' title='RDS Encore Radio Data System Encoder'>RDS Encore <br><span class='minitext'>Radio Data System Encoder</span></a></li><li><a href='/downloads#Plan B Encore Audio Backup Device' title='Plan B Encore Audio Backup Device'>Plan B Encore <br><span class='minitext'>Audio Backup Device</span></a></li>                    <li><hr><a href='http://www.bwbroadcast.com/downloads#legacy products' title='Legacy Products'>Legacy Products</a></li>
+                    <li><hr><a href='http://www.bwbroadcast.com/downloads#brochures and flyers' title='Brochures and Flyers'>Brochures and Flyers </a></li>
+                    <li><a href='http://www.bwbroadcast.com/downloads#press releases' title='Press Releases'>Press Releases</a></li>   
+                </ul>
+            </li>
+            <li><a href="http://www.bwbroadcast.com/buy" title="Buy" >Buy</a></li>
+            <li><a href="http://www.bwbroadcast.com/contact" title="Contact" >Contact</a></li>
+                            <li><a href="/login" title="Login" >Login</a></li>
+                            <li class="mob_only"><a id="careers" href="http://www.bwbroadcast.com/careers" title="Careers">Careers</a></li>
+        </ul>
+    </nav>
+
+    <div class="quick-product-header">
+        <ul>
+            <li>
+                <a href="#" class="drop">Quick select product<span class="double-down">&nbsp;</span></a>
+                <ul>
+                    
+                            <li><a href="#">FM Transmitters</a>  
+                                <div>
+                                <a href="http://www.bwbroadcast.com/fm-transmitters/tx5-v2-fm-transmitter/48/product" onclick="return validate_link('a0')" id="a0">TX5 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx30-v2-fm-transmitter/61/product" onclick="return validate_link('a1')" id="a1">TX30 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx50-v2-fm-transmitter/50/product" onclick="return validate_link('a2')" id="a2">TX50 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx300-v2-fm-transmitter/52/product" onclick="return validate_link('a3')" id="a3">TX300 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx600-v2-fm-transmitter/53/product" onclick="return validate_link('a4')" id="a4">TX600 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx1000-v2-fm-transmitter/54/product" onclick="return validate_link('a5')" id="a5">TX1000 V2</a><a href="http://www.bwbroadcast.com/fm-transmitters/tx1500-v2-fm-transmitter/55/product" onclick="return validate_link('a6')" id="a6">TX1500 V2</a>
+                                </div>      </li>
+                            <li><a href="#">FM Translators</a>  
+                                <div>
+                                <a href="http://www.bwbroadcast.com/fm-translators/tr300-v2-fm-translator/58/product" onclick="return validate_link('a7')" id="a7">TR300 V2</a><a href="http://www.bwbroadcast.com/fm-translators/tr600-v2-fm-translator/59/product" onclick="return validate_link('a8')" id="a8">TR600 V2</a>
+                                </div>      </li>
+                            <li><a href="#">FM Amplifiers</a>  
+                                <div>
+                                <a href="http://www.bwbroadcast.com/fm-amplifiers/pa300-v2-fm-amplifier/9/product" onclick="return validate_link('a9')" id="a9">PA300 V2</a><a href="http://www.bwbroadcast.com/fm-amplifiers/pa600-v2-fm-amplifier/10/product" onclick="return validate_link('a10')" id="a10">PA600 V2</a><a href="http://www.bwbroadcast.com/fm-amplifiers/pa1000-v2-fm-amplifier/11/product" onclick="return validate_link('a11')" id="a11">PA1000 V2</a><a href="http://www.bwbroadcast.com/fm-amplifiers/pa1500-v2-fm-amplifier/36/product" onclick="return validate_link('a12')" id="a12">PA1500 V2</a><a href="http://www.bwbroadcast.com/fm-amplifiers/pa2500-v2-fm-amplifier/62/product" onclick="return validate_link('a13')" id="a13">PA2500 V2</a>
+                                </div>      </li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/rbrx-encore/64/product" onclick="return validate_link('a14')" id="a14">RBRX Encore <br><span class='minitext'>Rebroadcast Receiver</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/modmon-encore/66/product" onclick="return validate_link('a15')" id="a15">ModMon encore <br><span class='minitext'>FM & MPX Modulation Monitor</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/ariane-encore/71/product" onclick="return validate_link('a16')" id="a16">Ariane Encore <br><span class='minitext'>Audio Leveler</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspmpx-encore/67/product" onclick="return validate_link('a17')" id="a17">DSPmpX encore <br><span class='minitext'>Stereo Encoder & Decoder</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspxmini-encore/68/product" onclick="return validate_link('a18')" id="a18">DSPXmini Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspxtra-encore/69/product" onclick="return validate_link('a19')" id="a19">DSPXtra Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/rds-encore/70/product" onclick="return validate_link('a20')" id="a20">RDS Encore <br><span class='minitext'>Radio Data System Encoder</span></a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/plan-b-encore/65/product" onclick="return validate_link('a21')" id="a21">Plan B Encore <br><span class='minitext'>Audio Backup Device</span></a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+
+
+
+
+    <!--### Change! Added the whole div below! ###-->
+    <div class="quick-product-header" id="quick-menu">
+        <ul>
+            <li>
+                <a href="#" class="drop">Quick select product<span class="double-down">&nbsp;</span></a>
+                <!--### Change! Added div selector below! ###-->
+                <div id="quick-sub-menu">
+                    <ul>
+                        <li class="header-menu"><span>Quick select product</span></li>
+
+                        
+                                <li><span>FM Transmitters</span>  
+                                    <ul class="subnav">
+                                    <li><a href="http://www.bwbroadcast.com/fm-transmitters/tx5-v2-fm-transmitter/48/product" onclick="return validate_link('a0')" id="a0">TX5 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx30-v2-fm-transmitter/61/product" onclick="return validate_link('a1')" id="a1">TX30 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx50-v2-fm-transmitter/50/product" onclick="return validate_link('a2')" id="a2">TX50 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx300-v2-fm-transmitter/52/product" onclick="return validate_link('a3')" id="a3">TX300 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx600-v2-fm-transmitter/53/product" onclick="return validate_link('a4')" id="a4">TX600 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx1000-v2-fm-transmitter/54/product" onclick="return validate_link('a5')" id="a5">TX1000 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-transmitters/tx1500-v2-fm-transmitter/55/product" onclick="return validate_link('a6')" id="a6">TX1500 V2</a></li>
+                                    </ul>      </li>
+                                <li><span>FM Translators</span>  
+                                    <ul class="subnav">
+                                    <li><a href="http://www.bwbroadcast.com/fm-translators/tr300-v2-fm-translator/58/product" onclick="return validate_link('a7')" id="a7">TR300 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-translators/tr600-v2-fm-translator/59/product" onclick="return validate_link('a8')" id="a8">TR600 V2</a></li>
+                                    </ul>      </li>
+                                <li><span>FM Amplifiers</span>  
+                                    <ul class="subnav">
+                                    <li><a href="http://www.bwbroadcast.com/fm-amplifiers/pa300-v2-fm-amplifier/9/product" onclick="return validate_link('a9')" id="a9">PA300 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-amplifiers/pa600-v2-fm-amplifier/10/product" onclick="return validate_link('a10')" id="a10">PA600 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-amplifiers/pa1000-v2-fm-amplifier/11/product" onclick="return validate_link('a11')" id="a11">PA1000 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-amplifiers/pa1500-v2-fm-amplifier/36/product" onclick="return validate_link('a12')" id="a12">PA1500 V2</a></li><li><a href="http://www.bwbroadcast.com/fm-amplifiers/pa2500-v2-fm-amplifier/62/product" onclick="return validate_link('a13')" id="a13">PA2500 V2</a></li>
+                                    </ul>      </li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/rbrx-encore/64/product" onclick="return validate_link('a14')" id="a14">RBRX Encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/modmon-encore/66/product" onclick="return validate_link('a15')" id="a15">ModMon encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/ariane-encore/71/product" onclick="return validate_link('a16')" id="a16">Ariane Encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspmpx-encore/67/product" onclick="return validate_link('a17')" id="a17">DSPmpX encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspxmini-encore/68/product" onclick="return validate_link('a18')" id="a18">DSPXmini encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/dspxtra-encore/69/product" onclick="return validate_link('a19')" id="a19">DSPXtra Encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/rds-encore/70/product" onclick="return validate_link('a20')" id="a20">RDS Encore</a></li><li class="quick-uniqproduct-header"><a href="http://www.bwbroadcast.com/bwbroadcast/plan-b-encore/65/product" onclick="return validate_link('a21')" id="a21">Plan B Encore</a></li>
+
+
+
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>      
+
+
+
+    </header>
+    <div id="main" role="main">
+
+
+        <div class="slider-wrapper">
+            <div class="ribbon"></div>
+            <div id="slider" class="nivoSlider">
+<!--
+                <img src="img/01.jpg" alt="" title="Thousands of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" />
+                <a href="#"><img src="img/02.jpg" alt="" title="Another thousands of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" /></a>
+                <img src="img/01.jpg" alt="" title="Thousands of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" />
+                <img src="img/02.jpg" alt="" title="Even more of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" />
+                <img src="img/01.jpg" alt="" title="Thousands of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" />
+                <img src="img/02.jpg" alt="" title="Even more of our transmitters are operating trouble-free in the world’s most familiar and demanding locations" />
+-->
+<!--                <img src="img/audio-over-ip.jpg" alt="" title="Connect everywhere" />-->
+                <a href="http://www.bwbroadcast.com/fm-transmitters"><img src="img/FM-transmitters.jpg" alt="FM TRANSMITTERS" title="<a href='http://www.bwbroadcast.com/fm-transmitters'><span class='caption_title'>FM TRANSMITTERS</span><br>Thousands of our transmitters are operating trouble-free in the world's most familiar and demanding locations.</a>"/></a>
+                <a href="http://www.bwbroadcast.com/rds-encoders"><img src="img/RDS-encoders.jpg" alt="RDS ENCODERS" title="<a href='http://www.bwbroadcast.com/rds-encoders'><span class='caption_title'>RDS ENCODERS</span><br>Engage your listeners...From simple song titles to comprehensive data.</a>" /></a>
+                <a href="http://www.bwbroadcast.com/audio-processors"><img src="img/audio-processor.jpg" alt="AUDIO PROCESSORS" title="<a href='http://www.bwbroadcast.com/audio-processors'><span class='caption_title'>AUDIO PROCESSORS</span><br>Our processors give you the upper hand. </a>" /></a>
+                <a href="http://www.bwbroadcast.com/fm-amplifiers"><img src="img/Poweramplifiers.jpg" alt="POWER AMPLIFIERS" title="<a href='http://www.bwbroadcast.com/fm-amplifiers'><span class='caption_title'>POWER AMPLIFIERS</span><br>Helping you increase your listenership.</a> " /></a>
+
+                <a href="http://www.bwbroadcast.com/fm-receivers"><img src="img/Receiver.jpg" alt="FM RECEIVERS" title="<a href='http://www.bwbroadcast.com/fm-receivers'><span class='caption_title'>FM RECEIVERS</span><br>Advanced features for re-broadcast professional monitoring with sound to please the audiophile.</a>" /></a>
+
+            </div>
+               
+        </div>
+    
+    
+        <article>
+            <h1>Welcome to BW Broadcast</h1>
+            <p><p>With products on the air all around the world, BW Broadcast is an internationally recognised brand, used from major stations in New York to community stations in South Sudan – flawlessly helping your station stand out on the dial, boosting listenership and eradicating down time. BW Broadcast delivers innovative, reliable and efficient equipment, perfect for your station. 
+</p><p>
+With over 30 years experience of developing broadcast transmitters, you can be assured we are committed to delivering you the latest technologies, with a dedication to making you the number one radio station in your market.
+Want to know more, click <a href="http://www.bwbroadcast.com/files/corporate_brochure.pdf" target="_blank" >here</a> to download our corporate brochure
+</p></p>
+
+<!--            <p>With over 30 years experience of developing broadcast transmitters, you can be assured we are committed to delivering you the latest technologies, with a dedication to making you the number one radio station in your market. </p>-->
+            <p><a href="http://www.bwbroadcast.com/about" class="button">About us</a></p>
+        </article>
+        
+    
+                          <!-- ### Change!! Add mob-player article and video-shadow div below!! ### -->                
+                <article id="mob-player">
+                        
+    <div id="mediaplayer1">Loading Video ...</div>
+    
+
+    <script type="text/javascript">
+        jwplayer("mediaplayer1").setup({
+            modes: [
+        { type: 'html5' },
+        { type: 'flash', src: 'jw/player.swf' }
+    ],
+           // flashplayer: "jw/player.swf",
+            file: "http://www.youtube.com/watch?v=CjTOance7Vo&hd=1",
+            image: "img/videos/BW Broadcast.png",
+            width:"100%",
+            height:"232",
+            skin:'jw/nemesis2.zip',
+            skin: "jw/nemesis2/nemesis2/nemesis2/nemesis.xml",
+            controlbar: "bottom",
+            plugins: {
+               'hd-2': {
+                   fullscreen:'true'
+               }
+            }
+        });
+    </script>
+           
+                </article><!-- end mob-player -->  
+                          
+                <div id="video-shadow"></div>
+        
+        
+        <aside>
+          <!--   <iframe width="355" height="232" src="http://www.youtube-nocookie.com/embed/9jc9lPXs2FI?rel=0&amp;wmode=Opaque" frameborder="0" allowfullscreen></iframe>-->
+	
+    <!--
+    	<script type="text/javascript" src="http://content.bitsontherun.com/players/UTXUF7XP-Hh2rUvfI.js"></script> 
+-->
+            <!-- START OF THE PLAYER EMBEDDING TO COPY-PASTE -->
+    
+    
+        
+    <div id="mediaplayer">Loading Video ...</div>
+    
+    <script type="text/javascript">
+        jwplayer("mediaplayer").setup({
+            flashplayer: "jw/player.swf",
+            file: "http://www.youtube.com/watch?v=CjTOance7Vo&hd=1",
+            image: "img/videos/BW Broadcast.png",
+            width:"355",
+            height:"232",
+            skin:'jw/nemesis2.zip',
+          //  skin: "jw/nemesis2/nemesis2/nemesis2/nemesis.xml",
+            controlbar: "bottom",
+            plugins: {
+               'hd-2': {
+                   fullscreen:'true'
+               }
+            }
+        });
+    </script>
+    
+    
+
+   
+    <!-- END OF THE PLAYER EMBEDDING -->
+
+
+        </aside>
+        
+  
+
+
+
+    
+    
+
+    
+        
+        <div class="devider-big border"></div>
+        
+        <section class="latest-news">
+            <h3>Latest News</h3>
+            <div class="flap">Aug 22nd 2017</div>
+            <div>
+                <div class="news_event_text_div">
+                <p><strong>BW Broadcast achieves ISO 9001:2015</strong><br />
+                We are delighted to announce that BW Broadcast is now ISO 9001: 2015...</p>
+                <p><a href="http://www.bwbroadcast.com/news/other-posts/bw-broadcast-achieves-iso-90012015-certification" class="button">Read more</a></p>
+                </div>
+                <div class="news_event_img_div1">
+                <a href="http://www.bwbroadcast.com/news/other-posts/bw-broadcast-achieves-iso-90012015-certification" ><img src="../img/news_events/10284_n.png" alt="BW Broadcast achieves ISO..." title="BW Broadcast achieves ISO..."/></a></div>
+                <div class="devider">&nbsp;</div>
+                <p class="mb_0"><a href="http://www.bwbroadcast.com/news" class="button grey">View more news</a></p>
+            </div>
+        </section>
+        <section class="events">
+            <h3>Trade Shows</h3> 
+            <div class="flap">Apr 07th 2018</div>
+            <div>
+               
+                <div class="news_event_text_div">
+                <p><strong>NAB 2018</strong><br />
+                BW Broadcast is excited to announce our return to the NAB exhibition in Las Vegas on 7...</p>
+                <p><a href="http://www.bwbroadcast.com/news/events/nab-2018" class="button">Read more</a></p>
+                </div>
+                <div class="news_event_img_div">
+                <a href="http://www.bwbroadcast.com/news/events/nab-2018"><img src="../img/news_events/10349_e.png" alt="NAB 2018" title="NAB 2018"/></a>                </div>
+                <div class="devider">&nbsp;</div>
+                <p class="mb_0"><a href="http://www.bwbroadcast.com/news/events" class="button grey">View more trade shows</a></p>
+            </div>
+        </section>
+        <section class="newsletter">
+            <h3>Newsletter</h3>
+            <div>
+                <p><strong>Get our Newsletter</strong><br />
+                Get exclusive deals and stay up-to-date by signing up to our newsletter.</p>
+                <form method="post" accept-charset="utf-8" id="newsletter_frm1">
+                    <p>
+                        <input type="text" name="email" id="email" title="Enter email address" value="Enter email address" class="input clearMeFocus" />
+                        <input type="submit" style="display:none;"></p>
+                    <p id="thanks_r"><a id="thanks" href="#thanks-message" class="sbm right" onclick="newsletter_register();">Submit</a></p>
+                </form>
+            </div>
+            
+        </section>
+
+    
+</div>
+<footer>
+    <nav>
+        <ul id="sftr">
+            <li><a href="http://www.bwbroadcast.com/"  title="BW Broadcast">Home</a></li>
+            <li class="sub"><a href="#" onclick="event.preventDefault(); return false;">Products <span class="footer-drop-arr">&nbsp;</span></a>
+                <ul class="subnav">
+                    <li><a href='http://www.bwbroadcast.com/fm-transmitters' title='FM Transmitters'>FM Transmitters</a></li><li><a href='http://www.bwbroadcast.com/fm-translators' title='FM Translators'>FM Translators</a></li><li><a href='http://www.bwbroadcast.com/fm-amplifiers' title='FM Amplifiers'>FM Amplifiers</a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/rbrx-encore/64/product' title='RBRX Encore Rebroadcast Receiver'>RBRX Encore <br><span class='minitext'>Rebroadcast Receiver</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/modmon-encore/66/product' title='ModMon encore FM & MPX Modulation Monitor'>ModMon encore <br><span class='minitext'>FM & MPX Modulation Monitor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/ariane-encore/71/product' title='Ariane Encore Audio Leveler'>Ariane Encore <br><span class='minitext'>Audio Leveler</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspmpx-encore/67/product' title='DSPmpX encore Stereo Encoder & Decoder'>DSPmpX encore <br><span class='minitext'>Stereo Encoder & Decoder</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspxmini-encore/68/product' title='DSPXmini Encore AM, FM & HD Audio Processor'>DSPXmini Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/dspxtra-encore/69/product' title='DSPXtra Encore AM, FM & HD Audio Processor'>DSPXtra Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/rds-encore/70/product' title='RDS Encore Radio Data System Encoder'>RDS Encore <br><span class='minitext'>Radio Data System Encoder</span></a></li><li><a href='http://www.bwbroadcast.com/bwbroadcast/plan-b-encore/65/product' title='Plan B Encore Audio Backup Device'>Plan B Encore <br><span class='minitext'>Audio Backup Device</span></a></li> 
+                </ul>
+            </li>
+
+            <li><a href="http://www.bwbroadcast.com/about"  title="About Us" >About</a></li>
+            <li class="sub"><a href="http://www.bwbroadcast.com/news" onclick="event.preventDefault(); return false;" title="News">News <span class="footer-drop-arr">&nbsp;</span></a>
+                <ul class="subnav">
+                        <li><a href="http://www.bwbroadcast.com/news/" title="News">News</a></li>
+                        <li><a href="http://www.bwbroadcast.com/news/category/events" title="Events">Events</a></li>
+                </ul>
+            </li> 
+            <li><a href="http://www.bwbroadcast.com/support" title="Support">Support</a></li>
+
+            <li class="sub"><a href="#" onclick="event.preventDefault(); return false;" class="mobile-override">Downloads <span class="footer-drop-arr">&nbsp;</span></a>
+                <ul class="subnav">
+                    <li><a href='/downloads#FM Transmitters' title='FM Transmitters'>FM Transmitters</a></li><li><a href='/downloads#FM Translators' title='FM Translators'>FM Translators</a></li><li><a href='/downloads#FM Amplifiers' title='FM Amplifiers'>FM Amplifiers</a></li><li><a href='/downloads#RBRX Encore Rebroadcast Receiver' title='RBRX Encore Rebroadcast Receiver'>RBRX Encore <br><span class='minitext'>Rebroadcast Receiver</span></a></li><li><a href='/downloads#ModMon encore FM & MPX Modulation Monitor' title='ModMon encore FM & MPX Modulation Monitor'>ModMon encore <br><span class='minitext'>FM & MPX Modulation Monitor</span></a></li><li><a href='/downloads#Ariane Encore Audio Leveler' title='Ariane Encore Audio Leveler'>Ariane Encore <br><span class='minitext'>Audio Leveler</span></a></li><li><a href='/downloads#DSPmpX encore Stereo Encoder & Decoder' title='DSPmpX encore Stereo Encoder & Decoder'>DSPmpX encore <br><span class='minitext'>Stereo Encoder & Decoder</span></a></li><li><a href='/downloads#DSPXmini Encore AM, FM & HD Audio Processor' title='DSPXmini Encore AM, FM & HD Audio Processor'>DSPXmini Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='/downloads#DSPXtra Encore AM, FM & HD Audio Processor' title='DSPXtra Encore AM, FM & HD Audio Processor'>DSPXtra Encore <br><span class='minitext'>AM, FM & HD Audio Processor</span></a></li><li><a href='/downloads#RDS Encore Radio Data System Encoder' title='RDS Encore Radio Data System Encoder'>RDS Encore <br><span class='minitext'>Radio Data System Encoder</span></a></li><li><a href='/downloads#Plan B Encore Audio Backup Device' title='Plan B Encore Audio Backup Device'>Plan B Encore <br><span class='minitext'>Audio Backup Device</span></a></li> 
+                        <li><hr><a href='http://www.bwbroadcast.com/downloads#legacy products' title='Legacy Products'>Legacy Products</a></li>
+                        <li><hr><a href='http://www.bwbroadcast.com/downloads#brochures and flyers' title='Brochures and Flyers'>Brochures and Flyers</a></li>
+                        <li><a href='http://www.bwbroadcast.com/downloads#press releases' title='Press Releases'>Press Releases</a></li>   
+                </ul>
+            </li>              
+            <li><a href="http://www.bwbroadcast.com/buy" title="Buy">Buy</a></li>
+            <li><a href="http://www.bwbroadcast.com/contact" title="Contact">Contact</a></li>
+            <li><a href="http://www.bwbroadcast.com/login" title="Login">Login</a></li>
+            <li><a href="http://www.bwbroadcast.com/careers" title="Careers">Careers</a></li> 
+
+ 
+            
+        </ul>
+        
+        <div class="mob-bot-m"><a href="#main-menu" target="_blank" class="left-m">Left Menu</a> </div>  
+        <div id="google_translate_element" style="position : absolute;top:21px;right: 170px;"></div>
+        <div class="social">
+        <!--### Change!! Added two 'a' selectors below!! ###-->
+<!--               <div id="google_translate_element1" class="google_tr" style="position : absolute;top:0px;right: 170px;"></div>    -->
+<!--       <a href="http://translate.google.pl/m" target="_blank" class="google_tr">Google Translate</a>   -->
+            <a href="http://bwb.fm/twitter" target="_blank" class="twitter">Twitter</a>
+            <a href="http://bwb.fm/facebook" target="_blank" class="facebook">Facebook</a>
+            <a href="http://www.youtube.com/user/BWBroadcastTV/videos" target="_blank" class="youtube">Youtube</a>
+            <a href="https://plus.google.com/108746500533466895390/posts" target="_blank" class="gplus">GooglePlus</a>
+        </div>
+    </nav>
+    <p class="rights">&copy; BW Broadcast. All rights reserved.<a href="#cookie-message" id="cookie_fancy">Cookie policy</a> </p>    
+
+<!-- thanks newsletter confirmation message -->
+<div style="display:none">
+<div id="thanks-message">
+    <h2 id="fancy_msg">Thanks for sigining up</h2>
+    <p id="fancy_msg2">Your email  has been added to our mailing list.</p>
+    <p><a href="javascript:;" class="sbm left" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>
+<!--<div id="vrp-message">
+    <h2>VRP</h2>
+    
+    <p><a href="javascript:;" class="sbm left" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>-->
+<!--<div id="logout-message">
+    <h2>Logged out</h2>
+
+    <p><a href="javascript:;" class="sbm left" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>-->
+<div id="contact-message">
+    <h2 id="fancy_msg_c">Thank You</h2>
+    <p id="fancy_msg2_c"><p>We will contact you shortly</p>
+    <p><a href="javascript:;" class="sbm left" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>
+<div id="status-message">
+    <h2 id="status_msg"></h2>
+    <p id="status_msg2"></p>
+    <p><a href="javascript:;" class="sbm left" style="margin-left:0px" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>
+
+<div id="login_recover2">
+    <h2 id="rec_msg">Recover your password</h2> 
+        <p class=" result small_grey" style="color: red;margin: 0px;" id="rec_error"></p>
+    <p id="rec_msg2">Please enter your email address:<br><input type="text" name="recover_email" id="recover_email" style="width: 90%;"></p>
+
+    <p><a href="javascript:;" class="sbm left" style="margin-left:0px" onclick="recover_email()" id="rec_submit">Submit</a><a href="javascript:;" class="sbm left" style="margin-left:10px" onclick="location.reload();;">Close window</a>&nbsp;</p>
+</div> 
+
+<div id="opportunities-message" style="width: 500px;">
+<ul>
+<li><h2>Interested in earning up to &euro;40,000 and more a year developing cutting edge audio and RF products?</h2></li>
+
+<li><h2>Have you always wanted to live and work in the vibrant city of London?</h2></li>
+ </ul>
+ <br>
+
+
+<div align=center>
+ <a href="careers" class="sbm " style="margin-left:0px;line-height:20px;float:left">Look at career opportunities at BW Broadcast</a>
+ <a href="javascript:;" class="sbm " style="margin-left:0px;line-height:20px;float: right" onclick="$.fancybox.close();">Continue to our website</a>
+</div>
+
+<div><a href="#opportunities-message" id="opportunities_fancy"></a></div>   
+
+
+</div>
+
+
+<div id="cookie-message" style="width: 500px;">
+    <h2>Cookie Policy</h2>
+    <div>
+    
+    This site uses cookies. One or more of the cookies we use is essential for parts of this website to operate and has already been set.<br>
+     You may delete and block all cookies from this site, but parts of the site will not work.Most web browsers allow some control of most cookies through the browser settings.<br />
+<br />
+<table border="1" style="border:  1px solid black; font-size: 12px;">
+<tbody>
+<tr>
+<th style="width: 150px;">Cookie Type</th>
+<th style="width: 300px;">Purpose</th>
+</tr>
+<tr style="border:  1px solid black;padding: 5px; ">
+<td style="border:  1px solid black;padding: 5px; ">Essential Site Cookies</td>
+<td style="border:  1px solid black;padding: 5px; ">Site cookies are essential to the operation of this website.  They are set when you first visit the site and deleted when you close your browser.The site will not operate correctly if these are blocked</td>
+</tr>
+<tr style="border:  1px solid black;padding: 5px; ">
+<td style="border:  1px solid black;padding: 5px; ">Google Analytics</td>
+<td style="border:  1px solid black;padding: 5px; ">These cookies are used to collect information about how visitors use our site.  The information is used to compile reports that let us improve the site.  The information is collected in any anonymous form, including the number of visits to this site, how you arrived at the site, and which pages you visted.<br />
+You can opt-out of these cookies by following this link: <a href="http://tools.google.com/dlpage/gaoptout" target="_blank">http://tools.google.com/dlpage/gaoptout</a></td>
+</tr>
+</tbody>
+</table>
+
+    
+    
+    </div>
+    <p><a href="javascript:;" class="sbm left" style="margin-left:0px" onclick="$.fancybox.close();">Close window</a>&nbsp;</p>
+</div>
+
+</div>
+
+<div style="display: none;"><a href="#status-message" class="sbm left" style="display: none" id="status_fancy">test</a></div>
+
+<!-- end of thanks newsletter confirmation message -->
+
+  <div style="clear: both;"></div>
+  
+ </footer> 
+  
+</div> <!-- eo #container -->
+
+
+
+
+<!-- start scripts-->
+
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>    -->
+<script>window.jQuery || document.write("<script src='js/libs/jquery-1.5.1.min.js'>\x3C/script>")</script>
+
+<script src="http://www.bwbroadcast.com/js/mouse.js"></script>
+<script src="http://www.bwbroadcast.com/js/scroll.js"></script>
+
+<script src="http://www.bwbroadcast.com/js/nivo.js"></script> <!-- load this only on the home page -->
+<script src="http://www.bwbroadcast.com/js/uniform.js"></script> <!-- only on contact page -->
+<script src="http://www.bwbroadcast.com/js/products.js"></script> <!-- only on products page (JS to clean up)-->
+
+<script src="http://www.bwbroadcast.com/js/fancybox.js"></script>
+<script src="http://www.bwbroadcast.com/js/cycle.js"></script>    
+
+
+ <script src="http://www.bwbroadcast.com/js/jquery-ui-1.10.3.custom.min.js"></script>
+
+
+  
+  
+
+
+<script src="http://www.bwbroadcast.com/js/script.js?ver=1511685390"></script>
+<script src="http://www.bwbroadcast.com/js/user.js?ver=1511685390"></script>
+
+
+ 
+ 
+ 
+ <!-- only on dealers page (JS to clean up)-->
+
+ <!-- only on dealers page (JS to clean up)-->
+
+ <!-- only on dealers page (JS to clean up)-->
+
+ 
+
+
+
+
+      
+<!-- end scripts-->
+
+
+<!--[if lt IE 7 ]>
+<script src="js/libs/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix("*");</script>
+<![endif]-->
+
+
+
+<!-- 
+<script>
+var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]]; // Change UA-XXXXX-X to be your site's ID 
+(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+s.parentNode.insertBefore(g,s)}(document,"script"));
+</script> 
+-->
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script> 
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1000579949994365');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1000579949994365&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+<script type="text/javascript">
+try {
+var from=location.href.substring(0,location.href.lastIndexOf('/'));
+    if (from=='http://www.fm-transmitter.com')var pageTracker = _gat._getTracker("UA-3408115-6"); 
+    if (from=='http://www.fm-amplifier.com')var pageTracker = _gat._getTracker("UA-3408115-5"); 
+    if (from=='http://www.rds-encoder.com')var pageTracker = _gat._getTracker("UA-3408115-4"); 
+    if (from=='http://www.audio-processor.com')var pageTracker = _gat._getTracker("UA-3408115-2"); 
+    if (from=='http://www.bwbroadcast.com')var pageTracker = _gat._getTracker("UA-3408115-7");
+    if (from=='http://www.audio-over-ip.com')var pageTracker = _gat._getTracker("UA-3408115-10");
+    if (from=='http://www.fm-receiver.com')var pageTracker = _gat._getTracker("UA-3408115-11");
+pageTracker._trackPageview();
+
+var secondTracker = _gat._getTracker("UA-3408115-12");
+secondTracker._setDomainName("none");
+secondTracker._setAllowLinker(true);
+secondTracker._trackPageview();
+
+} catch(err) {}</script>
+
+
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    autoDisplay: false,
+    includedLanguages: 'en,fr,pt,es',
+    layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+  }, 'google_translate_element');
+  
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
+</body>
+</html>
+

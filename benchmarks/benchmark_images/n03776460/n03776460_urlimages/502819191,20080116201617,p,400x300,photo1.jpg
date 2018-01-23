@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=0">
+    <title>Propertyfinder Group</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="css/propertyfinder.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="//www.propertyfinder.ae/img/icons/favicon-32.png" rel="shortcut icon">
+    <link href="//www.propertyfinder.ae/img/icons/touch/apple-touch-icon-60x60.png" rel="apple-touch-icon">
+    <link href="//www.propertyfinder.ae/img/icons/touch/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+    <link href="//www.propertyfinder.ae/img/icons/touch/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+    <link href="//www.propertyfinder.ae/img/icons/touch/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KNNMB4');</script>
+    <!-- End Google Tag Manager -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNNMB4"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1792" height="1792" xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <g id="chevron-down">
+        <path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"/>
+    </g>
+</svg>
+
+<header>
+    <div class="container">
+        <div class="header">
+            <img src="images/logo.svg" alt="propertyfinder group" class="pf-logo" />
+            <div class="language-switch">
+                <div class="lang-current">English</div><svg viewBox="0 0 1792 1792"><use xlink:href="#chevron-down"></use></svg>
+                <div class="dropdown">
+                    <div class="lang"><a href="https://www.propertyfinder.com/index-ar.html" hreflang="ar" rel="alternate"><span>عربي</span></a></div>
+                    <div class="lang"><a href="https://www.propertyfinder.com/index-fr.html" hreflang="fr" rel="alternate">Français</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="content-section">
+    <div class="container">
+        <div class="content">
+            <div class="text-area light-rendering">
+                <div class="bxslider">
+                    <div class="headlines">
+                        <span>Providing you with the most convenient house hunting journey in the Middle East and North Africa</span>
+                    </div>
+                    <div class="headlines">
+                        <span>Propertyfinder Group is the leading real estate digital platform in the Region</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="countries-section">
+    <div class="container">
+        <div class="countries-area">
+            <a href="https://www.propertyfinder.ae" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-uae.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">UAE</div>
+            </a>
+            <a href="https://www.propertyfinder.qa" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-qatar.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">Qatar</div>
+            </a>
+            <a href="https://www.propertyfinder.com.lb" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-lebanon.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">Lebanon</div>
+            </a>
+            <a href="https://www.propertyfinder.eg" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-egypt.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">Egypt</div>
+            </a>
+            <a href="https://www.sarouty.ma" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-morocco.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">Morocco</div>
+            </a>
+            <a href="https://www.propertyfinder.bh" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-bahrain.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">Bahrain</div>
+            </a>
+            <a href="https://www.esimsar.com" class="country">
+                <div class="country-image">
+                    <img src="images/thumb-ksa.png" alt=""/>
+                </div>
+                <div class="country-name light-rendering">KSA</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="map-container gray-bg">
+    <div class="content">
+        <div class="map-heading">Our websites</div>
+        <div class="clear"></div>
+        <div class="map">
+            <div class="websiteList">
+                <ul>
+                    <li><a target="_blank" href="https://www.propertyfinder.ae"><i class="flag uaehome"></i><p>United Arab Emirates</p><span>propertyfinder.ae</span></a></li>
+                    <li><a target="_blank" href="https://www.propertyfinder.qa"><i class="flag qatarhome"></i><p>Qatar</p><span>propertyfinder.qa</span></a></li>
+                    <li><a target="_blank" href="https://www.propertyfinder.com.lb"><i class="flag lebanonhome"></i> <p>Lebanon</p><span>propertyfinder.com.lb</span></a></li>
+                    <li><a target="_blank" href="https://www.propertyfinder.eg"><i class="flag egypthome"></i><p>Egypt</p><span>propertyfinder.eg</span></a></li>
+                    <li><a target="_blank" href="https://www.sarouty.ma"><i class="flag moroccohome"></i><p>Morocco</p><span>sarouty.ma</span></a></li>
+                    <li><a target="_blank" href="https://www.propertyfinder.bh"><i class="flag bahrainhome"></i><p>Bahrain</p><span>propertyfinder.bh</span></a></li>
+                    <li><a target="_blank" href="https://www.esimsar.com" class="no-border"><i class="flag ksahome"></i><p>Saudi Arabia</p><span>esimsar.com</span></a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="container">
+        <div class="footer-content">
+            <div class="contact-info">
+                <div class="contact-area">
+                    <div class="heading">
+                        Contact details
+                    </div>
+                    <div class="info-content address"><img src="images/icons/pin.svg" alt=""/><span>HQ -1505 Shatha Tower, Dubai Media City, PO Box 50954, Dubai, UAE</span></div>
+                    <div class="info-content"><img src="images/icons/phone.svg" alt=""/><span><strong>T. </strong>+971 4 556 0300<strong> F. </strong> +971 4 556 0310</span></div>
+                </div>
+                <div class="social-area">
+                    <div class="heading">
+                        Follow us
+                    </div>
+                    <div class="social-media-icons">
+                        <a href="https://www.facebook.com/propertyfinderuae" target="_blank" class="icon"><img src="images/icons/icon-facebook.svg" alt="facebook"/></a>
+                        <a href="https://twitter.com/property_finder" target="_blank" class="icon"><img src="images/icons/icon-twitter.svg" alt="facebook"/></a>
+                        <a href="https://www.linkedin.com/company-beta/2255537/" target="_blank" class="icon"><img src="images/icons/icon-linkedin.svg" alt="facebook"/></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="copy-area">
+    <div class="copy">@2017 propertyfinder FZ LLC - All rights reserved</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+ <title>Cette page n'existe pas</title>
+ <meta name="rating" content="General" />
+ <meta name="author" content="Oiseaux.net" />
+ <meta name="Description" content="Portail et guide encyclopédique de l'avifaune. Fiches descriptives des oiseaux du Monde. Galerie de photos, dessins et chants couvrant plus de 9 000 espèces. Dossiers thématiques, annuaire, livres et jeux." />
+ <meta name="google-translate-customization" content="260e845bf8bb079a-7880cfac44c8425c-gfa1e590b6acc0674-b" />
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:site" content="@oiseaux_net" />
+ <meta name="twitter:creator" content="@oiseaux_net" />
+ <meta property="og:image" content="http://www.oiseaux.net/front/images/oiseaux.net.png" />
+ <meta property="og:image:type" content="image/png" />
+ <meta property="og:image:width" content="246" />
+ <meta property="og:image:height" content="154" />
+ <meta property="og:type" content="website" />
+ <meta property="og:title" content="Les oiseaux" />
+ <meta property="og:url" content="http://oiseaux.net/erreur/" />
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+ <link rel="search" type="application/opensearchdescription+xml" title="Oiseaux.net" href="../oiseaux.xpi" />
+ <link rel="alternate" type="application/rss+xml" title="Actualité oiseaux.net" href="../rss/actu.xml" />
+ <link rel="stylesheet" href="../front/css/oiseaux.net.css" />
+
+</head>
+<body>
+<div class="site-container" id="oiseaux">
+<!-- class:site-container -->
+ <div class="site-pusher">
+ <!-- class:site-pusher -->
+ <header class="header open" id="header">
+ <!-- class:header -->
+ <div class="header-content">
+ <!-- class:header-content -->
+ <div class="on_logo">
+ <a href="http://www.oiseaux.net/">
+ <img id="logo_img" src="http://www.oiseaux.net/front/images/oiseaux.net.png" width="246" height="154" alt="oiseaux" />
+ </a>
+ </div>
+
+ <div class="on_recherche search-open" id="on_recherche">
+ <!-- class:on_recherche -->
+ <div class="on_search">
+ <form id="search" action="http://www.oiseaux.net/search/" method="post">
+ <input type="text" id="term" name="term" title="mot(s) clé(s)" size="24" value="RECHERCHER SUR LE SITE" />
+ <input type="image" id="ok" name="ok" title="Rechercher" src="http://www.oiseaux.net/front/images/ok.png" alt="Rechercher" />
+ </form>
+ </div>
+ <!-- /class:on_recherche -->
+ </div>
+
+ <div class="on_fond_bandeau" id="on_fond_bandeau"></div>
+ <!-- div:loriot -->
+ <a href="#" class="header__icon" id="header__icon"></a>
+ <nav id="nav" class="nav nav-open">
+ <ul class="menu">
+ <li class="accueil" id="accueil">
+ <div><a href="http://www.oiseaux.net/"></a></div>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/oiseaux/">Espèces</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/oiseaux/france.html">Liste des oiseaux de France</a></li>
+ <li><a href="http://www.oiseaux.net/oiseaux/europe.html">Liste des oiseaux d'Europe</a></li>
+ <li><a href="http://www.oiseaux.net/oiseaux/">Liste des oiseaux du monde</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/photos/">Photos</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/photos/oiseaux.france.index.html">Nouveautés de France</a></li>
+ <li><a href="http://www.oiseaux.net/photos/index.html">Nouveautés du Monde</a></li>
+ <li><a href="http://www.oiseaux.net/photos/photographes.html">Galeries des photographes</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/dossiers/">Dossiers</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/dossiers/ornithopedia/">Oiseau.info</a></li>
+                        <li><a href="http://www.oiseaux.net/dossiers/ornithologie/">Ornithologie</a></li>
+                        <li><a href="http://www.oiseaux.net/dossiers/protection/">Comment aider les oiseaux ?</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/gilbert.blaising/">Lorraine et histoires d'oiseaux</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/patrick.fichter/">Au fil de la plume</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/yves.thonnerieux/">Natur'ailes vous raconte</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/gaston.gast/">Les plumes</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/corneille.bigarree/">La corneille bigarrée</a></li>
+ <li><a href="http://www.oiseaux.net/dossiers/jean-michel.peers/">Brèves de terrain</a></li>
+ <li><a href="http://www.hirondelles.oiseaux.net/">Les hirondelles</a></li>
+ <li><a href="http://chouette.oiseaux.net/">Chouette d'Hémilly</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/dossiers/">Actu</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/util/maj.html">Nouveautés</a></li>
+ <li><a href="http://forum.oiseaux.net/">Forum</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/jeux/">Jeux</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/jeux/devine.html">L'oiseau mystère</a></li>
+ <li><a href="http://www.oiseaux.net/jeux/tete.de.linotte.html">Tête de linotte</a></li>
+ <li><a href="http://www.oiseaux.net/jeux/oiseau.chanteur.html">Oiseau chanteur</a></li>
+ <li><a href="http://www.oiseaux.net/jeux/puzzle.mesange.html">Puzzle</a></li>
+ <li><a href="http://www.oiseaux.net/jeux/mahjongg.html">Mah Jongg</a></li>
+ <li><a href="http://www.oiseaux.net/jeux/coloriages/">Coloriages</a></li>
+ </ul>
+ </li>
+ <li>
+ <a href="http://www.oiseaux.net/util/">Utile</a>
+ <ul>
+ <li><a href="http://www.oiseaux.net/identifier/">Aide à l'identification</a></li>
+ <li><a href="http://www.oiseaux.net/livres/">Une sélection de livres sur les oiseaux</a></li>
+ <li><a href="http://www.oiseaux.net/buffon/">Buffon et l'Histoire naturelle des oiseaux</a></li>
+ <li><a href="http://www.oiseaux.net/annuaire/">Annuaire ornitho</a></li>
+ <li><a href="http://www.oiseaux.net/glossaire/">Glossaire</a></li>
+ <li><a href="http://www.oiseaux.net/util/regles.deontologiques.html">Règles déontologiques</a> </li>
+ <li><a href="http://www.oiseaux.net/index.en.html">
+ <span class="on_uk">Version anglaise</span></a></li>
+ <li><a href="http://membre.oiseaux.net/">Espace membres</a></li>
+
+ </ul>
+ </li>
+ <li>
+ <div id="on_head_bt" class="on_head_up"></div>
+ </li>
+ </ul>
+ </nav>
+
+ <!-- ad_header --><!-- /ad_header -->
+ <!-- /class:header-content -->
+ </div>
+ <!-- /class:header -->
+ </header>
+
+ <div class="on_centre on_overflow" >
+     <div class="on_gauche">
+        <div class="on_box_intro">
+        <div class="on_logo_intro"></div>
+        <h1>Désolé ! La page que vous avez demandée
+        <br /> n'existe pas ou n'est pas disponible...</h1>
+        <h2>Merci de votre visite !</h2>
+        </div>
+     </div>
+
+
+    <div class="on_droite">
+        <div class="on_livre">
+            <span>Guide ornitho</span>
+            <br /><a href="http://www.amazon.fr/gp/product/2603016954/ref=as_li_tf_il?ie=UTF8&amp;tag=oiseaux.net-21&amp;linkCode=as2&amp;camp=1642&amp;creative=6746&amp;creativeASIN=2603016954">
+            <img src="../livres/images/2603016954.110.jpg" alt="Guide ornitho" width="110" height="153" />
+            </a>
+        </div>
+    </div>
+
+    <div class="site-cache" id="site-cache"></div>
+</div>
+
+ <footer class="on_pieddepage">
+ <!-- class:on_pieddepage -->
+ <div class="on_pdp">
+ <div class="on_links_txt">
+ <div class="on_mesange"></div>
+ <div class="on_news_pdp">
+ <p>Nouveautés</p>
+ <ul>
+ <li><!-- derniere fiche --><a href="http://www.oiseaux.net/oiseaux/grimpar.des.cabosses.html" title="Grimpar des cabosses">Fiche : Grimpar des cabosses</a>
+ <!-- /derniere fiche --></li>
+ <li><!-- derniere photo --><a href="traquet.du.karroo.3.html">Photo : Traquet du Karroo</a>
+ <!-- /derniere photo --></li>
+ <li><!-- dernier dossier --><a href="http://www.oiseaux.net/dossiers/patrick.fichter/l.oiseau.choregraphe.html" title="L'oiseau chorégraphe">Dossier : L'oiseau chorégraphe</a>
+ <!-- /dernier dossier --></li>
+ <li><!-- news:dernier mois --><a href="http://www.oiseaux.net/rss/2016/2016-12-24.html">News : décembre 2016</a>
+ <!-- /news:dernier mois --></li>
+ </ul>
+ </div>
+ <div class="on_utile">
+ <p>Aide</p>
+ <ul>
+ <li><a href="http://www.oiseaux.net/faq.html">Foire aux questions</a></li>
+ </ul>
+ </div>
+ <div class="on_apropos">
+ <p>À propos</p>
+ <ul>
+ <li><a href="http://www.oiseaux.net/presentation.html">Qui sommes nous ?</a></li>
+ <li><a href="http://www.oiseaux.net/util/nous.aider.html">Nous aider</a></li>
+ <li><a href="http://www.oiseaux.net/mentions.legales.html">Mentions légales</a></li>
+ <li><a href="http://www.oiseaux.net/sources.html">Nos sources</a></li>
+ </ul>
+ </div>
+ <div>
+ <a class="on_amaz" rel="nofollow" href="http://www.amazon.fr/gp/product/2603023934/ref=as_li_tf_il?ie=UTF8&amp;tag=oiseaux.net-21&amp;linkCode=as2&amp;camp=1642&amp;creative=6746&amp;creativeASIN=2603023934">
+ </a>
+ </div>
+ </div>
+
+ <div class="nav_icons">
+ <div class="on_follow">
+ <ul>
+ <li class="on_tw"><a rel="nofollow" href="http://www.twitter.com/oiseaux_net"><span>Suivez-nous sur Twitter</span></a></li>
+ <li class="on_fb"><a rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.oiseaux.net/"><span>Partagez sur Facebook</span></a></li>
+ <li class="on_gl"><a rel="nofollow" href="https://plus.google.com/share?url=http://www.oiseaux.net/&amp;hl=fr"><span>Partagez sur Google+</span></a></li>
+ <li class="on_rss"><a href="http://www.oiseaux.net/rss/actu.xml"><span>Abonnez-vous</span> </a></li>
+ <li class="on_mail"><a href="http://www.oiseaux.net/contact.html"><span>Contact</span></a></li>
+ </ul>
+ </div>
+ <div class="on_links">
+ <ul>
+ <li class="on_home"><a href="http://www.oiseaux.net/"><span>Accueil</span></a></li>
+ <li class="on_membre"><a href="http://membre.oiseaux.net/"><span>Espace membres</span></a></li>
+ <li class="on_forum"><a href="http://forum.oiseaux.net/"><span>Forum</span></a></li>
+ <li class="on_imprime"><a rel="nofollow" href="http://www.oiseaux.net/imprime/"><span>Imprimer</span></a></li>
+ <li class="on_haut"><a rel="nofollow" href="#oiseaux"><span>&nbsp;</span></a></li>
+ </ul>
+ </div>
+ <div class="on_droits">
+ <p>
+ Mis à jour le <!-- maj -->25/12/2016 15:56:02<!-- /maj -->
+ <br />Tous droits réservés © 1996-<!-- annee -->2016<!-- /annee --> - <a href="http://www.oiseaux.net/">Oiseaux.net</a>
+ </p>
+ </div>
+ </div>
+ </div>
+ <!-- /class:on_pieddepage -->
+ </footer>
+ <!-- /class:site-pusher -->
+ </div>
+<!-- /class:site-container -->
+</div>
+
+<!-- js:mp3 --><!-- /js:mp3 -->
+<!-- oiseaux-analytics-js -->
+<script src="http://www.oiseaux.net/front/js/analytics.20171006.js" async></script>
+<!-- /oiseaux-analytics-js -->
+<!-- oiseaux-js -->
+<script src="http://www.oiseaux.net/front/js/oiseaux.net.20170415.js" async></script>
+<!-- /oiseaux-js -->
+<!-- js:index --><!-- /js:index -->
+</body>
+</html>
+
+

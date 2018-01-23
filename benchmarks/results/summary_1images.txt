@@ -1,0 +1,5 @@
+percentage of images classified as the topOne out of all classified images is ----- 100.00%
+percentage of images classified as the topFive out of all classified images is ---- 100.00%
+average real time of classifying an image over 1 images is ------------------------ .720 seconds
+average user time of classifying an image over 1 images is ------------------------ .550 seconds
+average sys time of classifying an image over 1 images is ------------------------- .080 seconds

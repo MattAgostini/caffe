@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="ja">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<link rel="shortcut icon" href="http://www.costco.co.jp/p/wp-content/themes/costco/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="icon" href="http://www.costco.co.jp/p/wp-content/themes/costco/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:image" content="http://www.costco.co.jp/p/wp-content/themes/costco/og-logo.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:title"
+content="Costco Japan" />
+
+<title>
+Costco Japan</title>
+
+<meta name="keywords" content="コストコ、会員制、ホ－ルセ－ルクラブ、倉庫店" />
+<meta name="description" content="コストコホールセールはアメリカ生まれの大型会員制の倉庫店｡コストコでは、ご家庭に必要なものをすべて取り揃え、皆様のお越しをお待ちしております。高い品質の一流メーカー品を卸値に近い価格でご提供するほか、1時間で仕上がる写真現像サービス、タイヤセンター、フードコート、薬局、メガネ店など、便利なサービスもご用意しています。店内には常時、国内外の有名メーカーの商品4,000点が揃えられています。" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.costco.co.jp/p/wp-content/themes/costco/style.css?1490596525" />
+
+
+<link rel="pingback" href="http://www.costco.co.jp/p/xmlrpc.php" />
+
+<script type="text/javascript" src="http://www.costco.co.jp/p/wp-content/themes/costco/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="http://www.costco.co.jp/p/wp-content/themes/costco/js/smartRollover.js"></script>
+<script type="text/javascript" src="http://www.costco.co.jp/p/wp-content/themes/costco/js/jquery.slides.min.js"></script>
+<script type="text/javascript" src="http://www.costco.co.jp/p/wp-content/themes/costco/js/mailto.js"></script>
+<script type="text/javascript" src="http://www.costco.co.jp/p/wp-content/themes/costco/js/action.js"></script>
+
+<!--[if lt IE 9]>
+<script src="http://www.costco.co.jp/p/wp-content/themes/costco/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-36618350-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.costco.co.jp\/p\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive-lightbox-fancybox-css'  href='http://www.costco.co.jp/p/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox-1.3.4.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.costco.co.jp/p/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.costco.co.jp/p/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.costco.co.jp/p/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox-1.3.4.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activeGalleries":"0","modal":"0","showOverlay":"1","showCloseButton":"1","enableEscapeButton":"1","hideOnOverlayClick":"1","hideOnContentClick":"1","cyclic":"0","showNavArrows":"1","autoScale":"1","scrolling":"yes","centerOnScroll":"1","opacity":"1","overlayOpacity":"70","overlayColor":"#666","titleShow":"0","titlePosition":"outside","transitions":"fade","easings":"swing","speeds":"300","changeSpeed":"300","changeFade":"100","padding":"5","margin":"5","videoWidth":"1080","videoHeight":"720","woocommerce_gallery":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.costco.co.jp/p/wp-content/plugins/responsive-lightbox/js/front.js'></script>
+<link rel='https://api.w.org/' href='http://www.costco.co.jp/p/wp-json/' />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.costco.co.jp/p/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="http://www.costco.co.jp/p/?lang=ja" />
+<link rel='shortlink' href='http://www.costco.co.jp/p/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.costco.co.jp/p/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.costco.co.jp%2Fp%2F%3Flang%3Dja" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.costco.co.jp/p/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.costco.co.jp%2Fp%2F%3Flang%3Dja&#038;format=xml" />
+
+ <!-- AStickyPostOrderER (Version: 0.3.1) -->
+<style type="text/css">
+.qtranxs_flag_ja {background-image: url(http://www.costco.co.jp/p/wp-content/plugins/qtranslate/flags/jp.png); background-repeat: no-repeat;}
+.qtranxs_flag_en {background-image: url(http://www.costco.co.jp/p/wp-content/plugins/qtranslate/flags/gb.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="ja" href="http://www.costco.co.jp/p/?lang=ja" rel="alternate" />
+<link hreflang="en" href="http://www.costco.co.jp/p/?lang=en" rel="alternate" />
+<link hreflang="x-default" href="http://www.costco.co.jp/p/?lang=ja" rel="alternate" />
+
+<link rel="stylesheet" type="text/css" href="/p/wp-content/themes/costco/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/p/wp-content/themes/costco/js/slick/slick-theme.css"/>
+
+</head>
+
+
+
+
+<body id="top" class="">
+
+<div class="all_wrap">
+
+<div id="top_menu">
+
+	<div>
+
+		<a href="http://www.costco.co.jp/p/?lang=en">English</a>&nbsp;|&nbsp;<a href="/cn/">中国語</a>
+
+	</div>
+
+	<ul id="menu-top-nav" class="menu"><li id="menu-item-6799" class="menu-item menu-item-type-custom menu-item-object-custom menu_no1 menu_first menu-item-6799"><a href="http://photo.costco.co.jp">フォトセンター</a></li>
+<li id="menu-item-4933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu_no2 menu-item-4933"><a href="http://www.costco.co.jp/p/category/eventinfo?lang=ja">イベント情報</a></li>
+<li id="menu-item-4934" class="menu-item menu-item-type-post_type menu-item-object-page menu_no3 menu-item-4934"><a href="https://www.costco.co.jp/p/registerlimitedemail?lang=ja">メルマガ登録</a></li>
+<li id="menu-item-4935" class="menu-item menu-item-type-post_type menu-item-object-page menu_no4 menu-item-4935"><a href="http://www.costco.co.jp/p/expansionplan?lang=ja">出店計画</a></li>
+<li id="menu-item-4945" class="menu-item menu-item-type-post_type menu-item-object-page menu_no5 menu_last menu-item-4945"><a href="http://www.costco.co.jp/p/faq?lang=ja">ご意見・お問合せ</a></li>
+</ul>
+</div>
+
+<div id="header">
+
+<h1>
+		costco.co.jp
+
+		</h1>
+
+<div id="sp_nav">
+
+<div class="menu-sp_menu_1-container"><ul id="menu-sp_menu_1" class="menu"><li id="menu-item-12461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no1 menu_first menu-item-12461"><a href="#">コストコとは？</a>
+<ul class="sub-menu">
+	<li id="menu-item-12452" class="menu-item menu-item-type-post_type menu-item-object-page menu_no2 menu-item-12452"><a href="http://www.costco.co.jp/p/aboutcostco?lang=ja">コストコとは？</a></li>
+	<li id="menu-item-12432" class="menu-item menu-item-type-post_type menu-item-object-page menu_no3 menu-item-12432"><a href="http://www.costco.co.jp/p/aboutcostco/history?lang=ja">コストコの歴史</a></li>
+	<li id="menu-item-12442" class="menu-item menu-item-type-post_type menu-item-object-page menu_no4 menu-item-12442"><a href="http://www.costco.co.jp/p/aboutcostco/worldwide?lang=ja">世界のコストコ</a></li>
+	<li id="menu-item-21444" class="menu-item menu-item-type-post_type menu-item-object-page menu_no5 menu-item-21444"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability?lang=ja">サステナビリティ</a></li>
+	<li id="menu-item-12422" class="menu-item menu-item-type-post_type menu-item-object-page menu_no6 menu-item-12422"><a href="http://www.costco.co.jp/p/aboutcostco/vendor?lang=ja">お取引案内</a></li>
+</ul>
+</li>
+<li id="menu-item-12501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu_no7 menu-item-12501"><a href="http://www.costco.co.jp/p/membership?lang=ja">会員になるには？</a>
+<ul class="sub-menu">
+	<li id="menu-item-13281" class="menu-item menu-item-type-post_type menu-item-object-page menu_no8 menu-item-13281"><a href="http://www.costco.co.jp/p/membership?lang=ja">会員になるには？</a></li>
+	<li id="menu-item-12511" class="menu-item menu-item-type-post_type menu-item-object-page menu_no9 menu-item-12511"><a href="http://www.costco.co.jp/p/membership/businessmember?lang=ja">ビジネスメンバー</a></li>
+	<li id="menu-item-12521" class="menu-item menu-item-type-post_type menu-item-object-page menu_no10 menu-item-12521"><a href="http://www.costco.co.jp/p/membership/goldstarmember?lang=ja">ゴールドスターメンバー</a></li>
+	<li id="menu-item-12531" class="menu-item menu-item-type-post_type menu-item-object-page menu_no11 menu-item-12531"><a href="http://www.costco.co.jp/p/membership/memberprivileges?lang=ja">会員規約</a></li>
+	<li id="menu-item-12541" class="menu-item menu-item-type-post_type menu-item-object-page menu_no12 menu-item-12541"><a href="http://www.costco.co.jp/p/membership/creditcard?lang=ja">ご利用可能なクレジットカード</a></li>
+	<li id="menu-item-12551" class="menu-item menu-item-type-post_type menu-item-object-page menu_no13 menu-item-12551"><a href="http://www.costco.co.jp/p/membership/auto-renewal?lang=ja">年会費自動引き落とし</a></li>
+	<li id="menu-item-12561" class="menu-item menu-item-type-post_type menu-item-object-page menu_no14 menu-item-12561"><a href="http://www.costco.co.jp/p/membership/member-qa?lang=ja">会員Q&#038;A</a></li>
+	<li id="menu-item-17914" class="menu-item menu-item-type-post_type menu-item-object-page menu_no15 menu-item-17914"><a href="http://www.costco.co.jp/p/membership/prepaidcard?lang=ja">コストコ・プリペイドカード約款</a></li>
+	<li id="menu-item-18686" class="menu-item menu-item-type-post_type menu-item-object-page menu_no16 menu-item-18686"><a href="http://www.costco.co.jp/p/membership/gasstationprepaidcard?lang=ja">コストコ・ガスステーション・プリペイドカード約款</a></li>
+	<li id="menu-item-18825" class="menu-item menu-item-type-post_type menu-item-object-page menu_no17 menu-item-18825"><a href="http://www.costco.co.jp/p/membership/invitationcardstermsandconditions?lang=ja">コストコ・インビテーションカード及びワンデーパス利用約款</a></li>
+</ul>
+</li>
+<li id="menu-item-13262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no18 menu-item-13262"><a href="#">取扱商品/サービス</a>
+<ul class="sub-menu">
+	<li id="menu-item-18405" class="menu-item menu-item-type-post_type menu-item-object-page menu_no19 menu-item-18405"><a href="http://www.costco.co.jp/p/businessdelivery?lang=ja">ビジネス配送サービス</a></li>
+	<li id="menu-item-12571" class="menu-item menu-item-type-post_type menu-item-object-page menu_no20 menu-item-12571"><a href="http://www.costco.co.jp/p/product?lang=ja">取扱商品/サービス</a></li>
+	<li id="menu-item-13131" class="menu-item menu-item-type-post_type menu-item-object-product menu_no21 menu-item-13131"><a href="http://www.costco.co.jp/p/product/kirkland?lang=ja">プライベートブランド</a></li>
+	<li id="menu-item-13241" class="menu-item menu-item-type-post_type menu-item-object-product menu_no22 menu-item-13241"><a href="http://www.costco.co.jp/p/product/freshfood?lang=ja">青果</a></li>
+	<li id="menu-item-13211" class="menu-item menu-item-type-post_type menu-item-object-product menu_no23 menu-item-13211"><a href="http://www.costco.co.jp/p/product/meat_fish?lang=ja">精肉・鮮魚</a></li>
+	<li id="menu-item-13161" class="menu-item menu-item-type-post_type menu-item-object-product menu_no24 menu-item-13161"><a href="http://www.costco.co.jp/p/product/bakery?lang=ja">ベーカリー</a></li>
+	<li id="menu-item-13101" class="menu-item menu-item-type-post_type menu-item-object-product menu_no25 menu-item-13101"><a href="http://www.costco.co.jp/p/product/delicatessen?lang=ja">デリカテッセン</a></li>
+	<li id="menu-item-13251" class="menu-item menu-item-type-post_type menu-item-object-product menu_no26 menu-item-13251"><a href="http://www.costco.co.jp/p/product/food?lang=ja">食品</a></li>
+	<li id="menu-item-13261" class="menu-item menu-item-type-post_type menu-item-object-product menu_no27 menu-item-13261"><a href="http://www.costco.co.jp/p/product/beverage_alcohol?lang=ja">飲料・アルコール類</a></li>
+	<li id="menu-item-13201" class="menu-item menu-item-type-post_type menu-item-object-product menu_no28 menu-item-13201"><a href="http://www.costco.co.jp/p/product/sundries?lang=ja">日用雑貨</a></li>
+	<li id="menu-item-13081" class="menu-item menu-item-type-post_type menu-item-object-product menu_no29 menu-item-13081"><a href="http://www.costco.co.jp/p/product/outdoor?lang=ja">スポーツ・アウトドア・園芸</a></li>
+	<li id="menu-item-13191" class="menu-item menu-item-type-post_type menu-item-object-product menu_no30 menu-item-13191"><a href="http://www.costco.co.jp/p/product/appliances?lang=ja">家電用品</a></li>
+	<li id="menu-item-13071" class="menu-item menu-item-type-post_type menu-item-object-product menu_no31 menu-item-13071"><a href="http://www.costco.co.jp/p/product/auto_diy?lang=ja">カー用品・工具類</a></li>
+	<li id="menu-item-13171" class="menu-item menu-item-type-post_type menu-item-object-product menu_no32 menu-item-13171"><a href="http://www.costco.co.jp/p/product/office?lang=ja">事務用品</a></li>
+	<li id="menu-item-13151" class="menu-item menu-item-type-post_type menu-item-object-product menu_no33 menu-item-13151"><a href="http://www.costco.co.jp/p/product/baby?lang=ja">ベビー・キッズ</a></li>
+	<li id="menu-item-13111" class="menu-item menu-item-type-post_type menu-item-object-product menu_no34 menu-item-13111"><a href="http://www.costco.co.jp/p/product/fashion?lang=ja">ファッション</a></li>
+	<li id="menu-item-13181" class="menu-item menu-item-type-post_type menu-item-object-product menu_no35 menu-item-13181"><a href="http://www.costco.co.jp/p/product/domestics?lang=ja">家庭用品</a></li>
+	<li id="menu-item-13141" class="menu-item menu-item-type-post_type menu-item-object-product menu_no36 menu-item-13141"><a href="http://www.costco.co.jp/p/product/health?lang=ja">ヘルス＆ビューティー</a></li>
+	<li id="menu-item-13231" class="menu-item menu-item-type-post_type menu-item-object-product menu_no37 menu-item-13231"><a href="http://www.costco.co.jp/p/product/pharmacy?lang=ja">調剤薬局</a></li>
+	<li id="menu-item-13221" class="menu-item menu-item-type-post_type menu-item-object-product menu_no38 menu-item-13221"><a href="http://www.costco.co.jp/p/product/optical?lang=ja">補聴器・メガネ・フォト</a></li>
+	<li id="menu-item-13091" class="menu-item menu-item-type-post_type menu-item-object-product menu_no39 menu-item-13091"><a href="http://www.costco.co.jp/p/product/tire?lang=ja">タイヤセンター</a></li>
+	<li id="menu-item-13121" class="menu-item menu-item-type-post_type menu-item-object-product menu_no40 menu-item-13121"><a href="http://www.costco.co.jp/p/product/foodcourt?lang=ja">フードコート</a></li>
+	<li id="menu-item-16094" class="menu-item menu-item-type-post_type menu-item-object-product menu_no41 menu-item-16094"><a href="http://www.costco.co.jp/p/product/gasstation?lang=ja">ガスステーション</a></li>
+</ul>
+</li>
+<li id="menu-item-13511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no42 menu-item-13511"><a href="#">所在地</a>
+<ul class="sub-menu">
+	<li id="menu-item-12581" class="menu-item menu-item-type-post_type menu-item-object-page menu_no43 menu-item-12581"><a href="http://www.costco.co.jp/p/locations?lang=ja">所在地一覧</a></li>
+	<li id="menu-item-13792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no44 menu-item-13792"><a href="#">北海道地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13481" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no45 menu-item-13481"><a href="http://www.costco.co.jp/p/locations/sapporo?lang=ja">札幌</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no46 menu-item-13801"><a href="#">東北地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13331" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no47 menu-item-13331"><a href="http://www.costco.co.jp/p/locations/kaminoyama?lang=ja">かみのやま</a></li>
+		<li id="menu-item-17487" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no48 menu-item-17487"><a href="http://www.costco.co.jp/p/locations/tomiya?lang=ja">富谷</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no49 menu-item-13811"><a href="#">関東地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13441" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no50 menu-item-13441"><a href="http://www.costco.co.jp/p/locations/makuhari?lang=ja">幕張</a></li>
+		<li id="menu-item-13501" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no51 menu-item-13501"><a href="http://www.costco.co.jp/p/locations/kanazawaseaside?lang=ja">金沢シーサイド</a></li>
+		<li id="menu-item-13431" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no52 menu-item-13431"><a href="http://www.costco.co.jp/p/locations/kawasaki?lang=ja">川崎</a></li>
+		<li id="menu-item-13371" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no53 menu-item-13371"><a href="http://www.costco.co.jp/p/locations/iruma?lang=ja">入間</a></li>
+		<li id="menu-item-13471" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no54 menu-item-13471"><a href="http://www.costco.co.jp/p/locations/shinmisato?lang=ja">新三郷</a></li>
+		<li id="menu-item-13381" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no55 menu-item-13381"><a href="http://www.costco.co.jp/p/locations/maebashi?lang=ja">前橋</a></li>
+		<li id="menu-item-13461" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no56 menu-item-13461"><a href="http://www.costco.co.jp/p/locations/zama?lang=ja">座間</a></li>
+		<li id="menu-item-13411" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no57 menu-item-13411"><a href="http://www.costco.co.jp/p/locations/tamasakai?lang=ja">多摩境</a></li>
+		<li id="menu-item-13311" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no58 menu-item-13311"><a href="http://www.costco.co.jp/p/locations/tsukuba?lang=ja">つくば</a></li>
+		<li id="menu-item-13301" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no59 menu-item-13301"><a href="http://www.costco.co.jp/p/locations/chibanewtown?lang=ja">千葉ニュータウン</a></li>
+		<li id="menu-item-13321" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no60 menu-item-13321"><a href="http://www.costco.co.jp/p/locations/hitachinaka?lang=ja">ひたちなか</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no61 menu-item-13821"><a href="#">中部地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13341" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no62 menu-item-13341"><a href="http://www.costco.co.jp/p/locations/chubuairport?lang=ja">中部空港</a></li>
+		<li id="menu-item-17023" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no63 menu-item-17023"><a href="http://www.costco.co.jp/p/locations/nonoichi?lang=ja">野々市</a></li>
+		<li id="menu-item-17022" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no64 menu-item-17022"><a href="http://www.costco.co.jp/p/locations/imizu?lang=ja">射水</a></li>
+		<li id="menu-item-19444" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no65 menu-item-19444"><a href="http://www.costco.co.jp/p/locations/gifuhashima?lang=ja">岐阜羽島</a></li>
+		<li id="menu-item-21637" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no66 menu-item-21637"><a href="http://www.costco.co.jp/p/locations/hamamatsu?lang=ja">浜松</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no67 menu-item-13831"><a href="#">近畿地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13421" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no68 menu-item-13421"><a href="http://www.costco.co.jp/p/locations/amagasaki?lang=ja">尼崎</a></li>
+		<li id="menu-item-13361" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no69 menu-item-13361"><a href="http://www.costco.co.jp/p/locations/kyotoyawata?lang=ja">京都八幡</a></li>
+		<li id="menu-item-13491" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no70 menu-item-13491"><a href="http://www.costco.co.jp/p/locations/kobe?lang=ja">神戸</a></li>
+		<li id="menu-item-13401" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no71 menu-item-13401"><a href="http://www.costco.co.jp/p/locations/izumi?lang=ja">和泉</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no72 menu-item-13841"><a href="#">中国地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13451" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no73 menu-item-13451"><a href="http://www.costco.co.jp/p/locations/hiroshima?lang=ja">広島</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no74 menu-item-13851"><a href="#">九州地区</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13391" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no75 menu-item-13391"><a href="http://www.costco.co.jp/p/locations/kitakyushu?lang=ja">北九州</a></li>
+		<li id="menu-item-13351" class="menu-item menu-item-type-post_type menu-item-object-locations menu_no76 menu-item-13351"><a href="http://www.costco.co.jp/p/locations/hisayama?lang=ja">久山</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-13061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu_no77 menu-item-13061"><a href="#">採用情報</a>
+<ul class="sub-menu">
+	<li id="menu-item-12591" class="menu-item menu-item-type-post_type menu-item-object-page menu_no78 menu-item-12591"><a href="http://www.costco.co.jp/p/employment?lang=ja">採用情報</a></li>
+	<li id="menu-item-13001" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no79 menu-item-13001"><a href="http://www.costco.co.jp/p/employment/presidentmessage?lang=ja">社長メッセージ</a></li>
+	<li id="menu-item-12831" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no80 menu-item-12831"><a href="http://www.costco.co.jp/p/employment/unistudents?lang=ja">新卒採用(2018年新卒採用受付中)</a></li>
+	<li id="menu-item-12641" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no81 menu-item-12641"><a href="http://www.costco.co.jp/p/employment/career_recruitment?lang=ja">中途採用</a></li>
+	<li id="menu-item-12691" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no82 menu-item-12691"><a href="http://www.costco.co.jp/p/employment/albeit_hiring?lang=ja">アルバイト採用</a></li>
+	<li id="menu-item-13041" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no83 menu-item-13041"><a href="http://www.costco.co.jp/p/employment/pharmacist_hiring?lang=ja">薬剤師採用</a></li>
+	<li id="menu-item-12821" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no84 menu-item-12821"><a href="http://www.costco.co.jp/p/employment/newwarehouse?lang=ja">新倉庫店募集要項</a></li>
+	<li id="menu-item-13031" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no85 menu-item-13031"><a href="http://www.costco.co.jp/p/employment/membersrv?lang=ja">職種紹介</a></li>
+	<li id="menu-item-12621" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no86 menu-item-12621"><a href="http://www.costco.co.jp/p/employment/eeo?lang=ja">キャリア・人事制度・福利厚生</a></li>
+	<li id="menu-item-12811" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no87 menu-item-12811"><a href="http://www.costco.co.jp/p/employment/q-a?lang=ja">採用Q&#038;A</a></li>
+	<li id="menu-item-12951" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no88 menu_last menu-item-12951"><a href="http://www.costco.co.jp/p/employment/jobsearch?lang=ja">現在募集中の仕事検索</a></li>
+</ul>
+</li>
+</ul></div>
+
+
+
+<ul class="sp_menu_2">
+
+<li><a href="http://photo.costco.co.jp">フォトセンター</a></li>
+
+<li><a href="/p/category/eventinfo">イベント情報</a></li>
+
+<li><a href="/p/registerlimitedemail">メルマガ登録</a></li>
+
+<li><a href="/p/expansionplan">出店計画</a></li>
+
+<li><a href="/p/faq">ご意見・お問い合わせ</a></li>
+
+<li><a href="/p/?lang=en">English</a></li>
+
+</ul>
+<!-- / --></div>
+
+
+</div>
+
+<div id="gnavi">
+
+	<div class="menu-global-nav-container"><ul id="menu-global-nav" class="menu"><li id="menu-item-4972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4929 current_page_item menu_no1 menu_first menu-item-4972"><a href="http://www.costco.co.jp/p/?lang=ja">HOME</a></li>
+<li id="menu-item-4974" class="menu-item menu-item-type-post_type menu-item-object-page menu_no2 menu-item-4974"><a href="http://www.costco.co.jp/p/aboutcostco?lang=ja">コストコとは？</a></li>
+<li id="menu-item-4932" class="menu-item menu-item-type-post_type menu-item-object-page menu_no3 menu-item-4932"><a href="http://www.costco.co.jp/p/membership?lang=ja">会員になるには？</a></li>
+<li id="menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page menu_no4 menu-item-4931"><a href="http://www.costco.co.jp/p/product?lang=ja">取扱商品/サービス</a></li>
+<li id="menu-item-5038" class="menu-item menu-item-type-post_type menu-item-object-page menu_no5 menu-item-5038"><a href="http://www.costco.co.jp/p/locations?lang=ja">所在地</a></li>
+<li id="menu-item-4973" class="menu-item menu-item-type-post_type menu-item-object-page menu_no6 menu_last menu-item-4973"><a href="http://www.costco.co.jp/p/employment?lang=ja">採用情報</a></li>
+</ul></div>
+</div>
+
+
+<style>
+    /* Prevent the slideshow from flashing on load */
+    #slides {
+      display: none
+    }
+
+    /* Center the slideshow */
+    .container {
+      margin: 0 auto
+    }
+	
+	.slidesjs-navigation {
+		display: none;
+	}	
+</style>
+<div id="index_img" style="position:relative">
+	<div id="slides">
+				<img src="/p/wp-content/uploads/2016/07/main_01.jpg" alt="" height="360" off-onclick="" off-style="cursor: pointer">
+		<img src="/p/wp-content/uploads/2016/07/main_02.jpg" alt="" height="360" off-onclick="" off-style="cursor: pointer">
+		<img src="/p/wp-content/themes/costco/images/top/main_03.jpg" alt="" height="360" off-onclick="" off-style="cursor: pointer">
+		<img src="/p/wp-content/uploads/2016/07/main_04.jpg" alt="" height="360" off-onclick="" off-style="cursor: pointer">
+			</div>
+	<div style="position:absolute;top:45%;left:10px;width:7%;z-index:999;opacity: 0.5;">
+		<a href="javascript:void(0)" onclick="movePreviousSlide();playSlide()"><img src="/p/wp-content/themes/costco/images/btn_left.png"></a>
+	</div>
+	<div style="position:absolute;top:45%;right:10px;width:7%;z-index:999;opacity: 0.5;">
+		<a href="javascript:void(0)" onclick="moveNextSlide();playSlide()"><img src="/p/wp-content/themes/costco/images/btn_right.png"></a>
+	</div>
+<script>
+$(function(){
+  $("#slides").slidesjs({
+	width: 940,
+	height: 340,
+    play: {
+      active: true,
+      auto: true,
+      interval: 3000,
+      swap: false,
+      pauseOnHover: false,
+      effect: "slide", 
+      restartDelay: 3000
+    },
+    navigation: {
+      active: true,
+      effect: "slide"
+    },
+    pagination: {
+      active: false,
+    }
+  });
+});
+function movePreviousSlide() {
+	$('.slidesjs-previous').click()	
+}
+function moveNextSlide() {
+	$('.slidesjs-next').click();
+}
+function playSlide() {
+	$('.slidesjs-play').click();
+}
+</script>
+</div>
+<div id="main_contents">
+	<div class="inner">
+		<div class="middle_link">
+		    <ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-3 for 1800 second(s)-->
+<li id="execphp-3" class="widget widget_execphp"><h2 class="widgettitle">[未使用]ビジネスメンバー（法人会員）</h2>
+			<div class="execphpwidget"><a href="/p/membership/businessmember"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top/btn_member_new.png" alt="ビジネスメンバー（法人会員）" /></a>
+	</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-4 for 1800 second(s)-->
+<li id="execphp-4" class="widget widget_execphp"><h2 class="widgettitle">[未使用]ゴールドスターメンバー（個人会員）</h2>
+			<div class="execphpwidget"><a href="/p/membership/goldstarmember"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top/btn_gold_new.png" alt="ゴールドスターメンバー（個人会員）" /></a>
+	</div>
+		</li>
+<!--WP Widget Cache End -->
+		    </ul>
+		</div>
+		<div class="right_link">
+		    <ul>
+		        <!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-25 for 1800 second(s)-->
+<li id="execphp-25" class="widget widget_execphp"><h2 class="widgettitle">お買い得商品</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="http://cds.costcojapan.jp/cds/mail-images/upz/171123_wjpm/thu23d/pc_index.html"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_hotbuy.jpg" alt="お買い得商品" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-17 for 1800 second(s)-->
+<li id="execphp-17" class="widget widget_execphp"><h2 class="widgettitle">新商品情報</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/category/newitem?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_newitem_201412.jpg" alt="新商品情報" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-19 for 1800 second(s)-->
+<li id="execphp-19" class="widget widget_execphp"><h2 class="widgettitle">イベント情報</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/category/eventinfo?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_event_201412.jpg" alt="イベント情報" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-26 for 1800 second(s)-->
+<li id="execphp-26" class="widget widget_execphp"><h2 class="widgettitle">フォトギャラリー</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/photogallery?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_photo_gallery.jpg" alt="フォトギャラリー" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+		    </ul>
+		</div>
+		<div class="ctr_contents">
+									<h2 style="margin-bottom: 10px;">お知らせ</h2>
+<ul class="top_page_nortice">
+
+<li><strong style=""><span style="font-size: 1.3em; color: red; ">
+コストコで使える最強クレジットカードついに誕生！高水準の還元率！！</br>
+年会費無料！詳しくは<a href="http://www.costco.co.jp/p/costcoglobalcard?lang=ja">こちら</a>をご覧ください。</span></strong></li>
+
+<li><strong style=""><a href="/p/22888">年末年始の営業時間のお知らせ</a></strong></li>
+<li><strong style=""><a href="/p/employment/hamamatsu">浜松倉庫店 オープニングスタッフ募集中! </a></strong></li>
+<li><strong style=""><a href="/p/product/gasstation">コストコ ガスステーション 営業中！</a></strong></li>
+<li><strong style=""><a href="/p/22579">札幌倉庫店 改修工事のお知らせ</a></strong></li>
+<li><strong style=""><a href="/p/goldstardelivery">配送サービスがご利用できます！</a></strong></li>
+<li><strong style=""><a href="/p/employment/jobsearch">本社を含め、各倉庫店・物流センターごとの現在募集中のお仕事検索ができるようになりました。</a></strong></li>
+<li><strong style=""><a href="/p/noticeforinvitationcard">インビテーションカード、ワンデーパス及びプリペイドカード（商品券も含む）についてご注意</a></strong></li>
+<li><strong style=""><a href="http://soukenkai-yawata.net">京都八幡倉庫店内には、クリニックも併設！</a></strong></li>
+
+</ul>									<!--
+			<h2 style="margin-bottom:10px;">イベント情報</h2>
+			-->
+			<!-- 
+			<img width="440" src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top/img_event_banner.jpg">
+			-->
+			<!--
+			<div class="eventlist" style="background-color:#FFEFAA;padding:3px 10px 3px 10px;border:solid 1px #D4D3FF;">
+																<p style="padding-bottom:5px;"><span>
+					<img src="/p/wp-content/themes/costco/images/img_pin15.png" style="margin-right:3px;" />2017年11月26日					</span><a href="http://www.costco.co.jp/p/23300?lang=ja">
+									
+					最新イベント情報（11月26日）										
+					</a></p>
+																				<p style="padding-bottom:5px;"><span>
+					<img src="/p/wp-content/themes/costco/images/img_pin15.png" style="margin-right:3px;" />2017年11月19日					</span><a href="http://www.costco.co.jp/p/23264?lang=ja">
+									
+					最新イベント情報（11月19日）										
+					</a></p>
+															</div>
+			-->
+											</div>
+		<div class="bottom_link">
+		    <ul>
+		        <!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-27 for 1800 second(s)-->
+<li id="execphp-27" class="widget widget_execphp"><h2 class="widgettitle">会員になるには？</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/membership?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_join_costco.jpg" alt="アクセス" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-5 for 1800 second(s)-->
+<li id="execphp-5" class="widget widget_execphp"><h2 class="widgettitle">メルマガ登録</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/registerlimitedemail?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_mail_magazine.jpg" alt="メルマガ登録" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-7 for 1800 second(s)-->
+<li id="execphp-7" class="widget widget_execphp"><h2 class="widgettitle">取扱商品/サービス</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/product?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_product_201412.jpg" alt="取扱商品/サービス" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-20 for 1800 second(s)-->
+<li id="execphp-20" class="widget widget_execphp"><h2 class="widgettitle">コストコ コネクション</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/costcoconnection?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_connection_201412.jpg" alt="コストコ コネクション" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-9 for 1800 second(s)-->
+<li id="execphp-9" class="widget widget_execphp"><h2 class="widgettitle">アクセス</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/locations?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_access.jpg" alt="アクセス" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-24 for 1800 second(s)-->
+<li id="execphp-24" class="widget widget_execphp"><h2 class="widgettitle">年会費自動引き落とし</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/membership/auto-renewal?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_online.jpg" alt="年会費自動引き落とし" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-23 for 1800 second(s)-->
+<li id="execphp-23" class="widget widget_execphp"><h2 class="widgettitle">ビジネス配送</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/businessdelivery?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_delivery.jpg" alt="ビジネス配送" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-8 for 1800 second(s)-->
+<li id="execphp-8" class="widget widget_execphp"><h2 class="widgettitle">採用情報</h2>
+			<div class="execphpwidget"><div class="link_bnr"><a href="/p/employment?lang=ja"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/top-new/bnr_top_employment_201412.jpg" alt="採用情報" /></a></div>
+</div>
+		</li>
+<!--WP Widget Cache End -->
+		    </ul>
+		</div>
+	</div>
+</div>
+
+<div id="foot_links">
+	<div class="foot_wrap">
+		<p class="map_title">サイトマップ</p>
+		<div class="links">
+			<ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-10 for 1800 second(s)-->
+<li id="execphp-10" class="widget widget_execphp"><h2 class="widgettitle">コストコとは？</h2>
+			<div class="execphpwidget"><ul>
+<li class="page_item page-item-4908"><a href="http://www.costco.co.jp/p/aboutcostco?lang=ja">コストコとは？</a></li>
+<li class="page_item page-item-4950"><a href="http://www.costco.co.jp/p/aboutcostco/history?lang=ja">コストコの歴史</a></li>
+<li class="page_item page-item-4955"><a href="http://www.costco.co.jp/p/aboutcostco/worldwide?lang=ja">世界のコストコ</a></li>
+<li class="page_item page-item-21134 page_item_has_children"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability?lang=ja">サステナビリティ</a>
+<ul class='children'>
+	<li class="page_item page-item-21140"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability/employee?lang=ja">従業員</a></li>
+	<li class="page_item page-item-21424"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability/communities?lang=ja">コミュニティ</a></li>
+	<li class="page_item page-item-21426"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability/operations?lang=ja">オペレーション</a></li>
+	<li class="page_item page-item-21432"><a href="http://www.costco.co.jp/p/aboutcostco/sustainability/merchandising?lang=ja">マーチャンダイジング</a></li>
+</ul>
+</li>
+<li class="page_item page-item-4957"><a href="http://www.costco.co.jp/p/aboutcostco/vendor?lang=ja">お取引案内</a></li>
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-11 for 1800 second(s)-->
+<li id="execphp-11" class="widget widget_execphp"><h2 class="widgettitle">会員になるには？</h2>
+			<div class="execphpwidget"><ul>
+<li class="page_item page-item-4911"><a href="http://www.costco.co.jp/p/membership?lang=ja">会員になるには？</a></li>
+<li class="page_item page-item-5740"><a href="http://www.costco.co.jp/p/membership/businessmember?lang=ja">ビジネスメンバー</a></li>
+<li class="page_item page-item-5744"><a href="http://www.costco.co.jp/p/membership/goldstarmember?lang=ja">ゴールドスターメンバー</a></li>
+<li class="page_item page-item-4965"><a href="http://www.costco.co.jp/p/membership/memberprivileges?lang=ja">会員規約</a></li>
+<li class="page_item page-item-4967"><a href="http://www.costco.co.jp/p/membership/creditcard?lang=ja">ご利用可能なクレジットカード</a></li>
+<li class="page_item page-item-4970"><a href="http://www.costco.co.jp/p/membership/auto-renewal?lang=ja">年会費自動引き落とし</a></li>
+<li class="page_item page-item-8744"><a href="http://www.costco.co.jp/p/membership/member-qa?lang=ja">会員Q&#038;A</a></li>
+<li class="page_item page-item-14780"><a href="http://www.costco.co.jp/p/membership/prepaidcard?lang=ja">コストコ・プリペイドカード約款</a></li>
+<li class="page_item page-item-18160"><a href="http://www.costco.co.jp/p/membership/gasstationprepaidcard?lang=ja">コストコ・ガスステーション・プリペイドカード約款</a></li>
+<li class="page_item page-item-18784"><a href="http://www.costco.co.jp/p/membership/invitationcardstermsandconditions?lang=ja">コストコ・インビテーションカード及びワンデーパス利用約款</a></li>
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+			</ul>
+		</div>
+
+		<div class="links">
+			<ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-16 for 1800 second(s)-->
+<li id="execphp-16" class="widget widget_execphp"><h2 class="widgettitle">ご意見・お問合せ</h2>
+			<div class="execphpwidget"><div class="menu-contact_nav-container"><ul id="menu-contact_nav" class="menu"><li id="menu-item-5702" class="menu-item menu-item-type-post_type menu-item-object-page menu_no1 menu_first menu-item-5702"><a href="http://www.costco.co.jp/p/faq?lang=ja">よくあるご質問</a></li>
+<li id="menu-item-17799" class="menu-item menu-item-type-post_type menu-item-object-page menu_no2 menu-item-17799"><a href="http://www.costco.co.jp/p/faq_mail?lang=ja">よくあるご質問（メルマガ編）</a></li>
+<li id="menu-item-21852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu_no3 menu-item-21852"><a href="http://www.costco.co.jp/p/category/importantnotice?lang=ja">重要なお知らせ（コストコ）</a></li>
+<li id="menu-item-21849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu_no4 menu-item-21849"><a href="http://www.costco.co.jp/p/category/importantnotice-etc?lang=ja">重要なお知らせ（その他）</a></li>
+<li id="menu-item-5707" class="menu-item menu-item-type-post_type menu-item-object-page menu_no5 menu-item-5707"><a href="https://www.costco.co.jp/p/comments?lang=ja">ご意見・ご質問について</a></li>
+<li id="menu-item-9262" class="menu-item menu-item-type-post_type menu-item-object-page menu_no6 menu_last menu-item-9262"><a href="https://www.costco.co.jp/p/media-inquiry?lang=ja">メディア関連のお問合せ</a></li>
+</ul></div></div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-12 for 1800 second(s)-->
+<li id="execphp-12" class="widget widget_execphp"><h2 class="widgettitle">イベント情報</h2>
+			<div class="execphpwidget"><ul>
+<li><a href="http://www.costco.co.jp/p/category/eventinfo?lang=ja">イベント情報</a></li>
+<li class="page_item page-item-4920 current_page_item"><a href="https://www.costco.co.jp/p/registerlimitedemail?lang=ja">メルマガ登録</a></li>
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-22 for 1800 second(s)-->
+<li id="execphp-22" class="widget widget_execphp"><h2 class="widgettitle">新商品情報</h2>
+			<div class="execphpwidget"><ul>
+<li><a href="http://www.costco.co.jp/p/category/newitem?lang=ja">新商品情報</a></li>
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+			</ul>
+		</div>
+
+		<div class="links">
+			<ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-13 for 1800 second(s)-->
+<li id="execphp-13" class="widget widget_execphp"><h2 class="widgettitle">所在地</h2>
+			<div class="execphpwidget"><ul>
+<li><a href="http://www.costco.co.jp/p/locations?lang=ja">所在地</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/sapporo?lang=ja">札幌</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kaminoyama?lang=ja">かみのやま</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/tomiya?lang=ja">富谷</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/makuhari?lang=ja">幕張</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kanazawaseaside?lang=ja">金沢シーサイド</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kawasaki?lang=ja">川崎</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/iruma?lang=ja">入間</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/shinmisato?lang=ja">新三郷</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/maebashi?lang=ja">前橋</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/zama?lang=ja">座間</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/tamasakai?lang=ja">多摩境</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/tsukuba?lang=ja">つくば</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/chibanewtown?lang=ja">千葉ニュータウン</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/hitachinaka?lang=ja">ひたちなか</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/chubuairport?lang=ja">中部空港</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/nonoichi?lang=ja">野々市</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/imizu?lang=ja">射水</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/gifuhashima?lang=ja">岐阜羽島</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/hamamatsu?lang=ja">浜松</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/amagasaki?lang=ja">尼崎</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kyotoyawata?lang=ja">京都八幡</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kobe?lang=ja">神戸</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/izumi?lang=ja">和泉</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/hiroshima?lang=ja">広島</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/hisayama?lang=ja">久山</a></li>
+<li><a href="http://www.costco.co.jp/p/locations/kitakyushu?lang=ja">北九州</a></li>
+
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+			</ul>
+		</div>
+
+		<div class="links">
+			<ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-14 for 1800 second(s)-->
+<li id="execphp-14" class="widget widget_execphp"><h2 class="widgettitle">取扱商品/サービス</h2>
+			<div class="execphpwidget"><ul>
+<li><a href="http://www.costco.co.jp/p/product?lang=ja">取扱商品/サービス</a></li>
+<li><a href="http://www.costco.co.jp/p/goldstardelivery?lang=ja">配送サービス</a></li>
+<li><a href="http://www.costco.co.jp/p/businessdelivery?lang=ja">ビジネス配送サービス</a></li>
+<li><a href="http://www.costco.co.jp/p/product/kirkland?lang=ja">プライベートブランド</a></li>
+<li><a href="http://www.costco.co.jp/p/product/freshfood?lang=ja">青果</a></li>
+<li><a href="http://www.costco.co.jp/p/product/meat_fish?lang=ja">精肉・鮮魚</a></li>
+<li><a href="http://www.costco.co.jp/p/product/bakery?lang=ja">ベーカリー</a></li>
+<li><a href="http://www.costco.co.jp/p/product/delicatessen?lang=ja">デリカテッセン</a></li>
+<li><a href="http://www.costco.co.jp/p/product/food?lang=ja">食品</a></li>
+<li><a href="http://www.costco.co.jp/p/product/beverage_alcohol?lang=ja">飲料・アルコール類</a></li>
+<li><a href="http://www.costco.co.jp/p/product/sundries?lang=ja">日用雑貨</a></li>
+<li><a href="http://www.costco.co.jp/p/product/outdoor?lang=ja">スポーツ・アウトドア・園芸</a></li>
+<li><a href="http://www.costco.co.jp/p/product/appliances?lang=ja">家電用品</a></li>
+<li><a href="http://www.costco.co.jp/p/product/auto_diy?lang=ja">カー用品・工具類</a></li>
+<li><a href="http://www.costco.co.jp/p/product/office?lang=ja">事務用品</a></li>
+<li><a href="http://www.costco.co.jp/p/product/baby?lang=ja">ベビー・キッズ</a></li>
+<li><a href="http://www.costco.co.jp/p/product/fashion?lang=ja">ファッション</a></li>
+<li><a href="http://www.costco.co.jp/p/product/domestics?lang=ja">家庭用品</a></li>
+<li><a href="http://www.costco.co.jp/p/product/health?lang=ja">ヘルス＆ビューティー</a></li>
+<li><a href="http://www.costco.co.jp/p/product/pharmacy?lang=ja">調剤薬局</a></li>
+<li><a href="http://www.costco.co.jp/p/product/optical?lang=ja">補聴器・メガネ・フォト</a></li>
+<li><a href="http://www.costco.co.jp/p/product/tire?lang=ja">タイヤセンター</a></li>
+<li><a href="http://www.costco.co.jp/p/product/foodcourt?lang=ja">フードコート</a></li>
+<li><a href="http://www.costco.co.jp/p/product/gasstation?lang=ja">ガスステーション</a></li>
+
+</ul></div>
+		</li>
+<!--WP Widget Cache End -->
+			</ul>
+		</div>
+
+		<div class="links2">
+			<ul>
+			<!--WP Widget Cache 0.26 Begin -->
+<!--Cache execphp-15 for 1800 second(s)-->
+<li id="execphp-15" class="widget widget_execphp"><h2 class="widgettitle">採用情報</h2>
+			<div class="execphpwidget"><div class="menu-employment-nav-container"><ul id="menu-employment-nav" class="menu"><li id="menu-item-5158" class="menu-item menu-item-type-post_type menu-item-object-page menu_no1 menu_first menu-item-5158"><a href="http://www.costco.co.jp/p/employment?lang=ja">採用情報</a></li>
+<li id="menu-item-5282" class="empnav_presidentmessage menu-item menu-item-type-post_type menu-item-object-employment menu_no2 menu-item-5282"><a href="http://www.costco.co.jp/p/employment/presidentmessage?lang=ja">社長メッセージ</a></li>
+<li id="menu-item-5277" class="empnav_unistudents menu-item menu-item-type-post_type menu-item-object-employment menu_no3 menu-item-5277"><a href="http://www.costco.co.jp/p/employment/unistudents?lang=ja">新卒採用(2018年新卒採用受付中)</a></li>
+<li id="menu-item-5278" class="empnav_career menu-item menu-item-type-post_type menu-item-object-employment menu_no4 menu-item-5278"><a href="http://www.costco.co.jp/p/employment/career_recruitment?lang=ja">中途採用</a></li>
+<li id="menu-item-5288" class="empnav_albeit menu-item menu-item-type-post_type menu-item-object-employment menu_no5 menu-item-5288"><a href="http://www.costco.co.jp/p/employment/albeit_hiring?lang=ja">アルバイト採用</a></li>
+<li id="menu-item-5313" class="empnav_pharmacy menu-item menu-item-type-post_type menu-item-object-employment menu_no6 menu-item-5313"><a href="http://www.costco.co.jp/p/employment/pharmacist_hiring?lang=ja">薬剤師採用</a></li>
+<li id="menu-item-7567" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no7 menu-item-7567"><a href="http://www.costco.co.jp/p/employment/newwarehouse?lang=ja">新倉庫店募集要項</a></li>
+<li id="menu-item-5279" class="empnav_membersrv menu-item menu-item-type-post_type menu-item-object-employment menu_no8 menu-item-5279"><a href="http://www.costco.co.jp/p/employment/membersrv?lang=ja">職種紹介</a></li>
+<li id="menu-item-5280" class="empnav_jobopening menu-item menu-item-type-post_type menu-item-object-employment menu_no9 menu-item-5280"><a href="http://www.costco.co.jp/p/employment/eeo?lang=ja">キャリア・人事制度・福利厚生</a></li>
+<li id="menu-item-5317" class="empnav_qa menu-item menu-item-type-post_type menu-item-object-employment menu_no10 menu-item-5317"><a href="http://www.costco.co.jp/p/employment/q-a?lang=ja">採用Q&#038;A</a></li>
+<li id="menu-item-10654" class="menu-item menu-item-type-post_type menu-item-object-employment menu_no11 menu_last menu-item-10654"><a href="http://www.costco.co.jp/p/employment/jobsearch?lang=ja">現在募集中の仕事検索</a></li>
+</ul></div></div>
+		</li>
+<!--WP Widget Cache End -->
+			</ul>
+		</div>
+		
+	</div>
+</div>
+
+
+
+<div id="footer">
+	<div>
+		<div><a href="http://www.costco.com/" target="_blank"><img src="http://www.costco.co.jp/p/wp-content/themes/costco/images/logo_foot.gif" width="84" height="25" /></a></div>
+		<div class="menu-foot_nav-container"><ul id="menu-foot_nav" class="menu"><li id="menu-item-5722" class="menu-item menu-item-type-post_type menu-item-object-page menu_no1 menu_first menu-item-5722"><a href="http://www.costco.co.jp/p/privacy?lang=ja">個人情報保護方針</a></li>
+<li id="menu-item-5725" class="menu-item menu-item-type-post_type menu-item-object-page menu_no2 menu_last menu-item-5725"><a href="http://www.costco.co.jp/p/sitepolicy?lang=ja">サイトポリシー</a></li>
+</ul></div>	</div>
+	<address>Costco Wholesale Japan, Ltd and Costco Wholesale Corporation 2005-2017, All Rights Reserved.</address>
+</div>
+
+<script type='text/javascript' src='http://www.costco.co.jp/p/wp-includes/js/wp-embed.min.js'></script>
+</div>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using apc
+
+ Served from: www.costco.co.jp @ 2017-11-26 10:06:57 by W3 Total Cache -->

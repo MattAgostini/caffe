@@ -1,0 +1,597 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+		
+
+
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+
+	<meta name="description" content="www.adamzpayne.com har en salig blandning av l&Atilde;&curren;nkar och kategorier allt skapat av vanliga anv&Atilde;&curren;ndare." />
+
+	<meta name="keywords" content="News,Stories,Articles,Vote,Publish,Social,Networking,Groups,Submit,Upcoming,Comments,Tags,Live" />
+  
+
+	<meta name="Language" content="en-us" />
+	<meta name="Robots" content="All" />
+		
+	<link rel="stylesheet" type="text/css" href="/templates/wistie/css/style.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/templates/wistie/css/dropdown-default.css" media="screen" />
+	
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+	<!--[if lt IE 7]>
+	<script type="text/javascript" src="/templates/wistie/js/jquery/jquery.dropdown.js"></script>
+	<![endif]-->
+
+	
+				
+
+						
+			<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
+				
+
+		
+					<title>www.adamzpayne.com - Your Source for Social News and Networking</title>
+			
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.adamzpayne.com/rss.php"/>
+	<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+	
+		<link rel="canonical" href="http://www.adamzpayne.com/" />		
+	
+	<script type="text/javascript">
+		/* Comment Administration Hover Effect */
+		$(document).ready(function(){
+		  $('div.comment-hover').css('visibility','hidden');
+		  $('div.comment-wrap').each(function() {
+			var controls = $(this).children('div.comment-hover');
+			$(this).hover(
+			  function() { $(controls).css('visibility','visible') },
+			  function() { $(controls).css('visibility','hidden') }
+			);
+		  });
+		});
+	</script>
+	
+	
+	</head>
+<body dir="ltr" >
+		
+<!-- START CONTENT -->
+	<div id="content">
+		
+			<script type="text/javascript" language="JavaScript">
+			function checkForm() {
+			answer = true;
+			if (siw && siw.selectingSomething)
+				answer = false;
+			return answer;
+			}//
+			</script>
+		
+		
+				
+		
+<!-- START HEADER.TPL -->
+<div id="login">
+		
+			
+    	</div>
+
+<div id="logo"><a href="http://www.adamzpayne.com">www.adamzpayne.com</a></div>
+<script type="text/javascript">
+				
+var some_search='Search..';
+</script>
+
+<!-- START SEARCH -->
+<!-- END SEARCH -->
+
+<!-- START NAVBAR -->
+<hr>
+
+<!-- END NAVBAR -->
+
+<!-- START BREADCRUMBS -->
+
+<h1>Framsidenyheter 
+				</h1>
+<!-- END BREADCRUMBS -->
+<!-- END HEADER.TPL -->		
+<!-- START LEFT COLUMN -->
+			<div id="leftcol">
+			
+				
+								
+
+<div class="stories" id="xnews-0" >
+		<div class="headline">
+				<div class="votebox-published">
+					
+			<div class="vote">
+							<span class="votenumber">
+					<a id="xvotes-0" href="javascript:vote(0,7,0,'1f3aed431ea3f2cb349d189482f5511f',10)">287</a>
+				</span><br />
+				<span class="subtext" id="xvote-0">
+											<a href="javascript:vote(0,7,0,'1f3aed431ea3f2cb349d189482f5511f',10)">Rösta</a>
+									</span>
+						</div>
+		</div>
+		
+
+		<div class="title" id="title-0">
+			<h2>
+										 
+			<a href="http://www.enarmad-bandit.nu/" >Enarmade banditer på nätet</a>				  
+													</h2>
+			
+			<span class="subtext">
+				Postad av 
+				
+				Mikaela (#1)  1730 dagar sedan
+				
+				(<a href="/dataspel/enarmade-banditer-pa-naetet/"   >/dataspel/enarmade-banditer-pa-naetet/</a>)			
+								
+				 
+							
+				<span id="ls_adminlinks-0" style="display:none">
+																				</span>
+			</span>
+		</div>
+	</div>
+
+	<div class="storycontent">
+		
+			<span class="news-body-text">
+			<span id="ls_contents-0">
+									En sida full med nyheter och tips om enarmade banditer. Det är väldigt lätt att förstå och även de faktum att man kan spela med allt från små till stora insatser gör att vem som hellst kan spela.
+																																																																 		  			
+				<br style="clear:both;" /> 
+			</span>
+		</span>
+				</div>
+	
+	<div class="storyfooter">
+		<div class="floatleft subtext">
+						<span id="ls_comments_url-0">
+											</span> 
+		
+				
+		
+		
+				 
+		
+					
+						<span id="emailto-0" style="display:none"></span>
+				
+				</div>
+		
+		<div class="floatright subtext">
+		<a href="/dataspel">Dataspel</a>
+
+		
+					                | 
+															<a href="/tag/entertainment">entertainment</a>
+																				<a href="/tag/entertainment">All</a>
+													</span> 
+						
+		 </div>
+	</div>
+	</div>
+
+<div class="stories" id="xnews-1" >
+		<div class="headline">
+				<div class="votebox-published">
+					
+			<div class="vote">
+							<span class="votenumber">
+					<a id="xvotes-1" href="javascript:vote(0,5,1,'13d9ede765480b1a8e57a52b88d62ef9',10)">269</a>
+				</span><br />
+				<span class="subtext" id="xvote-1">
+											<a href="javascript:vote(0,5,1,'13d9ede765480b1a8e57a52b88d62ef9',10)">Rösta</a>
+									</span>
+						</div>
+		</div>
+		
+
+		<div class="title" id="title-1">
+			<h2>
+										 
+			<a href="http://www.xn--casinopntet-s8al.net/vinnarum-casino/" >Vinnarum - ett nytt casino</a>				  
+													</h2>
+			
+			<span class="subtext">
+				Postad av 
+				
+				Bjrklund (#4)  1731 dagar sedan
+				
+				(<a href="/vaerldsrekord/vinnarum-ett-nytt-casino/"   >/vaerldsrekord/vinnarum-ett-nytt-casino/</a>)			
+								
+				 
+							
+				<span id="ls_adminlinks-1" style="display:none">
+																				</span>
+			</span>
+		</div>
+	</div>
+
+	<div class="storycontent">
+		
+			<span class="news-body-text">
+			<span id="ls_contents-1">
+									Här hittar du alla nyheter och även guider och tips på hur du ska gå tillväga för att få ut så mycket som möjligt av ditt spel hos Vinnarum. 
+																																																																 		  			
+				<br style="clear:both;" /> 
+			</span>
+		</span>
+				</div>
+	
+	<div class="storyfooter">
+		<div class="floatleft subtext">
+						<span id="ls_comments_url-1">
+											</span> 
+		
+				
+		
+		
+				 
+		
+					
+						<span id="emailto-1" style="display:none"></span>
+				
+				</div>
+		
+		<div class="floatright subtext">
+		<a href="/vaerldsrekord">Världsrekord</a>
+
+		
+					                | 
+															<a href="/tag/spel">spel</a>
+																				<a href="/tag/spel">All</a>
+													</span> 
+						
+		 </div>
+	</div>
+	</div>
+
+<div class="stories" id="xnews-2" >
+		<div class="headline">
+				<div class="votebox-published">
+					
+			<div class="vote">
+							<span class="votenumber">
+					<a id="xvotes-2" href="javascript:vote(0,2,2,'70743ebd0cdb5938bbc0d56b2045ee34',10)">287</a>
+				</span><br />
+				<span class="subtext" id="xvote-2">
+											<a href="javascript:vote(0,2,2,'70743ebd0cdb5938bbc0d56b2045ee34',10)">Rösta</a>
+									</span>
+						</div>
+		</div>
+		
+
+		<div class="title" id="title-2">
+			<h2>
+										 
+			<a href="http://www.verajohn.com/sv" >Casino på nätet</a>				  
+													</h2>
+			
+			<span class="subtext">
+				Postad av 
+				
+				ElisabetM (#1)  1767 dagar sedan
+				
+				(<a href="/dataspel/casino-pa-naetet/"   >/dataspel/casino-pa-naetet/</a>)			
+								
+				 
+							
+				<span id="ls_adminlinks-2" style="display:none">
+																				</span>
+			</span>
+		</div>
+	</div>
+
+	<div class="storycontent">
+		
+			<span class="news-body-text">
+			<span id="ls_contents-2">
+									Hos Vera&John kommer du inte ha en tråkig stund, all variation gör att spänningen alltid är på top. Så skapa ett konto och låt spänningen starta.
+																																																																 		  			
+				<br style="clear:both;" /> 
+			</span>
+		</span>
+				</div>
+	
+	<div class="storyfooter">
+		<div class="floatleft subtext">
+						<span id="ls_comments_url-2">
+											</span> 
+		
+				
+		
+		
+				 
+		
+					
+						<span id="emailto-2" style="display:none"></span>
+				
+				</div>
+		
+		<div class="floatright subtext">
+		<a href="/dataspel">Dataspel</a>
+
+		
+								
+		 </div>
+	</div>
+	</div>
+
+<div class="pagination"><p><span>&#171; tidigare</span><span class="pagescurrent">1</span><span> äldre &#187;</span></p></div>
+							
+		</div>
+<!-- END LEFT COLUMN -->
+	
+
+	<!-- START RIGHT COLUMN -->
+				<div id="rightcol">
+			
+			                 	<!-- START ABOUT -->
+		
+
+<!-- START ABOUT -->
+        	<div class="headline">
+            	<div class="sectiontitle"><a href="/page.php?page=about">om oss</a></div>
+            </div>
+                        <div id="aboutcontent">
+                www.adamzpayne.com har en salig blandning av länkar och kategorier allt skapat av vanliga användare.
+                            </div>
+<!-- END ABOUT -->	<!-- END ABOUT -->
+
+	<!-- START LINKS -->									            <div class="links">
+	            	<div class="sectiontitle"><a href='/live/'> Live</a></div>
+	            </div>
+					<!-- END LINKS -->
+
+	
+	<br />
+		</div>
+<!-- END RIGHT COLUMN -->
+		
+	<!-- START MIDDLE COLUMN -->
+		<div id="midcol">
+			
+
+		<!-- START SORT -->
+	<!-- END SORT -->
+	
+	
+		
+	
+	 
+ 
+
+<div class="headline">
+	<div class="sectiontitle">Logga in</div>
+</div>
+<div class="boxcontent">
+	<form action="/login.php?return=%2F" method="post"> 
+		Användarnamn:<br /><input type="text" name="username" class="login" value="" tabindex="40" /><br />
+		Lösenord:<br /><input type="password" name="password" class="login" tabindex="41" /><br />
+		<input type="hidden" name="processlogin" value="1"/>
+		<input type="hidden" name="return" value=""/>
+		Kom ihåg: <input type="checkbox" name="persistent" tabindex="42" />
+		<input type="submit" value="Skicka" class="submit-s" tabindex="43" />
+	</form>
+	</div>
+ 
+
+
+<div class="headline">
+	<div class="sectiontitle"><a href="http://www.adamzpayne.com/upcoming.php">Upcoming News</a></div>
+</div>
+<div class="boxcontent">
+	<ul class="sidebar-stories">
+		
+<li><span class="sidebar-vote-number"><a href="/dataspel/casumo/">126</a></span><span class="sidebar-article"><a href="/dataspel/casumo/" class="switchurl">Casumo</a></span></li>
+
+<li><span class="sidebar-vote-number"><a href="/dataspel/vinnarum-2/">154</a></span><span class="sidebar-article"><a href="/dataspel/vinnarum-2/" class="switchurl">Vinnarum</a></span></li>
+
+<li><span class="sidebar-vote-number"><a href="/dataspel/casino-pa-naetet-2/">131</a></span><span class="sidebar-article"><a href="/dataspel/casino-pa-naetet-2/" class="switchurl">Casino på nätet</a></span></li>
+
+	</ul>
+</div>
+
+ 
+
+
+<div class="headline">
+	<div class="sectiontitle"><a href="/tagcloud/">Populära tags</a></div>
+</div>
+
+
+<div class="boxcontent tagformat">
+			
+		<span style="font-size: 8pt">
+			<a href="/tag/entertainment/">entertainment</a>
+		</span>
+		
+			
+		<span style="font-size: 17pt">
+			<a href="/tag/kasino/">kasino</a>
+		</span>
+		
+			
+		<span style="font-size: 8pt">
+			<a href="/tag/spel/">spel</a>
+		</span>
+		
+		</div> 
+		</div>
+<!-- END MIDDLE COLUMN -->
+		
+
+		
+	
+<br clear="all" />
+<!-- START FOOTER -->
+<!-- START NAVBAR -->
+<ul id="nav">
+		
+		
+			</ul>
+
+
+<div id="categories">
+<ul class="dropdown dropdown-horizontal">
+
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/vaerldsrekord/">Världsrekord</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/dataspel/">Dataspel</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/djur/">Djur</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/filmklipp/">Filmklipp</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/miljoevaenligt/">Miljövänligt</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/nintendo/">Nintendo</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/tidningar/">Tidningar</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/talboecker/">Talböcker</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/bloggar/">Bloggar</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/moerka/">Mörka</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/innovation/">Innovation</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/utbildningar/">Utbildningar</a>
+
+			</li>
+	
+	
+
+</ul>
+</div><!-- END NAVBAR -->
+		<div id="footer">
+			        	<span class="subtext"> Copyright &copy; 2017 www.adamzpayne.com 
+						<!-- START RSS -->
+						<!-- END RSS -->
+						
+			</span>
+        </div>
+<!-- END FOOTER --> 
+	</div>
+<!-- END CONTENT --> 
+	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
+	</body>
+</html>

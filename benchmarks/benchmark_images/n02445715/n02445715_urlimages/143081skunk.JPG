@@ -1,0 +1,799 @@
+<!doctype html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="verify-v1" content="8/OQlaVauY+CBOoouXOesM5jMvJzhteeHMbJbyFi3Fc=" />   
+    <meta name="Description" content="The Utah Education Network provides free web tools and services, such as lesson plans, videos,	curriculum resources, student interactives and professional development for Utah educators, students and parents. UEN is the Internet Service Provider for public education, the Utah System of Higher Education and state libraries.  UEN also provides statewide delivery services such as UEN-TV, interactive video conferencing." />
+	<meta name="Keywords" content="Utah Education Network, UEN, UEN-TV, Channel 9, MHz Worldview, myuen, my.uen, Professional Development, Distance Education, Network,   E-Rate, CACTUS, Utah's Online Library, Online Learning Center, Learning Management System, videos, eMedia, CollegeMedia, Media Hub, lesson plans, Lesson Plan Tool, rubrics, Rubric Tool, core curriculum, common core state standards, games, student interactives, K-12, K-2, Higher Education, Adult Education, College, EDNET, USOE, Utah State Office of Education, USHE, Utah System of Higher Education, educator, student, Utah schools, education, colleges, university" />
+    
+    <!-- Twitter Card Meta Data -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="uennews">
+    <meta name="twitter:title" content="UEN Resources">
+    <meta name="twitter:description" content="#UEN can help you find high quality lesson plans that support the #Utah State Core">
+    <meta name="twitter:image:src" content="http://www.uen.org/images/highlight/images/highlight-responsive.png">
+
+    <title>Utah Education Network</title>
+    <link href="/css/common.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/header-footer.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/home-second.css" rel="stylesheet" type="text/css" media="all">
+    <!--[if lt IE 9]>
+        <script src="/js/html5.js"></script>
+    <![endif]-->
+    <!--[if lte IE 8]><link href="css/ie-fix.css" rel="stylesheet" type="text/css" /><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script src="/js/respond.js"></script>
+    <script src="/js/orientation-fix.js"></script>
+    <!--script src="/js/now_showing.js" type="text/javascript"></script -->
+    <script src="/js/highlights.js" type="text/javascript"></script>
+    <link rel="apple-touch-icon-precomposed" href="/uen.png" />
+    <!--This is the code for the "Bookmark to Home" popup
+    <script type="text/javascript" src="/js/bookmark_bubble2.js"></script>
+    <script type="text/javascript" src="/js/example.js"></script> -->
+    
+   <!-- Slideout comment form
+   <script src="/js/slide-out.js"></script>
+    <script type="text/javascript">
+	$( document ).ready(function() {
+		// show the slide out div and load the survey after the page is ready...
+		$("#slide-out-div").css("visibility","visible");
+		$(function(){
+			$('.slide-out-div').tabSlideOut({
+				tabHandle: '.handle',                     //class of the element that will become your tab
+				pathToTabImage: '/images/feedback-button.png', //path to the image for the tab //Optionally can be set using css
+				imageHeight: '184px',                     //height of tab image           //Optionally can be set using css
+				imageWidth: '37px',                       //width of tab image            //Optionally can be set using css
+				tabLocation: 'right',                      //side of screen where tab lives, top, right, bottom, or left
+				speed: 300,                               //speed of animation
+				action: 'click',                          //options: 'click' or 'hover', action to trigger animation
+				topPos: '250px',                          //position from the top/ use if tabLocation is left or right
+				leftPos: '20px',                          //position from left/ use if tabLocation is bottom or top
+				fixedPosition: false                      //options: true makes it stick(fixed position) on scroll
+			});
+		});
+	});
+    </script>-->
+</head>
+<body>
+     <meta name="format-detection" content="telephone=no"> 
+<script type="text/javascript">
+  function unhide(divID) {
+    var item = document.getElementById(divID);
+    if (item) {
+      item.className=(item.className=='menu-hidden')?'menu-unhidden':'menu-hidden';
+    }
+  }
+</script>
+<div id="header"><a name="start"></a><img src="/images/header/background-banner-print.png" alt="" class="print"><a href="/index.php" class="title"> <img src="/images/header/uen.png" alt=""   align="absmiddle" class="logo"/> UTAH EDUCATION NETWORK
+   </a>
+<div class="search-az">
+<a href="/search/">A-Z Site Index</a></div>
+<div class="clear"></div>
+  <div id="search" role="search">
+			      <!-- Google CSE Search Box Begins  -->
+                  <!-- Put the following javascript before the closing </head> tag. -->
+                  
+                  <script>
+  (function() {
+    var cx = '016626638030143176847:fiw1kfej4o8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+					  window.onload = function(){
+      document.getElementById('gsc-i-id1').placeholder = 'Search';
+    };
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<!--
+<script>
+  (function() {
+    var cx = '016626638030143176847:fiw1kfej4o8';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+ Place this tag where you want the search box to render 
+<gcse:searchbox-only></gcse:searchbox-only>
+-->
+
+					<!-- Google CSE Search Box Ends -->
+  </div>
+  </div>
+<div class="clear"></div>
+<div id="menu-bar" role="navigation">
+<a href="javascript:unhide('mobile-menu');" class="mobile"><img src="/images/header/menu.png" alt="Menu" width="57" height="32" class="img_middle"/></a>
+<div id="mobile-menu" class="menu-hidden">
+<div id="menu">
+
+<div class="menu_box">
+<ul>
+  <li><a href="/k12educator/index.php" id="k12" class="mobile_hover"><div class="padding">P<span class="lower">re</span>K-12 Education</div></a>
+<div class="dropdown_full">
+      
+    <div class="col_1">
+    <h3>Essentials for Teachers</h3>
+     <ul>
+     
+      <li><a href="/toolbox">UEN's Teacher Toolbox</a></li>
+      
+      <li><a href="/core/">Utah Core Standards</a></li>
+      <li><a href="/k12educator/corelessonplans.shtml">Lesson Plan Library</a></li>
+      <li><a href="/cactus/" target="_blank">CACTUS</a></li>
+   <li><a href="/emedia/">eMedia</a></li>
+    <li><a href="/apps4edu/">Apps4Edu</a></li>
+     </ul>
+     
+     <div class="more"><a href="/k12educator/"><img src="/images/menu/more.png" width="24" height="24" alt="More K12 Education" class="img_middle"> More K12 Education</a></div>
+    </div>
+	   
+    <div class="col_1">
+    <h3>General Resources</h3>
+      <ul>
+      <li><a href="//onlinelibrary.uen.org" target="_blank">Utah's Online Library</a></li>
+      <li><a href="/k-2educator/">K-2 Educator Resources</a></li>
+      <li><a href="/wcs/index.php">Adobe Connect Web Conferencing</a></li>
+      <li><a href="/k12student/interactives.shtml">Student Interactives</a></li>
+      
+       
+       
+      <li><a href="/k12student/homework.shtml">Homework Help</a></li>
+      
+       <li><a href="/k12student/"> Student Resources</a></li>
+      <li><a href="http://preschool.uen.org" target="_blank">Preschool Pioneer</a></li>
+        
+         
+         <li><a href="/e-rate/">E-Rate</a></li>
+      </ul>    
+    </div>
+     
+    <div class="col_1">
+      <h3>Resources by Subject</h3>
+      <ul>
+      <li><a href="/k12educator/uenresources.php?cat=English+Language+Arts">English Language Arts</a></li>
+      <li><a href="/k12educator/uenresources.php?cat=Family+%26+Consumer+Sciences">Family & Consumer Science</a></li>
+      <li><a href="/k12educator/uenresources.php?cat=Mathematics">Mathematics</a></li>
+      <li><a href="/k12educator/uenresources.php?cat=Science">Science</a></li>
+      <li><a href="/k12educator/uenresources.php?cat=Social%20Studies">Social Studies</a></li>
+      
+          <li><a href="/k12educator/uenresources.php?cat=Utah">Utah Related Resources</a></li>
+  
+      </ul>
+      <ul>
+      <li><a href="/k12educator/uenresources.php"><img src="/images/menu/more.png" width="24" height="24" alt="Find More Resources" class="img_middle"> Find More Resources...</a></li>
+      </ul>
+    </div>
+     
+    <div class="col_1">
+      <ul class="greybox">
+      <li><a href="https://my.uen.org" target="_blank"><img src="/images/menu/myuen.png" width="32" height="32" alt="my.uen Login" class="img_middle"> my.uen Login</a></li>
+      <li><a href="https://my.uen.org" target="_blank"><img src="/images/icons/forgot.png" width="32" height="32" alt="Forgot my.uen Login" class="img_middle"> Forgot my.uen Login</a></li>
+      <li><a href="/curriculumsearch/"><img src="/images/menu/search.png" width="32" height="32" alt="Curriculum Search" class="img_middle"> Curriculum Search</a></li>
+	  <li><a href="/educator/"><img src="/images/menu/educator.png" width="32" height="32" alt="Educator Search" class="img_middle"> Educator Search</a></li>
+      <li><a href="/institutions/"><img src="/images/menu/school.png" width="32" height="32" alt="Find a School" class="img_middle"> Find a School</a></li>
+      </ul>
+    </div>
+  </li>
+
+  <li><a href="/highered/" id="higher" class="mobile_hover"><div class="padding">Higher Education</div></a>
+  <div class="dropdown_full">
+  	<div class="col_1">
+     <h3>Tools for Higher Ed</h3>
+   <ul>
+  <li><a href="/lms/">Canvas </a></li>
+    <li><a href="/distance_ed/">Interactive Video Conferencing</a></li>
+  
+  <li><a href="http://utahsonlinelibrary.org" target="_blank">Utah's Online Library</a></li>
+  
+  <li><a href="/lms/respondus/index.shtml">Respondus</a></li>
+  <li><a href="http://www.turnitin.com/" target="_blank">Turnitin</a></li>
+   </ul>
+   <div class="more"><a href="/highered/"><img src="/images/menu/more.png" width="24" height="24" alt="More Higher Education" class="img_middle"> More Higher Education</a></div>
+  </div>
+  <div class="col_1">
+  <h3>Resources and Partners</h3>
+  <ul>
+  <li><a href="/highered/cont_ed.shtml">Continuing Ed Programs</a></li>
+  <li><a href="/concurrent/">TICE Concurrent Enrollment</a></li>
+  <li><a href="http://www.ucat.edu" target="_blank">Utah College of Applied Tech</a> </li>
+  <li><a href="/dms/college_request.php">collegeMedia</a></li>
+  <li><a href="http://www.hippocampus.org/?user=myUEN" target="_blank">NROC HippoCampus</a></li>
+  <li><a href="/policy/copyrightguidelines.shtml">Copyright Resources</a></li>
+  
+   <li><a href="http://utepscor.org" target="_blank">Utah EPSCoR</a></li>
+    <li><a href="http://www.internet2.edu" target="_blank">Internet2</a></li>
+  </ul>
+      </div>
+  <div class="col_1">
+  <ul class="greybox">
+    <li><a href="/lms/canvaslogin.shtml"><img src="/images/menu/canvas.png" width="32" height="32" alt="Canvas Logins" class="img_middle">Canvas Logins</a></li>
+  <li><a href="/districts/"><img src="/images/menu/institution.png" width="32" height="32" alt="Find an Institution" class="img_middle"> Find an Institution</a></li>
+</ul>
+</div>
+<div class="col_1">
+  <img src="/images/menu/higher_ed2.jpg" alt="" class="imgshadow"><br>
+ <div class="imgtext">Resources and services for Utah Higher Education faculty and students such as Canvas and collegEmedia.</div>
+  </div>
+  </div>
+  </li>
+  
+  <li><a href="/general_learner/" id="general" class="mobile_hover"><div class="padding">General Learner</div></a>
+  <div class="dropdown_full">
+  <div class="col_1">
+  <h3>Learn More</h3>
+  <ul>
+  <li><a href="/tv/">UEN-TV</a></li>
+  <li><a href="/adult_ed/">Adult Education</a></li>
+  <li><a href="http://www.utahitv.org" target="_blank">Instructional Television</a></li>
+  <li><a href="/highered/cont_ed.shtml">Continuing Ed Programs</a></li>
+  </ul>
+ 
+  </div>
+   <div class="col_1">
+  <h3>Places to Visit</h3>
+  <ul>
+  <li><a href="/institutions/libraries">Utah Libraries</a></li>
+  <li><a href="/ueninfo/museums.shtml">Utah Museums</a></li>
+  <li><a href="/institutions/">Utah Schools</a></li>
+  <li><a href="http://www.utah.gov/" target="_blank">Utah Government</a></li>
+  </ul>
+  </div>
+
+  <div class="col_1">
+   <h3>Resources</h3>
+    <ul>
+      <li><a href="http://onlinelibrary.uen.org" target="_blank">Utah's Online Library</a></li>
+      <li><a href="http://preschool.uen.org" target="_blank">Preschool Pioneer</a></li>
+      <li><a href="/dms/login/media_hub.html" target="_blank">UEN mediaHub</a></li>
+      <li><a href="/parents/">Parent Resources</a></li>
+      </ul>
+      <div class="more"><a href="/general_learner/"><img src="/images/menu/more.png" width="24" height="24" alt="More General Learner" class="img_middle"> More General Learner</a></div>
+  </div>
+  <div class="col_1">
+  <img src="/images/menu/general_learner2.jpg" alt="" class="imgshadow"><br>
+ <div class="imgtext">Services and resources for learners of all ages.</div>
+  </div>
+  </li>
+  
+  <li><a href="/development/" id="profdev" class="mobile_hover"><div class="padding">Professional Development</div></a>
+ <div class="dropdown_full">
+ <div class="col_1">
+ <h3>Take a Class</h3>
+ <ul>
+  <li><a href="/development/request.php">Request a Presentation</a></li>
+  <li><a href="http://uen.gosignmeup.com/" target="_blank">Register for a Course</a></li>
+   <li><a href="https://uen.instructure.com" target="_blank">Online Course Login</a></li>
+   <li><a href="/development/usoe/">USBE Courses</a></li>
+   
+      <li><a href="/pls">USBE Professional Learning Series</a></li>
+      
+      
+  <li><a href="/development/information.shtml">Important Information</a></li>
+   <li><a href="/development/policies.shtml">Policies &amp; Procedures</a></li>
+   <li><a href="/development/driving_parking.shtml">Location & Parking</a></li>
+
+     </ul>
+     </div>
+     
+     <div class="col_1">
+ <h3>Additional Resources</h3>
+ <ul>
+  <li><a href="/9ideas/">9 Ideas</a></li>
+      <li><a href="/facultylounge/archive.php">Faculty Lounge Archive</a></li>
+      <li><a href="/cmap/" target="_blank">Community Mapping Project</a></li>
+      <li><a href="/development/etep/">Ed Tech Endorsement Program</a></li>
+      <li><a href="/cforum/" target="_blank">C-Forum</a></li>
+      <li><a href="/k12educator/uets/">Utah Effective Teaching Standards</a></li>
+      <!--<li><a href="#" target="_blank">Intel</a></li>-->
+ </ul>
+ 
+ <div class="more"><a href="/development/"><img src="/images/menu/more.png" width="24" height="24" alt="More Professional Development" class="img_middle"> More Prof Development</a></div>
+  </div>
+  <div class="col_1">
+  <h3>Follow Us</h3>
+   <ul class="greybox">
+  
+      <li><a href="/pdtv/"><img src="/images/icons/pdtv.png" width="32" height="32" alt="PDTV" class="img_middle"> PDTV</a></li>
+     <li><a href="http://www.twitter.com/uenpd" target="_blank"><img src="/images/menu/twitter.png" width="32" height="32" alt="Professional Development Twitter" class="img_middle"> Twitter</a></li>
+     <li><a href="https://www.facebook.com/UENpd" target="_blank"><img src="/images/menu/facebook.png" width="32" height="32" alt="Professional Development Facebook" class="img_middle"> Facebook</a></li>
+       <li><a href="http://www.youtube.com/uenVideo" target="_blank"><img src="/images/menu/youtube.png" width="32" height="32" alt="Professional Development YouTube" class="img_middle"> YouTube</a></li>
+        <li><a href="https://www.pinterest.com/uenpd/
+" target="_blank"><img src="/images/icons/pinterest.png" width="32" height="32" alt="Professional Development Pinterest" class="img_middle"> Pinterest</a></li>
+        <li><a href="/development/text_alert.php"><img src="/images/menu/text-alert.png" width="32" height="32" alt="Professional Development Text Alerts" class="img_middle"> Text Alerts</a></li>
+   </ul>
+   
+ </div>
+  <div class="col_1">
+    <h3>Meet Our Instructors</h3>
+					
+					<ul class="instructors">
+					  <li><a href="/development/staff.shtml#justin"><img src="/development/images/staff/justin.jpg" alt="" class="imgshadow" title="Justin Brooksby" />Justin</a></li>
+					
+						<li class="last"><a href="/development/staff.shtml#rob"><img src="/development/images/staff/rob.jpg" class="imgshadow" alt="" title="Rob Bentley" />Rob</a></li>
+                        
+						<li><a href="/development/staff.shtml#jared"><img src="/development/images/staff/jared.jpg" class="imgshadow" alt="" title="Jared Covili" />Jared</a></li>	
+                        <li><a href="/development/staff.shtml#michael"><img src="/development/images/staff/michael.jpg" class="imgshadow" alt="" title="Michael Hakkarinen" />Michael</a></li>	
+                        <li><a href="/development/staff.shtml#dani"><img src="/development/images/staff/dani.jpg" class="imgshadow" alt="" title="Dani Sloan" />Dani</a></li>
+                        <li><a href="/development/staff.shtml#jaredf"><img src="/development/images/staff/jaredf.png" class="imgshadow" alt="" title="Jared Fawson" />Jared</a></li>	
+                        <li><a href="/development/staff.shtml#jami"><img src="/development/images/staff/jami.jpg" class="imgshadow" alt="" title="Jami Gardner" />Jami</a></li>		
+                         <li><a href="/development/staff.shtml#shannon"><img src="/development/images/staff/shannon.jpg" class="imgshadow" alt="" title="Shannon Ririe" />Shannon</a></li>				
+                        
+            </ul>
+                    
+ </div>
+  </div>
+</li>
+  
+  <li><a href="/tv/" id="tv" class="mobile_hover"><div class="padding">UEN-TV</div></a>
+    <div class="dropdown_full">
+    <div class="col_1">
+      <h3>Watch UEN-TV</h3>
+      <ul>
+        <li><a href="/tv/whatson/">Broadcast Schedule</a></li>
+        <li><a href="/tv/mhzworldview/">MHz Worldview</a></li>
+        <li><a href="/tv/fnx/">FNX</a></li>
+        <li><a href="http://www.utahitv.org" target="_blank">Utah Instructional TV</a></li>
+      </ul>
+      <div class="more"><a href="/tv/"><img src="/images/menu/more.png" width="24" height="24" alt="More UEN-TV" class="img_middle"> More UEN-TV</a></div>
+    </div>
+    <div class="col_1">
+    <h3>Information</h3>
+  <ul>
+    <li><a href="/tv/aboutuen-tv.shtml">About UEN-TV</a></li>
+    <li><a href="/tv/translators/">Find UEN-TV</a></li>
+     <li><a href="https://publicfiles.fcc.gov/tv-profile/kuen">KUEN Public File</a></li>
+    </ul>
+     <h3>Art &amp; STEM Focus</h3>
+    <ul>
+        <li><a href="/artconnection/">Art Connection</a></li>
+    <li><a href="/tv/scifi/">SciFi Friday</a></li>
+    <li><a href="/scitechnow/">SciTech Now</a></li>
+ 
+    </ul>
+    </div>
+    <div class="col_1">
+    <ul class="greybox">
+ <li><a href="/tv/downloads/weeklygrid.pdf"><img src="/images/icons/uen-schedule.png" width="32" height="32" alt="UEN Print Schedule" class="img_middle"> UEN Print Schedule</a></li>
+ <li><a href="/tv/downloads/mhzweeklygrid.pdf"><img src="/images/icons/mhz-schedule.png" width="32" height="32" alt="MHz Print Schedule" class="img_middle"> MHz Print Schedule</a></li>
+ <li><a href="/tv/highlights/"><img src="/images/icons/uentv_spotlight.png" width="32" height="32" alt="Monthly Highlights" class="img_middle"> Monthly Highlights</a></li>
+ <li><a href="/tv/feedback/"><img src="/images/icons/feedback.png" width="32" height="32" alt="Give Us Feedback" class="img_middle"> Give Us Feedback</a></li>
+ </ul>
+   
+  </div>
+  <div class="col_1">
+  <img src="/images/menu/tv-menu2.jpg" alt="" class="imgshadow"><br>
+ <div class="imgtext">UEN-TV is operated by the Utah Education Network. Our goal is to educate, engage, and enrich the lives of Utah residents through broadcast programs and services.</div>
+  </div>
+</div>
+  </li>
+  
+  <li><a href="/distance_ed/" id="distance" class="mobile_hover"><div class="padding">Distance Education</div></a>
+<div class="dropdown_full">
+  <div class="col_1">
+   <h3>Contacts</h3>
+  <ul>
+  <span class="bold">800-863-3496<br>
+801-581-4134</span>
+  <li> <a href="logistics/uen.org" class="email-link">E-mail</a></li>
+  <!--<li><a href="#">Chat Live</a></li>-->
+  </ul>
+   <div class="more"><a href="/distance_ed/"><img src="/images/menu/more.png" width="24" height="24" alt="More Distance Education" class="img_middle"> More Distance Education</a></div>
+  </div>
+  <div class="col_1">
+   <h3>Resources</h3>
+  <ul>
+  <li><a href="/distance_ed/forms/">Forms</a></li>
+  <li><a href="/distance_ed/training.php">Training Materials</a></li>
+  <li><a href="/distance_ed/troubleshooting.shtml">IVC Troubleshooting</a></li>
+  <li> <a href="/lms/">Canvas</a></li>
+  <li> <a href="/wcs/">Web Conferencing (Adobe Connect)</a></li>
+  <li><a href="/distance_ed/facilitator-corner.shtml">IVC Facilitator Corner</a></li>
+  <li><a href="/distance_ed/downloads/IVFT.pdf">Interactive Field Trips</a></li>
+ 
+  
+  </ul>
+  </div>
+  <div class="col_1">
+   <h3>Additional Info</h3>
+  <ul>
+  <li> <a href="/distance_ed/mission.shtml">UEN IVC Mission</a></li>
+  <li> <a href="/distance_ed/service-contract.shtml">Service Contract</a></li>
+  <li> <a href="/distance_ed/forms/report_request.php">Request Report</a></li>
+  </ul>
+ </div>
+  <div class="col_1">
+  <img src="/images/menu/distance-ed-menu.jpg" alt="" class="imgshadow"><br>
+ <div class="imgtext">The Utah Education Network (UEN) uses various systems and tools to  deliver distance education classes to Utah students.
+   </div> 
+  </div>
+ </div>
+  </li>
+  
+  <li><a href="/tech/" id="network" class="mobile_hover"><div class="padding">Network</div></a>
+  <div class="dropdown_full">
+   <div class="col_1">
+
+<h3> <div class="align-right">&nbsp;&nbsp;&nbsp;(800) 863-3496</div>
+  Tech Services	    </h3>
+<p><span class="bold">Operations Center</span><br />
+                            801-585-7440<br>
+<a href="/app/index.php/staff_directory/group/7">Staff Directory</a></p>
+<p>
+<span class="bold">UEN Security Office</span><br />
+                            801-585-9888</p>
+                            <p>
+<span class="bold">Technical Services Support Center (TSSC)</span><br />
+                              800-863-3496<br />
+                            <a href="/app/index.php/staff_directory/group/27">Staff Directory</a></p>
+ <!--<p> <a href="http://www.twitter.com/uennoc" target="_blank"><img src="//www.uen.org/images/menu/twitter.png" width="24" height="24" alt="" class="img_middle"> UEN NOC Twitter</a> </p>-->
+                         
+        </div>
+  <div class="col_1"> 
+     <h3>Projects</h3>
+     <ul>
+                         <!--<li><a href="http://www.uen.org/tech/projects/index.php">UEN Project Updates</a></li>
+                         <li><a href="http://www.uen.org/tech/projects/priorities.php">UEN Area &amp; Regional Priorities</a></li>-->
+                        <li><a href="/btop/index.php">BTOP Information</a></li>
+                        <li><a href="http://summit.uen.org/">Technical Summit </a></li>
+                        <li><a href="http://www.surinutah.org/" target="_blank">SURIN Utah</a></li>
+                        <li><a href="http://www.utahsaint.org/" target="_blank">UtahSAINT</a></li>
+                        <li><a href="/e-rate/">E-Rate</a></li>
+                        
+                  </ul>
+   </div>                          
+                            
+  <div class="col_1">
+  <h3>Network Groups</h3>
+ <ul>
+ <li><a href="/tech/techadvocate.shtml">Technical Advocates</a></li>
+ <li><a href="/tech/tforum_info.shtml">T-Forum Information</a></li>
+ <li><a href="/tech/uwag.shtml">Utah Wireless Administrators Group</a></li>
+ </ul>
+ <div class="more"><a href="/tech/"><img src="/images/menu/more.png" width="24" height="24" alt="More Network" class="img_middle"> More Network</a></div>
+ </div>
+ <div class="col_1">
+<h3>Network Tools</h3>
+  <ul class="greybox">
+ <li><a href="/tech/network_outages.php"><img src="/images/icons/outage.png" width="32" height="32" alt="Network Outages" class="img_middle"> Network Outages</a></li>
+ <li><a href="http://weathermap.uen.net/" target="_blank"><img src="/images/menu/traffic-map.png" width="32" height="32" alt="Network Traffic Map" class="img_middle"> Network Traffic Map</a></li>
+ <li><a href="http://nhr.uen.net/" target="_blank"><img src="//www.uen.org/images/menu/health-report.png" width="32" height="32" alt="Health Report" class="img_middle"> Health Report</a></li>
+ <li><a href="http://speedtest.uen.net/" target="_blank"><img src="/images/menu/speedtest.png" width="32" height="32" alt="Speed Test" class="img_middle"> Speed Test</a> </li>
+ 
+
+ 
+ 
+ <li><a href="/board/downloads/UETN_network_map.pdf"><img src="/images/menu/infrastructure.png" width="32" height="32" alt="Infrastructure Map" class="img_middle"> Infrastructure Map</a> </li>
+ </ul>
+
+</div>                          
+</div>
+  </li>
+  
+ <li><a href="/ueninfo/" id="about" class="mobile_hover"><div class="padding">About UEN</div></a>
+ <div class="dropdown_full">
+  <div class="col_1">
+  <h3>Information</h3>
+   <ul>
+ <!-- <li><a href="#">About UEN</a></li>-->
+  
+  <li><a href="/ueninfo/downloads/booklet.pdf">Information Booklet</a></li>
+  <li><a href="/app/index.php/staff_directory/">Staff Directory</a></li>
+  
+  <li><a href="/ueninfo/index.shtml#servicecatalog">UEN Service Catalog</a></li>
+  <li><a href="/board/downloads/UETN_network_map.pdf">Network Map</a></li>
+  
+  <li><a href="/ueninfo/employment.shtml">Jobs</a></li>
+  
+  
+  <!--<li><a href="#">Grant Partnerships</a></li>-->
+  <li><a href="/internships/">Internship Opportunities</a></li>
+  <li><a href="/tech/techadvocate.shtml">Technical Advocates</a></li>
+   </ul>
+   
+ <p><span class="bold">Eccles Broadcast Center</span><br />
+  101 Wasatch Drive<br />
+  Salt Lake City, UT 84112<p>
+  (800) 866-5852<br>
+  (801) 585-6105 <span class="small">(fax)</span>
+  </div>
+    <div class="col_1">
+    <h3>UEN Governance</h3>
+   <ul>
+  <li><a href="/board/materials/">UETN Board Meetings</a></li>
+   <li><a href="/board/members.shtml">UETN Board Members</a></li>
+  <li><a href="/advisorycouncil/">UEN Advisory Council</a></li>
+  <li><a href="http://utn.org/about/advisory.shtml" target="_blank">UTN Advisory Council</a></li>
+ <li><a href="/board/tutorial/">UETN   Tutorial</a></li>
+   <li><a href="/ueninfo/guidelines/">Guidelines & Bylaws</a></li>
+ <!-- <li><a href="#">Stats and Reports</a></li>-->
+  <li><a href="/ueninfo/initiatives/">UETN Projects and Initiatives</a></li>
+  </ul>
+   <div class="more"><a href="/ueninfo/"><img src="/images/menu/more.png" width="24" height="24" alt="More About UEN" class="img_middle"> More About UEN</a></div>
+  </div>
+
+  <div class="col_2">
+  <h3> <div class="align-right">&nbsp;&nbsp;&nbsp;(800) 866-5852</div>
+  Contact Us</h3>
+<p><span class="bold">Administration</span> <br>
+  (801) 585-6013 <br>
+  <a href="/ueninfo/admin-orgchart.shtml">Org Chart</a>
+</p>
+ <p><span class="bold">Instructional Services</span> <br>
+   (800) 866-5852<br>
+  <a href="/ueninfo/isorgchart.shtml">Org Chart </a></p>
+<p><a href="/publicinfo/" class="bold">Public Information</a><br>
+  (801) 585-7271<br>
+  <a href="/ueninfo/publicInfo/logo_guide.shtml">Logo and Guidelines </a></p>
+ <p><span class="bold">Technical Services</span><br>
+	          (800) 863-3496  <br>
+	        <a href="/ueninfo/tsorgchart.shtml">Org Chart</a>
+  </p>
+  </div>
+  
+  <div class="col_no">
+<ul class="greybox">
+     <li><a href="/feeds/rss/news.php"><img src="/images/menu/news-rss.png" width="32" height="32" alt="UEN News RSS" class="img_middle"> News RSS</a></li>
+     <li><a href="http://www.twitter.com/uennews" target="_blank"><img src="/images/menu/twitter.png" width="32" height="32" alt="UEN Twitter" class="img_middle"> Twitter</a></li>
+     <!--<li><a href="https://www.facebook.com/UtahEducationNetwork" target="_blank"><img src="//www.uen.org/images/menu/facebook.png" width="32" height="32" alt="" class="img_middle"> Facebook</a></li>-->
+     <li><a href="/contact_form.php"><img src="/images/menu/contact.png" width="32" height="32" alt="Contact Us" class="img_middle"> Contact Us Form</a></li>
+     <li><a href="/dashboards/"><img src="/images/icons/dashboard.png" width="32" height="32" alt="UEN Dashboards" class="img_middle"> Dashboards</a></li>
+     <li><a href="/ueninfo/maps.shtml"><img src="/images/menu/map.png" width="32" height="32" alt="Maps" class="img_middle"> Maps</a></li>
+     <li><a href="/widgets_logos.shtml"><img src="/images/menu/widgets.png" width="32" height="32" alt="Widgets" class="img_middle"> Widgets</a></li>
+</ul>
+  </div>
+   
+  </div>
+ </li>
+ </ul>
+ 
+	</div>
+	</div>
+ </div>
+</div>
+<div class="clear"></div><div id="content">
+
+
+<div class="highlights-box" id="highlights-refresh">
+	<div class="highlights-loading"></div>
+<div class="highlight-icon"><img src="images/icons/star.png"></div>
+				 
+					
+						
+					  <div class="highlight-textbox">
+					   <div class="highlight-prev">
+						  <a href=""><img src="images/highlight/back_new.png"></a></div>
+						  
+							<div class="highlight-next"><a href=""><img src="images/highlight/forward_new.png"></a></div>
+							
+						  <h4></h4>
+						  <div class="highlight-text">
+							
+						  </div>
+						
+						  </div>
+						  
+						<div class="highlight-button" style="cursor: pointer;"><a>Learn More</a></div>
+						  
+							<img src="images/highlight/blank.png" class="bottom-img" alt=""/><img src="images/highlight/blank.png" class="top-img" alt="" />
+							<div class="highlights-timer"></div>
+  </div>
+
+ <!-- <div id="features">
+  	 slide out div for survey -->
+   <!-- <div class="slide-out-div" id="slide-out-div" style="visibility:hidden;">
+        <a class="handle" href="http://www.surveymonkey.com/s/Q33G2MS" target="_blank">Content</a>
+        <div id="surveyMonkeyInfo">
+	        <div><script src="http://www.surveymonkey.com/jsEmbed.aspx?sm=_2fVybtU_2bBh4aaJ4FcrnBrTQ_3d_3d"> </script></div>
+        </div>
+</div> -->
+  <!--<div class="side-title-r news-title-r"> News</div>-->
+   <div class="side-title news-title"> News</div>
+   <div class="content_bottom"> 
+  
+	   <div class="mainbox_col"> <!--<h2 class="bolder">UEN News</h2>-->
+              <div class="news_article">
+            <div class="news_img"><div class="inner"><img src="http://www.uen.org/news/images/woman_laptop.jpg" alt="Dec. 1: UEN's Spring Professional Development Catalog" /></div>	</div>
+            <div class="news_text">	<a href="https://uen.gosignmeup.com/" class="news_header" target="_blank" />Dec. 1: UEN's Spring Professional Development Catalog</a><br>
+            UEN's New Professional Development schedule will be posted on December 1. Classes fill up very quickly, so don't procrastinate.<div class="clear"></div></div>
+	      </div>	
+						
+	          <div class="news_article">
+            <div class="news_img"><div class="inner"><img src="http://www.uen.org/news/images/operations_center.jpg" alt="UETN Unveils State-of-the-Art Broadband Network Operations Center" /></div>	</div>
+            <div class="news_text">	<a href="news/article.php?id=787" class="news_header" target="_self" />UETN Unveils State-of-the-Art Broadband Network Operations Center</a><br>
+            Historic tech organization increases network visualization and collaboration, bolstering services to state-wide education network<div class="clear"></div></div>
+	      </div>	
+						
+	          <div class="news_article">
+            <div class="news_img"><div class="inner"><img src="http://www.uen.org/news/images/native-american.jpg" alt="American Indian Heritage Month" /></div>	</div>
+            <div class="news_text">	<a href="http://www.uen.org/core/socialstudies/americanindian/index.shtml" class="news_header" target="_self" />American Indian Heritage Month</a><br>
+            November is National American Indian Heritage Month. UEN gathered high quality web sites, lesson plans, videos and educational resources to help you celebrate. Be sure to check...<div class="clear"></div></div>
+	      </div>	
+						
+	          <div class="news_article">
+            <div class="news_img"><div class="inner"><img src="http://www.uen.org/news/images/streaming_pics.jpg" alt="Free Instructional Media" /></div>	</div>
+            <div class="news_text">	<a href="http://www.uen.org/emedia/" class="news_header" target="_self" />Free Instructional Media</a><br>
+            Great news! All Utah K-12 educators and students have access to media licensed by Utah Instructional Media Consortium via UEN's eMedia.<div class="clear"></div></div>
+	      </div>	
+						
+	                        
+
+    <div class="clear"></div>
+    </div>
+    <div class="more-button">
+    	<a href="news/archive.php" >More News</a>
+   
+	  </div>
+	  	<div class="clear"></div>
+	</div>
+	
+	  <div class="watch-section">
+	  
+	 <!-- <div class="side-title-r watch-title-r">Watch</div>-->
+	  <div class="side-title watch-title">Watch</div>
+	  <div class="content_bottom">
+	 
+<div class="watch-box">
+  <h2 class="bolder"> UEN-TV </h2>
+  <div class="now_img"><div class="inner"><img src="/tv/whatson/images/!ENTCH.jpg
+" alt=""/>
+  
+  </div></div>
+  <div class="watch">
+    <span class="featureHeading" id="now-showing-cont">
+      <a href="/tv/whatson/details.php?id=21453
+"> 
+        <span class="news_header">Teaching Channel Presents
+</span></a><br />
+      <span class="now-episode">Inside Common Core Classrooms - 
+</span>  
+      <span class="now-description">Teaching Channel Presents is a groundbreaking series showcasing inspired teaching in America's K-12 classrooms. Hosted by Sarah Brown Wessling, the...</span>
+      
+      </span>
+    
+    </div>
+      <div class="watch-img"><img src="images/icons/whatson/uen_sm_grey.png" alt=""/></div>
+</div>
+	  <div class="watch-box">
+		  <h2 class="bolder"> MHz <span class="hide">Worldview</span></h2>
+	    
+	    <div class="mhz_img"><div class="inner"><img src="/tv/whatson/images/worldview/__MONT.jpg
+" alt=""/></div></div>
+	    <div class="watch"><a href="/tv/whatson/details.php?id=19773
+"> <span class="news_header">Detective Montalbano
+</span></a><br>
+	      <span class="now-description">Well-to-do womanizer Angelo Pardo is killed in what has to be a crime of passion.  But Montalbano, refusing to trust appearances, carries out the...</span> 
+	     
+        </div>
+        <div class="watch-img"> <img src="images/icons/whatson/mhz_sm_grey.png" alt="" /></div>
+	    </div>
+	  <div class="watch-box">
+	    <h2 class="bolder">FNX </h2>
+	    <div class="mhz_img"><div class="inner"><img src="/tv/whatson/images/fnx/_KAGA.jpg
+" alt=""/></div></div>
+	    <div class="watch"><a href="/tv/whatson/details.php?id=25095
+"><span class="news_header">Kagagi
+</span></a><br>
+	      <span class="now-description">Matthew Carver 16, is an Algonquin boy who is destined to become Kagagi, a Native- Canadian super hero. He must stop his pre-destined, arch-nemesis,...</span>
+       
+       
+          </div>
+        <div class="watch-img"><img src="images/icons/whatson/FNX_sm_grey.png"  alt=""  /></div>
+        
+	    </div>
+	 <div class="clear"></div>
+      <div class="more-button"><a href="/tv/whatson/"> What's On Schedule</a></div>
+
+	
+  <div class="clear"></div>
+  </div>
+	</div>
+	</div>
+<div class="clear"></div>
+<div id="footer-wrapper"><div id="footer">
+
+
+
+<div class="footer-col no-border">
+	<h2 class="bolder">Resources:	  </h2>
+	<p></p>
+	
+	<div class="footer-resource">  <a href="http://onlinelibrary.uen.org" target="_blank" onclick="trackOutboundLink('http://onlinelibrary.uen.org'); return false;"><img src="//www.uen.org/images/footer/online-library.png" alt="" align="center"/>Utah's Online Library</a></div>
+	
+	<div class="footer-resource"> <a href="https://uen.instructure.com" target="_blank" onclick="trackOutboundLink('https://uen.instructure.com'); return false;"><img src="//www.uen.org/images/footer/canvas-footer.png" alt="" align="center"/>UEN Canvas</a></div>
+	
+	<div class="footer-resource"> <a href="http://www.uen.org/emedia/" onclick="trackOutboundLink('http://www.uen.org/emedia/'); return false;"><img src="//www.uen.org/images/footer/emedia-footer.png" alt="" align="center"/>eMedia</a>		</div>
+	
+	<div class="footer-resource"><a href="http://www.uen.org/widgets_logos.shtml" onclick="trackOutboundLink('http://www.uen.org/widgets_logos.shtml'); return false;"><img src="//www.uen.org/images/footer/widget-footer.png" alt="" align="center"/>Widgets</a>	</div>
+	   
+	
+</div>
+<div class="footer-col ">
+  <img src="//www.uen.org/images/footer/myuen-footer.png"  alt="my.uen" class="paddingTop15"/>
+  <form action="https://my.uen.org/myuen/guest/?p_p_id=58&p_p_lifecycle=1&p_p_state=normal&saveLastPath=0&struts_action=/login/view&cmd=update" method="post"> 
+            <input name="cmd" type="hidden" value="already-registered" />
+            <input name="tabs1" type="hidden" value="already-registered" />
+		<p><label for="login">Login:</label> <input name="login"  type="text" value="" autocapitalize="off" id="login" /></p>
+            <p><label for="password">Password:</label> <input name="password" type="password" value="" autocapitalize="off" id="password" /></p>
+       
+          <div class="align-right"><input type="submit" class="bold" value="Login"  /></div>
+             </form>
+          <p>&nbsp;</p>
+           <div><a href="https://my.uen.org" target="_blank" onclick="trackOutboundLink('https://my.uen.org'); return false;">Register </a> | <a href="https://my.uen.org" target="_blank" onclick="trackOutboundLink('https://my.uen.org'); return false;">Forgot Login</a> | <a href="//www.uen.org/my.uen/help/">Help Center</a></div> 
+	
+	  
+   		<p><br>
+	  </p>
+</div>
+<div class="footer-col">
+  <h2 class="bolder">Follow Us: </h2>
+  <p class="paddingTop"><a href="https://www.facebook.com/UtahEducationNetwork" onclick="trackOutboundLink('https://www.facebook.com/UtahEducationNetwork'); return false;"><img src="//www.uen.org/images/footer/facebook-footer.png" alt="Facebook" class="footer-img"> <a href="http://www.twitter.com/uennews/" target="_blank" onclick="trackOutboundLink('http://www.twitter.com/uennews/'); return false;"><img src="//www.uen.org/images/footer/twitter-footer.png" alt="Twitter" class="footer-img"> <a href="/netnews/"><img src="//www.uen.org/images/footer/netnews-footer.png" alt="NetNews" class="footer-img"></a> <a href="/feeds/" ><img src="//www.uen.org/images/footer/rss-footer.png"  alt="RSS Feeds" class="footer-img"></a></p>
+  <p>&nbsp; </p>
+  <p><a href="//www.uen.org/contact_form.php"> Contact Us</a> | <a href="//www.uen.org/ueninfo/"> About Us</a> </p>
+  <p>&nbsp;</p>
+</div>
+
+
+
+
+ <div class="clear"></div>
+</div>
+ 
+ <div class="footer-bottom">
+ <div class="top"><a href="#start"><img src="//www.uen.org/images/header/start.png" width="19" height="19" alt="Back to Top"/></a></div>
+ 
+<div align="center"> &copy; Utah Education Network in partnership with the <a href="http://www.schools.utah.gov/" target="_blank"  onclick="trackOutboundLink('http://www.schools.utah.gov'); return false;">Utah State Board of Education</a> and <a href="http://higheredutah.org/" target="_blank"  onclick="trackOutboundLink('http://higheredutah.org'); return false;">Higher Ed Utah</a>. <br>
+UEN does not endorse and is not responsible for content on external websites linked to from this page.<br>
+(800) 866-5852 &nbsp; &nbsp; | &nbsp; &nbsp; <a href="//www.uen.org/tv/cpb-compliance/" >KUEN CPB Compliance</a>&nbsp; &nbsp; | &nbsp; &nbsp; <a href="//www.uen.org/accessiblity.shtml" >Web Accessibility</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="//www.uen.org/tv/closed-captioning.shtml" >Captioning</a>
+
+</div>
+</div></div>
+
+<script>
+	// Google Analytics code...
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-1686416-1', 'uen.org');
+	ga('require', 'displayfeatures');
+	ga('require', 'linkid', 'linkid.js');
+	ga('send', 'pageview');
+</script>
+
+<script>
+	// Extra Analytics code that will track outbound clicks...  
+	var trackOutboundLink = function(url) {
+	   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+		 function () {
+			 // Using this callback function loses the trusted click, causing the browser to block the pop-up.
+			 // Moving the code below this function fixes it...
+		 }
+	   });
+	   // this opens URL in new tab/window
+		var win=window.open(url, '_blank'); 
+		win.focus();
+	}
+</script>
+
+<script>
+	/**
+	* Stop the my.uen login form from displaying when hovering in IE11 or IE10. (Must be done without using jQuery!)
+	* Rusty, 4/08/2014
+	*/
+	function mOver(obj) {
+		var isIE11 = navigator.userAgent.match(/Trident.*rv[ :]*11\./);
+		var isIE10 = navigator.userAgent.match(/MSIE 10./);
+		if(isIE11 || isIE10) {
+			document.getElementById("myuen_form").style.display="none";
+		}
+	}
+</script><div class="clear"></div>
+</body>
+</html>

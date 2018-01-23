@@ -1,0 +1,316 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="de-DE" lang="de-DE" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2011 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+
+
+<title>:: Verein Historische Uniformen :: Home</title>
+<meta name="generator" content="TYPO3 4.5 CMS" />
+<meta name="keywords" content="Deutschland, Kaiserreich, Kaiserzeit, wilhelminisch, Militär, Geschichte, Darstellung, Historie, Uniformen, Armee, Kaiser, Tradition, Traditionspflege, Reenactment" />
+<meta name="description" content="militärhistorische Darstellung des deutschen Kaiserreiches 1871-1918" />
+<meta name="author" content="Verein Historische Uniformen e.V." />
+<meta name="publisher" content="Verein Historische Uniformen e.V." />
+<meta name="copyright" content="Verein Historische Uniformen e.V." />
+<meta name="audience" content="Alle" />
+<meta name="date" content="2017-03-31" />
+<meta name="content-language" content="de" />
+<meta name="revisit-after" content="2 days" />
+<meta name="robots" content="all, index, follow" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_7b7c28ce40.css?1412616019" media="all" />
+<link rel="stylesheet" type="text/css" href="fileadmin/css/fontsize_normal.css?1393363029" media="Screen" title="Screen_Stylesheet" />
+
+
+
+<script src="typo3temp/javascript_a708894199.js?1328110616" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" href="fileadmin/css/layout.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="fileadmin/css/navigation.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="fileadmin/css/style.css" media="screen" />
+  
+        <link rel="stylesheet" type="text/css" href="fileadmin/fancybox/jquery.fancybox-1.2.5.css" media="screen" />
+        <script type="text/javascript" src="fileadmin/fancybox/jquery-1.4.2.min.js"></script>
+        <script type="text/javascript" src="fileadmin/fancybox/jquery.fancybox-1.2.5.pack.js"></script>
+        <script type="text/javascript">
+           // First we wait until the document is completely loaded using the handy
+           // jQuery "ready" method.
+           
+          $(document).ready(function() {
+               // Fancybox
+               $("a.zoom").fancybox();
+               $("a.zoom1").fancybox({
+                  'overlayOpacity' :0.7,
+                  'overlayColor' :'#FFF'
+               });
+               $("a.zoom2").fancybox({
+                  'zoomSpeedIn'   :200,
+                  'zoomSpeedOut'   :200,
+                  'overlayShow'   :false
+               });
+                           
+            });      
+        </script>
+        
+
+
+<script type="text/javascript" language="Javascript" src="typo3conf/ext/maag_randomimage/pi1/DynamicImage.js"></script>
+<script type="text/javascript" language="Javascript">
+if (window.addEventListener) {window.addEventListener('load', funDynamicImagesLoad, false);} else if (window.attachEvent) {window.attachEvent ('onload', funDynamicImagesLoad);}
+function funDynamicImagesLoad() {
+// execute load events of randomimages
+new DynamicRandomImage("2", "typo3conf/ext/maag_randomimage/pi1/randomimage.php", "dieab373c9e036086a0ea252c1fbd37840", 5000, "fileadmin/randomimages", "fileadmin/randomimages", 1, 1, 0, "", "", "", 3, 1, 0, '0', '0', '0', '0', '1', 1, 0, '', '', '', '', '', '', '', '', '', 0, 0).randomize();
+}
+</script>
+</head>
+<body>
+
+
+
+<div id="frame">
+     <div id="head">
+        <div id="fontsize"><ul><li><a href="index.php?id=2&amp;fsize=0" class="normalcur" title="normale Schrift">A</a></li><li><a href="index.php?id=2&amp;fsize=1" class="large" title="grosse Schrift">A</a></li><li><a href="index.php?id=2&amp;fsize=2" class="extralarge" title="extragrosse Schrift">A</a></li></ul></div>
+     </div>
+     <div id="navigation"><ul><li><a href="index.php?id=2" title="Home" onfocus="blurLink(this);"  class="cur">Home</a></li><li> <a href="index.php?id=3" title="Verein" onfocus="blurLink(this);"  >Verein</a> </li><li> <a href="index.php?id=4" title="dargestellte Truppen" onfocus="blurLink(this);"  >dargestellte Truppen</a> </li><li> <a href="index.php?id=197" title="Anzugsarten" onfocus="blurLink(this);"  >Anzugsarten</a> </li><li> <a href="index.php?id=5" title="Veranstaltungsrückblicke" onfocus="blurLink(this);"  >Veranstaltungsrückblicke</a> </li><li> <a href="index.php?id=6" title="Weiterleitungen und Hinweise" onfocus="blurLink(this);"  >Weiterleitungen und Hinweise</a> </li><li> <a href="index.php?id=19" title="Kontakt" onfocus="blurLink(this);"  >Kontakt</a> </li></ul></div>  
+     <div id="content">
+        <div id="menu"><ul><li> <a href="index.php?id=336" title="Kaiserpreisschießen 2017" onfocus="blurLink(this);"  >Kaiserpreisschießen 2017</a> </li><li> <a href="index.php?id=378" target="_blank" title="MeFi-Filmwochenschau No 8" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 8</a> </li><li> <a href="index.php?id=371" target="_blank" title="MeFi-Darstellungsfilm No 2" onfocus="blurLink(this);"  >MeFi-Darstellungsfilm No 2</a> </li><li> <a href="index.php?id=370" target="_blank" title="MeFi-Filmwochenschau No 7" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 7</a> </li><li> <a href="index.php?id=357" target="_blank" title="MeFi-Filmwochenschau No 6" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 6</a> </li><li> <a href="index.php?id=355" target="_blank" title="MeFi-Filmwochenschau No 5" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 5</a> </li><li> <a href="index.php?id=353" target="_blank" title="MeFi-Filmwochenschau No 4" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 4</a> </li><li> <a href="index.php?id=351" target="_blank" title="MeFi-Darstellungsfilm No 1" onfocus="blurLink(this);"  >MeFi-Darstellungsfilm No 1</a> </li><li> <a href="index.php?id=335" target="_blank" title="MeFi-Filmwochenschau No 3" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 3</a> </li><li> <a href="index.php?id=327" target="_blank" title="MeFi-Filmwochenschau No 2" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 2</a> </li><li> <a href="index.php?id=320" target="_blank" title="MeFi-Filmwochenschau No 1" onfocus="blurLink(this);"  >MeFi-Filmwochenschau No 1</a> </li><li> <a href="index.php?id=285" title="Kontaktformular" onfocus="blurLink(this);"  >Kontaktformular</a> </li><li> <a href="index.php?id=276" title="Pressespiegel" onfocus="blurLink(this);"  >Pressespiegel</a> </li></ul>
+	<!--  CONTENT ELEMENT, uid:329/list [begin] -->
+		<div id="c329" class="csc-default" >
+		<!--  Plugin inserted: [begin] -->
+			<div style="background-repeat: no-repeat;" id="fd_dieab373c9e036086a0ea252c1fbd37840_1"><img src="index.php?eID=tx_nawsecuredl&amp;u=0&amp;file=fileadmin/randomimages/bayerngeneral.jpg&amp;t=1511780547&amp;hash=6ece456c704475673fc05385dcc5b73615918bf6" width="190" height="450" border="0"  id="dieab373c9e036086a0ea252c1fbd378401" alt="Uniformvorstellung" /></div><div id="fi_dieab373c9e036086a0ea252c1fbd37840_1" style="display:none;">fileadmin/randomimages/bayerngeneral.jpg</div>
+		<!--  Plugin inserted: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:329/list [end] -->
+		</div>      
+       <div id="center">
+	<!--  CONTENT ELEMENT, uid:727/text [begin] -->
+		<div id="c727" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Herzlich Willkommen</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>auf den Internetseiten des Vereins Historische Uniformen des Deutschen Kaiserreiches 1871 - 1918 e.V.</h2>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:727/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:717/div [begin] -->
+		<div class="csc-default" >
+		<!--  Div element [begin] -->
+			<div class="divider">&nbsp;</div>
+		<!--  Div element [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:717/div [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1/textpic [begin] -->
+		<div id="c1" class="csc-default" >
+		<!--  Image block: [begin] -->
+			<div class="csc-textpic csc-textpic-intext-left-nowrap"><div class="csc-textpic-imagewrap" ><div class="csc-textpic-imagerow"><ul><li class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol"><a href="uploads/pics/Verein.jpg" title="Gruppenbild" rel="fancybox1" class="zoom"><img src="typo3temp/pics/510ef8f700.jpg" width="300" height="177" border="0" alt="Gruppenbild" title="Gruppenbild" /></a></li></ul></div><div class="csc-textpic-imagerow"><ul><li class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol"><a href="typo3temp/pics/807911dd02.jpg" title="Offiziere" rel="fancybox1" class="zoom"><img src="typo3temp/pics/c6409c4aba.jpg" width="300" height="209" border="0" alt="Offiziere" title="Offiziere" /></a></li></ul></div><div class="csc-textpic-imagerow csc-textpic-imagerow-last" ><ul><li class="csc-textpic-image csc-textpic-firstcol csc-textpic-lastcol"><a href="uploads/pics/Bild025_02.JPG" title="Offiziere und Mannschaften" rel="fancybox1" class="zoom"><img src="typo3temp/pics/cd11840328.jpg" width="300" height="199" border="0" alt="Offiziere und Mannschaften" title="Offiziere und Mannschaften" /></a></li></ul></div></div><div style="margin-left:10px;"><div class="csc-textpic-text">
+		<!--  Text: [begin] -->
+			<ul><li>Der Verein beschäftigt sich primär mit dem regulären Militär der Zeit 1870 bis 1918.&nbsp;</li><li>Unsere Uniformen sind als Einzelanfertigung von verschiedenen Schneidern im Auftrag der einzelnen Mitglieder auf Maß gefertigt worden.&nbsp;</li><li>Wir sind Ihnen gerne bei der originalgetreuen Nachfertigung von Uniformen der Epoche 1870 - 1918 behilflich, betreiben aber als Verein keinen Handel mit Uniformen oder ähnlichen Devotionalien.&nbsp;</li><li>Anfragen, die das Ziel haben, eine Wertermittlung zu erhalten, bitten wir an einschlägige Händler zu richten.&nbsp;</li><li>Wir sind kein Karnevalsverein.&nbsp;</li><li>Wir bitten, von gewerblichen Angeboten möglichst Abstand zu nehmen.</li></ul>
+		<!--  Text: [end] -->
+			</div></div></div><div class="csc-textpic-clear"><!-- --></div>
+		<!--  Image block: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1/textpic [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:237/text [begin] -->
+		<div id="c237" class="csc-default" >
+		<!--  Text: [begin] -->
+			<p class="bodytext">Für weitere Fragen stehen wir Ihnen gerne zur Verfügung. Bitte nutzen Sie dafür unseren&nbsp;<a href="index.php?id=19" target="_top" class="internal-link" >Kontakt</a> oder das <a href="index.php?id=22" target="_top" class="internal-link" >Kontaktformular </a>auf dieser Webseite. Wir werden uns dann schnellstmöglich mit Ihnen in Verbindung setzen.</p>
+<p class="bodytext">Der Verein Historische Uniformen e.V. hat sich zur Aufgabe gemacht, die Geschichte der bewaffneten Formationen des Deutschen Kaiserreiches zu erforschen und in der Öffentlichkeit darzustellen. Ein wichtiger Teil unserer Arbeit ist das Sammeln, Restaurieren und Bewahren originaler Sachzeugen der Militärgeschichte, wie Helme, Uniformen, Orden, Urkunden, oder auch &quot;nur&quot; Feldpostkarten und Fotos. Alles gibt Auskunft über das Leben der Soldaten und Offiziere vor 100 Jahren und stellt damit ein wichtiges Stück Zeitgeschichte dar, zu deren Aufarbeitung wir unseren Anteil leisten wollen.Durch ihre Sachkenntnis sind die Mitglieder des Vereins Historische Uniformen e.V. auch gern gesehene Gesprächspartner vieler Museen.</p>
+<p class="bodytext">Die Uniformen des Vereins zeigen einen interessanten Querschnitt der alten Armee, da neben den verschiedenen Arten der Kavallerie, die Artillerie und die Infanterie, als auch Reichstruppen, wie Marine und Schutztruppe, vertreten sind. Zeitlich sind die Uniformen zwischen 1900 und 1910 einzuordnen.</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:237/text [end] -->
+		</div>
+       <div id="right">
+	<!--  CONTENT ELEMENT, uid:1043/text [begin] -->
+		<div id="c1043" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">07.-09.04.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Bonneville/Frankreich</h2>
+<p class="bodytext">Chemin de Dammes, Gedenkveranstaltung</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1043/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1044/text [begin] -->
+		<div id="c1044" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n2"><h1>21.-23.04.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Weimar</h2>
+<p class="bodytext">Kaiserpreisschießen</p>
+<p class="bodytext">mehr Informationen <a href="index.php?id=336" title="Öffnet internen Link im aktuellen Fenster" class="internal-link" >hier...</a></p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1044/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1045/text [begin] -->
+		<div id="c1045" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n3"><h1>13.05.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Gotha</h2>
+<p class="bodytext">210. Gründungstag IR95, Festveranstaltung <a href="index.php?eID=tx_nawsecuredl&amp;u=0&amp;file=fileadmin/presse/14343AF3-BA87-484A-9E73-ABFFFD7D7CDC.png&amp;t=1511780547&amp;hash=2694beee5462026e5d18bc6af98db77b9cbcdad3" title="Leitet Herunterladen der Datei ein" class="download" >[PDF-Datei]</a></p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1045/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1053/text [begin] -->
+		<div id="c1053" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n4"><h1>14.05.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Minden</h2>
+<p class="bodytext">Historische Bahnfahrt mit der <b>Museumseisenbahn Minden </b>(MEM) mit dem Preußenzug. </p>
+<p class="bodytext">Infos auf &nbsp; <a href="http://www.museumseisenbahn-minden.de/" title="Öffnet externen Link in neuem Fenster" target="_blank" class="external-link-new-window" >http://www.museumseisenbahn-minden.de/</a> </p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1053/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:871/text [begin] -->
+		<div id="c871" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n5"><h1>04.-05.06.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Jülich Epochenfest 2017</h2>
+<p class="bodytext"><br />Epochenfest in der Zitadelle Jülich ganz im Westen Deutschlands. Wie immer an Pfingsten.</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:871/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1046/text [begin] -->
+		<div id="c1046" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n6"><h1>09.-11.06.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Germersheim</h2>
+<p class="bodytext">Festungsfest</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1046/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1047/text [begin] -->
+		<div id="c1047" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n7"><h1>16.-18.06.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Halberstadt</h2>
+<p class="bodytext">Meding-Schanze Biwak, Alltag im Felde, feldgrau</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1047/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1048/text [begin] -->
+		<div id="c1048" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n8"><h1>23.-25.06.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Alsen/Dänemark</h2>
+<p class="bodytext">Kampf um Alsen 1864, Biwak, Gefecht</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1048/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1049/text [begin] -->
+		<div id="c1049" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n9"><h1>28.-31.07.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Zonnebeke/Belgien</h2>
+<p class="bodytext">100 Jahre Paschendaele, Biwak</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1049/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1050/text [begin] -->
+		<div id="c1050" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n10"><h1>11.-13.08.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Lagarde/Frankreich</h2>
+<p class="bodytext">Biwak</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1050/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1051/text [begin] -->
+		<div id="c1051" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n11"><h1>30.09.-03.10.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Heidehof</h2>
+<p class="bodytext">Leben im Felde</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1051/text [end] -->
+		
+	<!--  CONTENT ELEMENT, uid:1052/text [begin] -->
+		<div id="c1052" class="csc-default" >
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n12"><h1>25.11.2017</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<h2>Jena</h2>
+<p class="bodytext">Jahresabschlussfeier</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:1052/text [end] -->
+		</div>
+     </div>
+     <div id="footer">
+       <div id="copyright">
+	<!--  CONTENT ELEMENT, uid:706/text [begin] -->
+		<div id="c706" class="csc-default" >
+		<!--  Text: [begin] -->
+			<p class="bodytext">© 2017 - Verein Historische Uniformen des Deutschen Kaiserreiches e.V.</p>
+		<!--  Text: [end] -->
+			</div>
+	<!--  CONTENT ELEMENT, uid:706/text [end] -->
+		</div>
+       <div id="footernavi"><ul><li> <a href="index.php?id=39" title="Impressum" onfocus="blurLink(this);"  >Impressum</a> </li><li> <a href="index.php?id=28" title="Haftungsausschluss" onfocus="blurLink(this);"  >Haftungsausschluss</a> </li><li> <a href="index.php?id=90" title="Archiv" onfocus="blurLink(this);"  >Archiv</a> </li><li> <a href="index.php?id=274" title="Pressespiegel" onfocus="blurLink(this);"  >Pressespiegel</a> </li></ul></div>
+     </div>
+</div>
+
+
+
+
+</body>
+</html>

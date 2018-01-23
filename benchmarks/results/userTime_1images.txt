@@ -1,0 +1,2 @@
+userTime of image 1 is .550 seconds
+average user time of classifying an image over 1 images is ------------------------ .550 seconds

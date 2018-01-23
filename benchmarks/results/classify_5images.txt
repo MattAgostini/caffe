@@ -1,0 +1,52 @@
+classifying image 0
+---------- Prediction for ./benchmarks/benchmark_images/n01440764/n01440764_urlimages/minpsub0049.jpg ----------
+0.6470 - "n01440764 tench, Tinca tinca"
+0.1253 - "n02486261 patas, hussar monkey, Erythrocebus patas"
+0.0858 - "n02484975 guenon, guenon monkey"
+0.0391 - "n01873310 platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+0.0223 - "n02494079 squirrel monkey, Saimiri sciureus"
+0.09user 0.07system 0:00.17elapsed 96%CPU (0avgtext+0avgdata 251968maxresident)k
+0inputs+120outputs (0major+26467minor)pagefaults 0swaps
+ 
+classifying image 1
+---------- Prediction for ./benchmarks/benchmark_images/n01440764/n01440764_urlimages/petm33.jpg ----------
+0.4858 - "n01632777 axolotl, mud puppy, Ambystoma mexicanum"
+0.3101 - "n01873310 platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus"
+0.0522 - "n02441942 weasel"
+0.0324 - "n02443114 polecat, fitch, foulmart, foumart, Mustela putorius"
+0.0316 - "n01440764 tench, Tinca tinca"
+0.12user 0.04system 0:00.16elapsed 96%CPU (0avgtext+0avgdata 252000maxresident)k
+0inputs+128outputs (0major+26484minor)pagefaults 0swaps
+ 
+classifying image 2
+---------- Prediction for ./benchmarks/benchmark_images/n01443537/n01443537_urlimages/1126754998.jpg ----------
+0.9986 - "n01443537 goldfish, Carassius auratus"
+0.0007 - "n01632777 axolotl, mud puppy, Ambystoma mexicanum"
+0.0003 - "n01514859 hen"
+0.0002 - "n07753275 pineapple, ananas"
+0.0001 - "n02655020 puffer, pufferfish, blowfish, globefish"
+0.08user 0.08system 0:00.17elapsed 95%CPU (0avgtext+0avgdata 253224maxresident)k
+0inputs+128outputs (0major+26203minor)pagefaults 0swaps
+ 
+classifying image 3
+---------- Prediction for ./benchmarks/benchmark_images/n01443537/n01443537_urlimages/970596392_e9d2ee7865.jpg ----------
+0.1591 - "n03291819 envelope"
+0.1321 - "n06359193 web site, website, internet site, site"
+0.0251 - "n04118776 rule, ruler"
+0.0243 - "n04548280 wall clock"
+0.0241 - "n02219486 ant, emmet, pismire"
+0.12user 0.03system 0:00.16elapsed 96%CPU (0avgtext+0avgdata 252332maxresident)k
+0inputs+128outputs (0major+25534minor)pagefaults 0swaps
+ 
+classifying image 4
+---------- Prediction for ./benchmarks/benchmark_images/n01443537/n01443537_urlimages/c0066827_0155249.jpg ----------
+0.3714 - "n02606052 rock beauty, Holocanthus tricolor"
+0.0949 - "n01443537 goldfish, Carassius auratus"
+0.0917 - "n01631663 eft"
+0.0888 - "n01945685 slug"
+0.0794 - "n01924916 flatworm, platyhelminth"
+0.08user 0.08system 0:00.17elapsed 95%CPU (0avgtext+0avgdata 254404maxresident)k
+0inputs+128outputs (0major+26583minor)pagefaults 0swaps
+ 
+percentage of images classified as the topOne out of all classified images is ----- 40.00%
+percentage of images classified as the topFive out of all classified images is ---- 80.00%

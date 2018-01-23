@@ -1,0 +1,593 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html >
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="keywords" content=""/>
+    <meta name="description" content="Learn more about how Medtronic acute care and portable ventilators help patients breathe more easily."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <script src="//assets.adobedtm.com/ce8746a9125c5b45bcf05e12f84658c0c6ff5b9a/satelliteLib-a3e5197102840e04be0efe82def568f4ae2fc783.js"></script><link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css"/>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
+
+<link href="/etc/designs/default.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/mitg-icons.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/lightbox.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/fonts.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/base.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/components/apps-embed.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/edit-mode.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/designs/mitg/clientlibs/base/visibility.css" type="text/css"/>
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/default/favicon.ico"/>
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/default/favicon.ico"/>
+    <title>Ventilators | Medtronic</title>
+</head>
+
+<body>
+
+    <!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8X5T6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayerGTM','GTM-T8X5T6');</script>
+<!-- End Google Tag Manager --><div class="header"><section class="comp__site-header">
+    <div class="header__row">
+        <div class="header__logo">
+            <a href="/covidien/en-us/index.html"><img src="/etc/designs/mitg/clientlibs/base/base/img/logo.svg" alt=""></a>
+                </div>
+        <div class="header__menu--resp js-header__menu--resp">
+            <i class="mi mi-btb-bars is-active"></i>
+            <i class="mi mi-btb-times"></i>
+        </div>
+        <!--
+        <div class="header__dropdown js-header__dropdown">
+            <button id="countrySelect">United States<i class="mi mi-bts-caret-down is-active"></i><i class="mi mi-bts-caret-up"></i></button>
+            <ul class="dropdown__menu js-country__selector is-hidden">
+                <li><a href="#">United States</a></li>
+                <li><a href="#">Japan</a></li>
+                <li><a href="#">India</a></li>
+                <li><a href="#">Mexico</a></li>
+                <li><a href="#">Canada</a></li>
+                <li><a href="#">United Kingdom</a></li>
+            </ul>
+        </div>
+        -->
+    </div>
+    <div class="header__divider is-hidden"></div>
+
+    <div class="searchbar js-searchbar is-hidden">
+            <div class="searchbar__cont">
+                <div class="searchbar__item">
+                    <form action="/covidien/en-us/search.html" id="cse-search-box" class="mdt-search">
+                        <span><i class="mi mi-btb-search"></i></span>
+                        <input type="text" id="searchCriteria" name="q" class="searchbar__input js-searchbar__input" placeholder="Search">
+                        <div>
+                        
+<input type="hidden" name="cx" id="cse-cx" value="008418102433676307395:zfuylipv7ls">
+						
+<input type="hidden" name="cof" value="FORID:9;NB:1">
+                            <input type="hidden" name="ie" value="UTF-8">
+                            <input type="hidden" name="page" value="SearchResults">
+                            
+                            <input type="submit" name="submit" id="searchSubmit" class="searchbox_submit" value="" alt="">
+                        </div>
+                        </form>
+                </div>
+                <div class="searchbar__item">
+                    <button class="searchbar__close js-searchbar__close"><i class="mi mi-btb-times"></i></button>
+                </div>
+            </div>
+        </div>
+    <div class="header__row">
+        <nav class="header__menu header__menu--pri js-header__menu">
+            <ul>
+                <li><a href="/covidien/en-us/products.html">Covidien Products<i class="mi mi-btr-angle-right"></i></a></li>
+                <li><a href="/covidien/en-us/clinical-solutions.html">Clinical Solutions<i class="mi mi-btr-angle-right"></i></a></li>
+                <li><a href="http://www.covidien.com/pace/clinical-education">Education<i class="mi mi-btr-angle-right"></i></a></li>
+                <li><a href="/covidien/en-us/support.html">Support<i class="mi mi-btr-angle-right"></i></a></li>
+                </ul>
+        </nav>
+        <div class="header__menu header__menu--sec">
+            <ul>
+                <li><a href="http://medtronicsolutions.medtronic.com/sp" class="menu__contact">Contact Us<i class="mi mi-btr-angle-right"></i></a></li>
+                    <li><span> | </span></li>
+                    <li><a href="//www.addtoany.com/share_save" class="a2a_dd menu__share">Share</a></li>
+                <li><span class="menu__sec--divider"> | </span></li>
+                    <li><a href="#" class="menu__search js-menu__search">Search<i class="mi mi-bts-search"></i></a></li>
+                </ul>
+        </div>
+    </div>
+</section>
+
+<section class="comp__breadcrumbs">
+    <div class="breadcrumbs">
+        <!-- Use on pages with static title -->
+        <h6>
+                    <span><a href="/covidien/en-us/index.html">Minimally Invasive Therapies</a><i class="mi mi-btr-angle-right"></i></span>
+                <span class="is-active">Ventilators</span>
+                </h6>
+            </div>
+</section>
+</div>
+<div class="wrapper--inner">
+
+        <div class="secondary-nav-data parsys">
+</div>
+<div class="banner"><section class="comp__banner--50">
+            <div class="row">
+                <div class="panel__50 theme--secondary">
+                    <div class="panel__content">
+                        <h1>Help Patients Breathe More Naturally<sup>†</sup></h1><a href="http://medtronicsolutions.medtronic.com/sp" target="_blank">
+                                                        <button type="button">Contact Us</button>
+                                                    </a>
+                                                </div>
+                </div>
+                <div class="panel__50 panel--no-pad">
+                    <div class="panel__content">
+                        <div class="panel__image banner__image">
+                            <img src="/content/dam/covidien/library/global/en/product/acute-care-ventilation/ventilators-b.jpg" alt="" title="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+<div class="content-spotlight"><script type="text/javascript" src="/etc/designs/mitg/clientlibs/base/lightbox.js"></script>
+<!-- required fields are not configured -->
+        <!-- not using library -->
+                </div>
+<div class="data parsys"><div class="content-spotlight section"><section class="comp__content-spotlight theme--primary">
+            <div class="row">
+                
+                <div class="panel__50 panel--no-pad">
+                                <div class="panel__content">
+                                    <div class="panel__image">
+                                        <img src="/content/dam/covidien/library/global/en/product/acute-care-ventilation/pb980-ventilators-c.jpg" alt="" title="">
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="panel__50">
+                                <div class="panel__content">
+                                    <div class="panel__header">
+                                            <h2>Puritan Bennett™ 980 Ventilator</h2></div>
+                                    <div class="panel__copy">
+                                        <p>This ventilator helps enable patients to breathe more naturally<sup>†</sup> through some of the most innovative breath deliery technology available.</p>
+<p>Our simple, safe, and smart design provides more natural ventilation that may help improve patient comfort. <sup>1</sup></p>
+</div>
+                                    <div class="panel__cta">
+                                            <a href="/covidien/en-us/products/acute-care-ventilation/puritan-bennett-pb980-ventilator.html">
+                                                                <button type="button">Learn More</button>
+                                                            </a>
+                                                        </div>
+                                    </div>
+                            </div>
+                        <div class="panel__50">
+                                <div class="panel__content">
+                                    <div class="panel__header">
+                                            <h2>Puritan Bennett™ 840 Ventilator</h2></div>
+                                    <div class="panel__copy">
+                                        <p>This ventilator provides a solid foundation on which to build your ideal ventilation solution. With the addition of optional advanced technology upgrades, this ventilator can meet the needs of many patients.</p>
+</div>
+                                    <div class="panel__cta">
+                                            <a href="/covidien/en-us/products/acute-care-ventilation/puritan-bennett-pb840-ventilator.html">
+                                                                <button type="button">Learn More</button>
+                                                            </a>
+                                                        </div>
+                                    </div>
+                            </div>
+                        <div class="panel__50 panel--no-pad">
+                                <div class="panel__content">
+                                    <div class="panel__image">
+                                        <img src="/content/dam/covidien/library/global/en/product/acute-care-ventilation/pb840-ventilators-c.jpg" alt="" title="">
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="panel__50 panel--no-pad">
+                                <div class="panel__content">
+                                    <div class="panel__image">
+                                        <img src="/content/dam/covidien/library/global/en/product/acute-care-ventilation/e360-ventilators-c.jpg" alt="" title="">
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="panel__50">
+                                <div class="panel__content">
+                                    <div class="panel__header">
+                                            <h2>Newport™ e360 Ventilator</h2></div>
+                                    <div class="panel__copy">
+                                        <p>With its compact size, comprehensive features and low cost of ownership, the Newport™ e360 ventilator is ideal for today's hospital and long-term care facilities.</p>
+<p>It offers a full spectrum of features for maximum flexibility, including FlexCycle, our automated feature that actively manages cycling-off timing, breath by breath.</p>
+</div>
+                                    <div class="panel__cta">
+                                            <a href="/covidien/en-us/products/acute-care-ventilation/newport-e360-ventilator.html">
+                                                                <button type="button">Learn More</button>
+                                                            </a>
+                                                        </div>
+                                    </div>
+                            </div>
+                        <div class="panel__50">
+                                <div class="panel__content">
+                                    <div class="panel__header">
+                                            <h2>Newport™ HT70 ventilator Plus</h2></div>
+                                    <div class="panel__copy">
+                                        <p>This ventilator combines ruggedness, ease of use, and clinical proficiency with exceptional mobility for patients from 5 kg to adult.</p>
+<p>All models of the Newport™ HT70 ventilator family can be used for invasive or noninvasive ventilation in home care, transport, hospital, long-term care, and emergency preparedness environments.</p>
+</div>
+                                    <div class="panel__cta">
+                                            <a href="/covidien/en-us/products/portable-ventilation/newport-ht70-plus.html">
+                                                                <button type="button">Learn More</button>
+                                                            </a>
+                                                        </div>
+                                    </div>
+                            </div>
+                        <div class="panel__50 panel--no-pad">
+                                <div class="panel__content">
+                                    <div class="panel__image">
+                                        <img src="/content/dam/covidien/library/global/en/product/portable-ventilation/ht70-ventilators-c.jpg" alt="" title="">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+        </section>
+
+    </div>
+<div class="featured-assets section"><section class="comp__featured-assets">
+                    <div class="divider"></div>
+                    <div class="row">
+
+                        <div class="panel__50 theme--secondary">
+                            <div class="panel__content">
+                                <div class="panel__header">
+                                        <h3>Acute Care Ventilation</h3></div>
+                                <div class="panel__copy">
+                                    <p>Learn more about the complete line of Medtronic Acute Care Ventilation products and accessories.</p>
+</div>
+                                <div class="panel__cta">
+                                        <a href="/covidien/en-us/products/acute-care-ventilation.html">
+                                                            <button type="button">Learn More</button>
+                                                        </a>
+                                                    </div>
+                                </div>
+                        </div>
+
+                        <div class="panel__50 theme--secondary-alt">
+                            <div class="panel__content">
+                                <div class="panel__header">
+                                        <h3>Portable Ventilation</h3></div>
+                                <div class="panel__copy">
+                                    <p>Learn more about the complete line of Medtronic Portable Ventilation products and accessories.</p>
+</div>
+                                <div class="panel__cta">
+                                        <a href="/covidien/en-us/products/portable-ventilation.html">
+                                                            <button type="button">Learn More</button>
+                                                        </a>
+                                                    </div>
+                                </div>
+                        </div>
+
+                        </div>
+                </section>
+
+            </div>
+
+</div>
+<div class="footnotes"><section class="comp__footnotes theme--primary">
+    <div class="divider"></div>
+    <div class="row">
+        <div class="footnotes">
+            <ul>
+                </ul>
+        </div>
+        <div class="footnotes-staging-area">
+            <ul>
+                <li class="footnotes-component-added">
+                                    <p>† Compared to conventional mechanical ventilation (VC, VC+, PC, PS)</p>
+</li>
+                                
+                            <li class="footnotes-component-added">
+                                    <p>1. Grasso S, Puntillo F, Mascia L, et al. Compensation for increase in respiratory workload during mechanical ventilation. Pressure-support versus proportional-assist ventilation. <i>Am J Respir Crit Care Med.</i> 2000;161(3 Pt 1):819-26.</p>
+</li>
+                                
+                            </ul>
+        </div>
+    </div>
+</section>
+</div>
+</div>
+
+    <div class="footer"><div class="comp__footer">
+    <div class="divider"></div>
+
+    <div class="footer__main">
+
+        <div class="footer">
+
+            <div class="footer__menu--secondary">
+
+                <div class="footer__social">
+                        <a title="Medtronic on Facebook" target="_blank" href="https://www.facebook.com/Medtronic">
+                                        <i class="mi-fa-facebook"></i>
+                                    </a>
+                                <a title="Medtronic on Twitter" target="_blank" href="https://twitter.com/Medtronic">
+                                        <i class="mi-fa-twitter"></i>
+                                    </a>
+                                <a title="Medtronic on LinkedIn" target="_blank" href="https://www.linkedin.com/company/medtronic">
+                                        <i class="mi-fa-linkedin"></i>
+                                    </a>
+                                <a title="Medtronic on YouTube" target="_blank" href="https://www.youtube.com/user/covidienplc">
+                                        <i class="mi-fa-youtube-play"></i>
+                                    </a>
+                                <a title="Sharing Healthcare Solutions Blog" target="_blank" href="https://hcpresources.medtronic.com/blog">
+                                        <i class="mi-fa-commenting"></i>
+                                    </a>
+                                </div> <!-- class="footer__social" -->
+                <div class="footer__contact">
+                    <a href="http://medtronicsolutions.medtronic.com/sp"><button>Contact Us</button></a>
+                        </div>
+
+
+            </div> <!-- class="footer__menu--secondary" -->
+
+            <div class="footer__menu--primary">
+
+                <div class="menu__col">
+                        <h6>Corporate Resources<div class="menu__expander js-expander-trigger">
+                                <i class="mi mi-btb-plus is-active"></i><i class="mi mi-btb-minus"></i>
+                            </div>
+                        </h6>
+                        <ul class="js-submenu">
+                            <li>
+                                            <a href="http://www.medtronic.com/us-en/index.html" target="_blank">Medtronic.com<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/terms-of-use.html" target="_blank">Terms of Use<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/privacy-statement.html" target="_blank">Privacy Statement<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/healthcare-professionals/external-research-program.html" target="_blank">External Research Program<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/about/news.html" target="_blank">News<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    </ul>
+                    </div>
+                <div class="menu__col">
+                        <h6>Minimally Invasive Therapies<div class="menu__expander js-expander-trigger">
+                                <i class="mi mi-btb-plus is-active"></i><i class="mi mi-btb-minus"></i>
+                            </div>
+                        </h6>
+                        <ul class="js-submenu">
+                            <li>
+                                            <a href="/covidien/en-us/products.html">Covidien Products<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/clinical-solutions.html">Clinical Solutions<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.covidien.com/pace/clinical-education" target="_blank">Education<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/support.html">Support<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/events.html">Events<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="https://hcpresources.medtronic.com/blog" target="_blank">Blog<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://medtronicsolutions.medtronic.com/Preferences" target="_blank">Email Preferences<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/supplier-code-of-conduct.html">Supplier Code of Conduct<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/supplier-terms-and-conditions.html">Supplier Terms & Conditions<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="/covidien/en-us/sitemap.html">Sitemap<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    </ul>
+                    </div>
+                <div class="menu__col">
+                        <h6>Patient Resources<div class="menu__expander js-expander-trigger">
+                                <i class="mi mi-btb-plus is-active"></i><i class="mi mi-btb-minus"></i>
+                            </div>
+                        </h6>
+                        <ul class="js-submenu">
+                            <li>
+                                            <a href="http://www.medtronic.com/us-en/patients/treatments-therapies/bariatric-surgery.html" target="_blank">Bariatrics<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="https://www.pillcamcrohns.com" target="_blank">Crohn's Disease<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/patients/treatments-therapies/colon-disease.html" target="_blank">Colon Disease<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.learnaboutbarretts.com" target="_blank">Barrett's Esophagus<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/patients/conditions/hernia.html" target="_blank">Hernia Treatment<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.treatmylungcancer.com/treatmylungcancer/pages.aspx" target="_blank">Lung Cancer<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.covidien.com/gallbladder/pages.aspx" target="_blank">Gallbladder Treatment<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.livingwithavent.com/pages.aspx" target="_blank">Homecare Ventilation<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://venefit.covidien.com/pages.aspx" target="_blank">Varicose Veins<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    <li>
+                                            <a href="http://www.medtronic.com/us-en/patients/conditions/breath-monitoring.html" target="_blank">Breath Monitoring<i class="mi mi-btr-angle-right"></i></a>
+                                        </li>
+                                    </ul>
+                    </div>
+                <div class="menu__col">
+                        <div class="menu__subcol">
+                        <h6>Additional Resources<div class="menu__expander js-expander-trigger">
+                                <i class="mi mi-btb-plus is-active"></i><i class="mi mi-btb-minus"></i>
+                            </div>
+                        </h6>
+                            <ul class="js-submenu">
+                                <li>
+                                                <a href="http://www.medtronic.com/animal-health" target="_blank">Animal Health<i class="mi mi-btr-angle-right"></i></a>
+                                            </li>
+                                        <li>
+                                                <a href="http://www.medtronic.com/us-en/about/corporate-governance/medtronic-charitable-donations.html" target="_blank">Educational Grants<i class="mi mi-btr-angle-right"></i></a>
+                                            </li>
+                                        </ul>
+                        </div>
+                        <div class="menu__subcol menu__subcol--alt">
+                            <h6>Operational Headquarters</h6><div class="subcol__el">
+                                <p>710 Medtronic Parkway</p><p>Minneapolis,&nbsp;MN&nbsp;<span>55432-5604</span></p>
+                                    <p>USA</p></div>
+                        </div>
+                    </div>
+                </div> <!-- class="footer__menu--primary" -->
+
+        </div> <!-- class="footer" -->
+
+    </div> <!-- class="footer__main" -->
+
+    <div class="footer__secondary">
+        <div class="footer__copyright">
+            <h6>&copy;&nbsp;2017&nbsp;Medtronic</h6>
+        </div>
+    </div>
+
+</div> <!-- class="comp__footer" --></div>
+<script type="text/javascript" src="/etc/designs/mitg/clientlibs/base/base.js"></script>
+<script type="text/javascript" src="/etc/designs/mitg/clientlibs/components/apps-embed.js"></script>
+<!-- Lightbox Container for Playing Videos -->
+    <!-- This has to be outside of inner wrapper -->
+    <section class="videos-lightboxOuter">
+        <div class="videos-lightboxInner">
+            <div class="lightbox-closeBtn">
+                <i class="mi mi-btb-times"></i>
+            </div>
+            <div class="videos-videoOuter">
+                <div class="videos-videoInner">
+                    <div class="lightboxContainer">
+                        <div class="videoPlayerContainer"></div>
+                    </div>
+                </div>
+            </div> 
+        </div> 
+    </section> <!-- end Lightbox Container -->
+
+    <script id="data-layer">
+var dataLayer = {
+    "site": {
+        "isProduction": "false",
+        "type": "desktop",
+        "id": "MITG",
+        "language": "en",
+        "country": "us"
+    },
+    "page": {
+        "audience": [{"": ""}, {"": ""}],
+        "detail": "Ventilators",
+        "type": "/apps/mitg/templates/webpage/campaign-lp",
+        "aemPath": "",
+        "platform": "AEM",
+        "sourceCopy": "/content/mitg/websites/covidien/en-us/ventilators",
+        "level1": "Ventilators"
+    },
+    "businessUnitTagSet": [
+        {
+            "businessUnit": "",
+            "classOfTrade": "",
+            "productGroup": ""
+        }
+        ],
+    "event": {
+        "name": []
+    },
+    "promos": [
+        {
+            "id": "",
+            "position": ""
+        }
+        ],
+    "product": [],
+    "content": {
+        "subregion": "us",
+        "language": "en",
+        "audience": "",
+        "product": "",
+        "diseaseCondition": "",
+        "treatmentPhase": "",
+        "environment": "",
+        "medicalSpecialty": "",
+        "procedure": "",
+        "contentItemsToDateLifetime": ""
+    },
+    "assets": {
+        "assetName": ""
+    },
+    "filters": [],
+    "search": {
+        "keyword": "",
+        "results": 0,
+        "criteria": [],
+        "pageType": ""
+    },
+    "visitor": {
+        "loginState": "",
+        "type": "",
+        "id": ""
+    },
+    "form": {
+        "condition": "",
+        "therapyType": "",
+        "country": "",
+        "eloquaContactEmail": "",
+        "eloquaContactJobRole": "",
+        "eloquaContactSpecialty": "",
+        "eloquaContactCompany": "",
+        "eloquaContactCountry": "",
+        "eloquaContactZipPostalCode": ""
+    },
+    "forms": {
+        "formType": "",
+        "abandonedForms": "",
+        "dynamicFormAbandonedFields": "",
+        "emailTypes": "",
+        "emailMessageID": ""
+    },
+    "responsive": [],
+    "demandbase": [],
+    "wol": {
+        "destination": ""
+    },
+    "horizontalNavigation": {
+        "dropdown_clicked": "",
+        "dropdown_title": ""
+    },
+    "cookieModalAcceptClick": "",
+    "globalDisclaimer": {
+        "changedRegion": ""
+    }
+};
+</script><script type="text/javascript">_satellite.pageBottom();</script></body>
+
+</html>

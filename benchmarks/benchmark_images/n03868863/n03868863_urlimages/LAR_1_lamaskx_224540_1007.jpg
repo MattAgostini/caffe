@@ -1,0 +1,1859 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-us" class="ie ie6 no-js"> <![endif]--><!--[if IE 7 ]>    <html lang="en-us" class="ie ie7 no-js"> <![endif]--><!--[if IE 8 ]>    <html lang="en-us" class="ie ie8 no-js"> <![endif]--><!--[if IE 9 ]>    <html lang="en-us" class="ie ie9 no-js"> <![endif]--><!--[if gt IE 9]><!--><html class="no-js" lang="en-us"><!--<![endif]--><head><META http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Page Not Found | Tampa Bay Times</title><!--fixed-layout--><!-- Default stylesheet removed --><!--ls:begin[meta-keywords]--><meta name="keywords" content=""><!--ls:end[meta-keywords]--><!--ls:begin[meta-description]--><meta name="description" content=""><!--ls:end[meta-description]--><!--ls:begin[meta-vpath]--><meta name="vpath" content=""><!--ls:end[meta-vpath]--><!--ls:begin[meta-page-locale-name]--><meta name="page-locale-name" content=""><!--ls:end[meta-page-locale-name]--><!--ls:begin[stylesheet]--><link type="text/css" href="/iwov-resources/style.css" rel="stylesheet"><!--ls:end[stylesheet]--><!--ls:begin[head-injection]--><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="application-name" content="Tampa Bay Times"/> 
+<meta name="msapplication-TileColor" content="#115220"/> 
+<meta name="msapplication-TileImage" content="/iwov-resources/images/ie10TBTpin.png"/>
+<meta property="fb:pages" content="9924394837" />
+<link rel="stylesheet" type="text/css" href="/iwov-resources/scripts/fancybox/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/iwov-resources/scripts/jquery-ui-1.8.23.custom/css/custom-theme/jquery-ui-1.8.23.custom.css" />
+<link rel="stylesheet" type="text/css" href="/components/resources/css/tpc-aggregate.css" />
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="/iwov-resources/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/iwov-resources/images/icon-lg.png" />
+<meta name="apple-itunes-app" content="app-id=988277045">
+<script async src="/iwov-resources/scripts/loader.js" type="text/javascript"></script>
+<script async src="/iwov-resources/scripts/plugins.js" type="text/javascript"></script>
+<script src="/iwov-resources/scripts/xss.min.js" type="text/javascript"></script>
+<script src="/iwov-resources/scripts/tbtglobal.js" type="text/javascript"></script>
+<script async src="/iwov-resources/scripts/core.js" type="text/javascript"></script>
+<script async src="/iwov-resources/scripts/flextoggle.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="/iwov-resources/scripts/jquery.dfp.min.js" type="text/javascript"></script>
+<script async src="/components/resources/js/tpc-aggregate.js" type="text/javascript"></script>
+<script async type="application/javascript" src="/components/resources/pages/tbtlogin/js/tbtlogin.js"></script>
+<script async src="/iwov-resources/scripts/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="/iwov-resources/scripts/jquery-ui-1.8.23.custom/js/jquery-ui-1.8.23.custom.min.js" type="text/javascript"></script>
+<script src="//cdns.gigya.com/js/socialize.js?apiKey=2_XVvcxIxG8cRaBYq3JyWKVSDhHbrBDJ78qOERcKaeWBTVH-aNjJPONe-sqQjvKmOp" type="text/javascript">{connectWithoutLoginBehavior: 'alwaysLogin'}</script>
+<script async src="/iwov-resources/scripts/jquery.flexslider-min.js"></script>
+<script async src="//admin.brightcove.com/js/BrightcoveExperiences_all.js" type="text/javascript"></script>
+<script type="text/javascript">
+    /** Gigya elements component centralized configuration in core.js **/
+	var gigyaCategoryId = 'tpc_comments';
+	var gigyaApiKey = '2_XVvcxIxG8cRaBYq3JyWKVSDhHbrBDJ78qOERcKaeWBTVH-aNjJPONe-sqQjvKmOp';
+	var gigyaFormat = 'jsonp';
+	function loadGigyaStreamInfo(gigyaStreamId, gigyaArticleId) {
+            try {
+                jQuery.getJSON('http://comments.us1.gigya.com/comments.getStreamInfo?callback=?',
+                    {
+                        categoryID: gigyaCategoryId,
+                        apiKey: gigyaApiKey,
+                        format: gigyaFormat,
+                        streamID: gigyaStreamId
+                    },
+                    function (data) {
+                        jQuery('.' + gigyaArticleId + '-comments').html(data.streamInfo.commentCount);
+                    }
+                );
+            } catch (error) { return null}
+        };
+	/** End Gigya elements **/
+
+	jQuery(document).ready(function() {
+               var checkIeInterval = setInterval(function() {
+                   if (typeof checkIeCompatibilityMode !== 'undefined') { // wait for object to stabilize
+                       clearInterval(checkIeInterval); //do what you need after this tag
+                       checkIeCompatibilityMode();
+                   }
+               }, 500);
+               var udrInitInterval = setInterval(function() {
+                  if (typeof udrInitUser !== 'undefined') {
+                      clearInterval(udrInitInterval);
+                      udrInitUser();
+                  }
+              }, 500);
+              var tpcLoginModalListenerInterval = setInterval(function() {
+                  if (typeof tpcLoginModalListener !== 'undefined') {
+                      clearInterval(tpcLoginModalListenerInterval);
+                      tpcLoginModalListener();
+                  }
+              }, 500);
+              var tpcRegisterModalListenerInterval = setInterval(function() {
+                  if (typeof tpcRegisterModalListener !== 'undefined') {
+                      clearInterval(tpcRegisterModalListenerInterval);
+                      tpcRegisterModalListener();
+                  }
+              }, 500);
+            addLazyLoadingComponent('.ndn_embed');
+            var newsIncSrc = '//launch.newsinc.com/js/embed.js';
+            $('.ndn_embed').one('inview',function(){
+                if ($("[src='" + newsIncSrc + "']").length === 0){
+                    var script = document.createElement('script');
+                    script.src = newsIncSrc;
+                    document.getElementsByTagName('head')[0].appendChild(script);
+                }
+             });
+	});
+
+	 var adsData = [];
+     function createAd(adNumber,zone,position,size,siteName,zipCode,random,loggedIn,searchKeyWords,incomeRange,ageRange,sex,interests,tile,outOfPage)
+        {
+            var adInfo = {adNumber: adNumber,zone: zone,position: position,size: size,siteName: siteName,zipCode: zipCode,random: random,loggedIn: loggedIn ,
+                            searchKeyWords: searchKeyWords,incomeRange: incomeRange,ageRange: ageRange,sex: sex,interests: interests,tile: tile,outOfPage: outOfPage};
+            adsData.push(adInfo);
+
+        }
+     var lazyElements = [];
+     function addLazyLoadingComponent(selector){
+         lazyElements.push(selector);
+     }
+     function tpc_mt_readCookie(e){
+         var f=e+"=";
+         //log(document.cookie);
+         var b=document.cookie.split(";");
+         for(var d=0;d<b.length;d++){
+             var a=b[d];
+             while(a.charAt(0)==" "){
+                 a=a.substring(1,a.length);
+             }
+             if(a.indexOf(f)==0){
+                 return a.substring(f.length,a.length);
+             }
+         }
+         return null;
+     }
+     function getTampaBayIDFromCookie() {
+     	var a=tpc_mt_readCookie("udr_sync_tb");
+     	if(!a || a == "null"){
+     		a="";
+     	}
+     	return a;
+     }
+     function getPageSectionFromPath( pathname, depth ) {
+         if (pathname == null) return null;
+         var section = null;
+         if(pathname.length > 0 ) {
+             pathname = pathname.substring( 1 );
+         }
+         else {
+             return null;
+         }
+         if( pathname.indexOf('/') != -1 ) {
+             if(depth == 1) {
+                 return pathname.substring( 0, pathname.indexOf('/'));
+             }
+             else {
+                 pathname = pathname.substring( pathname.indexOf('/'));
+                 return getPageSectionFromPath( pathname, --depth );
+             }
+         }
+         else return null;
+     }
+</script>
+
+<script type="text/javascript" src="/iwov-resources/scripts/tpc_metricsTagging.js"></script>
+<!-- this data comes through Mezzobit for Mezzobit implemented tags; leaving it here for other tags implemented outside of Mezzobit: -->
+<script type="text/javascript" async>
+    var tagProperties = new function() {
+        this.userId = getTampaBayIDFromCookie();
+        this.section = getPageSectionFromPath( window.location.pathname, 1 );
+    }
+    tpc_mt_writeTags(tagProperties);
+</script>
+
+
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.tampabay.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://www.tampabay.com/search/?q={search_term_string}",
+     "query-input": "required name=search_term_string"
+   }
+}
+</script>
+<!--ls:end[head-injection]--><!--ls:begin[script]--><!--ls:end[script]--></head><body><!--ls:begin[body]--><div class="" id="ls-canvas"><div class="topAd" id="ls-row-1"></div><div class="container topNav" id="ls-row-2"><!--ls:begin[component-1362645263130]--><div class="mixed row">
+<div class="col_12">
+<div class="navigation">
+<ul class="menu mobile-only">
+<li class="sections mobile-popup">
+<a href="javascript:void(0)">Sections</a>
+<ul>
+<li>
+<span>My Edition</span>
+<ul>
+<li>
+<a href="/myEdition/">My Edition home page</a>
+</li>
+</ul>
+</li>
+<li>
+<span>Home</span>
+<ul>
+<li>
+<a href="/">Home page</a>
+</li>
+<li>
+<a href="/publication/">Today's Paper</a>
+</li>
+</ul>
+</li>
+<li>
+<span>News</span>
+<ul>
+<li>
+<a href="/news/">Top News</a>
+</li>
+<li>
+<a href="/news/breaking/">Breaking News</a>
+</li>
+<li>
+<a href="http://live.tampabay.com/#AllEvents">Live blog</a>
+</li>
+<li>
+<a href="/news/pinellas/">Pinellas</a>
+</li>
+<li>
+<a href="/news/hillsborough/">Hillsborough</a>
+</li>
+<li>
+<a href="/news/pasco/">Pasco</a>
+</li>
+<li>
+<a href="/news/hernando/">Hernando</a>
+</li>
+<li>
+<a href="/news/florida/">Florida</a>
+</li>
+<li>
+<a href="/news/nationworld/">Nation/World</a>
+</li>
+<li>
+<a href="/news/education/">Education</a>
+</li>
+<li>
+<a href="/news/health/">Health</a>
+</li>
+<li>
+<a href="/news/bizarre/">Bizarre News</a>
+</li>
+<li>
+<a href="/tb-two/">tb-two</a>
+</li>
+<li>
+<a href="http://nieonline.com/tbtimes">NIE</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://weather.tampabay.com">Weather</a>
+</li>
+<li>
+<span>Politics</span>
+<ul>
+<li>
+<a href="/florida-politics/">Politics</a>
+</li>
+<li>
+<a href="/florida-politics/buzz/">The Buzz Blog</a>
+</li>
+<li>
+<a href="/blogs/baybuzz/">Bay Buzz Blog</a>
+</li>
+<li>
+<a href="http://www.politifact.com">Politifact</a>
+</li>
+<li>
+<a href="http://www.politifact.com/florida/">Politifact Florida</a>
+</li>
+<li>
+<a href="/topics/specials/florida-legislature.page">Florida Legislature</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/news/business/">Business</a>
+</li>
+<li>
+<span>Sports</span>
+<ul>
+<li>
+<a href="/sports/">Sports</a>
+</li>
+<li>
+<a href="/sports/stats/">Scores & Stats</a>
+</li>
+<li>
+<a href="/sports/football/bucs/">Bucs</a>
+</li>
+<li>
+<a href="/sports/baseball/rays/">Rays</a>
+</li>
+<li>
+<a href="/sports/hockey/lightning/">Lightning</a>
+</li>
+<li>
+<a href="/sports/colleges/bulls/">Bulls</a>
+</li>
+<li>
+<a href="/sports/colleges/seminoles/">Seminoles</a>
+</li>
+<li>
+<a href="/sports/colleges/gators/">Gators</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/hometeam/">HomeTeam</a>
+</li>
+<li>
+<a href="/sports/golf/">Golf</a>
+</li>
+<li>
+<a href="/sports/outdoors/">Outdoors</a>
+</li>
+<li>
+<a href="/sports/autoracing/">Auto Racing</a>
+</li>
+<li>
+<a href="/sports/soccer/rowdies/">Rowdies</a>
+</li>
+<li>
+<a href="/sports/football/storm/">Storm</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.legacy.com/obituaries/sptimes">Obituaries</a>
+</li>
+<li>
+<span>Things to do</span>
+<ul>
+<li>
+<a href="/things-to-do/">Things To Do</a>
+</li>
+<li>
+<a href="/things-to-do/events/">Events</a>
+</li>
+<li>
+<a href="/things-to-do/food/">Food & Dining</a>
+</li>
+<li>
+<a href="/things-to-do/kids/">Kids</a>
+</li>
+<li>
+<a href="/things-to-do/date-night/">Date night</a>
+</li>
+<li>
+<a href="/things-to-do/deals-and-shopping/">Shopping</a>
+</li>
+<li>
+<a href="/blogs/divas/">Deal Divas blog</a>
+</li>
+<li>
+<a href="/things-to-do/travel/">Florida travel</a>
+</li>
+<li>
+<a href="/things-to-do/movie-times/">Movie times</a>
+</li>
+<li>
+<a href="/things-to-do/music/">Music & concerts</a>
+</li>
+<li>
+<a href="/blogs/soundcheck/">Soundcheck blog</a>
+</li>
+<li>
+<a href="/things-to-do/visualarts/">Arts</a>
+</li>
+<li>
+<a href="/things-to-do/stage/">Stage</a>
+</li>
+<li>
+<a href="/things-to-do/search/">Search</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://video.tampabay.com">Video</a>
+</li>
+<li>
+<a href="/opinion/">Opinion</a>
+</li>
+<li>
+<span>Features</span>
+<ul>
+<li>
+<a href="/features/">Features</a>
+</li>
+<li>
+<a href="/features/good-reads/">Good Reads</a>
+</li>
+<li>
+<a href="/features/magazine/">Floridian Magazine</a>
+</li>
+<li>
+<a href="/bay/">Bay magazine</a>
+</li>
+<li>
+<a href="/features/travel/">Travel</a>
+</li>
+<li>
+<a href="/features/books/">Books</a>
+</li>
+<li>
+<a href="/features/relationships/">Parenting</a>
+</li>
+<li>
+<a href="/features/pets/">Pets</a>
+</li>
+<li>
+<a href="/features/weddings/">Weddings</a>
+</li>
+<li>
+<a href="/features/fashion/">Fashion</a>
+</li>
+<li>
+<a href="/features/seniors/">LifeTimes</a>
+</li>
+<li>
+<a href="/games/">Comics & Games</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://circulars.tampabay.com/d/p/tampabaytimes?locale=en&amp;p=tampabaytimes&amp;stack=featured&amp;utm_campaign=wishabi_1_0&amp;utm_medium=fm_16179&amp;utm_source=fm&amp;utm_term=title">Circulars</a>
+</li>
+<li>
+<span>Entertainment</span>
+<ul>
+<li>
+<a href="/features/entertainment/">Entertainment news</a>
+</li>
+<li>
+<a href="/features/media/">TV & media</a>
+</li>
+<li>
+<a href="/blogs/media/">The Feed blog</a>
+</li>
+<li>
+<a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do">TV listings</a>
+</li>
+<li>
+<a href="/features/movies/">Movies</a>
+</li>
+<li>
+<a href="/things-to-do/movie-times/">Movie times</a>
+</li>
+<li>
+<a href="/blogs/juice/">The Juice blog</a>
+</li>
+<li>
+<a href="/blogs/80s/">Stuck in the '80s blog</a>
+</li>
+</ul>
+</li>
+<li>
+<span>Blogs</span>
+<ul>
+<li>
+<a href="/blogs/">Blogs</a>
+</li>
+<li>
+<a href="/blogs/baybuzz/">Bay Buzz</a>
+</li>
+<li>
+<a href="/blogs/bucs/">Bucs Beat</a>
+</li>
+<li>
+<a href="/blogs/divas/">Deal Divas</a>
+</li>
+<li>
+<a href="/blogs/latest-gadgets/">Gadgets & Gizmos</a>
+</li>
+<li>
+<a href="/blogs/gators/">Gator Report</a>
+</li>
+<li>
+<a href="/blogs/lightning/">Lightning Strikes</a>
+</li>
+<li>
+<a href="/blogs/rays/">The Heater</a>
+</li>
+<li>
+<a href="/florida-politics/buzz/">The Buzz</a>
+</li>
+<li>
+<a href="/blogs/media/">The Feed</a>
+</li>
+<li>
+<a href="/blogs/state/">The State You're In</a>
+</li>
+<li>
+<a href="/blogs/gradebook/">The Gradebook</a>
+</li>
+<li>
+<a href="/blogs/juice/">The Juice</a>
+</li>
+<li>
+<a href="/blogs/soundcheck/">SoundCheck</a>
+</li>
+<li>
+<a href="/blogs/80s/">Stuck in the 80s</a>
+</li>
+<li>
+<a href="/blogs/bulls/">USF Sports Bulletin</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/tbt/">TBT</a>
+</li>
+<li>
+<a href="/sitemap/">Site Map</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="menu">
+<li class="mobile-popup">
+<a href="javascript:void(0)">Services</a>
+<ul>
+<li>
+<a href="/marketing/Apps-landing-page/index.page">Apps</a>
+</li>
+<li>
+<a href="/shopping/">Shop</a>
+</li>
+<li>
+<a href="/marketplace/">Classified</a>
+</li>
+<li>
+<a href="/cars/">Cars</a>
+</li>
+<li>
+<a href="/jobs/">Jobs</a>
+</li>
+<li>
+<a href="/homes/">Homes</a>
+</li>
+<li>
+<a href="/subscribe/#subscriberservices">Subscriber Services</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/marketplace/legal-notices.page">Legal Ads</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/mediakit/">Advertise</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/prlink/">Press releases</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="menu mobile-only mobileSearchMenu">
+<li class="mobile-popup">
+<a class="isIcon search" href="javascript:void(0)"><span>Search</span></a>
+<ul>
+<li>
+<form class="search" action="/search/" method="get">
+<input placeholder="Search" name="q" id="mobileSearchBox" type="search"><input value="" type="submit">
+</form>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="menu util last mobile-only">
+<li class="myEdition profileItem mobile-popup"></li>
+</ul>
+</div>
+<div class="login">
+<ul class="parentMenu" id="login_ul"></ul>
+</div>
+</div>
+</div>
+<!--ls:end[component-1362645263130]--></div><div class="container masthead" id="ls-row-3"><!--ls:begin[component-1359143611990]--><div class="row titleArea">
+<img src="/iwov-resources/images/logo-500.png" class="logo printOnly"><div class="col_12">
+<div class="weatherWidget">
+<style>
+			.weatherWidget__link{
+				position:relative;
+				background:transparent;
+				display:inline-block;
+			}
+			.weatherWidget__link iframe{
+				position:relative;
+				z-index:-1;
+			}
+		</style>
+<a href="../weather1/" class="weatherWidget__link mobile-hide"><a class="weatherWidget__link mobile-hide" href="/weather/">
+<iframe class="mobile-hide" style="width:175px;height:86px" scrolling="no" src="http://www.tbo.com/wx-icon-tampa/"></iframe>
+<div class="wx_link"></div>
+</a></a><a href="../weather1/" class="weatherWidget__link mobile-only"><a style="margin-left:-70px;margin-top:30px;" class="weatherWidget__link mobile-only" href="/weather/">
+<iframe class="mobile-only" style="width:100%;height:86px;display:block;" scrolling="no" src="http://www.tbo.com/wx-icon-tampa/"></iframe>
+<div class="wx_link"></div>
+</a></a>
+<div class="ad desktop-only">
+<div class="tpc_ad_call_adunit" id="tampabay.com/homepage/siteweathersponsor" data-dimensions="175x40" data-targeting="{&quot;zn&quot;:&quot;homepage&quot;,&quot;pos&quot;:&quot;siteweathersponsor&quot;,&quot;tile&quot;:&quot;1&quot;}"></div>
+</div>
+</div>
+<div class="logoArea">
+<h2 class="logo">
+<a href="/">Tampa Bay Times</a>
+</h2>
+<span class="dateTime"><span class="makeHomePage"><a href="javascript:void(window.open('//www.tampabay.com/subscribe/faq.page#Q18','','toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=yes,resizable=no,copyhistory=no,width=600,height=450,left=50,top=200,screenX=50,screenY=200'));">
+				Make us your home page
+			</a></span><span class="dateTimeHere"><script>
+			
+function nth(d) {
+  if(d>3 && d<21) return 'th'; // thanks kennebec
+  switch (d % 10) {
+        case 1:  return "st";
+        case 2:  return "nd";
+        case 3:  return "rd";
+        default: return "th";
+    }
+}
+
+var objToday = new Date(),
+    weekday = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'),
+    dayOfWeek = weekday[objToday.getDay()],
+
+    dayOfMonth = (objToday.getDate() < 10) ? + objToday.getDate() + nth(objToday.getDate()) : objToday.getDate() + nth(objToday.getDate()),
+    months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'),
+    curMonth = months[objToday.getMonth()],
+    curYear = objToday.getFullYear(),
+    curHour = Math.abs( (objToday.getHours() > 12 || objToday.getHours()==0) ? objToday.getHours() - 12 : objToday.getHours() < 10 ? "0" + objToday.getHours() : objToday.getHours()),
+    curMinute = objToday.getMinutes() < 10 ? "0" + objToday.getMinutes() : objToday.getMinutes(),
+    curSeconds = objToday.getSeconds() < 10 ? "0" + objToday.getSeconds() : objToday.getSeconds(),
+    curMeridiem = objToday.getHours() > 11  ? "PM" : "AM";
+var today = curHour + ":" + curMinute + "." + curMeridiem + ", " + dayOfWeek + ", " + curMonth + " " + dayOfMonth + ", " + curYear;
+
+window.onload = document.write(today);
+			
+			</script></span></span>
+</div>
+<div class="utilWidget mobile-hide">
+<ul class="menu">
+<li>
+<a href="/publication">Today's Paper</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/subscribe/">E-Newspaper</a>
+</li>
+<li class="popup tablet-only">
+<a href="#">Search</a>
+<ul>
+<li>
+<form method="get" action="/search/" class="search">
+<input name="q" placeholder="Search" id="tabletSearchBox" type="search"><input value="" type="submit">
+</form>
+</li>
+</ul>
+</li>
+</ul>
+<form method="get" action="/search/" class="search desktop-only">
+<input placeholder="Search" id="searchBox" name="q" type="search"><input value="" type="submit">
+</form>
+<div class="ad desktop-only">
+<div class="tpc_ad_call_adunit" id="tampabay.com/homepage/sitesearchsponsor" data-dimensions="175x40" data-targeting="{&quot;zn&quot;:&quot;homepage&quot;,&quot;pos&quot;:&quot;sitesearchsponsor&quot;,&quot;tile&quot;:&quot;1&quot;}"></div>
+</div>
+</div>
+</div>
+</div>
+<!--ls:end[component-1359143611990]--></div><div class="container nav" id="ls-row-4"><!--ls:begin[component-1359061704627]--><div class="row sections">
+<div class="col_12">
+<ul id="sectionMenu" class="mainNav">
+<li class="noDetails">
+<a href="/">Home</a>
+</li>
+<li data-submenu="#myedDetails" class="myEditionNavItem">
+<a href="/myEdition/">My Edition</a>
+</li>
+<li data-submenu="#newsDetails" class="newsNavItem">
+<a href="/news/">News</a>
+</li>
+<li data-submenu="#politicsDetails" class="politicsNavItem">
+<a href="/florida-politics/">Politics</a>
+</li>
+<li data-submenu="#sportsDetails" class="sportsNavItem">
+<a href="/sports/">Sports</a>
+</li>
+<li data-submenu="#thingsToDoDetails" class="ttdNavItem">
+<a href="/things-to-do/">Things to Do</a>
+</li>
+<li class="videoNavItem">
+<a href="http://video.tampabay.com/">Video</a>
+</li>
+<li data-submenu="#opinionDetails" class="opinionNavItem">
+<a href="/opinion/">Opinion</a>
+</li>
+<li data-submenu="#moreDetails" class="moreNavItem">
+<a href="/features/">Features &amp; More</a>
+</li>
+<li data-submenu="#circularsDetails" class="circularsNavItem">
+<a href="/circulars/">Circulars</a>
+</li>
+</ul>
+</div>
+</div><div class="row sectionDetails">
+<div id="newsDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/news/breaking/">Breaking news</a>
+</li>
+<li>
+<a href="http://live.tampabay.com/#AllEvents">Live blog</a>
+</li>
+<li>
+<a href="/news/business/">Business/Finance</a>
+</li>
+<li>
+<a href="/news/pinellas/">Pinellas</a>
+</li>
+<li>
+<a href="/news/hillsborough/">Hillsborough</a>
+</li>
+<li>
+<a href="/news/pasco/">Pasco</a>
+</li>
+<li>
+<a href="/news/hernando/">Hernando</a>
+</li>
+<li>
+<a href="/news/florida/">Florida</a>
+</li>
+<li>
+<a href="/news/education/">Education</a>
+</li>
+<li>
+<a href="/news/health/">Health</a>
+</li>
+<li>
+<a href="http://www.legacy.com/obituaries/tampabaytimes/">Obituaries</a>
+</li>
+<li>
+<a href="#moreNewsSections" class="openDrawer">More</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_4 featuredArticle">
+<div class="content">
+<a href="/news/judge-orders-mental-health-evaluation-for-steven-lorenzo-in-torture-murder/2342867"><img src="/resources/images/dti/rendered/2017/10/504490057_20074510_4col.jpg" alt=""><!-- section: news--><h4>News</h4>
+<h3>Judge orders mental health evaluation for Steven Lorenzo in torture murder case</h3>
+</a>
+<div id="moreNewsSections" class="drawer">
+<div class="fractionRow">
+<div class="oneHalf">
+<ul>
+<li>
+<a href="/news/nationworld/">US/World</a>
+</li>
+<li>
+<a href="/news/bizarre/">Bizarre news</a>
+</li>
+<li>
+<a href="http://tampa-weather.tampabay.com/US/FL/Tampa.html">Weather</a>
+</li>
+<li>
+<a href="/topics/specials/hurricane-preparedness.page">Hurricane guide</a>
+</li>
+<li>
+<a href="/topics/">Special topics</a>
+</li>
+<li>
+<a href="/topics/specials/social-media/">Social media</a>
+</li>
+<li>
+<a href="http://nieonline.com/tbtimes/">Newspaper in Education (NIE)</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col_4 topNews desktop-only">
+<div class="content">
+<h2>Top News</h2>
+<ul class="content">
+<li>
+<a href="/news/publicsafety/accidents/eight-months-pregnant-she-saved-her-mothers-life-but-stabbed-her-dog-to/2345107">Eight months pregnant, she saved her mother's life, but stabbed her dog to death</a>
+</li>
+<li>
+<a href="/news/publicsafety/accidents/singe-engine-plane-crashes-at-st-pete-clearwater-airport-injures-one/2345104">Single-engine plane crashes at St. Pete-Clearwater airport, injures one</a>
+</li>
+<li>
+<a href="/news/bizarre/a-woman-tweeted-show-me-pictures-of-weird-stuff-in-your-parents-house-the/2345102">A woman tweeted 'show me pictures of weird stuff in your parents house.' The replies were amazing.</a>
+</li>
+<li>
+<a href="/news/weather/after-rainy-thanksgiving-weekend-brings-sunny-skies-to-tampa-bay/2345094">After rainy Thanksgiving, weekend brings sunny skies to Tampa Bay</a>
+</li>
+<li>
+<a href="/news/publicsafety/crime/florida-teen-detained-at-canada-border-grandmother-found-dead/2345093">Florida teen wanted in connection with grandmother's death captured at Canadian border</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_2 blogs last">
+<div class="content">
+<h2>News blogs</h2>
+<ul>
+<li>
+<h3>
+<a href="/photo-gallery/alleyes/">All Eyes photo blog</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/media/">The Feed (Pop culture & media)</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/latest-gadgets/">Gadgets & Gizmos</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/gradebook/">The Gradebook (Education)</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/divas/">Deal Divas</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/">LIST OF ALL BLOGS</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div id="politicsDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/florida-politics/buzz/">The Buzz blog</a>
+</li>
+<li>
+<a href="/news/politics/jebio/">2016 Campaign</a>
+</li>
+<li>
+<a href="/blogs/baybuzz/">Bay Buzz blog</a>
+</li>
+<li>
+<a href="http://www.politifact.com">PolitiFact</a>
+</li>
+<li>
+<a href="http://www.politifact.com/florida/">PolitiFact Florida</a>
+</li>
+<li>
+<a href="http://www.politifact.com/punditfact/">PunditFact</a>
+</li>
+<li>
+<a href="/topics/specials/florida-legislature.page">Florida Legislature</a>
+</li>
+<li>
+<a href="/topics/specials/marijuana.page">Medical marijuana</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_2 blogs last">
+<div class="content">
+<h2>Political writers</h2>
+<ul>
+<li>
+<h3>
+<a href="/writers/adam-c-smith/">Adam Smith</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/steve-bousquet/">Steve Bousquet</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/alex-leary/">Alex Leary</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/michael-auslen/">Michael Auslen</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/jeremy-wallace/">Jeremy Wallace</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div id="sportsDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/sports/stats/">Scores & stats</a>
+</li>
+<li>
+<a href="/sports/baseball/rays/">Rays</a>
+</li>
+<li>
+<a href="/sports/football/bucs/">Bucs</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/topics/specials/2017-nfl-draft.page">2017 NFL Draft</a>
+</li>
+<li>
+<a href="/sports/hockey/lightning/">Lightning</a>
+</li>
+<li>
+<a href="/sports/colleges/bulls/">Bulls</a>
+</li>
+<li>
+<a href="/sports/colleges/seminoles/">Seminoles</a>
+</li>
+<li>
+<a href="/sports/colleges/gators/">Gators</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/hometeam/">HomeTeam</a>
+</li>
+<li>
+<a href="/sports/outdoors/">Outdoors</a>
+</li>
+<li>
+<a href="/sports/soccer/rowdies/">Rowdies</a>
+</li>
+<li>
+<a href="#moreSportsSections" class="openDrawer">More</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_4 featuredArticle">
+<div class="content">
+<a href="/sports/football/bucs/no-clear-cut-answer-to-whether-ailing-bucs-qb-jameis-winston-should-play/2342927"><img src="/resources/images/dti/rendered/2017/10/C4Scover103117_20263097_4col.jpg" alt=""><!-- section: bucs--><h4>Bucs</h4>
+<h3>No clear-cut answer to whether ailing Bucs QB Jameis Winston should play</h3>
+</a>
+<div id="moreSportsSections" class="drawer">
+<div class="fractionRow">
+<div class="oneHalf">
+<ul>
+<li>
+<a href="/sports/golf/">Golf</a>
+</li>
+<li>
+<a href="/sports/autoracing/">Auto Racing</a>
+</li>
+<li>
+<a href="/sports/football/storm/">Storm</a>
+</li>
+<li>
+<a href="/projects/2017/sports/tampa-bay-rays-opening-day-gif/">Rays Opening Day gifs</a>
+</li>
+<li>
+<a href="/projects/2017/sports/grapefruit-league-spring-training-florida-baseball/">Spring Training</a>
+</li>
+<li>
+<a href="/topics/people/steven-stamkos.page">Steven Stamkos</a>
+</li>
+<li>
+<a href="/topics/people/jameis-winston.page">Jameis Winston</a>
+</li>
+<li>
+<a href="topics/people/evan-longoria.page">Evan Longoria</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col_4 topNews desktop-only">
+<div class="content">
+<h2>Top News</h2>
+<ul class="content"></ul>
+</div>
+</div>
+<div class="col_2 blogs last">
+<div class="content">
+<h2>Sports blogs</h2>
+<ul>
+<li>
+<h3>
+<a href="/blogs/bucs/">Bucs Beat</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/rays/">The Heater (Rays)</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/lightning/">Lightning Strikes</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/bulls/">USF Sports Bulletin</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/gators/">Sunshine State Report</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/">LIST OF ALL BLOGS</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div id="thingsToDoDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/things-to-do/events/">Events</a>
+</li>
+<li>
+<a href="/things-to-do/food/">Food & dining</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/projects/2017/food/restaurants/50-best-cheap-restaurants-tampa-bay-st-petersburg/">Top 50 restaurants 2017</a>
+</li>
+<li>
+<a href="/things-to-do/food/cooking/">Cooking</a>
+</li>
+<li>
+<a href="/things-to-do/kids/">Kids</a>
+</li>
+<li>
+<a href="/things-to-do/date-night/">Date night</a>
+</li>
+<li>
+<a href="/things-to-do/deals-and-shopping/">Shopping/Divas</a>
+</li>
+<li>
+<a href="/things-to-do/music/">Music & concerts</a>
+</li>
+<li>
+<a href="/things-to-do/travel/">Florida travel</a>
+</li>
+<li>
+<a href="/things-to-do/stage/">Stage</a>
+</li>
+<li>
+<a href="/things-to-do/visualarts/">Arts</a>
+</li>
+<li>
+<a href="/things-to-do/movie-times/">Movie times</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_4 featuredArticle">
+<div class="content">
+<a href="/things-to-do/events/top-things-to-do-in-tampa-bay-for-the-week-of-oct-30-nov-5/2342790"><img src="/resources/images/dti/rendered/2017/10/B4s_halloween103017_20262943_4col.jpg" alt=""><!-- section: events--><h4>Events</h4>
+<h3>Top things to do this week</h3>
+</a>
+<div id="moreT2DoSections" class="drawer">
+<div class="fractionRow"></div>
+</div>
+</div>
+</div>
+<div class="col_4 topNews desktop-only">
+<div class="content">
+<h2>Top News</h2>
+<ul class="content"></ul>
+</div>
+</div>
+<div class="col_2 featuredArticle last">
+<div class="content">
+<h2>Blogs &amp; Neighborhoods</h2>
+<ul>
+<li>
+<h3>
+<a href="/blogs/divas/">Deal Divas</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/soundcheck/">Soundcheck</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/downtown-tampa/">Downtown Tampa</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/south-tampa/">South Tampa</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/ybor-city/">Ybor City</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/downtown-st-petersburg/">Downtown St. Pete</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/tarpon-springs/">Tarpon Springs</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/south-pinellas-beaches/">South Pinellas Beaches</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/west-pasco/">West Pasco</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/things-to-do/neighborhoods/">MORE NEIGHBORHOODS</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div id="opinionDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/opinion/">Editorials & letters</a>
+</li>
+<li>
+<a href="/opinion/perspective/">Perspective</a>
+</li>
+<li>
+<a href="/letters/">Submit a letter to the editor</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_4 featuredArticle">
+<div class="content">
+<a href="/opinion/editorials/editorial-corcoran-lawsuit-against-tampa-is-another-assault-on-home-rule/2342902"><img src="/resources/images/dti/rendered/2017/10/corcoran_edit_20268927_4col.jpg" alt=""><!-- section: editorials--><h4>Editorials</h4>
+<h3>Editorial: Corcoran lawsuit against Tampa is another assault on home rule</h3>
+</a>
+<div id="moreOpinionSections" class="drawer">
+<div class="fractionRow"></div>
+</div>
+</div>
+</div>
+<div class="col_4 topNews desktop-only">
+<div class="content">
+<h2>Top Opinion</h2>
+<ul class="content">
+<li>
+<a href="/opinion/editorials/editorial-protect-bayfronts-safety-net-of-care/2345045">Editorial: Protect Bayfront's safety net of care</a>
+</li>
+<li>
+<a href="/opinion/editorials/editorial-strengthening-the-ties-that-bind-in-seminole-heights-following-4/2345043">Editorial: Strengthening the ties that bind in Seminole Heights following 4 killings</a>
+</li>
+<li>
+<a href="/opinion/editorials/editorial-congress-should-help-florida-agriculture-recover-from-irma/2345042">Editorial: Congress should help Florida agriculture recover from Irma</a>
+</li>
+<li>
+<a href="/opinion/columns/column-colin-kaepernick-and-the-myth-of-the-good-protest/2345040">Column: Colin Kaepernick and the myth of the 'good' protest</a>
+</li>
+<li>
+<a href="/opinion/columns/column-trump-is-assaulting-our-free-press-but-he-also-has-a-point/2345039">Column: Trump is assaulting our free press. But he also has a point.</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_2 featuredArticle last">
+<div class="content">
+<h2>Columnists</h2>
+<ul>
+<li>
+<h3>
+<a href="/writers/tim-nickens/">Tim Nickens</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/bill-maxwell/">Bill Maxwell</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/daniel-ruth/">Daniel Ruth</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/sue-carlton/">Sue Carlton</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/john-romano/">John Romano</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/ernest-hooper/">Ernest Hooper</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/writers/dan-dewitt/">Dan DeWitt</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div id="moreDetails" class="detailMenu">
+<div class="col_2 childSections">
+<div class="content">
+<ul>
+<li>
+<a href="/features/">Features</a>
+</li>
+<li>
+<a href="/features/good-reads/">Good reads</a>
+</li>
+<li>
+<a href="/features/entertainment/">Entertainment news</a>
+</li>
+<li>
+<a href="/features/magazine/">Floridian magazine</a>
+</li>
+<li>
+<a href="/bay/">Bay magazine</a>
+</li>
+<li>
+<a href="/features/books/">Books</a>
+</li>
+<li>
+<a href="/features/travel/">Travel</a>
+</li>
+<li>
+<a href="/features/pets/">Pets</a>
+</li>
+<li>
+<a href="/features/parenting/">Parenting</a>
+</li>
+<li>
+<a href="http://www.tampabay.com/games/">Games</a>
+</li>
+<li>
+<a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=94b">TV listings</a>
+</li>
+<li>
+<a href="/things-to-do/movie-times/">Movie times</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_4 featuredArticle">
+<div class="content">
+<a href="/news/humaninterest/want-to-be-santa-get-used-to-tough-questions-and-heartbreaking-requests/2340912"><img src="/resources/images/dti/rendered/2017/10/504567519_20151362_4col.jpg" alt=""><!-- section: humaninterest--><h4>
+						Human Interest
+					</h4>
+<h3>Santas share heartbreaking, hilarious 'war stories' from the mall</h3>
+</a>
+<div id="moreMoreSections" class="drawer">
+<div class="fractionRow"></div>
+</div>
+</div>
+</div>
+<div class="col_4 topNews desktop-only">
+<div class="content">
+<h2>Top News</h2>
+<ul class="content">
+<li>
+<a href="/features/books/louise-erdrichs-future-home-of-the-living-god-a-dystopian-thriller-about/2344928">Louise Erdrich's 'Future Home of the Living God' a dystopian thriller about evolutionary breakdown</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col_2 featuredArticle last">
+<div class="content">
+<a id="tbtLink" href="/tbt/"></a>
+<h2>Special topics</h2>
+<ul>
+<li>
+<h3>
+<a href="/topics/">A-Z TOPIC INDEX</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/photo-gallery/alleyes/">All Eyes photo blog</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/topics/specials/social-media/">Social media</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/topics/specials/worst-charities.page">Worst Charities</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/topics/specials/scientology.page">Scientology</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/features/seniors/">LifeTimes</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="http://www.seniorlivingonline.com">Senior Living Guide</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/blogs/">BLOG INDEX</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/sitemap/">SITE MAP</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="/company/contact-us">CONTACT US</a>
+</h3>
+</li>
+</ul>
+</div>
+</div>
+<a class="closeButton" title="Close Popup" href="#"></a>
+</div>
+<div class="detailMenu" id="myedDetails"></div>
+</div><div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav secondLevel news">
+                   <li class="breaking"> <a href="/news/breaking/">Breaking news</a> </li>
+                   <li class="live"> <a href="http://live.tampabay.com/#AllEvents">Live blog</a> </li>
+                    <li class="weather"> <a href="http://tampa-weather.tampabay.com/US/FL/Tampa.html">Weather</a> </li>
+                   <li> <a href="http://www.legacy.com/obituaries/tampabaytimes/">Obituaries</a> </li>
+                   <li class="business"> <a href="/news/business/">Business</a> </li>
+                  <li class="pinellas"> <a href="/news/pinellas/">Pinellas</a> </li>
+                  <li class="hillsborough"> <a href="/news/hillsborough/">Hillsborough</a> </li>
+                  <li class="pasco"> <a href="/news/pasco/">Pasco</a> </li>
+                  <li class="hernando"> <a href="/news/hernando/">Hernando</a> </li>
+                  <li class="florida"> <a href="/news/florida/">Florida</a> </li>
+                  <li class="nationworld"> <a href="/news/nationworld/">US/World</a> </li>
+                   <li class="education"> <a href="/news/education/">Education</a> </li>
+                  <li class="health"> <a href="/news/health/">Health</a> </li>
+                   <li class="bizarre"> <a href="/news/bizarre/">Bizarre</a> </li>
+                  <li class="blogs"> <a href="/blogs/">Blogs</a> </li>
+              </ul>
+              </div>
+            </div>
+
+           <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav secondLevel politics">
+                  <li class="the-buzz-florida-politics"> <a href="/blogs/the-buzz-florida-politics/">Buzz Blog</a> </li>
+                   <li class="jebio"> <a href="/news/politics/jebio/">2016 Campaign</a> </li>
+                  <li class="bay-buzz"> <a href="/blogs/baybuzz/">Bay Buzz Blog</a> </li>
+                  <li class="politifact"> <a href="http://www.politifact.com">Politifact</a> </li>
+                  <li class="politifact-florida"> <a href="http://www.politifact.com/florida/">Politifact Florida</a> </li>
+                  <li class="punditfact"> <a href="http://www.politifact.com/punditfact/">PunditFact</a> </li>
+                  <li class="florida-legislature"> <a href="/topics/specials/florida-legislature.page">Florida Legislature</a> </li>
+                  </ul>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav secondLevel sports">
+                   <li class="scores"><a href="/sports/stats/">Scores/stats</a></li>
+                   <li class="rays"><a href="/sports/baseball/rays/">Rays</a></li>
+                  <li class="bucs"><a href="/sports/football/bucs/">Bucs</a></li>
+                  <li class="lightning"><a href="/sports/hockey/lightning/">Lightning</a></li>
+                  <li class="gators"><a href="/sports/colleges/gators/">UF</a></li>
+                  <li class="seminoles"><a href="/sports/colleges/seminoles/">FSU</a></li>
+                  <li class="bulls"><a href="/sports/colleges/bulls/">USF</a></li>
+                  <li class="hometeam"><a href="http://hometeam.tampabay.com/">High School</a></li> <!-- "popup" class on this li triggers jquery high school third-level nav appearance on hover, also necessary for style. -->
+                  <li class="golf"><a href="/sports/golf/">Golf</a></li>
+                  <li class="outdoors"><a href="/sports/outdoors/">Outdoors</a></li>
+                  <li class="autoracing"><a href="/sports/autoracing/">Auto Racing</a></li>
+                  <li class="rowdies"> <a href="/sports/soccer/rowdies/">Rowdies</a> </li>
+                  <li class="storm"> <a href="/sports/football/storm/">Storm</a> </li>
+                   <li class="bucsbeat"> <a href="/blogs/bucs">Bucs Beat</a> </li>
+                  <li class="heater"> <a href="/blogs/rays/">The Heater</a> </li>
+                  <li class="lightningstrikes"> <a href="/blogs/lightning/">Lightning Strikes</a> </li>
+                  <li class="usfbulletin"> <a href="/blogs/bulls">USF Sports Bulletin</a> </li>
+                  <li class="gatorreport"> <a href="/blogs/gators/">Sunshine State Report</a> </li>
+                   </ul>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav secondLevel features">
+                  <li class="features"><a href="/features/">Features</a></li>
+		  <li class="good-reads"><a href="/features/good-reads/">Good Reads</a></li>
+		  <li class="entertainment"><a href="/features/entertainment/">Entertainment</a></li>
+                  <li class="magazine"><a href="/features/magazine/">Floridian magazine</a></li>
+                   <li class="magazine"><a href="/bay/">Bay magazine</a></li>
+                  <li class="topics"><a href="/topics/">Special Topics</a></li>
+                  <li class="blogs"><a href="/blogs/">Blogs</a></li>
+                  <li class="sitemap"><a href="/sitemap/">Site Map</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav secondLevel things-to-do">
+                  <li class="food"><a href="/things-to-do/food/">Food &amp; Dining</a></li>
+                  <li class="kids"><a href="/things-to-do/kids/">Kids</a></li>
+                  <li class="events"><a href="/things-to-do/events/">Events</a></li>
+                  <li class="date-night"><a href="/things-to-do/date-night/">Date Night</a></li>
+                  <li class="deals-and-shopping"><a href="/things-to-do/deals-and-shopping/">Deals & Shopping</a></li>
+                  <li class="florida-travel"><a href="/things-to-do/travel/">FL Travel</a></li>
+                  <li class="movies"><a href="/features/movies/">Movies</a></li> 
+                 <li class="movie-times"><a href="/things-to-do/movie-times/">Movie Times</a></li> 
+                   <li class="music"><a href="/things-to-do/music/">Music & Shows</a></li>
+                  <li class="arts"><a href="/things-to-do/visualarts/">Arts</a></li>
+                   <li class="arts"><a href="/things-to-do/stage/">Stage</a></li>
+                   <li class="onscene"><a href="/things-to-do/on-scene/index.page">OnScene Videos</a></li>
+                  <li class="neighborhoods"><a href="/things-to-do/neighborhoods/">Neighborhoods</a></li>
+                  <li class="blogs"> <a href="/blogs/">Blogs</a> </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel features" id="features">
+                 <li class="travel"> <a href="/features/travel/">Travel</a> </li>
+                   <li class="books"> <a href="/features/books/">Books</a> </li>
+                   <li class="relationships"> <a href="/features/parenting/">Relationships</a> </li>
+                   <li class="pets"> <a href="/features/pets/">Pets</a> </li>
+                   <li class="weddings"> <a href="/features/weddings/">Weddings</a> </li>
+                   <li class="fashion"> <a href="/features/fashion/">Fashion</a> </li>
+                   <li class="popculture"> <a href="/features/pop-culture/">Pop Culture</a> </li>
+                    <li class="lifetimes"> <a href="/features/seniors/">LifeTimes</a> </li>
+                    <li class="seniorliving"> <a href="http://www.seniorlivingonline.com">Senior Living Guide</a> </li>
+                 </ul>
+              </div>
+            </div>         
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel entertainment" id="entertainment">
+                  <li class="media"> <a href="/features/media/">TV & Media</a> </li>
+                   <li class="feed"> <a href="/blogs/media/">The Feed</a> </li>
+                   <li class="tvlistings"> <a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do">TV listings</a> </li>
+                   <li class="movies"> <a href="/features/movies/">Movies</a> </li>
+                   <li class="movies-times"> <a href="/things-to-do/movie-times/">Movie Times</a> </li>
+                   <li class="juice"> <a href="/blogs/juice/">Juice</a> </li>
+                   <li class="blog80s"> <a href="/blogs/80s/">Stuck in the '80s</a> </li>
+                    </ul>
+              </div>
+            </div>  
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel sports highSchool" id="sportsHighSchool"> <!-- "sportsHighSchool" ID on this ul so jquery can make it display on hover commented above. -->
+                  <li><a href="/hometeam/">Home</a></li>
+                  <li><a href="/hometeam/blog/">News</a></li>
+                  <li><a href="/hometeam/photos/">Photos</a></li>
+                  <li><a href="/hometeam/games/">Scoreboard</a></li>
+                  <li><a href="/hometeam/">Teams</a></li>
+                  <li><a href="/blogs/hometeam/">Blog</a></li>
+                  <li><a href="/hometeam/video/">Video</a></li>
+                  <li><a href="/hometeam/recruiting/">Recruiting</a></li>
+                  <li><a href="/hometeam/standings/">Standings</a></li>
+                  <li><a href="/hometeam/leaders/">Leaders</a></li>				  
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel news hillsborough" id="newsHillsborough"> <!-- "newsHernando" ID on this ul so jquery can make it display on hover commented above. -->
+                   <li class=""><a href="/news/hillsborough/crime/">Hillsborough crime reports</a></li>
+                   <li class=""><a href="/news/hillsborough/city-times/">South and Central Tampa</a></li>
+                  <li class=""><a href="/news/hillsborough/brandon/">Brandon and South Shore</a></li>
+                  <li class=""><a href="/news/hillsborough/north-tampa/">Northwest Hillsborough and New Tampa</a></li>
+                  </ul>
+              </div>
+            </div>
+           <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel news pinellas" id="newsPinellas">
+                   <li class=""><a href="/news/pinellas/crime/">Pinellas crime reports</a></li>
+                  <li class="neighborhoodtimes"><a href="/news/pinellas/neighborhoodtimes/">St. Pete Times</a></li>
+                  <li class="clearwater"><a href="/news/pinellas/clearwater/">Clearwater & North Pinellas</a></li>
+                  </ul>
+              </div>
+            </div>
+              <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel news pasco" id="newsPasco">
+                   <li class=""><a href="/things-to-do/search/?contentType=events&ttdSearchPeriod=all&startDate=&endDate=&q=pasco">Pasco things to do</a></li>
+                  </ul>
+              </div>
+            </div>
+              <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel news hernando" id="newsHernando">
+                   <li class=""><a href="/news/hernando/crime/">Hernando crime reports</a></li>
+                   <li class=""><a href="/things-to-do/search/?contentType=events&ttdSearchPeriod=all&startDate=&endDate=&q=hernando">Hernando things to do</a></li>
+                 </ul>
+              </div>
+            </div>
+           <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel news business" id="newsBusiness"> <!-- "newsHernando" ID on this ul so jquery can make it display on hover commented above. -->
+                 <li class="finance"><a href="http://www.myinvestkit.com/tampabay.com/539/loc">Finance and Markets</a></li>
+                  <li class="deals-and-shopping"><a href="/things-to-do/deals-and-shopping/">Deals and Shopping</a></li>
+               </ul>
+              </div>
+            </div>
+            
+            <div class="row">
+              <div class="col_12">
+                <ul class="menu flex subNav thirdLevel things-to-do food" id="ttdFoodAndDining"> 
+                <li><a href="/things-to-do/food/cooking/">Cooking</a></li>
+                 <li><a href="/things-to-do/food/cookclub/">Recipes</a></li>                  
+                 <li><a href="/things-to-do/food/dining/">Restaurants</a></li>
+                  <li><a href="/things-to-do/food/spirits/">Bars & Spirits</a></li>
+                   <li><a href="/topics/specials/craft-beer.page">Craft Beer</a></li>
+                  <li><a href="/things-to-do/food/tastetest/">Taste Test</a></li>
+                </ul>
+              </div>
+            </div>
+<!--ls:end[component-1359061704627]--></div><div class="container main sectionLanding" id="ls-row-5"><div class="row mobile-hide" id="ls-row-5-col-1-row-1"></div><div class="row" id="ls-row-5-col-1-row-2"></div><div class="row" id="ls-row-5-col-1-row-3"></div><div class="row" id="ls-row-5-col-1-row-4"><div class="col_8 selfclear" id="ls-row-5-col-1-row-4-col-1-row-1"><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-1"><!--ls:begin[component-1359061704629]--><h2>Sorry, we couldn't find what you were looking for.</h2>
+<p style="margin-top:1.5em">It's possible you reached a page that no longer exists on our site.</p>
+<p>Use our navigation bar, <a href="/sitemap/">site map</a> or site search box above to help you locate the content you seek.</p>
+<p>If there is a technical issue, our technical team has already been notified.</p>
+<p>Thanks for visiting <a href="/">tampabay.com</a>.</p>
+<!--ls:end[component-1359061704629]--></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-2"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-3"><div class="col_4 tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-3-col-1-row-1"></div><div class="col_4 last tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-3-col-2-row-1"></div></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-4"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-5"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-6"><div class="col_4 tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-6-col-1-row-1"></div><div class="col_4 last tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-6-col-2-row-1"></div></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-7"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-8"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-9"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-10"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-11"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-12"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-13"></div><div class="childRow tertiaryFeature" id="ls-row-5-col-1-row-4-col-1-row-1-col-1-row-14"></div></div><div class="col_4 sidebar last" id="ls-row-5-col-1-row-4-col-2-row-1"><div class="col_4 one" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-1"></div><div class="col_4 two" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-2"></div><div class="col_4 three" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-3"></div><div class="col_4 one" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-4"></div><div class="col_4 two" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-5"></div><div class="col_4 three" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-6"></div><div class="col_4 one" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-7"></div><div class="col_4 two" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-8"></div><div class="col_4 three" id="ls-row-5-col-1-row-4-col-2-row-1-col-1-row-9"></div></div></div><div class="row" id="ls-row-5-col-1-row-5"></div><div class="row" id="ls-row-5-col-1-row-6"></div><div class="row bottomAd" id="ls-row-5-col-1-row-7"></div></div><div class="container footer" id="ls-row-6"><!--ls:begin[component-1362645263132]--> <div class="row">
+	<div class="col_2">
+		<img alt="Tampa Bay Times" class="logo" src="/iwov-resources/images/logo-stacked-reverse.png" /> 
+		<form action="/search/" class="search" method="get">
+			<label for="searchBox3">
+				Search 
+			</label>
+			<input id="searchBox3" placeholder="Search" name="q" type="search" /> <input type="submit" value="" /> 
+		</form>
+		<h3>
+			Archives 
+		</h3>
+		<ul>
+			<li>
+				<a href="/search/">
+					Search page 
+				</a>
+			</li>
+		</ul>
+		<h3>
+			Site map 
+		</h3>
+		<ul>
+			<li>
+				<a href="/sitemap/">
+					Index of site pages 
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="col_2">
+		<h3>Subscribe</h3> 
+		<ul>
+			<li>
+				<a href="/subscribe/">Subscribe</a> 
+			</li>
+			<li>
+				<a href="/subscribe/#subscriberservices">Renew</a>
+			</li>
+			<li>
+				<a href="/subscribe/#subscriberservices">Customer service</a>
+			</li>
+		</ul>
+		<h3>E-Newspaper</h3> 
+		<ul>
+			<li>
+				<a href="/subscribe/">Subscribe</a> 
+			</li>
+			<li>
+				<a href="http://eedition.tampabay.com/">Subscriber sign-in</a> 
+			</li>
+                   </ul>
+              </div>
+	<div class="col_2">
+        <h3>Contact us</h3> 
+		<ul>
+		<li>
+		<a href="/company/contact-us">Directory</a> 
+			
+		</li>
+		<li>
+		<a href="mailto: custserv@tampabay.com" custserv@tampabay.com</a>Email Customer Service</a> 
+			
+		</li>
+		<li>
+		Call Customer Service:   1-800-888-7012 
+		</li>
+		</ul>
+	<h3>Email newsletters</h3> 
+		<ul>
+			<li>
+			<a href="http://email1.tampabay.com/tbt/tbtreg2.do">Sign up</a> 
+			</li>
+			</li>
+		</ul>
+	           <h3>Text alerts</h3> 
+		<ul>
+			<li>
+			<a href="http://email1.tampabay.com/tbt/tbtreg2.do#mobileForm">Sign up</a> 
+			</li>
+			</li>
+		</ul>
+               
+	</div>
+	<div class="col_2">
+		<h3>Advertise with us</h3> 
+		<ul>
+			<li>
+				<a href="/placead/">Place an ad</a> 
+			</li>
+			<li>
+				<a href="http://marketing-advertising.tampabay.com/audience-market/">Market info</a> 
+			</li>
+			<li>
+				<a href="/mediakit/">Media kit</a> 
+		       </li>
+			<li>
+				<a href="/cars/">Find Cars on AutoTrader.com</a> 
+		       </li>
+		</ul>
+              <h3>Join us</h3> 
+		<ul>
+			<li>
+				<a href="/company/">About us</a>  
+			</li>
+			<li>
+				<a href="/company/join-us">Times jobs</a> | <a href="/company/join-us/internships">Internships</a> 
+			</li>
+			<li>
+				<a href="/distributor/">Deliver the paper</a> 
+			</li>
+		</ul>
+	</div>
+	<div class="col_4 last">
+		<h3>Times-sponsored events</h3> 
+		<ul>
+			<li>
+				<a href="http://tampabay.com/expos/">Click here for a directory of all Times consumer shows</a> 
+			</li>
+		</ul>
+		<h3>Tampa Bay Times Fund Inc.</h3> 
+		<ul>
+			<li>
+				<a href="/company/times-fund/grants">Grants</a> 
+			</li>
+			<li>
+				<a href="/company/times-fund/scholarships">Scholarships</a> 
+			</li>
+		</ul>
+		<h3>Times brand merchandise</h3> 
+		<ul>
+			<li>
+				<a href="http://www.tampabay.com/photosales/">Photo reprints and licensing</a> 
+			</li>
+			<li>
+				<a href="http://www.tampabaytimesreprints.com">Article reprints and licensing</a> 
+			</li>
+                        </ul>
+             </div>	    
+           <div class="row">
+	 <div class="col_12">
+	 	<div class="row bottomNav">
+			<ul class="menu flex sections">
+				<li>
+					<a href="/">Home</a> 
+				</li>
+				<li>
+					<a href="/news/">News</a> 
+				</li>
+				<li>
+					<a href="/news/politics/">Politics</a> 
+				</li>
+				<li>
+					<a href="/sports/">Sports</a> 
+				</li>
+				<li>
+					<a href="/things-to-do/">Things To Do</a> 
+				</li>
+				<li>
+					<a href="/video/">Video</a> 
+				</li>
+				<li>
+					<a href="/opinion/">Opinion</a> 
+				</li>
+			</ul>
+			<ul class="menu flex services">
+				<li>
+					<a href="/marketplace/">Classifieds</a> 
+				</li>
+				<li>
+					<a href="/cars/">Cars</a> 
+				</li>
+				<li>
+					<a href="/jobs/">Jobs</a> 
+				</li>
+				<li>
+					<a href="/homes/">Homes</a> 
+				</li>
+				<li>
+					<a href="http://www.tampabay.com/marketplace/legal-notices.page">Legal Ads</a> 
+				</li>
+				<li>
+					<a href="http://www.tampabay.com/shopping/">Shop</a> 
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+</div>
+<!--ls:end[component-1362645263132]--><!--ls:begin[component-1362645263134]--><script xmlns:tbt="http://www.tampabay.com" src="http://www.tampabay.com/universal/scripts/omniture/latest_tb.js" type="text/javascript"></script><script type="text/javascript">
+			
+				function ucwords( words ) {
+					return (words + '').replace(/^([a-z])|\s+([a-z])/g, function (words) {
+						return words.toUpperCase();
+					});
+				}
+			
+			var attempt = new function() {
+				this.counter = 0;
+				this.max_time = 1000; // The maximum amount of time to wait for the user data, in milliseconds
+				this.timeout = 100; // The amount of time between tries, in milliseconds
+			}
+			
+			executeSiteCatalystRequest();
+			
+			function executeSiteCatalystRequest() {
+
+				if ( 'undefined' == typeof tpc || 'undefined' == typeof tpc.user) {
+					if ( ( attempt.counter * attempt.timeout ) < attempt.max_time ) {
+						attempt.counter = attempt.counter + 1;
+						setTimeout( 'executeSiteCatalystRequest()', attempt.timeout );
+						return;
+					} else {
+						// The maximum wait time was exceeded and the user data is not set.
+						// User data will not be included in the SiteCatalyst request.
+					}
+				}
+
+				/* E-conversion Variables */
+		
+				// Get the county, if it is available
+				s_spt.eVar18=s_spt.prop18='';
+				s_adzone = 'homepage'.replace( /'/g, '' );
+				//alert(s_adzone);
+				s_adzone_array = s_adzone.split('_');
+
+				if ( s_adzone_array.length > 1 && s_adzone_array[0] == 'news' ) {
+					county = s_adzone_array[1];
+					counties_array = ['hillsborough', 'pinellas', 'hernando', 'pasco'];
+					// If we can identify the story's county, populate prop18/eVar18.
+					if ( jQuery.inArray( county, counties_array ) > -1 ) {
+						s_spt.eVar18=s_spt.prop18=ucwords(county);
+					}
+				}
+
+							
+				var sc_registration_status = '';
+				var sc_login_status = '';
+
+				if ( 'undefined' != typeof( tpc.user ) && 'undefined' != typeof( tpc.user.id ) && 0 != ( tpc.user.id ) ) {
+					sc_registration_status = "Registered";
+					sc_login_status = "Logged In";
+				} else {
+					sc_registration_status = "Non-Registered";
+					sc_login_status = "Not Logged In";
+				}
+
+		
+				s_spt.eVar1 = s_spt.prop1 = sc_registration_status;
+				//alert(sc_registration_status);
+				s_spt.prop13=s_spt.eVar13 = sc_login_status;
+				//alert(sc_login_status);
+		
+				s_spt.server= "sptimes.com";
+				s_pathname_array = window.location.pathname.split('/');
+				s_pathname_prefix = s_pathname_array[1];
+				s_pathname_ucfirst = ucwords( s_pathname_prefix );
+				
+				//alert("Page Not Found | Tampa Bay Times");
+				s_spt.pageName=s_spt.eVar30=s_spt.prop28=s_spt.eVar28="Tampabay.com: Error Page: Index";
+		
+				s_spt.channel=s_spt.prop2=s_spt.eVar2='Error Page';
+				s_spt.prop3=s_spt.eVar3='10';
+				s_spt.prop4=s_spt.eVar4='07';
+				s_spt.prop5=s_spt.eVar5='';
+				s_spt.hier1='2005,10,07,Images,medium,LAR_1_lamaskx_224540_1007.jpg';
+				s_spt.hier2='2005,10,07,Images,medium,LAR_1_lamaskx_224540_1007.jpg';
+				s_spt.prop11=s_spt.eVar11='';
+				s_spt.prop12=s_spt.eVar12='';
+				s_spt.prop21=s_spt.eVar21='';
+				s_spt.prop22=s_spt.eVar22='';
+				s_spt.prop23=s_spt.eVar23='';
+				s_spt.prop24=s_spt.eVar24='';
+				s_spt.prop25=s_spt.eVar25='';
+				s_spt.prop27=s_spt.eVar27='Index';
+				s_spt.eVar29=s_spt.prop29=''; 
+				
+				/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+				
+				var s_code=s_spt.t();if(s_code)document.write(s_code);
+					
+			}
+			</script><noscript>
+<a title="Web Analytics" href="http://www.omniture.com"><img alt="" border="0" width="1" height="1" src="http://metric.sptimes.com/b/ss/spttbglobal/1/H.22.1--NS/0"></a>
+</noscript><noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18168374&amp;cv=2.0&amp;cj=1"></noscript>
+<!--ls:end[component-1362645263134]--></div><div class="container legalBar" id="ls-row-7"></div></div><!--ls:end[body]--></body></html>

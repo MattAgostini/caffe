@@ -1,0 +1,11 @@
+realTime of image 1 is .600 seconds
+realTime of image 2 is .670 seconds
+realTime of image 3 is .700 seconds
+realTime of image 4 is .600 seconds
+realTime of image 5 is .710 seconds
+realTime of image 6 is 1.050 seconds
+realTime of image 7 is .670 seconds
+realTime of image 8 is .650 seconds
+realTime of image 9 is .600 seconds
+realTime of image 10 is .630 seconds
+average real time of classifying an image over 10 images is ------------------------ .688 seconds

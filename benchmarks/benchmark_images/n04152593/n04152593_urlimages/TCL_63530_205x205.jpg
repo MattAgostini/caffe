@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    
+        <title>Yellow Pages&reg; | Data Protection</title>
+    
+    <link rel="shortcut icon" href="/favicon.ico?v=2" />
+
+    <!--[if (lt IE 9)&!(IEMobile)]><script src="/assets/ie/respond.sensis-9575467dfbc008e5b0d486dc4f481624.js" type="text/javascript" ></script><![endif]-->
+    <!--[if (lt IE 10)&!(IEMobile)]><script src="/assets/ie/custom-event-ie9.js" type="text/javascript" ></script><![endif]-->
+    <!--[if (lt IE 10)&!(IEMobile)]><link rel="stylesheet" href="/assets/ie/gradient-hacks-ie89-12453d23f1fec3d9d46e56cc6e023576.css"/><![endif]-->
+    
+        <script src="https://www.google.com/recaptcha/api.js?" async defer></script>
+        <meta name="ROBOTS" content="NOINDEX, NOFOLLOW"/>
+    
+</head>
+<body style="border-width: 0;
+                background-color: #EDEDED;
+                font-size: 85%;
+                line-height: 1.3;
+                margin: 0;
+                font-family: Helvetica, sans-serif;" id="">
+
+
+        <div style="padding: 10px 15px;
+                    height: 70px;
+                    min-height: 45px;
+                    background-color: #ffce00;
+                    background-image: linear-gradient(to right, #ffce00, #fedb55, #ffce00);
+                    box-shadow: inset 0px -5px 7px -5px rgba(0, 0, 0, 0.35);">
+            <div style="position: relative;
+                        max-width: 1240px;
+                        margin: 0 auto;">
+                <a href="/">
+                    <img alt="Yellow Pages"
+                         style="width: 70px;"
+                         src="data:image/png;base64,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" />
+                </a>
+            </div>
+        </div>
+
+        <div style="padding-top: 10px;">
+            <div style="margin-left: auto;
+                        margin-right: auto;
+                        max-width: 600px;
+                        vertical-align: top;">
+                <div style="background-color: #FFFFFF;
+                            border-radius: 8px;
+                            padding: 1px 10px;">
+                    <h1 style="font-weight: normal;">We have detected unusual traffic activity originating from your IP address.</h1>
+
+                    <div style="border-bottom: 1px #E7E7E7 solid;
+                                margin-top: 20px;
+                                margin-bottom: 20px;
+                                height: 1px;
+                                width: 100%;">
+                    </div>
+
+                    <div style="margin-left: auto;
+                                margin-right: auto;
+                                font-size: 20px;
+                                max-width: 460px;
+                                text-align: center;">
+                        We value the quality of content provided to our customers, and to maintain this, we would like to ensure real humans are accessing our information.</div>
+
+                    <div style="margin-left: auto;
+                                margin-right: auto;
+                                margin-top: 30px;
+                                max-width: 305px;">
+                        <form name="captcha" action="/dataprotection" method="post" style="margin: 0; padding: 0; word-wrap: break-word; display: block;">
+                            
+                                <div class="g-recaptcha" data-sitekey="6LeukxwTAAAAANIgmFm7-cOKIY4avRNHiDB9xAD8"></div>
+<noscript>
+        <div style="width: 302px; height: 352px;">
+        <div style="width: 302px; height: 352px; position: relative;">
+        <div style="width: 302px; height: 352px; position: absolute;">
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LeukxwTAAAAANIgmFm7-cOKIY4avRNHiDB9xAD8"
+        frameborder="0" scrolling="no"
+        style="width: 302px; height:352px; border-style: none;">
+        </iframe>
+        </div>
+        <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+        bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+        class="g-recaptcha-response"
+        style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+        margin: 0px; padding: 0px; resize: none;" value="">
+        </textarea>
+        </div>
+        </div>
+        </div>
+        </noscript>
+                            
+                            
+                            <input type="hidden" name="path" value="/articles"/>
+
+                            <div style="margin-left: auto;
+                                        margin-right: auto;
+                                        text-align: center;
+                                        padding: 15px 0;
+                                        max-width: 260px;
+                                        margin-top: 30px;">
+                                <button style="width: 100%;
+                                                color: black;
+                                                padding: 10px 25px;
+                                                border-radius: 25px;
+                                                cursor: pointer;
+                                                border: none;
+                                                position: relative;
+                                                background-color: #ffce00;
+                                                display: inline-block;
+                                                text-align: center;
+                                                box-sizing: border-box;" class="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                    <div style="border-bottom: 1px #E7E7E7 solid;
+                                margin-top: 20px;
+                                margin-bottom: 20px;
+                                height: 1px;
+                                width: 100%;"></div>
+                    <p style="font-weight: bold;">Why did this happen?</p>
+                    <p style="margin-top: 20px;">This page appears when online data protection services detect requests coming from your computer network which appear to be in violation of our website's terms of use.</p>
+
+                </div>
+            </div>
+        </div>
+    
+
+
+
+</body>
+</html>

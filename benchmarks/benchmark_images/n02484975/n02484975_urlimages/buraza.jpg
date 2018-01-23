@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>動物紹介 | 愛媛県立とべ動物園</title>
+<base href="http://www.tobezoo.com/">
+<!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta name="keywords" content="とべ動物園,愛媛県立とべ動物園,ピース,観光,見どころ,愛媛,砥部,愛媛県,tobe zoo">
+<meta name="description" content="みんなの笑顔があふれる動物園！愛媛県砥部町にある愛媛県立とべ動物園の公式Webサイトです。">
+<link href="css/import.css" rel="stylesheet">
+<link href="css/second.css" rel="stylesheet">
+<link href="css/mt.css" rel="stylesheet">
+<link href="css/screen.css" rel="stylesheet">
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="js/jquery.script.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.page-scroller.js"></script>
+<script src="js/jquery.masonry.min.js"></script>
+<script type="text/javascript">
+		$(window).load(function() {
+
+			//動的レイアウト
+			$('#container').masonry({
+				itemSelector: '.box',
+				columnWidth: 1,
+				isRTL: true
+			});
+
+		});
+</script>
+</head>
+<body id="banimals" class="pg1 bblog">
+<!--header-->
+<header>
+<div id="hdr">
+<h1><a href="./"><img src="img/h1_logo.png" width="262" height="55" alt="愛媛県立とべ動物園"></a></h1>
+
+<nav id="hdrsnav">
+<ul>
+<li><a href="about/">とべ動物園について</a></li>
+<li><a href="contact/">お問い合わせ</a></li>
+<li><a href="info/access.html">交通アクセス</a></li>
+<li class="eng"><a href="en/">ENGLISH</a></li>
+</ul>
+</nav>
+
+</div>
+</header>
+<!--header end-->
+<!--section-->
+<section>
+
+<div id="plist">
+<ul>
+<li><a href="/">TOP</a></li>
+<li>動物紹介</li>
+</ul>
+</div>
+
+<div id="container">
+<!--main-->
+<div class="box col_main">
+<h2><img src="animals/img/animals_h2.jpg" width="710" height="135" alt="動物紹介"></h2>
+<div class="mlink"><a href="animals/library/#sm_list"><img src="../../img/sm_list.png" alt="メインメニューへ" width="146" height="13"></a></div>
+<article class="thism">
+<h3><img src="animals/img/idol_h3.gif" alt="今月のアイドル"></h3>
+
+<h4 class="mt1">今月のアイドル最新号（2017年10月更新）</h4>
+<p class="idol_tit">今月のアイドル動物は、「ショウガラゴ」です。</p>
+
+
+
+<div class="i_center"><a href="http://www.tobezoo.com/animals/idol/2017/10280904.html"><img src="http://www.tobezoo.com/animals/idol/img2/FAC_.jpg" alt=""></a></div>
+
+<p class="t_center"><a href="http://www.tobezoo.com/animals/idol/2017/10280904.html">今月のアイドル最新号を読む≫</a></p>
+
+<ul class="olink mt2">
+<li><a href="animals/idol/">過去の今月のアイドル</a></li>
+</ul>
+</article>
+
+<article>
+<h3><img src="animals/img/library_h3.gif" alt="動物図鑑"></h3>
+<div class="i_center"><img src="animals/library/img/img1.jpg" alt=""></div>
+<p>とべ動物園にいる動物たちを紹介！<br>
+動物の説明はもちろん、とべ動物園にいる特徴ある動物たちの紹介もしています。</p>
+<p>さあ、あなたはどの動物のことが知りたいかな？</p>
+<h4 class="mt1">ストリート別</h4>
+<ul class="lib_list2">
+<li class="st01"><a href="http://www.tobezoo.com/animals/library/street/st01/">スネークハウス</a></li>
+<li class="st02"><a href="http://www.tobezoo.com/animals/library/street/st02/">ウォーターストリート</a></li>
+<li class="st03"><a href="http://www.tobezoo.com/animals/library/street/st03/">アメリカストリート</a></li>
+<li class="st04"><a href="http://www.tobezoo.com/animals/library/street/st04/">アフリカストリート</a></li>
+<li class="st05"><a href="http://www.tobezoo.com/animals/library/street/st05/">ゾウストリート</a></li>
+<li class="st06"><a href="http://www.tobezoo.com/animals/library/street/st06/">モンキータウン</a></li>
+<li class="st07"><a href="http://www.tobezoo.com/animals/library/street/st07/">オーストラリアストリート</a></li>
+<li class="st08"><a href="http://www.tobezoo.com/animals/library/street/st08/">アジアストリート</a></li>
+<li class="st09"><a href="http://www.tobezoo.com/animals/library/street/st09/">リトルワールド</a></li>
+<li class="st10"><a href="http://www.tobezoo.com/animals/library/street/st10/">ベアストリート</a></li>
+</ul>
+<ul class="olink">
+<li><a href="animals/library/">その他の分類はこちらから</a></li>
+</ul>
+</article>
+
+<article class="aque">
+<h3><img src="animals/img/question_h3.gif" alt="動物Q&amp;A"></h3>
+<div class="i_right"><img src="animals/question/img/quiz_img1.gif" alt=""></div>
+<p class="mt2">動物のことや、ペットのことなど動物園にはいろいろな質問が寄せられます。<br>
+ここでは、そんな質問をまとめてみました。</p>
+<p class="mt1">あなたの知りたいこと、聞きたいことがここにあれば参考にしてくださいね。</p>
+<p class="mt1">さあ、あなたはどの動物のことが知りたいかな？</p>
+<h4 class="mt1">Q&amp;A</h4>
+
+<ul class="qa_list"><li><a href="http://www.tobezoo.com/animals/question/article/000608.html" rel="bookmark">リスを飼っているのですが、上あごの前歯が1本だけ伸びすぎてしまい、エサも食べにくそうにしています。どうすればいいのでしょうか？</a></li></ul>
+
+<ul class="qa_list"><li><a href="http://www.tobezoo.com/animals/question/article/000607.html" rel="bookmark">家の天井裏にイタチが入り、夜中にはバタバタと走り回る音が聞こえます。どうすれば追い出すことができますか？</a></li></ul>
+
+<ul class="qa_list"><li><a href="http://www.tobezoo.com/animals/question/article/000606.html" rel="bookmark">家の中にヘビが入ってきたのですが、どうすればよいのでしょうか？</a></li></ul>
+
+<ul class="qa_list"><li><a href="http://www.tobezoo.com/animals/question/article/000605.html" rel="bookmark">家の庭にヘビがよく出てきて困っています。どうすればヘビが来なくなりますか？</a></li></ul>
+
+<ul class="qa_list"><li><a href="http://www.tobezoo.com/animals/question/article/000604.html" rel="bookmark">マムシは口から子どもを産むというのは本当ですか？</a></li></ul>
+
+<ul class="olink mt2">
+<li><a href="animals/question/">その他のQ&amp;Aはこちらから</a></li>
+</ul>
+</article>
+
+<article>
+<h3><img src="animals/img/quiz_h3.gif" alt="動物クイズ"></h3>
+<p class="t_center">とべ動物園オリジナル！動物クイズにチャレンジしてみよう！<br>
+難易度にあわせて、初級・中級・上級があるよ。<br>
+あなたは、どのクイズを制覇することができるかな？<br>
+最後の問題までクリアすると、オリジナル壁紙をプレゼント！！</p>
+<div class="i_center"><a href="animals/quiz/"><img src="animals/img/btn_quiz.gif" alt="クイズに挑戦する"></a></div>
+</article>
+
+<article>
+<h3><img src="animals/img/movie_h3.gif" alt="ビデオライブラリー"></h3>
+<p>とべ動物園の動物たちを動画でご紹介！とってもかわいいですよ♪</p>
+<ul class="movie_list">
+<li><a href="animals/movie/"><img src="animals/movie/img/btn_idx1.jpg" alt="長鼻目（ゾウのなかま）"></a></li>
+<li><a href="animals/movie/index2.html"><img src="animals/movie/img/btn_idx2.jpg" alt="霊長目（サルのなかま）"></a></li>
+<li><a href="animals/movie/index3.html"><img src="animals/movie/img/btn_idx3.jpg" alt="食肉目（クマやネコのなかま）"></a></li>
+<li><a href="animals/movie/index4.html"><img src="animals/movie/img/btn_idx4.jpg" alt="その他"></a></li>
+</ul>
+</article>
+</div>
+<!--main end-->
+
+<!--side-->
+<div class="box col_side smenu" id="sm_list">
+<h2><img src="animals/img/animals_side_h2.gif" alt="動物紹介" width="175" height="24"></h2>
+<nav>
+<ul>
+<li class="sm1"><a href="./">トップページへ</a></li>
+<li class="sm2"><a href="tobenews/">NEWS・イベント情報</a></li>
+<li class="sm3"><a href="info/">インフォメーション</a></li>
+<li class="sm9"><a href="zoofriends/">とべZOOフレンズ</a></li>
+<li class="sm6"><a href="about/">とべ動物園について</a></li>
+<li class="sm10"><a href="animals/">動物紹介</a>
+<ul>
+<li class="ch1"><a href="animals/">動物PICKUP！</a></li>
+<li class="ch2"><a href="animals/idol/">今月のアイドル</a></li>
+<li class="ch3"><a href="animals/library/">動物図鑑</a></li>
+<li class="ch4"><a href="animals/question/">動物Q&amp;A</a></li>
+<li class="ch5"><a href="animals/quiz/">動物クイズ</a></li>
+<li class="ch6"><a href="animals/movie/">ビデオライブラリー</a></li>
+</ul>
+</li>
+<li class="sm7"><a href="shiiku_diary/">飼育日記</a></li>
+<li class="sm11"><a href="animal_hp/">動物病院</a></li>
+<li class="sm4"><a href="peace/">しろくまピース</a></li>
+<li class="sm8"><a href="supporter/">動物サポーター</a></li>
+<li class="sm12"><a href="volunteer/">ボランティア制度</a></li>
+<li class="sm13"><a href="furusato/">企業版ふるさと納税</a></li>
+<li class="sm5"><a href="contact/">お問い合わせ</a></li>
+</ul>
+</nav>
+</div>
+<!--col_side end-->
+
+<!--side-->
+<div class="box col_side side_bnr">
+<ul>
+<li class="sb2"><a href="info/access.html"><img src="img/bnr_access.gif" width="109" height="108" alt="交通アクセス"></a></li>
+<li class="sb3"><a href="tobenews/event/"><img src="img/bnr_event.gif" width="109" height="108" alt="イベント情報"></a></li>
+<li class="sb4"><a href="peace/"><img src="img/bnr_peace.png" width="230" height="111" alt="しろくまピース"></a></li>
+<li class="sb11"><a href="info/enjoy.html"><img src="bnr/bnr_enjoy.jpg" width="230" height="80" alt="とべ動物園の楽しみ方"></a></li>
+<li class="sb5"><a href="http://tobezoo.ocnk.net/" target="_blank"><img src="img/bnr_ec.jpg" width="230" height="80" alt="とべ動物園オンラインショップ"></a></li>
+<li class="sb6"><a href="zoofriends/"><img src="bnr/bnr_tomonokai.gif" width="230" height="80" alt="愛媛動物友の会"></a></li>
+<li class="sb7"><a href="https://www.facebook.com/tobezoo" target="_blank"><img src="bnr/bnr_fb.gif" width="230" height="80" alt="とべ動物園Facebook"></a></li>
+<li class="sb7"><a href="https://twitter.com/tobezooofficial" target="_blank"><img src="bnr/bnr_tw.gif" width="230" height="80" alt="とべ動物園Twitter"></a></li>
+<!--<li class="sb8"><a href="http://www.tobezoo.com/tobenews/event/event_nz.html"><img src="bnr/bnr_nightzoo2015.jpg" width="230" height="80" alt="夜の動物園"></a></li>
+<li class="sb10"><a href="http://www.tobezoo.com/tobenews/topics/2015/09172153.html"><img src="bnr/bnr_photocontest.jpg" width="230" height="80" alt="とべ動物園写真コンクール実施要領"></a></li>-->
+<!--<li class="sb9"><a href="http://www.tobezoo.com/tobenews/topics/2015/07223937.html"><img src="bnr/bnr_painting.jpg" width="230" height="80" alt="動物画コンクール"></a></li>
+<li class="sb11"><a href="http://www.tobezoo.com/tobenews/topics/2015/06012131.html"><img src="bnr/bnr_hyougo.jpg" width="230" height="80" alt="動物愛護に関する標語募集"></a></li>-->
+<li class="sb7"><a href="https://www.youtube.com/officialtobezoo" target="_blank"><img src="bnr/bnr_youtube.png" width="230" height="80" alt="YouTubeとべ動物園公式チャンネル"></a></li>
+<li class="sb8"><a href="https://www.youtube.com/watch?v=XB6ZKjhbOU8&spfreload=5" target="_blank"><img src="bnr/bnr_movie.jpg" width="230" height="80" alt="とべZOO Movie"></a></li>
+</ul>
+</div>
+<!--col_side end-->
+
+</div>
+<!--container end-->
+</section>
+<!--section end-->
+<!--footer-->
+<div class="pgtp_box">
+<p id="topagetop"><a href="#topegetop">ページトップへ</a></p>
+</div>
+<footer>
+<div class="ftr_bnr">
+<ul>
+<li><a href="supporter/"><img src="bnr/bnr_supporter.jpg?new" width="200" height="45" alt="動物サポーター制度"></a></li>
+<li><a href="volunteer/"><img src="bnr/bnr_volunteer.jpg" width="165" height="45" alt="ボランティア制度"></a></li>
+</ul>
+</div>
+<nav id="other_nav">
+<ul>
+<li><a href="other/">リンク・著作権・免責事項等</a></li>
+<li><a href="other/privacy.html">プライバシーポリシー</a></li>
+<li><a href="about/sitemap.html">サイトマップ</a></li>
+</ul>
+</nav>
+<nav id="fnav">
+<ul>
+<li><a href="info/">インフォメーション</a>
+<ul><li><a href="info/">ご案内</a></li>
+<li><a href="info/admission.html">入園料</a></li>
+<li><a href="info/parking.html">駐車場・駐車料金</a></li>
+<li><a href="info/access.html">交通アクセス</a></li>
+<li><a href="info/service_guide.html">サービスガイド</a></li>
+<li><a href="info/street.html">ストリート紹介</a></li>
+<li><a href="info/enjoy.html">動物園の楽しみ方</a></li></ul>
+</li>
+<li><a href="tobenews/">NEWS・イベント情報</a>
+<ul><li><a href="tobenews/">最新ニュース</a></li>
+<li><a href="tobenews/topics/">トピックス</a></li>
+<li><a href="tobenews/event/">イベント情報</a></li>
+<li><a href="tobenews/kikaku/">企画・展示</a></li>
+<li><a href="tobenews/fureai/">動物ふれあい情報</a></li>
+<li><a href="tobenews/highlights/">1年のハイライト</a></li>
+<li><a href="tobenews/animalinfo/">動物の出産・死亡のお知らせ</a></li></ul>
+</li>
+</ul>
+
+<ul>
+<li><a href="zoofriends/">とべZOOフレンズ</a>
+<ul><li><a href="zoofriends/">愛媛動物友の会</a></li>
+<li><a href="zoofriends/book_simple.html">機関紙「とべZOO」簡易版</a></li>
+<li><a href="zoofriends/mailmagazine.html">メールマガジン</a></li>
+<li><a href="zoofriends/member/">会員専用ページ</a></li></ul>
+</li>
+<li><a href="animals/">動物紹介</a>
+<ul><li><a href="animals/">動物PICKUP！</a></li>
+<li><a href="animals/idol/">今月のアイドル</a></li>
+<li><a href="animals/library/">動物図鑑</a></li>
+<li><a href="animals/question/">動物Q&amp;A</a></li>
+<li><a href="animals/quiz/">動物クイズ</a></li>
+<li><a href="animals/movie/">ビデオライブラリー</a></li></ul>
+</li>
+</ul>
+
+<ul>
+<li><a href="about/">とべ動物園について</a>
+<ul><li><a href="about/">沿革・歴史</a></li>
+<li><a href="about/kyokai/">愛媛県動物園協会</a></li>
+<li><a href="about/link.html">リンク集</a></li>
+<li><a href="about/sitemap.html">サイトマップ</a></li>
+<li><a href="about/recruit/">採用情報</a></li></ul>
+</li>
+<li><a href="shiiku_diary/">飼育日記</a>
+<ul><li><a href="shiiku_diary/">最新記事</a></li>
+<li><a href="shiiku_diary/keeper/">キーパー飼育日記</a></li>
+<li><a href="shiiku_diary/bat/">コウモリてんこモリ</a></li>
+<li><a href="shiiku_diary/back_shiiku.html">過去の飼育日記</a></li>
+<li><a href="shiiku_diary/back_baby.html">過去の子育て奮闘記</a></li></ul>
+</li>
+<li><a href="animal_hp/">動物病院</a>
+<ul><li><a href="animal_hp/">野生動物保護の基礎知識</a></li>
+<li><a href="animal_hp/notes.html">野生動物保護における注意事項</a></li>
+<li><a href="animal_hp/protection.html">動物を保護することになったら</a></li>
+<li><a href="animal_hp/question.html">よくある質問</a></li>
+<li><a href="animal_hp/active.html">保護活動の様子</a></li>
+<li><a href="animal_hp/status/">保護状況一覧</a></li></ul>
+</li>
+</ul>
+
+<ul class="fnav_last">
+<li><a href="supporter/">動物サポーター制度</a>
+<ul><li><a href="supporter/">サポーター制度について</a></li>
+<li><a href="supporter/slist.html">登録者名簿（法人・企業等）</a></li>
+<li><a href="supporter/slist2.html">登録者名簿（個人）</a></li>
+<li><a href="supporter/accounts.html">収支報告</a></li></ul>
+</li>
+<li><a href="volunteer/">ボランティア制度</a></li>
+<li><a href="furusato/">企業版ふるさと納税</a></li>
+<li><a href="contact/">お問い合わせ</a></li>
+<li><a href="peace/">しろくまピース</a></li>
+<li><a href="http://tobezoo.ocnk.net/" target="_blank">オンラインショップ</a></li>
+<li><a href="en/">ENGLISH</a></li>
+</ul>
+</nav>
+<p class="add"><span>愛媛県立とべ動物園</span><br>
+〒791-2191 愛媛県伊予郡砥部町上原町240<br>
+電話：089-962-6000　ファックス：089-962-6194</p>
+<p class="copy">Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> TOBE ZOOLOGICAL PARK OF EHIME PREF. All Rights Reserved.</p>
+<p class="yui">企画・制作<a href="http://www.yui-system.jp/" target="_blank"><img src="img/yui_logo.gif" width="194" height="19" alt="株式会社ユイ・システム工房"></a></p>
+</footer>
+<!--footer end-->
+</body>
+</html>

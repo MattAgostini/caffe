@@ -1,0 +1,131 @@
+<html>
+<head>
+<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+	<meta name='keywords' content=''>
+	<meta name='description' content=''>
+	<!-- <meta http-equiv='refresh' content='0; URL=http://www.com.ne.kr/index2.html' target='main'>-->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <script src="js/basic.js"></script>
+
+<script language="JavaScript">
+var intro = true;
+function introcon()
+{
+if (intro)
+{
+//2016.12.02 16:12::30---2016.12.02 22:36::44
+//open("http://www.com.ne.kr/cinematrix/");
+
+//2016.12.06 19:51::10---
+//open("http://www.com.ne.kr/alpha.html");
+
+
+open("http://www.action.co.kr/");
+
+}
+}
+</script>
+
+
+
+<script language="JavaScript">
+var exit = true;
+function exitcon()
+{
+if (exit)
+{
+//open("http://www.com.ne.kr/omega.html");
+//S: 2016.12.02   16:12::30
+//E: 2016.12.02   16:12::30
+
+open("http://www.action.co.kr/");
+
+
+//2016.12.02 16:12::30
+//open("http://www.com.ne.kr/norton/");
+
+//open("http://www.com.ne.kr/rich.html");
+}
+}
+</script>
+
+
+
+<body Onload="introcon();"  -OnUnload="exitcon();"  bgcolor='#ffffff'> 
+<!-- <body Onload="setTimeout(introcon, 5000)"  OnUnload="exitcon();"  bgcolor='#ffffff'> -->
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write("<img SRC=./mst/log.cgi?ref=");
+document.write(escape(document.referrer));
+document.write(" border=0 height=0 width=0>");
+//-->
+//2017.02.26 15:23::25 Start
+</SCRIPT>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write("<img SRC=./mst20170621/log.cgi?ref=");
+document.write(escape(document.referrer));
+document.write(" border=0 height=0 width=0>");
+
+//2017.06.21 18:03
+//-->
+</SCRIPT>
+
+
+<!--
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write("<img SRC=./x-20161220/log.cgi?ref=");
+document.write(escape(document.referrer));
+document.write(" border=0 height=0 width=0>");
+
+//2016.12.06 16:20::04
+//-->
+</SCRIPT>
+
+
+<!--
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write("<img SRC=./mst20161206/log.cgi?ref=");
+document.write(escape(document.referrer));
+document.write(" border=0 height=0 width=0>");
+
+//2016.12.06 16:20::04
+//-->
+</SCRIPT>
+
+<!--
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+document.write("<img SRC=./mst20161202/log.cgi?ref=");
+document.write(escape(document.referrer));
+document.write(" border=0 height=0 width=0>");
+
+//2016.12.02 16:20::04
+//-->
+</SCRIPT>
+
+
+
+<SCRIPT LANGUAGE="JavaScript">
+//location.href='http://www.mybest.co.kr/';
+</SCRIPT>
+
+
+<a href="http://com.ne.kr" target="_blank">COM.NE.KR</a>
+<a href="http://www.speedloan.co.kr" target="_blank">스피드론</a>
+<!-- <a href="http://myloans.kr" target="_blank">스피드론</a> -->
+
+
+</body>
+</html>

@@ -1,0 +1,6042 @@
+
+
+
+
+
+<!--  Default ver 4.3 -->
+  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">   
+
+ 
+ 
+
+<!--Default_FS ver  4.4 --> 
+
+
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+  
+
+
+           
+                                                                                                 
+                                                            
+                               
+
+                              
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">  
+
+
+<!--  head  ver 4.4 -->
+
+<head>
+ 
+
+
+<script type="text/javascript">
+        var bidiSupport = new Object();
+        bidiSupport.bidiAlignRight = "right";
+        bidiSupport.bidiAlignLeft = "left"; 
+        bidiSupport.bidiDirAttr = ""; 
+        bidiSupport.bidiImageRTL = null;
+        bidiSupport.isRTL = false;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+    
+    
+    
+    
+        
+    
+
+
+<title> 
+	    	   
+			
+			Boise National Forest - Home
+			
+	</title>   
+ 
+        
+
+<link href='about:blank' rel="shortcut icon" />
+
+       
+           
+	
+	                 
+		        
+	              
+                                       
+           
+                                                                                                                                                                                                         
+                                                                                                                                                                        
+                     
+  
+
+    
+    
+
+          
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/reset.min.css' rel="styleSheet" type="text/css" />
+
+                                                                                                                                                                      
+                                             
+   
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles.min.css' rel="styleSheet" type="text/css" />
+
+<link  href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/print.min.css'  title="Printer-Friendly Style" media="print" rel="stylesheet" type="text/css" />    
+<link href='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/WIDConsumption_Styles_pib.css' rel="styleSheet" type="text/css" />
+
+
+
+
+
+
+
+<script type="text/javascript" src="/wps/menu/menu_service.js"></script>
+<script type="text/javascript" >var menuService_AppletCodebase ="/wps/menu";</script>
+      
+                                             
+      
+          
+           
+        
+                                                                                                                            
+                        
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />                                                                    
+	<meta http-equiv="content-style-type" content="text/css" />                                                                     
+	<meta http-equiv="content-script-type" content="text/javascript" />
+        <meta name="google-site-verification" content="Ax0L7VHnhaVUM12uQO_hUgIiJA_vP_rRWuV9JkSEywM" />
+ 
+        
+	                        
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/rollover.js' type="text/javascript"></script>    
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ftiens4.js' type="text/javascript"></script>
+	<script src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ua.js' type="text/javascript"></script>
+	                                                                                          
+	<!--Script Files for FCKEditor -->                                                                                                      
+	
+	   
+	                                
+	
+	
+	<!-- Script for new foresee START 2-->
+	
+	
+	<script type="text/javascript">
+	var subsiteCode = "110402"; 
+	
+    // Answers Cloud Services Embed Script v1.02
+    // DO NOT MODIFY BELOW THIS LINE *****************************************
+    ;(function (g) {
+        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//gateway.answerscloud.com/fs-fed-us/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+        h.appendChild(am);
+        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+    })(window);
+    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+
+	</script>
+	<!-- Script for new foresee END -->
+	
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/yahoo_2.0.0-b3.js' 	></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/event_2.0.0-b3.js' 	></script>
+    	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/dom_2.0.2-b3.js' 		></script>
+	<script type="text/javascript" src='/FSE_WIDTheme/themes/./html/FSE_WIDTheme/js/ie-select-width-fix.js'></script>
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+
+	<script>
+    		var $pjq = jQuery.noConflict();
+	</script> 
+
+
+        
+
+		<script>
+			djConfig = {
+				parseOnLoad : true,
+				isDebug : false
+
+			};
+		</script>
+
+		<link rel="stylesheet" type="text/css"
+		href="/Internet/scr/dojo/dojo-1.9/dijit/themes/fsclaro/fsclaro.css" />
+        <script type="text/javascript" src="/Internet/scr/dojo/dojo-1.9/dojo/dojo.js">
+        </script>
+        
+	
+	
+	
+	<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+  
+	  _gaq.push(['b._setAccount', 'UA-22225025-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+	  _gaq.push(['a._setAccount', 'UA-27627304-16']);
+	  _gaq.push(['a._setDomainName', 'usda.gov']);
+	  _gaq.push(['a._setAllowLinker', true]);
+	  _gaq.push(['a._trackPageview']);
+
+	  _gaq.push(['b._setAccount', 'UA-27627304-1']);
+	  _gaq.push(['b._setDomainName', 'usda.gov']);
+	  _gaq.push(['b._setAllowLinker', true]);
+	  _gaq.push(['b._trackPageview']);
+
+
+  
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();ga("send", "pageview");
+  
+	</script>
+	<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=FS"></script>               
+
+</head>   
+                                                                                                                      
+	<body >                                                                                                                                                              		  	   
+		<table id="wptheme_pageArea" summary="" align="center"  border="0" cellpadding="0" cellspacing="0">                         
+		<!-- @@@@: Removed class="WIDBackgroundColor" from the table tag above -->                                                             
+			<tr>        
+			                          
+				<td width="100%" valign="top">                                                                                                                                                                                                                                                                                                                                                         
+					          
+					<div id="mainContent" style="width:960px;-moz-border-radius: 0 0 0px 20px;-webkit-border-bottom-left-radius: 20px;border-radius-left: 20px;">
+					<!-- @@@@: Removed class="WIDBackgroundColor" from the div tag above -->
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDLogoInfoPortletView.jsp -->
+
+
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">function googleAna(gkey){try{
+//var pageTracker=_gat._getTracker(gkey);
+//pageTracker._trackPageview();
+// The new asynchronous syntax
+_gaq.push(['_setAccount', gkey]);
+_gaq.push(['_trackPageview']);
+}catch(err){}}
+</script>
+<!-- script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script -->
+<!-- Google Analytics -->
+				
+
+
+	
+
+	
+
+		     
+			<div id="masthead">
+				
+				    
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+										
+						 <div id="logoSkipNav" class="WIDBackgroundColor" >
+						 <!-- Begin Skip Top Navigation -->
+     					 <a  tabindex="1" href="#skipheader"    title="Skip to main content">Skip to main content</a>
+      					 <!-- End Skip Top Navigation --></div>
+      					 
+						 <div  id="righthead" class="header" style="background-image: url(/Internet/FSE_BANNERIMAGES/fseprd518882.jpg);">
+						 <div class="headercorner">
+                         
+						 <ul>
+						<li id="usdalogo">
+						<a href="http://www.usda.gov"></a>
+					</li>
+					<li id="usdatitle">
+						<a href="http://www.usda.gov">United States Department of Agriculture</a>
+					</li>
+					<li id="fstitle">
+						<a href="http://www.fs.fed.us">Forest Service</a>
+					</li>
+					<li id="foresttitle" style="width:400px;text-align:right;">
+					
+                        <a href="http://fs.usda.gov/boise"><b>Boise National Forest</b></a>
+                    
+					</li>
+					<li id="fslogo">
+						<a href="http://www.fs.fed.us"></a>
+					</li>
+
+						 </ul>
+						 </div>
+						 </div>
+      					 
+					
+						
+					
+				
+				
+				</div>
+				
+			    
+				
+				<script type="text/javascript">googleAna('UA-15938063-25');googleAna('UA-15887590-1');</script>
+				
+				
+				
+  
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDTopNavPortletView.jsp -->
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+	
+ 
+<div id ="topnav" title="Top Navigation">
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+	
+   		<div id="navlist">
+   		<ul>
+   		
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	        	
+	        	
+				
+				
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+					
+					
+			 		
+		<li>
+			<a  href="http://www.fs.fed.us/ " target="_blank">
+			Forest Service Home</a>
+			
+			</li>
+		
+		
+			
+		
+		
+		
+		
+	
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	        	
+		
+			
+	        	
+				
+				
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+					
+					
+			 		
+		<li>
+			<a  href="http://www.fs.fed.us/aboutus/ " target="_blank">
+			About the Agency</a>
+			
+			</li>
+		
+		
+			
+		
+		
+		
+		
+	
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	        	
+		
+			
+	        	
+				
+				
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+					
+					
+			 		
+		<li>
+			<a  href="http://www.fs.fed.us/contactus/ " target="_blank">
+			Contact the National Office</a>
+			
+			</li>
+		
+		
+			
+		
+		
+		
+		
+	
+	
+	
+		
+										
+			
+				
+			
+					
+	        
+	
+	
+	
+	</ul>
+	</div>
+		
+</div>
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:180px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		 <div id="leftcol">
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDQuickSearchPortletView.jsp -->
+
+
+
+
+
+
+
+
+ 
+<div id="righttop" class="navleft"> 
+      <p class="headingtop">Search</p>	
+			
+				
+				
+				
+				
+				
+				
+				
+				<form name="frmMenu" action="/wps/portal/fsinternet/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IpPzM4lT9iIz83FSgE6KwGhLmg3AEIWcU5IZGVPl4GGQ6KioCAExe9yA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk5NVTEwMDAwMDAw/?ss=110402&amp;navtype=SEARCH&amp;cid=FSE_003585&amp;navid=091000000000000&amp;pnavid=null&amp;ttype=search&amp;pname=Boise National Forest  - Search" method="post"> 
+					<fieldset>  
+                			<legend>Search form</legend>  
+                			<label for="searchText">Search website</label> <div class="buttons" >
+           					
+							<input tabindex="2" type="text" id="searchText" name="searchText" value="" class="search"/>
+							
+								<button tabindex="3" name="submit" type="submit" >Go</button>
+								
+							 </div>
+					
+						<br clear="all"/>
+						<ul class="searchlist">
+							<li class="searchitem">
+							  <a id="SearchSiteMapURL" name="SearchSiteMapURL" href="/help/boise">Site Map</a>
+	        				</li>
+						</ul>
+						
+						</fieldset>
+								
+						
+				</form>
+				
+		</div>
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+ 
+
+
+<!-- Begin WIDLeftNavPortletView.jsp -->
+
+<script type="text/javascript">
+<!--
+	var eURL = "";
+	var nType ="";
+	var title ="";
+
+	
+	//test script
+		function initSelectOffice(oControl,encodedUrl,b,name)
+	{
+	    var theSelect = document.getElementById(oControl.name);
+	    eURL =encodedUrl;
+	    nType =name;
+	    theSelect.changed = false;
+	    theSelect.onfocus = selectOfficeFocussed;
+	    theSelect.onchange =  selectOfficeChanged ;	  	  
+	    theSelect.onkeydown = selectOfficeKeyed;
+	    theSelect.onclick = selectOfficeClicked;
+		
+	     return true;
+	}
+	
+	 
+	function selectOfficeChanged(theElement)
+	{
+	    var theSelect;
+	
+	    if (theElement && theElement.value)
+	    {
+	        theSelect = theElement;
+	    }
+	    else
+	    {
+	        theSelect = this;
+	    }
+	
+	    if (!theSelect.changed)
+	    {
+	        return false;
+	    }
+	    
+	    var paramArray = theSelect.value.split(".");	
+	    var queryParameters = document.getElementById("offices").value;
+	    document.NationalOffices.action =eURL+queryParameters;
+   	   	document.NationalOffices.submit();
+	   
+	}
+	
+	function selectOfficeClicked()
+	{
+	    this.changed = true;
+	  
+	}
+	
+	function selectOfficeFocussed()
+	{
+	    this.initValue = this.value;
+		
+	    return true;
+	}
+	
+	function selectOfficeKeyed(e)
+	{
+	    var theEvent;
+	    var keyCodeTab = "9";
+	    var keyCodeEnter = "13";
+	    var keyCodeEsc = "27";
+		
+	    if (e)
+	    {
+	        theEvent = e;
+	    }
+	    else
+	    {
+	        theEvent = event;
+	    }
+	
+	    if ((theEvent.keyCode == keyCodeEnter ) && this.value != this.initValue)
+	    {
+	        this.changed = true;
+	        selectOfficeChanged(this);
+	    }
+	    else if (theEvent.keyCode == keyCodeEsc)
+	    {
+	        this.value = this.initValue;
+	    }
+	    else
+	    {
+	        this.changed = false;
+	    }
+		
+	    return true;
+	}	
+//-->
+</script>
+<script type="text/javascript">var s1=new YAHOO.Hack.FixIESelectWidth('offices');</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+  
+
+<div class="navleft">  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+	<p class="heading">Boise National Forest</p><ul>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+				
+					
+								
+				
+					
+				 <li  class="selected">
+						
+						<a href="/main/boise/home">	<span class="leftNavSelectedText">Home</span></a>					
+							
+						
+						</li>
+
+				
+			
+			
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/attmain/boise/specialplaces">	<span>Special Places</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/recmain/boise/recreation">	<span>Recreation</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/alerts/boise/alerts-notices">	<span>Alerts &amp; Notices</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/main/boise/passes-permits">	<span>Passes &amp; Permits</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/main/boise/maps-pubs">	<span>Maps &amp; Publications</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/land/boise/landmanagement">	<span>Land &amp; Resources Management</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/main/boise/learning">	<span>Learning Center</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/main/boise/workingtogether">	<span>Working Together</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/main/boise/about-forest">	<span>About the Forest</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+	
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		
+			
+			
+			
+				
+					
+						
+							
+							
+						<li>
+								
+								
+								<a href="/news/boise/news-events">	<span>News &amp; Events</span></a>
+								
+									
+						
+							
+							</li>
+						
+
+					
+					
+				
+			
+		
+
+		
+		
+		
+		
+		</ul>
+		
+	
+	
+	
+	
+		
+
+			</div> 
+			
+			
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"></script>
+
+<!-- Begin WIDLocalContactInfoPortletView.jsp -->
+	          
+
+
+
+ 
+
+   <div id="leftcont" class="navleft">
+		<p class="heading">Contact Information</p>
+	         <p><strong>Boise National Forest</strong><br />
+1249 S. Vinnell Way, Suite 200<br />
+Boise, ID 83709<br />
+(208) 373-4100</p>
+
+<p><a href="http://www.fs.usda.gov/main/boise/about-forest/districts"><strong>District Offices</strong></a></p>
+
+	         
+	         <p><a id="localContactUSURL" name="localContactUSURL" href="/contactus/boise/about-forest/contactus">Contact Us</a></p>
+	         
+	         <p class="bot"></p>
+   </div>
+	
+
+ 
+	
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+     
+
+<!-- Locator Map Portlet Start -->
+
+<!-- Locator Map Portlet End -->
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:760px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		 
+			<td width="100%">&nbsp;</td> 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDPageTitlePortletView.jsp -->
+
+<!-- page title portlet -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:520px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		<div id="centercol">
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+<a name="skipheader" id="skipheader"></a>
+<!-- Begin WIDWelcomePortletView.jsp -->
+
+<!-- view bean and searchResults treemap reference -->
+
+ 
+
+
+
+          
+ 
+	
+	
+    
+      
+    
+    
+    
+ 
+		
+		 	
+		 		<!-- gets dynamic conversion of content -->
+		 		<h1>&nbsp;&nbsp; Welcome to&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+
+<h1><img alt="Title - Boise National Forest" height="70" src="/Internet/FSE_MEDIA/stelprd3795876.jpg" width="500" /></h1>
+
+<p><img alt="2013 WO - Photo for Fall Colors" height="344" src="/Internet/FSE_MEDIA/stelprdb5436124.jpg" width="500" /></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p>The Boise National Forest&rsquo;s vast landscape spans over 2.5 million acres of diverse forest and grassland.&nbsp; Located northeast of Idaho&rsquo;s capital city of Boise, recreationists can explore the North Fork Payette River Canyon at 2,800 feet in elevation to the nearly 10,000 foot peak of Trinity Mountain.&nbsp; Whether you choose to explore any of more than 500 trails, or cool off in one of over 250 lakes and reservoirs, the Boise National Forest is truly an outdoor enthusiast&rsquo;s dream!</p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p><strong>ALL LARGE WILDFIRE INFORMATION WITHIN THE BOISE NATIONAL FOREST WILL BE POSTED TO&nbsp;<a href="http://inciweb.nwcg.gov/">INCIWEB.</a></strong></p>
+
+<p><strong><a href="http://inciweb.nwcg.gov/">INCIWEB</a></strong>&nbsp;is used for information about wildfires primarily over 100 acres in size. &nbsp;To locate Boise National Forest fire information click on the&nbsp;<u>State</u>&nbsp;dropdown link and then choose Idaho. <strong><a href="http://inciweb.nwcg.gov/">http://inciweb.nwcg.gov</a></strong></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<h3><img alt="3 photo of Pioneer fire restoration and recovery" src="/Internet/FSE_MEDIA/fseprd564323.jpg" style="width: 500px; height: 168px;" /></h3>
+
+<h2>&nbsp;</h2>
+
+<h3><a href="/detail/boise/home/?cid=fseprd530485"><strong>2016 Pioneer Wildfire Recovery and Restoration Information - 2017 updates on Timber Sales - HERE</strong></a></h3>
+
+<p>&nbsp;</p>
+
+<p><strong>11-16-2017 Pioneer Wildfire Recovery and Restoration - Improving Aquatic Habitat for Bull Trout within Boise National Forest</strong></p>
+
+<p>Learn more about Aquatic Organism Passages (AOPs) by watching the NEW video:</p>
+
+<p><strong><a href="https://youtu.be/BQhdTzboRr0">https://youtu.be/BQhdTzboRr0</a></strong></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p><img alt="photo of big rock blocking the road" src="/Internet/FSE_MEDIA/fseprd522201.jpg" style="width: 500px; height: 333px;" /></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p><a href="http://www.fs.usda.gov/alerts/boise/alerts-notices"><strong>CHECK ON ALERTS AND NOTICES PAGE FOR ALL ROAD AND FOREST CLOSURES.</strong></a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Please check with the local Districts about fire, weather, road &amp; area closures before heading to the Forest.&nbsp; </strong></p>
+
+<p><strong>Check before you go: &nbsp;<a href="http://lb.511.idaho.gov/idlb/"> http://lb.511.idaho.gov/idlb/</a></strong></p>
+
+<p><strong>REMINDER:&nbsp; MOST OF THE BOISE NATIONAL FOREST HAS NO CELL PHONE COVERAGE.</strong></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<h2><em>Your Social Media Connections</em>&nbsp;</h2>
+
+<table border="0" cellpadding="1" cellspacing="2">
+	<tbody>
+		<tr>
+			<td><a href="https://www.fs.fed.us/blogs"><img alt="Blog icon" height="56" src="http://www.fs.fed.us/wo-resources/sociamedia/blog-icon.png" width="48" /></a></td>
+			<td><a href="http://www.fs.fed.us/news/subscription.shtml"><img alt="Email icon" src="http://www.fs.fed.us/wo-resources/sociamedia/email-icon2.png" /></a></td>
+			<td><a href="http://www.facebook.com/USDA" target="_blank"><img alt="Facebook icon" src="http://www.fs.fed.us/wo-resources/sociamedia/fb-icon.png" /></a></td>
+			<td><a href="http://www.flickr.com/photos/usdagov/collections/72157623679016496/"><img alt="Flickr icon" src="http://www.fs.fed.us/wo-resources/sociamedia/flickr-icon.png" /></a></td>
+			<td>&nbsp;</td>
+			<td><a href="http://twitter.com/forestservice" target="_blank"><img alt="Twitter icon" src="http://www.fs.fed.us/wo-resources/sociamedia/twitter-icon.png" /></a></td>
+			<td><a href="http://www.youtube.com/usdaforestservice" target="_blank"><img alt="YouTube icon" src="http://www.fs.fed.us/wo-resources/sociamedia/yt-icon.png" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>These official sites for information for the Boise National Forest. </strong></p>
+
+<p><strong>Facebook:</strong><strong><a href="https://www.facebook.com/US-Forest-Service-Boise-National-Forest-1449890585280097/?ref=hl">&nbsp; U.S. Forest Service &ndash; Boise National Forest</a></strong></p>
+
+<p><strong>Boise NF Twitter: </strong><strong><a href="https://twitter.com/BoiseNF?ref_src=twsrc%5Etfw">@BoiseNF</a></strong></p>
+
+<p><strong>Boise NF Website:</strong> <strong><a href="https://www.fs.usda.gov/boise">https://www.fs.usda.gov/boise</a></strong></p>
+
+<p><strong>InciWeb:&nbsp; <a href="http://inciweb.nwcg.gov/">http://inciweb.nwcg.gov/</a></strong></p>
+
+<p><strong>Hunting information: <a href="https://idfg.idaho.gov/hunt">https://idfg.idaho.gov/hunt</a></strong></p>
+
+<p><strong>Idaho smoke information: </strong><strong><a href="https://idsmoke.blogspot.com/">https://idsmoke.blogspot.com/</a></strong></p>
+
+<p><strong>Daily Idaho Satellite Smoke Analysis - <a href="https://arcg.is/1zfeqH">https://arcg.is/1zfeqH</a></strong></p>
+
+<p><strong>Fire Restrictions: </strong><strong><a href="http://www.idahofireinfo.com/p/fire-restrictions.html">https://www.idahofireinfo.com/p/fire-restrictions.html</a></strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>&nbsp;</strong><img alt="Watch Videos of Boise NF!" src="/Internet/FSE_MEDIA/stelprdb5444835.jpg" style="width: 156px; height: 193px;" /></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>Watch&nbsp;Videos of&nbsp;Special Places to Visit!</h2>
+
+<p>&nbsp;</p>
+
+<p><strong><a href="https://youtu.be/rPAXT4tTzTI">Visit the Mountain Home RD - Campgrounds in the Trinity Recreation Area.</a></strong></p>
+
+<p><strong><a href="https://youtu.be/zE3YTnHTQ2o">Visit the Mountain Home RD - Campgrounds adjacent to Anderson Ranch Reservoir and along the South Fork Boise River</a></strong></p>
+
+<p><a href="http://www.youtube.com/watch?v=Jg47h5BRtnY&amp;feature=youtu.be"><strong>Visit the Idaho City&nbsp;RD</strong></a></p>
+
+<p><a href="http://www.youtube.com/watch?v=0-qVvRX_hRY&amp;feature=youtu.be"><strong>Visit the Emmett&nbsp;RD</strong></a></p>
+
+<p><strong><a href="https://www.youtube.com/watch?v=b9eJrBipTKU&amp;feature=youtu.be">Visit the Emmett RD - Middle Fork Payette River </a></strong></p>
+
+<p><a href="http://www.youtube.com/watch?v=Jxes7ADgA7w&amp;feature=youtu.be"><strong>Visit the Lowman RD- Deadwood Lookout &amp; Campgrounds </strong></a></p>
+
+<p><a href="http://www.youtube.com/watch?v=R_xAfFfYV7Y&amp;feature=youtu.be"><strong>Visit the Lowman&nbsp;RD -&nbsp;Kirkham and Bull Trout Campgrounds</strong></a></p>
+
+<p><strong><a href="http://www.youtube.com/watch?v=Fe_QAkK7ENE">Visit the Cascade RD</a></strong></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p><img alt="Road Tripping with MP3" src="/Internet/FSE_MEDIA/stelprd3808192.jpg" style="width: 140px; height: 102px;" /></p>
+
+<p>&nbsp;</p>
+
+<h3><a href="http://www.fs.usda.gov/detail/boise/recreation/scenicdrivinginfo/?cid=stelprd3807990"><strong>Download the Ponderosa Pine Scenic Byway Historic Auto Tour to your MP3 player today!</strong></a></h3>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><iframe allowfullscreen="" frameborder="0" height="375" scrolling="no" src="https://www.youtube.com/embed/9gy9GhukoDk" width="500"></iframe></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>Recreation - View&nbsp;Each&nbsp;Ranger District For More Information About Recreational Opportunities</h2>
+
+<p>&nbsp;</p>
+
+<p><img alt="Photo of a Bald Eagle sitting on a branch in a snowstorm" src="/Internet/FSE_MEDIA/fseprd528916.jpg" style="width: 500px; height: 333px;" /></p>
+
+<h2>&nbsp;</h2>
+
+<p>&nbsp;</p>
+
+<h2>The Boise National Forest has&nbsp;5 Ranger Districts,&nbsp;the Supervisor&#39;s Office, Lucky Peak Nursery&nbsp;and a&nbsp;Guard Station in Garden Valley and High&nbsp;Valley.</h2>
+
+<p style="text-align: center; margin-left: 4.5pt;">&nbsp;</p>
+
+<p style="text-align: center; margin-left: 4.5pt;">&nbsp;</p>
+
+<p><strong><a href="https://www.fs.usda.gov/recarea/boise/recarea/?recid=5029">Cascade RD</a> </strong>- Featured areas:&nbsp; State Highway 55 and Forest Highway 22, Cascade&nbsp;Reservoir, Warm Lake,&nbsp;Johnson Creek, Landmark,&nbsp;Cascade and Yellowpine. &nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p><a href="https://www.fs.usda.gov/recarea/boise/recarea/?recid=5027"><strong>Emmett RD</strong></a> - Featured areas:&nbsp; Forest Highway 17, Sage Hen Reservoir, Middle and&nbsp;South&nbsp;Fork&nbsp;Payette River, Crouch and Garden Valley. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p><a href="https://www.fs.usda.gov/recarea/boise/recarea/?recid=5030"><strong>Idaho City RD</strong></a> - Featured areas:&nbsp; State Highway 21, Mores&nbsp;Creek, Granite Ck, Banner Ridge, Middle&nbsp;Fk Boise River, Barber Flats, Idaho City, Graham and Atlanta. &nbsp;&nbsp;</p>
+
+<p><a href="https://www.fs.usda.gov/recarea/boise/recarea/?recid=5031"><strong>Lowman RD</strong></a> - Featured areas:&nbsp; State Highway 21 and Forest Highway 17, Deadwood Reservoir, Scott Mountain, Bear Valley, Bull Trout Lake, Lowman and a beautiful drive to Stanley, Idaho.</p>
+
+<p><a href="http://www.fs.usda.gov/recarea/boise/recarea/?recid=5028"><strong>Mountain Home RD</strong></a> - Featured areas:&nbsp; State Highway 20, Anderson Ranch Reservoir, Little Camas Reservoir, Arrowrock Reservoir, South Fork Boise River, Shafer Butte and Trinities Recreation Area.</p>
+
+<p><a href="https://www.fs.usda.gov/detail/boise/about-forest/districts/?cid=STELPRDB5038921"><strong>Lucky Peak Nursery</strong></a> - Featured:&nbsp; Established in 1959, the Lucky Peak Nursery grows trees, grasses&nbsp;and shrubs&nbsp;for National Forests in Southern Idaho, Utah, Nevada, Western Wyoming, Arizona, and New Mexico.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><a href="https://visitidaho.org/?s=Idaho+Scenic+byways&amp;searchsubmit=">Visit Idaho&#39;s Scenic Byways </a>- </strong>has great&nbsp;video of Idaho&#39;s special&nbsp;byways.&nbsp;<strong>&nbsp; </strong></p>
+
+<p>Also check out &nbsp;Idaho Public Television&#39;s -<strong> <a href="http://idahoptv.org/outdoors/shows/scenicbyways/">Idaho Scenic Byways</a></strong></p>
+<!-- GovDelivery Subscription Overlay --><script src='https://content.govdelivery.com/overlay/js/3089.js'></script><!-- End GovDelivery Overlay -->
+	 		
+      
+    		
+	    
+   	
+			  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+	<h2>Recent News</h2>
+	<div style="position:relative;align:left;" class="rssstyle"><p>
+	<a  href="/wps/PA_WIDConsumption/rssgetfile?xFSENavChannel00=110402&amp;xFSENavChannel02=091000000000000&amp;pathinfo=/wps/portal/fsinternet/cs/detail/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQwgwNHCwN_DI8zPwBcqYKAfDlZggAM4GuhHEaMfj4Io_MZ7EbIA6AOjIl9n33T9qILEkgzdzLy0fP2IpPzM4lT9iIz83FSgE6KwGhLmg3AEIWcU5IZGVPl4GGQ6KioCAExe9yA!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzIwMDAwMDAwQTgwT0hIVk4yTTAwMDAwMDAw/?navtype=BROWSEBYSUBJECT&amp;forestname=Boise National Forest " target="_blank">  	 							
+				<img id='rssimg'
+								name='rssimg' style="margin-top:2px;" border="0"
+								alt='RSS Feed'
+								src='/fseimages/rss.gif'/>
+								Subscribe to this feed
+	</a></p></div><div style="position:relative;align:left;" class="rssstyle"><p><a target="_blank" title="RSS Help" href="/Internet/FSE_DOCUMENTS/fse_rss_help_doc.html">
+		<img src='/fseimages/info.gif' style="margin-top:1px;" border="0" alt="RSS Help" id="rsshelp" name="rsshelp"/>
+		</a></p></div> <br clear="all"/> 
+		
+	    <ul>
+		
+		 
+		
+		
+		
+	    
+			
+			
+			
+		<li style="margin-top:5px;">
+		<a  href="/detail/boise/news-events/?cid=FSEPRD564502 "><b>Barber Flat Bridge Open to Full-Size Vehicles</b></a>
+		
+		
+		<p class="dateline">Release Date: Nov 17, 2017&nbsp;&nbsp;</p>
+		
+		</li>
+	
+		 
+		
+		
+		
+	    
+			
+			
+			
+		<li style="margin-top:5px;">
+		<a  href="/detail/boise/news-events/?cid=FSEPRD564317 "><b>Improving Aquatic Habitat for Bull Trout within Boise National Forest</b></a>
+		
+		
+		<p class="dateline">Release Date: Nov 16, 2017&nbsp;&nbsp;</p>
+		
+		</li>
+	</ul>
+
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN Feature Portlet JSP -->
+
+
+
+
+
+
+
+		
+						
+		<h2>Features</h2>			
+	 	
+ 		
+		
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			  
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+
+					
+					
+					
+				
+						<h3><a  href="/detail/boise/home/?cid=STELPRDB5439708 " title="Idaho Greater Sage-Grouse">Idaho Greater Sage-Grouse</a></h3>	
+									
+						
+												
+								<!-- Code changed to make the image point to content instead of enlarged image -->
+								
+							<a title="Idaho Greater Sage-Grouse" href="/detail/boise/home/?cid=STELPRDB5439708">
+													
+							<img id="feature_0"
+										name="feature_0" 
+										align="left" 
+										class="FseImageMarginBorder"
+										height='114'
+										width='152'
+										alt='Sage-Grouse - cover page photo'
+										src="/Internet/FSE_MEDIA/stelprdb5439696_tn.jpg"/>
+							</a>
+							
+						
+						
+					 
+					
+					
+					 	
+										
+
+					
+					
+					 
+					<p>Once seen in great numbers across the West,<strong> <a href="https://www.blm.gov/programs/fish-and-wildlife/sage-grouse">Greater Sage-Grouse</a></strong> have declined in number over the past century because of the loss of sagebrush habitats essential for their survival.&nbsp;&nbsp; State wildlife management agencies, along with the Bureau of Land Management (BLM) and U.S. Forest Service (USFS), which administer most Federal lands are taking unprecedented steps to ensure the conservation of the Greater Sage-Grouse on public lands.&nbsp; Read more... &nbsp;<a href="/detail/boise/home/?cid=stelprdb5439708"><strong> USDA Forest Service - Greater-Sage-Grouse.</strong></a></p> 
+				   
+				 
+				  
+				 
+				
+				
+				
+					<br clear="all"/>
+				
+			
+		
+		
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			  
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+
+					
+					
+					
+				
+						<h3><a  href="/detail/boise/home/?cid=STELPRD3831818 " title="Soles of the Boise National Forest Employees">Soles of the Boise National Forest Employees</a></h3>	
+									
+						
+												
+								<!-- Code changed to make the image point to content instead of enlarged image -->
+								
+							<a title="Soles of the Boise National Forest Employees" href="/detail/boise/home/?cid=STELPRD3831818">
+													
+							<img id="feature_1"
+										name="feature_1" 
+										align="left" 
+										class="FseImageMarginBorder"
+										height='114'
+										width='152'
+										alt='Firefighter boots - close up'
+										src="/Internet/FSE_MEDIA/stelprd3831815_tn.jpg"/>
+							</a>
+							
+						
+						
+					 
+					
+					
+					 	
+										
+
+					
+					
+					 
+					<p>The souls caring for your forest wear a variety of soles.</p>
+
+<p>The USDA Forest Service is an agency composed of a wide array of disciplines and job opportunities. Ranging from wildland firefighting, to botany, to capitol coordinating, the Boise National Forest exemplifies the range of positions possible within the agency.</p> 
+				   
+				 
+				  
+				 
+				
+				
+				
+			
+			<br clear="all"/> 	<p align ="right" class="noPrint">		
+			<a  href="/list/boise/home/list/?position=Feature* " title="View All Features">View All Features</a>	</p>
+							
+			
+		
+		
+	
+
+		
+
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDSubFeaturePortletView.jsp -->
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+			<h2>Spotlights</h2>
+			
+	
+
+ 
+ 
+
+	
+	
+	
+	 
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+			
+			
+			
+
+			
+
+			
+	
+			
+
+			
+
+			
+		
+			<div class="spotlight">
+						
+						
+					<h3><a title="Fire Management & Aviation" href="/detail/boise/home/?cid=STELPRDB5035663">
+						Fire Management &amp; Aviation
+					</a></h3>
+					
+						
+							
+								
+									
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+								<a title="Fire Management & Aviation" href="/detail/boise/home/?cid=STELPRDB5035663">
+													
+							<img id='sf_STELPRDB5056603.jpg0'
+									name='sf_STELPRDB5056603.jpg0'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Boise Hotshots - Retardant Drop'
+									src="/Internet/FSE_MEDIA/stelprdb5056603_tn.jpg" />
+							</a>
+						
+							
+						
+						
+					
+					
+					
+					 
+						
+									
+					<p>The Boise National Forest includes over 2.5 million acres of diverse forest and grassland.&nbsp; Every year, the Forest fire staff manages over 100 wildland fires within those acres.</p>
+					
+					
+					
+						</div>
+					
+					
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+			
+			
+			
+
+			
+
+			
+
+			
+
+			
+		
+			<div class="spotlight">
+						
+						
+					
+					
+					<h3>
+						<a title="Celebrating Wildflowers all Summer!" href="/detail/boise/home/?cid=STELPRD3798873">
+							Celebrating Wildflowers all Summer!
+							</a>	</h3>	
+							
+						
+							
+								
+									
+							
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+								<a title="Celebrating Wildflowers all Summer!" href="/detail/boise/home/?cid=STELPRD3798873">
+													
+							<img id='sf_STELPRDB5373781.jpg1'
+									name='sf_STELPRDB5373781.jpg1'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Idaho State Flower - Syringa'
+									src="/Internet/FSE_MEDIA/stelprdb5373781_tn.jpg" />
+							</a>
+						
+							
+						
+						
+					
+					
+					
+					 
+						
+									
+					<p>
+	What a special treat it is to gaze upon a meadow blanketed with colorful wildflowers! Or to find a perfect bloom underneath a towering tree while hiking a forest trail.&nbsp;</p>
+					
+					
+					
+						</div>
+					
+					
+				
+				
+					<p>&nbsp;</p>  <br/> <br/>
+				<br clear="all"/>
+	 
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+			
+			
+			
+
+			
+
+			
+	
+			
+
+			
+
+			
+		
+			<div class="spotlight">
+						
+						
+					
+					
+					<h3>
+						<a title="The Lucky Peak Nursery Grows Seedlings for Reforestation Following Wildfires" href="/detail/boise/home/?cid=STELPRDB5038921">
+							The Lucky Peak Nursery Grows Seedlings for Reforestation Following Wildfires
+							</a>	</h3>	
+							
+						
+							
+								
+									
+							
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+								<a title="The Lucky Peak Nursery Grows Seedlings for Reforestation Following Wildfires" href="/detail/boise/home/?cid=STELPRDB5038921">
+													
+							<img id='sf_STELPRDB5375176.jpg2'
+									name='sf_STELPRDB5375176.jpg2'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Seedlings in the greenhouse'
+									src="/Internet/FSE_MEDIA/stelprdb5375176_tn.jpg" />
+							</a>
+						
+							
+						
+						
+					
+					
+					
+					 
+						
+									
+					<p>Each year the Lucky Peak Nursery will grow between 2 and 6&nbsp;million&nbsp;seedlings and shrubs depending on&nbsp;reforestation demands.</p>
+					
+					
+					
+						</div>
+					
+					
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+			
+			
+			
+
+			
+
+			
+
+			
+
+			
+		
+			<div class="spotlight">
+						
+						
+					
+					
+					<h3>
+						<a title="Water – A Prime Reason for the Establishment of National Forests" href="/detailfull/boise/home/?cid=STELPRDB5269788&amp;width=full">
+							Water – A Prime Reason for the Establishment of National Forests
+							</a>	</h3>	
+							
+						
+							
+								
+									
+							
+							<!-- Changes made to make the image point to actual content instead of enlarged image -->
+								<a title="Water – A Prime Reason for the Establishment of National Forests" href="/detailfull/boise/home/?cid=STELPRDB5269788&amp;width=full">
+													
+							<img id='sf_STELPRDB5192725.jpg3'
+									name='sf_STELPRDB5192725.jpg3'
+									align="left" 	class="FseImageMarginBorder"
+									height='114'
+									width='152'
+									alt='Beautiful photo of a rainbow trout'
+									src="/Internet/FSE_MEDIA/stelprdb5192725_tn.jpg" />
+							</a>
+						
+							
+						
+						
+					
+					
+					
+					 
+						
+									
+					<p>
+	The Boise National Forest offers over 7,600 miles of streams and rivers and more than 250 lakes and reservoirs that beckon water sports enthusiasts to raft, kayak, fish, sail, and water ski.</p>
+					
+					
+					
+						</div>
+					
+					
+				
+				
+					
+				<br clear="all"/>
+				<br clear="all"/>	<p align="right" class="noPrint"> <a  href="/list/boise/home/list/?position=SubFeature* " title="View All Spotlights">View All Spotlights</a></p> 
+
+	
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:220px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+	<div id="rightcol">
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+			
+		
+		<tr class="themetd">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDFireInformationPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+          
+
+	   <div style="margin-bottom:10px;text-align:center;">   							
+	     	
+			
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+				   	
+                  	
+				  
+				  
+				  
+				  
+
+				  
+									
+					
+							
+    					    <img align="middle" id='FireInformation72' name='FireInformation72' 
+									style="padding-top:5px;padding-bottom:5px;" alt='Fire Danger Level: Low'
+									src="/fseimages/fireimages/fire-danger-level-lo.gif"/>
+										
+				
+							
+				
+	 		 
+ 						
+      </div>
+  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDPromoPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+       	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+        
+		
+	
+	
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDQuickLinksPortletView.jsp   -->
+
+
+
+
+
+
+
+
+
+
+          
+
+
+        <div class="box">
+    	   		
+	       
+	            
+						<p class="boxheading">Quick Links</p>
+						
+				 
+				
+											
+             <ul>	
+	    		
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+							
+								<li><a  href="/detail/boise/home/?cid=stelprdb5038904 ">Fuelwood Permit sales end November 30, 2017</a></li>
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+								<li><a  href="http://www.rxfire.com/ " target="_blank">2017 FALL Prescribed Fire Program</a>
+								
+ 								     <img id="quickLink_img_32798" name="quickLink_img_32798" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+							
+								<li><a  href="/detail/boise/home/?cid=fseprd552958 ">PIONEER TIMBER SALES - SOLD</a></li>
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+								<li><a  href="https://www.fs.usda.gov/detail/boise/about-forest/jobs ">Employment Opportunities</a></li>
+							
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+							
+								<li><a  href="/detail/boise/home/?cid=stelprdb5035663 ">FIRE INFORMATION</a></li>
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+								<li><a  href="https://www.fs.usda.gov/detail/boise/landmanagement/?cid=STELPRDB5375662 ">TIMBER SALES</a></li>
+							
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+								<li><a  href="http://www.fs.fed.us/lei/what-we-do.php " target="_blank">USDA FS Law Enforcement</a>
+								
+ 								     <img id="quickLink_img_32865" name="quickLink_img_32865" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+								<li><a  href="http://lb.511.idaho.gov/idlb/ " target="_blank">Idaho State Road Conditions</a>
+								
+ 								     <img id="quickLink_img_29046" name="quickLink_img_29046" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+								<li><a  href="http://www.fs.usda.gov/main/boise/landmanagement/gis " target="_blank">Geospatial Data - GIS Maps and Garmin Link</a>
+								
+ 								     <img id="quickLink_img_35661" name="quickLink_img_35661" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+						
+						 	
+	 					
+					 
+					 
+				  	 
+			  		 
+		  			 
+	  				 	
+				  	 	
+				  	 	
+				  	 	
+				  	 
+				  	 
+				  	
+						
+							
+							
+								<li><a  href="http://www.fs.usda.gov/detail/boise/maps-pubs/?cid=STELPRDB5053223 " target="_blank">Motor Vehicle Use Maps</a>
+								
+ 								     <img id="quickLink_img_32864" name="quickLink_img_32864" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+						
+						 	 </ul>
+	 					    
+						 <p  style="text-align:right;"><a title="View More Quick Links" href="/list/boise/home/list/?position=Quicklinks">
+								<span class="BodyTextBlue">more Quick Links </span>
+						  </a></p>
+				         
+				       
+	              </div>
+  
+  				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDRelatedLinkPortletView.jsp -->
+
+
+
+
+
+  
+
+
+
+
+          
+
+
+	   <div class="box">		
+					
+			
+			   
+					<p class="boxheading">Related Links</p>
+					
+			   
+				
+			   
+			<ul>    
+			
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="https://www.flickr.com/photos/boisenationalforest/sets/ " target="_blank">FLICKR - Photos of the Boise NF</a>
+						
+						    <img id="related_img_28804" name="related_img_28804" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="http://www.wildland-fires.smugmug.com/ " target="_blank">Wildland Fire Photos by Kari Greer</a>
+						
+						    <img id="related_img_28805" name="related_img_28805" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="http://www.idl.idaho.gov/ " target="_blank">Idaho Department of Lands</a>
+						
+						    <img id="related_img_32858" name="related_img_32858" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="http://fishandgame.idaho.gov/ " target="_blank">Idaho Fish and Game</a>
+						
+						    <img id="related_img_32855" name="related_img_32855" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="https://www.blm.gov/idaho " target="_blank">Bureau of Land Management - BLM</a>
+						
+						    <img id="related_img_32860" name="related_img_32860" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	
+				 
+				 
+				 
+			  	 
+		  		 
+	  			 	
+				 	
+				
+				 	 	
+				 
+				 
+				  	
+				
+				
+					
+					
+						<li><a  href="https://www.ctslanguagelink.com/ " target="_blank">For Interpretation Services please contact: CTS Language Link</a>
+						
+						    <img id="related_img_41582" name="related_img_41582" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+						
+						
+						</li>
+					
+					
+					
+					
+					
+					
+				
+				
+	 	</ul> 
+	 	                  		
+	</div>	
+  
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDHighlightsPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+          
+
+	   <div class="box">  
+	      		
+	      
+			
+				<p class="boxheading">Highlights</p>	
+				
+			
+		  	
+										
+	    	<ul>
+			
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+						<li><a  href="http://www.twitter.com/BoiseNF " target="_blank">Follow us on Twitter</a>
+						
+						       <img id="highlight_img_32731" align="middle" name="highlight_img_32731" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						
+						
+							<br/>
+							<a class="twitter-timeline" href="https://twitter.com/BoiseNF" data-widget-id="444226106040672256" width=”195”?>Tweets by @BoiseNF</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						
+						</li>
+					
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+					
+						<li><a  href="/detail/boise/home/?cid=stelprdb5336294 ">2017 Grazing Allotments</a>
+						
+						</li>
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+						<li><a  href="http://www.trails.idaho.gov/trails/ " target="_blank">Idaho State Parks and Recreation - MAPS</a>
+						
+						       <img id="highlight_img_32202" align="middle" name="highlight_img_32202" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						
+						
+						</li>
+					
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+						<li><a  href="http://www.discovertheforest.org/ " target="_blank">Discover the Forest</a>
+						
+						       <img id="highlight_img_23091" align="middle" name="highlight_img_23091" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						
+						
+						</li>
+					
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+						<li><a  href="https://youtu.be/_VxTdB4opHk " target="_blank">Every Kid in a Park - Watch the Video!</a>
+						
+						       <img id="highlight_img_25383" align="middle" name="highlight_img_25383" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						
+						
+						</li>
+					
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		
+			      
+        	  	  
+				  
+			  	  
+		  		  
+	  			  	
+				  	
+				  	
+                  	
+				  
+				  
+				  
+				  
+				
+					
+					
+						<li><a  href="https://www.usda.gov/media/blog " target="_blank">USDA Forest Service Blog Website</a>
+						
+						       <img id="highlight_img_36637" align="middle" name="highlight_img_36637" alt="Link opens in a new window" src="/fseimages/popup.gif" />
+						
+						
+						
+						</li>
+					
+					
+					
+    				
+					
+					
+				
+							
+				
+	 		 </ul>
+ 						                 		
+      </div>
+  
+  				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+
+<!-- Begin WIDPromoPortletView.jsp -->
+
+
+
+
+
+
+
+
+
+
+       	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+       	<div class="showcase">
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://on.fb.me/XEAPWN " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRD381708199' name='PromoSTELPRD381708199' 
+									class="showcaseimg" alt='New Logo for facebook'
+									src="/Internet/FSE_MEDIA/stelprd3817081.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://on.fb.me/XEAPWN " target="_blank">Like and Follow us on Facebook!</a>
+							<img id="promo_img_0" name="promo_img_0" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+	</div>    			
+        
+	
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="https://www.youtube.com/results?q=US+Forest+Service+-+Boise+National+Forest&amp;sp=SADqAwA%253D " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRD3836966100' name='PromoSTELPRD3836966100' 
+									class="showcaseimg" alt='Youtube logo'
+									src="/Internet/FSE_MEDIA/stelprd3836966.png"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.youtube.com/results?q=US+Forest+Service+-+Boise+National+Forest&amp;sp=SADqAwA%253D " target="_blank">Watch your favorite Boise National Forest and USDA Forest Service videos on YouTube!</a>
+							<img id="promo_img_1" name="promo_img_1" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://www.fs.usda.gov/recmain/boise/recreation " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRDB5359300101' name='PromoSTELPRDB5359300101' 
+									class="showcaseimg" alt='Map of the Districts for employment outreaches'
+									src="/Internet/FSE_MEDIA/stelprdb5359300.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://www.fs.usda.gov/recmain/boise/recreation " target="_blank">Recreation Opportunities by District AREA</a>
+							<img id="promo_img_2" name="promo_img_2" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://www.fs.fed.us/ivm/index.html " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoFSEPRD507833102' name='PromoFSEPRD507833102' 
+									class="showcaseimg" alt='Photo of map with mini photos on it'
+									src="/Internet/FSE_MEDIA/fseprd507833.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://www.fs.fed.us/ivm/index.html " target="_blank">USDA Forest Service - Interactive Visitor Map</a>
+							<img id="promo_img_3" name="promo_img_3" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://www.recreation.gov/ " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRD3826306103' name='PromoSTELPRD3826306103' 
+									class="showcaseimg" alt='Photo of picnic table in trees'
+									src="/Internet/FSE_MEDIA/stelprd3826306.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://www.recreation.gov/ " target="_blank">Reserve your favorite campsite at www.recreation.gov</a>
+							<img id="promo_img_4" name="promo_img_4" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+							<a href="https://www.fs.usda.gov/detail/boise/news-events/?cid=FSEPRD563578">								
+								<img align="middle"  width="218" id='PromoSTELPRDB5043612104' name='PromoSTELPRDB5043612104' 
+									class="showcaseimg" alt='Blue Christmas Tree Photo'
+									src="/Internet/FSE_MEDIA/stelprdb5043612.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.fs.usda.gov/detail/boise/news-events/?cid=FSEPRD563578 ">Christmas Tree Permits</a></p>
+						
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+						
+						<a href="/detail/boise/home/?cid=fseprd485008"><img align="middle"  width="218" id='PromoFSEPRD485004' name='PromoFSEPRD485004' 
+								class="showcaseimg" alt='Snowmobiling - Parks and Recreation Logo and photo'
+								src="/Internet/FSE_MEDIA/fseprd485004.jpg"/></a>
+						
+							<p class="showcasetxt"><a  href="/detail/boise/home/?cid=fseprd485008 ">Your Guide to Snowmobiling Adventures in Southern Idaho</a>
+							</p>
+						
+								
+						
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="https://www.nationalforestmapstore.com/category-s/1830.htm " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoFSEPRD564558106' name='PromoFSEPRD564558106' 
+									class="showcaseimg" alt='photo of FS maps'
+									src="/Internet/FSE_MEDIA/fseprd564558.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://www.nationalforestmapstore.com/category-s/1830.htm " target="_blank">USDA Forest Service National Forest Map Store</a>
+							<img id="promo_img_7" name="promo_img_7" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://payetteavalanche.org/ " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRDB5441610107' name='PromoSTELPRDB5441610107' 
+									class="showcaseimg" alt='Idaho Avalanche Safety Links'
+									src="/Internet/FSE_MEDIA/stelprdb5441610.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://payetteavalanche.org/ " target="_blank">Payette Avalanche Advisory Center</a>
+							<img id="promo_img_8" name="promo_img_8" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="https://bogusbasin.org/the-mountain/overview/conditions-webcams/ " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoSTELPRDB5441139108' name='PromoSTELPRDB5441139108' 
+									class="showcaseimg" alt='Bogus Basin Web Cams'
+									src="/Internet/FSE_MEDIA/stelprdb5441139.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="https://bogusbasin.org/the-mountain/overview/conditions-webcams/ " target="_blank">Bogus Basin - ski area web cams</a>
+							<img id="promo_img_9" name="promo_img_9" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+						
+							<a  target="_blank" 
+   									   href='/Internet/FSE_DOCUMENTS/fseprd561087.pdf'> 							
+								<img align="middle"  width="218" id='PromoFSEPRD561086109' name='PromoFSEPRD561086109' 
+									class="showcaseimg" alt='A photo of the front page of the 2017 Visitor Guide'
+									src="/Internet/FSE_MEDIA/fseprd561086.jpg"/>
+							</a>
+							<p class="showcasetxt">
+							
+                                      <a  target="_blank" 
+   									   href='/Internet/FSE_DOCUMENTS/fseprd561087.pdf'> Boise NF Visitor Guide has been updated!
+									</a><img id="promo_img_10" name="promo_img_10" align="middle" alt="Link opens in a Pdf Document" src="/fseimages/pdf.gif" /> 
+							</p>	
+						
+																			
+						
+						
+			    		<br/>
+						 
+					
+				
+			
+			
+
+        
+			
+        
+	
+			
+			
+			
+			
+			
+			
+			
+		    
+		    
+			
+				
+			
+			
+			
+			 
+			 
+			 
+				  	
+	        	
+
+
+
+              
+
+
+        
+
+	        
+	       	
+				
+					
+					
+								
+						
+						
+							<a  href="http://www.fs.usda.gov/main/boise/maps-pubs " target="PortalServerHelpWindow">								
+								<img align="middle"  width="218" id='PromoFSEPRD537783110' name='PromoFSEPRD537783110' 
+									class="showcaseimg" alt='Photo of a document containing 2017 QR codes for MVUM maps'
+									src="/Internet/FSE_MEDIA/fseprd537783.jpg"/>
+							</a>
+							<p class="showcasetxt"><a  href="http://www.fs.usda.gov/main/boise/maps-pubs " target="_blank">Scan QR codes or use www.avenza.com to download Boise NF Motor Vehicle Use Maps to mobile devices</a>
+							<img id="promo_img_11" name="promo_img_11" align="middle" alt="Link opens in a new window" src="/fseimages/popup.gif" />  
+							</p>	
+						
+						
+																			
+						
+						<p class="showcasebot">&nbsp;</p>		
+						
+						 
+					
+				
+			
+			
+
+        
+			
+        
+		
+	
+	
+				
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+								
+			</td>
+		</tr>
+	</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+	
+</div> <!-- end of leftcol--> 
+
+			
+		</td>
+		
+		
+		<td valign="top" style="width:10px;">
+			 
+ 
+ 
+
+ 
+ 
+ 
+
+
+<!--Rendering Table from UnlayeredContainer-V.jsp-->
+
+	
+	
+		
+		
+	
+<table summary="" class="themetable" border="0" width="100%" cellpadding="0" cellspacing="0" >
+	
+	
+	
+	<tr><td width="100%" valign="top" class="themetd"></td></tr> 
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+			
+		
+		<tr class="themetd WhiteBackgroundColor">
+		
+			<td class="themetd" valign="top" >
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<table class="layoutRow" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	
+		
+		
+		<td valign="top" style="width:1px;">
+			     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<table summary="" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+		<tr>
+			<td>
+				
+
+
+
+
+
+
+
+
+<!-- Begin WIDFooterNavPortletView.jsp -->
+
+<br />
+<br />
+
+
+
+
+<div id="footer"><p> 
+				 <a href="http://www.fs.fed.us/" name="lnkFo">Forest Service Home</a> | <a href="http://www.usda.gov/" name="lnkUS">USDA.gov</a> | <a href="http://www.recreation.gov/" name="lnkre">recreation.gov</a> | <a href="http://www.usa.gov/" name="lnkUS">USA.gov</a> | <a href="http://www.whitehouse.gov/" name="lnkWh">Whitehouse.gov</a></p><p> 
+				 <a href="http://www.fs.fed.us/plugins.shtml" name="lnkPl">Plug-Ins</a> | <a href="http://www.fs.fed.us/im/foia/" name="lnkFO">FOIA</a> | <a href="http://www.fs.fed.us/contactus/accessibility.shtml" name="lnkAc">Accessibility Statement</a> | <a href="http://www.fs.fed.us/privacy.shtml" name="lnkPr">Privacy Policy</a> | <a href="http://www.fs.fed.us/disclaimers.shtml" name="lnkIm">Important Notices</a> | <a href="http://www.fs.fed.us/qoi/" name="lnkIn">Information Quality</a></p></div>				
+			</td>
+		</tr>
+	</table>			
+		</td>
+		
+		 
+		</tr>
+</table>
+			</td>
+		</tr>
+		
+	
+	
+	
+</table>
+
+			
+		</td>
+		
+		 
+		</tr>
+</table>              
+					</div>                   
+				</td>                                    
+			</tr>   
+		</table>						   		
+	</body>   
+</html>                         
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+	  
+<!-- FSE_WIDTheme_war.ear version 18 -->

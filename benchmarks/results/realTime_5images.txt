@@ -1,0 +1,6 @@
+realTime of image 1 is .170 seconds
+realTime of image 2 is .160 seconds
+realTime of image 3 is .170 seconds
+realTime of image 4 is .160 seconds
+realTime of image 5 is .170 seconds
+average real time of classifying an image over 5 images is ------------------------ .166 seconds

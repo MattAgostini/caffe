@@ -1,0 +1,612 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<head id="ctl00_Head1"><title>
+	Public Library - City of Escondido
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="City of Escondido Site Search" href="https://www.escondido.org/SearchEngineInfo.ashx" />
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=COE-Blue-a31-mp2500&amp;s=1&amp;v=2.5.0.0&amp;sv=03d94363-02eb-40ee-82e6-a3d4dba2cef7' />
+
+<link rel='shortcut icon' href='/Data/Sites/1/skins/COE-Blue-a31-mp2500/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="/ClientScript/jqmojo/jquery-migrate1-0-0.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://www.escondido.org/library.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+    <script type="text/javascript"> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-20032875-1', 'auto');
+ga('set', 'anonymizeIp', true); ga('send', 'pageview'); 
+ </script>
+	
+	
+    <form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="R+LDQJOCY+T6khfDaXSby39PQxZmHfJ5t+WvW/Q8648FtmBfjhHbbjdtYDMYiv+NnQ39NTo0eSPGpOogl7qrRn+AiZRnwDgzeziuF1JgK+bX2rc47C8Pte9eV1mEYk/dHRqBBq6fECOuKPBxO2TkSjT/H57SUYwolz9CoLNZG3HhSUpWzOm4FG76ofnndwBcx9yJTzZ9u66MrBND1EC8+0remtxfP+Lvpd+DP554CAPMNt8lTiDnzeW8viZbuMAG9nEq5N+YYOTRBOWePJ/SblMRiUw1Q3B1vn7nxg14BTFnwLSTldzunr/+dND2aURbrm8zuFPB9fEITFtTEPfUdFooSEhftXrS5CqIGP8vmYFwHy9qaYbjevt2yrpAZFYaThO33x+7ntUaXM7lYbjna591JM4T6UVKck6+MywKIUT7TX3Z3j2WCj300oN0LsyusnWsqATVnAi1FgVuBpWDH2W+B+ERqFKCxQLraSJ2eCrn2+JERkKo" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="1mbHW6V8tfwPbaiZsB72zjC3aS8xGGLpMOf3NASiFDb13wApg/4DrWpiS3v36Vd+G+j4HBDmHY3Dj3PZ9SKknPX119CtPZ7PiYh+tCik6YeILeswV1vMapzuMiPpVbdWJjUr6FXhDr2eeBRSsul61zUrtGScNug+B1Iktkt5/T7frAgHOD3ys68ey9d3JJjVR7c+y2tkPvtXo+t+N3l6kjMhozgJ/Dh11Vd2ORVZwsLQ2cEFvK7jOXxzrZ+yRCZqcCS2v1SynoEAoxuDeSc636OMMl9CEpmYea3pDPp+D4ePhYmFAyF8kX0427Bcs1SUjw8o4k1RZKqwgdur27me3NTvyKMK1U9967zz/K85mvTozwUOXZ8ZmYs6CpPGfDzt1MYKLpVZi+68mCKvWKDTVCQC3oJGVKZcuAmzB5NRzE5K9Au+0bRyGUF6GI7HRgpaG5ljWr2B39IqFop0DHqmSb5RfDD4lx5jumiJ58kdLLMPqZ/P74L7" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="1HJfpTdXvRwCTWMMA4kE1ydwCcx79w==" />
+
+
+<script src="/ScriptResource.axd?d=0LTl0vQK8iLv80KMWPHzajn572Om6F5ScqNwIB-m7GkkreKXSs5M2LlTMOfuWVDuleefBJ59PRIh0RJjM_FLdT-2ChuWCNgtSoym-NNtTlqD9fFiN9if_3KD-Vvkybg9V7OkcxKw9ilixe6ALFrwHDDscTx0_thMi9UfNhx98jhguZhp4NHkcbFcJS6lctcby9Jo9nw5NJXDS8h4I6o5-BUGgak1" type="text/javascript"></script>
+<script src="//ajax.aspnetcdn.com/ajax/4.5/6/WebFormsBundle.js" type="text/javascript"></script>
+<script src="//ajax.aspnetcdn.com/ajax/4.5/6/MsAjaxBundle.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="5N0naCpo9QraOmhg+FHSGj1JtaK6VJI0KhY7JBBBC1t5XHP39PF0vreEPIwTfCR2iieXtS2kqPKGvw71clc3rliQGQQzJTxCcqWNWbWJfjUWxzSGtg0Qc2WCQ3IjVNBSdhelow==" />
+    
+    
+    
+    
+    <div id="art-page-background-glare-wrapper">
+        <div id="art-page-background-glare"></div>
+    </div>
+    <div id="art-page-background-middle-texture">
+        <div id="art-main">
+            <div class="cleared reset-box"></div>
+            <div class="art-box art-sheet">
+                <div class="art-box-body art-sheet-body">
+                    <div class="art-header">
+                        <div class="art-header-position">
+                            <div class="art-header-wrapper">
+                                <div class="art-header-inner">
+                                    <div class="art-headerobject"></div>
+                                    <div class="art-logo">
+                                        <a href='/' title='City of Escondido' class=''><img class='sitelogo' alt='City of Escondido' src='/Data/Sites/1/logos/choice-white-small.png' /></a>
+                                        <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+                                        <h2 id="slogan-text" class="art-logo-text">
+                                            . . . The Heart of San Diego North</h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="art-bar art-nav">
+                        <div class="art-nav-outer">
+                            <div class="art-nav-wrapper">
+                                <div class="art-nav-inner">
+                                    <div class="art-nav-center">
+                                        
+
+<div id="ctl00_SiteMenu1_ctl00">
+		<ul id="ctl00_SiteMenu1_ctl00_UL" class="art-hmenu">
+			<li>
+				<a href="/home.aspx">
+					Home</a>
+			</li>
+			<li>
+				<a href="/about-escondido.aspx">
+					About Escondido</a>
+			</li>
+			<li>
+				<a href="/government.aspx">
+					Government</a>
+			</li>
+			<li class="active">
+				<a class="active" href="/city-departments.aspx">
+					City Departments</a>
+			</li>
+			<li>
+				<a href="/business.aspx">
+					Business</a>
+			</li>
+			<li>
+				<a href="http://agency.governmentjobs.com/escondido/default.cfm">
+					Employment</a>
+			</li>
+			<li>
+				<a href="/community.aspx">
+					Community</a>
+			</li>
+			<li>
+				<a href="/news.aspx">
+					News</a>
+			</li>
+			<li>
+				<a href="http://www.escondido.org/city-hall.aspx">
+					City Hall</a>
+			</li>
+			<li>
+				<a href="/contact-us.aspx">
+					Contact Us</a>
+			</li>
+		</ul>
+
+</div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cleared reset-box"></div>
+                    <div class="art-layout-wrapper">
+                        <div class="art-content-layout">
+                            <div class="art-content-layout-row">
+                                <div id='ctl00_divLeft' class='art-layout-cell art-sidebar1 leftside left2column cmszone'>
+
+                                    
+
+<div class="art-box art-vmenublock" id="ctl00_PageMenu1_ctl00"><div class="art-box-body art-vmenublock-body"><div class="art-box art-vmenublockcontent"><div class="art-box-body art-vmenublockcontent-body">
+		<ul id="ctl00_PageMenu1_ctl00_UL" class="art-vmenu">
+			<li>
+				<a href="/city-attorney.aspx">
+					City Attorney</a>
+			</li>
+			<li>
+				<a href="/city-clerks-office.aspx">
+					City Clerk&#39;s Office</a>
+			</li>
+			<li>
+				<a href="/city-manager.aspx">
+					City Manager</a>
+				<ul>
+					<li>
+						<a href="/economic-development.aspx">
+							Economic Development</a>
+					</li>
+					<li>
+						<a href="/communications.aspx">
+							Communications</a>
+					</li>
+					<li>
+						<a href="/public-art-program.aspx">
+							Public Art Program</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/city-treasurer.aspx">
+					City Treasurer</a>
+			</li>
+			<li>
+				<a href="/community-development.aspx">
+					Community Development</a>
+				<ul>
+					<li>
+						<a href="/building.aspx">
+							Building</a>
+						<ul>
+							<li>
+								<a href="/electronic-solar-submittals.aspx">
+									ELECTRONIC SOLAR SUBMITTALS</a>
+							</li>
+							<li>
+								<a href="/electronic-vehicle-charging-station-submittals.aspx">
+									ELECTRONIC VEHICLE CHARGING STATION SUBMITTALS</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/business-license-information.aspx">
+							Business License Information</a>
+					</li>
+					<li>
+						<a href="/code-enforcement.aspx">
+							Code Enforcement</a>
+					</li>
+					<li>
+						<a href="/planning.aspx">
+							Planning</a>
+						<ul>
+							<li>
+								<a href="/area-plans.aspx">
+									Area Plans</a>
+							</li>
+							<li>
+								<a href="/specific-plans.aspx">
+									Specific Plans</a>
+							</li>
+							<li>
+								<a href="/park-and-trail-master-plans.aspx">
+									Park and Trail Master Plans</a>
+							</li>
+							<li>
+								<a href="/commissions.aspx">
+									Commissions</a>
+							</li>
+							<li>
+								<a href="/zoning-administrator.aspx">
+									Zoning Administrator</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/housing-division.aspx">
+							Housing</a>
+					</li>
+					<li>
+						<a href="/neighborhood-services.aspx">
+							Neighborhood Services</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/community-services.aspx">
+					Community Services</a>
+				<ul>
+					<li>
+						<a href="/library.aspx">
+							Library</a>
+					</li>
+					<li>
+						<a href="/older-adult-services.aspx">
+							Older Adult Services</a>
+					</li>
+					<li>
+						<a href="/recreation.aspx">
+							Recreation</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/engineering-services.aspx">
+					Engineering Services</a>
+				<ul>
+					<li>
+						<a href="/land-development.aspx">
+							Land Development</a>
+					</li>
+					<li>
+						<a href="/design-construction.aspx">
+							Design &amp; Construction</a>
+						<ul>
+							<li>
+								<a href="/field-engineering.aspx">
+									Field Engineering</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/real-property.aspx">
+							Real Property</a>
+					</li>
+					<li>
+						<a href="/transportation-1.aspx">
+							Transportation</a>
+						<ul>
+							<li>
+								<a href="/traffic-signal-design-and-control-plans.aspx">
+									Traffic Signal Design and Traffic Control Plans</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/finance.aspx">
+					Finance</a>
+				<ul>
+					<li>
+						<a href="/purchasing.aspx">
+							Purchasing</a>
+						<ul>
+							<li>
+								<a href="/bidders-list.aspx">
+									Bidders List</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/utility-billing.aspx">
+							Utility Billing</a>
+					</li>
+					<li>
+						<a href="/mello-roos-cfd-yearly-fiscal-status-reports.aspx">
+							Mello-Roos CFD Yearly Fiscal Status Reports</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/fire.aspx">
+					Fire</a>
+			</li>
+			<li>
+				<a href="/human-resources.aspx">
+					Human Resources</a>
+				<ul>
+					<li>
+						<a href="/employee-benefits.aspx">
+							Employee Benefits</a>
+					</li>
+					<li>
+						<a href="/personnel-services.aspx">
+							Personnel Services</a>
+					</li>
+					<li>
+						<a href="/risk-management.aspx">
+							Risk Management</a>
+					</li>
+					<li>
+						<a href="http://www.escondido.org/volunteer-intern-program.aspx">
+							Volunteer/Intern Program</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/information-systems.aspx">
+					Information Systems</a>
+				<ul>
+					<li>
+						<a href="/gis.aspx">
+							GIS</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/police.aspx">
+					Police</a>
+			</li>
+			<li>
+				<a href="/public-works.aspx">
+					Public Works</a>
+				<ul>
+					<li>
+						<a href="/maintenance.aspx">
+							Maintenance</a>
+						<ul>
+							<li>
+								<a href="/building-maintenance.aspx">
+									Building Maintenance</a>
+							</li>
+							<li>
+								<a href="/fleet-services.aspx">
+									Fleet Services</a>
+							</li>
+							<li>
+								<a href="/recycling-waste.aspx">
+									Recycling &amp; Waste</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/operations.aspx">
+							Operations</a>
+						<ul>
+							<li>
+								<a href="/parks-open-space.aspx">
+									Parks &amp; Open Space</a>
+							</li>
+							<li>
+								<a href="/streets.aspx">
+									Streets</a>
+							</li>
+							<li>
+								<a href="/urban-forestry.aspx">
+									Urban Forestry</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/utilities.aspx">
+					Utilities</a>
+				<ul>
+					<li>
+						<a href="/utilities-divisions.aspx">
+							Divisions</a>
+						<ul>
+							<li>
+								<a href="/lakes-division.aspx">
+									Lakes Division</a>
+							</li>
+							<li>
+								<a href="/wastewater-division.aspx">
+									Wastewater Division</a>
+							</li>
+							<li>
+								<a href="/water-division.aspx">
+									Water Division</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/utilities-users.aspx">
+							Users</a>
+						<ul>
+							<li>
+								<a href="/residential-users.aspx">
+									Residential Users</a>
+							</li>
+							<li>
+								<a href="/commercial-users.aspx">
+									Commercial Users</a>
+							</li>
+							<li>
+								<a href="/agricultural-users.aspx">
+									Agricultural Users</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/water-conservation.aspx">
+							Water Conservation</a>
+					</li>
+					<li>
+						<a href="/storm-water-program.aspx">
+							Storm Water Program</a>
+					</li>
+				</ul>
+			</li>
+			<li class="active">
+				<a class="active" href="/city-facilities.aspx">
+					City Facilities</a>
+				<ul class="active">
+					<li>
+						<a href="/city-hall.aspx">
+							City Hall</a>
+						<ul>
+							<li>
+								<a href="/city-hall-calendar.aspx">
+									City Hall Calendar</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/evcc.aspx">
+							EVCC</a>
+					</li>
+					<li>
+						<a href="/escondido-sports-center.aspx">
+							Escondido Sports Center</a>
+					</li>
+					<li>
+						<a href="/fire-stations.aspx">
+							Fire Stations</a>
+					</li>
+					<li>
+						<a href="/harrf.aspx">
+							HARRF</a>
+					</li>
+					<li>
+						<a href="/escondido-senior-center.aspx">
+							Park Avenue Community Center</a>
+					</li>
+					<li>
+						<a href="/police-fire-headquarters.aspx">
+							Police &amp; Fire Headquarters</a>
+					</li>
+					<li class="active">
+						<a class="active" href="http://www.escondido.org/library.aspx">
+							Public Library</a>
+					</li>
+					<li>
+						<a href="/public-works-yard.aspx">
+							Public Works Yard</a>
+					</li>
+					<li>
+						<a href="/water-treatment-plant.aspx">
+							Water Treatment Plant</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div></div></div>
+</div>
+
+
+                                    
+                                
+</div>
+                                <div id='ctl00_divCenter' class='art-layout-cell art-content center-leftmargin cmszone'>
+
+                                    
+                                    
+                                    <a id="startcontent"></a>
+                                    
+                                
+</div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cleared"></div>
+                    <div class="art-footer">
+                        <div class="art-footer-body">
+                        <div class="art-footer-center">
+                        <div class="art-footer-wrapper">
+                            <a href='/city-rss-feeds.aspx' class="art-rss-tag-icon" title="RSS"></a>
+                            <div class="art-footer-text">
+                                <p>
+                                <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a>
+                                |
+				<a href='/contact-us.aspx'>Contact Us</a>
+                                |
+                                <a href='/public-library.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a>
+                                |
+                                <a href='/privacy-policy.aspx'>Privacy Policy</a>
+                                |
+                                <a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a>
+                                </p>
+				<p>
+				City Hall &#8226; 201 North Broadway, Escondido CA 92025 &#8226; 760-839-4880
+				</p>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="cleared"></div>
+                        </div>
+                    </div>
+                    <div class="cleared"></div>
+                </div>
+                <div class="cleared"></div>
+            </div>
+            <div class="cleared"></div>
+            <p class="art-page-footer">
+                <br />
+                <br />
+            </p>
+        </div>
+    </div>
+	
+    <div class="topnavwrap">
+        <div class="topnav">
+            <ul>
+                
+                <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+                
+                <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+                
+                
+                
+                <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fpublic-library.aspx">Staff Login</a></li>
+                
+<div id='ctl00_SearchInputBox1_pnlS' class=''>
+
+<div id="ctl00_SearchInputBox1_pnlSearch" class="searchpanel " style="display:inline;">
+	
+
+<input placeholder="Enter Search Terms" name="ctl00$SearchInputBox1$txtSearch" type="text" id="ctl00_SearchInputBox1_txtSearch" title="Site Search" class="searchbox" />
+
+<input type="image" name="ctl00$SearchInputBox1$btnSearch2" id="ctl00_SearchInputBox1_btnSearch2" class="searchbutton" src="https://www.escondido.org/Data/Sites/1/skins/COE-Blue-a31-mp2500/search.png" alt="Search" />
+
+</div>
+
+</div>
+            </ul>
+		<div id="google_translate_element"></div>
+                        <script>
+                           function googleTranslateElementInit() {
+                             new google.translate.TranslateElement({
+                               pageLanguage: 'en',
+                               gaTrack: true,
+                               gaId: 'UA-20032875-1',
+                               layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                             }, 'google_translate_element');
+                           }
+                        </script>
+                        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+		</div>
+		    </div>
+
+    <script type="text/javascript">
+        function HideMenuToolbar() { $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow"); }
+        function ShowMenuToolbar() { $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow"); }
+        $(document).ready(function () {
+            $("span.downarr a").click(function () { HideMenuToolbar(); Set_Cookie('openstate', 'closed') });
+            $("span.showbar a").click(function () { ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+            $("span.downarr a, span.showbar a").click(function () { return false; });
+            var openState = Get_Cookie('openstate');
+            if (openState != null) { if (openState == 'closed') { HideMenuToolbar(); } if (openState == 'open') { ShowMenuToolbar(); } }
+        });
+    </script>
+    
+    
+    
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+    
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

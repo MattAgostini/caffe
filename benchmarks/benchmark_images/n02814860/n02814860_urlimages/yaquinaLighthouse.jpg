@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title> Discover Newport Oregon | The Coast You Remember </title>
+    <meta name="description" content=" Newport has been a playground for visitors since the late 1800’s. Nestled between the Coastal Mountains, Pacific Ocean and Yaquina Bay, the natural beauty of the area draws those seeking a unique and exciting experience. The Nye Beach and Bayfront Distric ">
+    <meta name="viewport" content="width=device-width">
+
+    <meta property="og:title" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:description" content=""/>
+
+    <base href="/">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <!-- Load site stylesheets and javascript prior to page loading to prevent issues with PHP based routing and inline javascript -->
+    <link rel="stylesheet" href="http://discovernewport.com/css/vendor.css">
+    <link rel="stylesheet" href="http://discovernewport.com/css/core.css">
+    <link rel="stylesheet" href="http://discovernewport.com/css/swiper.min.css">
+    <link rel="stylesheet" href="http://discovernewport.com/css/webfonts/ss-social.css">
+    <link rel="stylesheet" href="http://discovernewport.com/css/webfonts/ss-standard.css">
+
+    <!-- Load any custom CSS theme files -->
+    <link rel="stylesheet" href="http://discovernewport.com/themes/discovernewport/css/styles.css">
+
+
+    <!-- Load Site JS -->
+    <script src="http://discovernewport.com/js/vendor.js" type="text/javascript"></script>
+    <script src="http://discovernewport.com/js/site.js" type="text/javascript"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://discovernewport.com/js/frameworks/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Load custom header code for site -->
+    <!-- open graph -->
+<meta property="og:title" content="Discover Newport | The coast you remember " />
+<meta property="og:description" content="The edge of a continent the start of an adventure" />
+ <meta property="og:type" content="website" />
+ <meta property="og:url" content="http://www.discovernewport.com" />
+ <meta property="http://discovernewport.com/uploads/2016/04/3e7c836e79e19d9ecb8ba21190cdd919.jpg" />
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '266202547067721');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=266202547067721&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Discover Newport",
+  "url" : "http://www.discovernewport.com",
+  "sameAs" : [ "https://www.facebook.com/discovernewport",
+    "http://www.instagram.com/NEWPORTOREGON"] 
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3541912-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</head>
+<body>
+<!--[if lt IE 8]>
+<script type="text/javascript">
+    var $buoop = {vs:{i:8,f:3.6,o:10.6,s:4,n:9}}
+    $buoop.ol = window.onload;
+    window.onload=function(){
+        try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+        var e = document.createElement("script");
+        e.setAttribute("type", "text/javascript");
+        e.setAttribute("src", "http://browser-update.org/update.js");
+        document.body.appendChild(e);
+    }
+</script>
+<![endif]-->
+
+
+    <div class="pageWidth headerContainer">
+        <!-- Footer Panel for custom content -->
+<div class="clearfix"></div>
+<div class="headerPanel"></div>
+
+
+<!-- Main Header -->
+ <header class="clearfix header">
+     <!--
+     <h1 class="logoContainer">
+         <a title="..." href="/">             <img class="headerLogo" alt="Discover Newport" src="/uploads/2016/04/03fc2b807f18c4a896b6625b0bb297d0.jpg">             <span class="siteName">Discover Newport</span>
+         </a>
+     </h1>
+     <nav role="navigation" id="nav">
+         <a href="#nav"><i class="fa fa-bars"></i></a>
+         <a href="#"><i class="fa fa-bars"></i></a>
+         <ul>
+                              <li class="default">
+
+                                              <a href="where-to" target="_self">Where to...</a>
+                     
+                                              <ul>
+                                                              <li class="navLink">
+
+                                                                              <a href="stay" target="_self">Stay</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="eat" target="_self">Eat</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="play" target="_self">Play</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="shop" target="_self">Shop</a>
+                                                                      </li>
+                                                      </ul>
+                                      </li>
+                              <li class="navLink">
+
+                                              <a href="activities" target="_self">Activities</a>
+                     
+                                              <ul>
+                                                              <li class="default">
+
+                                                                              <a href="marine" target="_self">Marine</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="fishing-crabbing" target="_self">Fishing & Crabbing</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="lighthouses" target="_self">Lighthouses</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="beaches" target="_self">Beaches</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="surfing-kayaking" target="_self">Surfing & Kayaking</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="hiking-biking" target="_self">Hiking & Biking</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="camping-rv-parks" target="_self">Camping & RV Parks</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="birding" target="_self">Birding</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="arts-culture" target="_self">Arts & Culture</a>
+                                                                      </li>
+                                                      </ul>
+                                      </li>
+                              <li class="default">
+
+                                              <a href="about" target="_self">About</a>
+                     
+                                              <ul>
+                                                      </ul>
+                                      </li>
+                              <li class="default">
+
+                                              <a href="news" target="_self">News</a>
+                     
+                                              <ul>
+                                                              <li class="default">
+
+                                                                              <a href="http://newportchamber.org/events" target="_blank">Events</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="https://www.flickr.com/photos/142116573@N02/" target="_self">Photo Gallery</a>
+                                                                      </li>
+                                                              <li class="default">
+
+                                                                              <a href="http://discovernewport.tumblr.com" target="_self">Pressroom </a>
+                                                                      </li>
+                                                      </ul>
+                                      </li>
+                              <li class="default">
+
+                                              <a href="travel-info" target="_self">Travel Info</a>
+                     
+                                              <ul>
+                                                      </ul>
+                                      </li>
+                              <li class="navButton">
+
+                                              <a href="get-deals" target="_self">Get Deals</a>
+                     
+                                              <ul>
+                                                      </ul>
+                                      </li>
+                      </ul>
+     </nav>
+     -->
+
+
+     <nav class="navbar navbar-default">
+         <div class="container-fluid">
+             <!-- Brand and toggle get grouped for better mobile display -->
+             <div class="navbar-header">
+                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                     <span class="sr-only">Toggle navigation</span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                 </button>
+                 <h1 class="logoContainer">
+                     <a title="..." href="/">                             <img class="headerLogo" alt="Discover Newport" src="http://discovernewport.com/uploads/2016/04/03fc2b807f18c4a896b6625b0bb297d0.jpg">                         <span class="siteName">Discover Newport</span>
+                     </a>
+                 </h1>
+             </div>
+
+             <!-- Collect the nav links, forms, and other content for toggling -->
+             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                 <ul class="nav navbar-nav navbar-right">
+                                              <li class="default  dropdown ">
+
+                                                              <a
+                                          href="#"                                           class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"                                          target="_self">
+                                            Where to...  <span class="caret"></span>                                  </a>
+                             
+                                                              <ul class="dropdown-menu">
+                                                                              <li class="navLink">
+
+                                                                                              <a href="http://discovernewport.com/stay" target="_self">Stay</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/eat" target="_self">Eat</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/play" target="_self">Play</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/shop" target="_self">Shop</a>
+                                                                                      </li>
+                                                                      </ul>
+                                                      </li>
+                                              <li class="navLink  dropdown ">
+
+                                                              <a
+                                          href="#"                                           class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"                                          target="_self">
+                                            Activities  <span class="caret"></span>                                  </a>
+                             
+                                                              <ul class="dropdown-menu">
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/marine" target="_self">Marine</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/fishing-crabbing" target="_self">Fishing & Crabbing</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/lighthouses" target="_self">Lighthouses</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/beaches" target="_self">Beaches</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/surfing-kayaking" target="_self">Surfing & Kayaking</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/hiking-biking" target="_self">Hiking & Biking</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/camping-rv-parks" target="_self">Camping & RV Parks</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/birding" target="_self">Birding</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.com/arts-culture" target="_self">Arts & Culture</a>
+                                                                                      </li>
+                                                                      </ul>
+                                                      </li>
+                                              <li class="default ">
+
+                                                              <a
+                                          href="http://discovernewport.com/about"                                                                                   target="_self">
+                                            About                                  </a>
+                             
+                                                      </li>
+                                              <li class="default  dropdown ">
+
+                                                              <a
+                                          href="#"                                           class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"                                          target="_self">
+                                            News  <span class="caret"></span>                                  </a>
+                             
+                                                              <ul class="dropdown-menu">
+                                                                              <li class="default">
+
+                                                                                              <a href="http://newportchamber.org/events" target="_blank">Events</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="https://www.flickr.com/photos/142116573@N02/" target="_self">Photo Gallery</a>
+                                                                                      </li>
+                                                                              <li class="default">
+
+                                                                                              <a href="http://discovernewport.tumblr.com" target="_self">Pressroom </a>
+                                                                                      </li>
+                                                                      </ul>
+                                                      </li>
+                                              <li class="default ">
+
+                                                              <a
+                                          href="http://discovernewport.com/travel-info"                                                                                   target="_self">
+                                            Travel Info                                  </a>
+                             
+                                                      </li>
+                                              <li class="navButton ">
+
+                                                              <a
+                                          href="http://discovernewport.com/get-deals"                                                                                   target="_self">
+                                            Get Deals                                  </a>
+                             
+                                                      </li>
+                                      </ul>
+             </div><!-- /.navbar-collapse -->
+         </div><!-- /.container-fluid -->
+     </nav>
+ </header>    </div>
+
+    <div class="pageWidth mainContentContainer">
+        <div id="page" class="clearfix page">
+            <section class="clearfix contentSectionContainer bg_home_hero" id="section-af249a5da989b8d905e0c7deb14506e5" data-numsubs="1"><section id="section-af249a5da989b8d905e0c7deb14506e5-1" data-parentsection="section-af249a5da989b8d905e0c7deb14506e5" class="contentSection col-sm-12  textCenter" >
+
+		
+        
+        
+        <article class="col-sm-12  ">
+
+            <h2 class="headline-64 headline-white">Discover Newport</h2>
+
+            <h3 class="subhead-26 subhead-whiterock">They're your vacation days. Do something new.</h3>
+            
+            <p>
+                
+                <p style="color: #f2efe3;"><br /><br />scroll</p>
+<h3 style="color: #fff;" class="fa  fa-angle-double-down fa-4x"></h3>
+
+                            </p>
+
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer whiterock" id="section-d369553343820499be737fa22de4d213" data-numsubs="1"><section id="section-d369553343820499be737fa22de4d213-1" data-parentsection="section-d369553343820499be737fa22de4d213" class="contentSection col-sm-12  " >
+
+					<a href="http://discovernewport.com/content/tis-the-season/756" class="share_link" target="_blank">Share <span class="fa fa-share"></span></a>
+		
+                    <aside class="col-sm-6 fr">
+                <figure class="image-padding-left">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/11/99d35261464272eb4d9689ef3c303608.jpg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fl ">
+
+            <h2 class="headline-32 headline-azure">‘Tis the Season! </h2>
+
+            <h3 class="subhead-22 subhead-treepoppy">Wrap up your whole gift list by shopping in Newport</h3>
+            
+            <p>
+                
+                <p><span>Admit it, holiday shopping can be a hassle, rather than the Rockwellian activity of Christmas cards and TV specials. One way to escape the crowds and traffic and make holiday shopping the fun, generous, thoughtful activity it is supposed to be is to do it in Newport this year &ndash; yes, all of it. You can find something for everyone in our shops, guaranteed. So make your list, check it twice, then head out to these fine businesses, and many others, to get your gift shopping done with a smile.</span></p>
+<p></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+
+                            </p>
+
+                            <a target="_self" href="http://discovernewport.com/shop" class="link solid bottom">Where to Shop</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer azure" id="section-bfbbd4851508d71d9eddc06f428f9301" data-numsubs="1"><section id="section-bfbbd4851508d71d9eddc06f428f9301-1" data-parentsection="section-bfbbd4851508d71d9eddc06f428f9301" class="contentSection col-sm-12  azure" >
+
+					<a href="http://discovernewport.com/content/visit-newports-recently-renovated-arts-venues/649" class="share_link" target="_blank">Share <span class="fa fa-share"></span></a>
+		
+                    <aside class="col-sm-6 fl">
+                <figure class="image-padding-right">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/11/0eee6abbff0feb6976dee9db59e63ba1.JPG">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fr ">
+
+            <h2 class="headline-32 headline-white">Visit Newport’s Recently Renovated Arts Venues!        </h2>
+
+            <h3 class="subhead-22 subhead-janna">The Newport Performing Arts Center and Visual Arts Center have both had amazing makeovers </h3>
+            
+            <p>
+                
+                <article>
+<p><span style="font-weight: 400;">When you&rsquo;re spending time in Newport, it&rsquo;s hard not to notice how important the arts are to our idyllic coastal community. Whether it&rsquo;s the many galleries that present a variety of mediums and visual perceptions, or the public murals, sculpture and architecture that bond the city and surf, Newport is obviously a place where the arts flourish. In addition to a number of galleries, studios, performance spaces, and the prolific offerings of public art, two amazing municipal venues, the Newport Performing Arts Center and Visual Arts Center, offer exceptional performance and visual art opportunities year-round. </span></p>
+<p></p>
+<p><span style="font-weight: 400;">Both venues have recently received a series of renovations and improvements that will enhance your experience. While watching a performance or viewing an art exhibit, you&rsquo;ll be pleasantly surprised that both of these spaces have been enhanced. &nbsp;</span></p>
+</article>
+
+                            </p>
+
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer whiterock" id="section-efc68fc9f8bb308eb3e79f04e919235b" data-numsubs="1"><section id="section-efc68fc9f8bb308eb3e79f04e919235b-1" data-parentsection="section-efc68fc9f8bb308eb3e79f04e919235b" class="contentSection col-sm-12  " >
+
+		
+                    <aside class="col-sm-6 fr">
+                <figure class="image-padding-left">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/10/542baed8915e2e828581d732f4d099a0.jpg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fl ">
+
+            <h2 class="headline-32 headline-midnightblue">The Oregon Coast Aquarium</h2>
+
+            <h3 class="subhead-22 subhead-azure">Up close and personal with local sea life</h3>
+            
+            <p>
+                
+                <p><span style="font-weight: 400;">No visit to Newport is complete without a stop at the </span><a href="https://www.google.com/maps/place/Oregon+Coast+Aquarium/@44.6176528,-124.0494415,17z/data=!3m1!4b1!4m5!3m4!1s0x54c1d7a7be7329a1:0xa2be442ac05a7956!8m2!3d44.6176528!4d-124.0472528"><span style="font-weight: 400;">Oregon Coast Aquarium</span></a><span style="font-weight: 400;"> overlooking scenic Yaquina Bay just south of the city&rsquo;s iconic bridge. The Aquarium strives to be a center of excellence for ocean literacy and fun, and plays an active role in conservation, education and animal rehabilitation efforts. The Aquarium&rsquo;s world-class indoor and outdoor exhibits have earned the facility consistent recognition as one of the top ten aquariums in the country.</span></p>
+<p style="margin: 0in; margin-bottom: .0001pt;"><br /><o:p></o:p></p>
+
+                            </p>
+
+                            <a target="_self" href="http://discovernewport.com/content/the-oregon-coast-aquarium/760" class="link solid bottom">Discover More</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer midnightblue" id="section-9f0b51497936608b92e03a1df4b68734" data-numsubs="1"><section id="section-9f0b51497936608b92e03a1df4b68734-1" data-parentsection="section-9f0b51497936608b92e03a1df4b68734" class="contentSection col-sm-12  default" >
+
+		
+                    <aside class="col-sm-6 fl">
+                <figure class="image-padding-right">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/06/ae9f7d5637059bdebf6e4ee92c4d958f.jpg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fr ">
+
+            <h2 class="headline-32 headline-whiterock">Stay the night</h2>
+
+            <h3 class="subhead-22 subhead-janna">We’ve got the room for you</h3>
+            
+            <p>
+                
+                <p>You have a huge range of lodging options in Newport, from campsites to intimate B&amp;Bs to luxury hotel rooms along the ocean. Below are just a couple unique hotels with beautiful ocean views that you might enjoy. There are many more of course, so you might want to spend a full week in Newport and try more than one during your stay.</p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+
+                            </p>
+
+                            <a target="_self" href="http://discovernewport.com/stay" class="link default bottom">Discover More</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer janna" id="section-1dde4722f54759ea6426d9303d909779" data-numsubs="1"><section id="section-1dde4722f54759ea6426d9303d909779-1" data-parentsection="section-1dde4722f54759ea6426d9303d909779" class="contentSection col-sm-12  " >
+
+		
+                    <aside class="col-sm-6 fr">
+                <figure class="image-padding-left">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/10/8f2f50ad6e70b31e6d175560b91b67a6.jpg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fl ">
+
+            <h2 class="headline-32 headline-midnightblue">Birding in Newport</h2>
+
+            <h3 class="subhead-22 subhead-azure">Our local landscapes are a birder’s paradise</h3>
+            
+            <p>
+                
+                <p><span style="font-weight: 400;">Are you an avid birder, or interested in birding? &nbsp;Birding is a fascinating hobby full of opportunities to view unique coastal birds in their natural habitats. Come prepared with hiking boots, rain gear, field guides and binoculars to experience some of the finest birding in Oregon!</span></p>
+
+                            </p>
+
+                            <a target="_self" href="http://discovernewport.com/birding" class="link outlineBlack bottom">Discover More</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer renosand" id="section-15c5416d44654e8d8ecc6500735adcfa" data-numsubs="1"><section id="section-15c5416d44654e8d8ecc6500735adcfa-1" data-parentsection="section-15c5416d44654e8d8ecc6500735adcfa" class="contentSection col-sm-12  default" >
+
+					<a href="http://discovernewport.com/content/can-you-escape-the-room/619" class="share_link" target="_blank">Share <span class="fa fa-share"></span></a>
+		
+                    <aside class="col-sm-6 fl">
+                <figure class="image-padding-right">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/11/166a0526ee8bb29dd78ddc45bcc1ec5a.png">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fr ">
+
+            <h2 class="headline-32 headline-whiterock">Can You Escape the Room?  </h2>
+
+            <h3 class="subhead-22 subhead-janna">Use Your Puzzle-Solving Skills to Unlock the Secrets of Newport’s Escape Room!</h3>
+            
+            <p>
+                
+                <p><span style="font-weight: 400;">Gather your friends and family for an adventure</span> <span style="font-weight: 400;">unlike any other you&rsquo;ve ever experienced! </span><a href="https://www.google.com/maps/place/Escape+Rooms+Newport/@44.615356,-124.0488667,17z/data=!3m1!4b1!4m5!3m4!1s0x54c1d709ce26dd1f:0x217fc0eaa5fbaf8d!8m2!3d44.615356!4d-124.046678"><span style="font-weight: 400;">Escape Rooms Newport</span></a><span style="font-weight: 400;"> will immerse you in a live interactive game, where the object is to solve a series of puzzles that will lead to your freedom. You must work together as a team to decipher codes, clues and hints in less than 60 minutes to find the solution.</span></p>
+<p></p>
+<p><span style="font-weight: 400;">Choose between the themed Pirate&rsquo;s Gold or The Hangin&rsquo; Sheriff rooms as the setting for your adventure. The rooms are expertly decorated, and full of both obvious and hidden clues that will allow you to progress to the next level. In addition, you will be granted a number of hints to help if you are unable to solve a puzzle or find a clue. The sheriff&rsquo;s jail is designed for 2-8 participants, and is moderately difficult to solve, while the pirate ship can host 2-10 participants and is considered more challenging to complete.</span></p>
+<p></p>
+<p><span style="font-weight: 400;">The escape rooms provide a great experience anytime, but are perfect during the winter months when stormy weather may change your plans at the beach. Escape Rooms Newport is located in </span><a href="https://www.google.com/maps/place/Aquarium+Village/@44.615236,-124.0489747,17z/data=!3m1!4b1!4m5!3m4!1s0x54c1d709c28cc815:0x62f14d1a2551c63f!8m2!3d44.615236!4d-124.046786"><span style="font-weight: 400;">Aquarium Village</span></a><span style="font-weight: 400;">, and open Monday, Tuesday, Thursday, Friday, Saturday and Sunday (they are closed on Wednesday except by special appointment).They are open from 1 pm until 8 pm and the last adventure of the day begins at 7:30 pm, although they will try to accommodate other times whenever possible. Escape Rooms Newport also offers special rates and times for large groups, parties or corporate events.</span></p>
+<p></p>
+<p><span style="font-weight: 400;">Reserve a room in advance by visiting their website at</span><a href="http://www.escaperoomsnewport.com/"> <span style="font-weight: 400;">www.escaperoomsnewport.com</span></a><span style="font-weight: 400;"> or by calling (541) 867-2988. </span></p>
+<p></p>
+<p><span style="font-weight: 400;">Newport looks forward to welcoming you! Click</span><a href="/stay"> <span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for more info on visiting Newport.</span></p>
+
+                            </p>
+
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer whiterock" id="section-dbb0e02dcfd5f0803d4a1e0cc930c087" data-numsubs="1"><section id="section-dbb0e02dcfd5f0803d4a1e0cc930c087-1" data-parentsection="section-dbb0e02dcfd5f0803d4a1e0cc930c087" class="contentSection col-sm-12  " >
+
+					<a href="http://discovernewport.com/content/whats-on-tap-tonight/443" class="share_link" target="_blank">Share <span class="fa fa-share"></span></a>
+		
+                    <aside class="col-sm-6 fr">
+                <figure class="image-padding-left">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/11/36e840d611b9cc4bb388b582ea0fce52.jpeg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fl ">
+
+            <h2 class="headline-32 headline-midnightblue">What’s on tap tonight?</h2>
+
+            <h3 class="subhead-22 subhead-azure">How about a Newport Pub Crawl?</h3>
+            
+            <p>
+                
+                <p><span style="font-weight: 400;">Do you want a great place to gather for a few beers with friends after a full day at the beach? Or would you rather quietly enjoy cocktails with your sweetheart as the sun sets? Maybe you prefer having your drinks while shooting a round of pool, throwing some darts, or singing your favorite karaoke songs?</span></p>
+<p><span style="font-weight: 400;">Here in Newport, we&rsquo;ve got a bar to satisfy all of those drinking events and more! You don&rsquo;t have to settle for one place or another, when you can get your family or friends together and set out on a Newport pub crawl. Here&rsquo;s a suggested route from north-to south, which you may follow faithfully, or veer off at any point on your own adventure.</span></p>
+
+                            </p>
+
+                            <a target="_blank" href="http://discovernewport.com/articles/#section-ec06480efe3392a2e0269f32f509290f" class="link solid bottom">Pub Crawl Route</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer default" id="section-88e3ad79e2a552cc0ce1046f2b55b285" data-numsubs="1"><section id="section-88e3ad79e2a552cc0ce1046f2b55b285-1" data-parentsection="section-88e3ad79e2a552cc0ce1046f2b55b285" class="contentSection col-sm-12  " >
+
+					<a href="http://discovernewport.com/content/treasures-of-the-sea/753" class="share_link" target="_blank">Share <span class="fa fa-share"></span></a>
+		
+                    <aside class="col-sm-6 fl">
+                <figure class="image-padding-right">
+                                                                        <img alt="..." src="http://discovernewport.com/uploads/2017/10/10330ae7b9045e528d1eca1638ddbf28.jpg">
+                                                            </figure>
+            </aside>
+        
+        
+        <article class="col-sm-6 fr ">
+
+            <h2 class="default headline-32 headline-azure">Treasures of the Sea</h2>
+
+            <h3 class="subhead-26 subhead-midnightblue">Newport’s annual glass float promotion begins November 1st!</h3>
+            
+            <p>
+                
+                <p>Once upon a time, experienced beachcombers could find glass fishing floats on Newport&rsquo;s pristine beaches with fair regularity.&nbsp; There are those who still occasionally run across one of these glass treasures but such discoveries are few and far between.&nbsp; That is&hellip;until now!&nbsp;</p>
+<p>This winter, the Greater Newport Chamber of Commerce and participating Newport area businesses have joined forces to increase your chances of owning a one-of-a-kind glass float.&nbsp; These are not your ordinary glass fishing floats, but unique Glass Art creations, hand-blown by The Edge Glass Blowing of Newport.&nbsp; Each one is individually crafted with the same techniques that have been used for 2,000 years to create glass art.&nbsp; Each float is engraved with the name The Edge Glass Blowing, Newport, Oregon.&nbsp;</p>
+<p>Many lucky individuals will win one of these beautiful keepsakes simply by visiting participating businesses from November 1st through December 31st. Download the Treasure Map through the link below or pick one up at the Visitor Center (<a href="https://www.google.com/maps/place/Greater+Newport+Chamber+of+Commerce/@44.6313857,-124.0617281,17z/data=!4m12!1m6!3m5!1s0x54c1d7b631e92429:0xeb00fc71a83065f7!2sGreater+Newport+Chamber+of+Commerce!8m2!3d44.6313857!4d-124.0595394!3m4!1s0x54c1d7b631e92429:0xeb00fc71a83065f7!8m2!3d44.6313857!4d-124.0595394" target="_blank">555 SW Coast Hwy</a>). There are 40 floats on display at 23 different businesses. Follow the map to each business, find the entry box and enter to win them all!</p>
+<p>Winners will be contacted after January 1st from the business where their name was drawn. For more information call the Newport Chamber of Commerce office at 541-265-8801.</p>
+<p>Happy Treasure Hunting!</p>
+<p>&nbsp;</p>
+
+                            </p>
+
+                            <a target="_self" href="/uploads/2017/10/5e41738a05009ed80d2b79a4cc04af0b.pdf" class="link solid bottom">Download Treasure Map!</a>
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section><section class="clearfix contentSectionContainer whiterock" id="section-d2d5b983a6035385b96414d52801dc28" data-numsubs="1"><section id="section-d2d5b983a6035385b96414d52801dc28-1" data-parentsection="section-d2d5b983a6035385b96414d52801dc28" class="contentSection col-sm-12  whiterock" >
+
+		
+        
+        
+        <article class="col-sm-12  ">
+
+            <h2 class="headline-32 headline-midnightblue">Travel Newport Magazine</h2>
+
+            <h3 class="subhead-22 subhead-hokeypokey"> Fall/Winter 2017</h3>
+            
+            <p>
+                
+                <p><iframe width="300" height="300" style="width: 100%; height: 600px;" src="//e.issuu.com/embed.html#4036291/53791844" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+                            </p>
+
+            
+        </article>
+
+        
+        
+        <div class="clearfix"></div>
+    </section>
+
+</section>
+        </div>
+    </div>
+
+    <div class="pageWidth footerContainer">
+        <!-- Footer Panel for custom content -->
+<div class="clearfix"></div>
+<div class="footerPanel"></div>
+
+<!-- Main Footer -->
+<div class="clearfix"></div>
+<footer class="footer">
+    <article class="col-sm-6">
+        <div class="footerMenu">
+                            
+                                           <a href="http://discovernewport.com/get-discovered">Get Discovered</a>
+                    
+                                                                                                            
+                   
+                                            
+                                                               <a href="http://discovernewport.com/stay">Stay</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/eat">Eat</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/play">Play</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/shop">Shop</a>
+                            
+
+                                                                                        
+                   
+                                            
+                                                               <a href="http://discovernewport.com/marine">Marine</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/fishing-crabbing">Fishing & Crabbing</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/lighthouses">Lighthouses</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/beaches">Beaches</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/surfing-kayaking">Surfing & Kayaking</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/hiking-biking">Hiking & Biking</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/camping-rv-parks">Camping & RV Parks</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/birding">Birding</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.com/arts-culture">Arts & Culture</a>
+                            
+
+                                                                                        
+                                           <a href="http://discovernewport.com/about">About</a>
+                    
+                                                                                                            
+                   
+                                            
+                                                               <a href="http://newportchamber.org/events">Events</a>
+                            
+
+                        
+                                                               <a href="https://www.flickr.com/photos/142116573@N02/">Photo Gallery</a>
+                            
+
+                        
+                                                               <a href="http://discovernewport.tumblr.com">Pressroom </a>
+                            
+
+                                                                                        
+                                           <a href="http://discovernewport.com/travel-info">Travel Info</a>
+                    
+                                                                                                            
+                                           <a href="http://discovernewport.com/get-deals">Get Deals</a>
+                    
+                                                                                                            
+                                           <a href="http://discovernewport.com/organization-info">Organization Info</a>
+                    
+                                                                                            
+                        <a target="_blank" title="..." href="https://www.facebook.com/Discover-Newport-Oregon-239517099394199/?fref=ts"><b class="ss-icon ss-social">facebook</b>Facebook</a>                        <a target="_blank" title="..." href="https://www.instagram.com/newportoregon/?hl=en"><b class="ss-icon ss-social">instagram</b>Instagram</a>
+        </div>
+    </article>
+
+    <article class="footerLogoContainer col-sm-3 pull-right">
+        <a href="/"><img class="footerLogo" alt="Discover Newport" src="http://discovernewport.com/uploads/2016/04/3f50254d16d7c84bd73a09215317d273.png"></a>        <h2 class="h4">Discover Newport</h2>
+        <ol class="copyright">
+            <li>DiscoverNewport.com is published, by the Newport Chamber of Commerce. The Newport Chamber makes every effort to maintain the accuracy of information presented on this website. Please submit suggested changes to courtney@newportchamber.org.</li>
+            <li>All Rights Reserved.</li>
+        </ol>
+    </article>
+
+    <div class="clearfix"></div>
+
+    <div class="footnav">
+        <p class="nmcCopyright">
+            Site designed by <a href="http://www.newsmediadigital.com" target="_blank">NMD</a> <br><br>
+        </p>
+    </div>
+
+</footer>    </div>
+
+    <script>
+        var resizeThrottle = false;
+
+        $('document').ready(function(){
+            var mySwiper = new Swiper('.swiper-container', {
+                loop:true,
+                slidesPerView:1,
+                centeredSlides: true,
+                autoplay:4000,
+                pagination:'.swiper-pagination',
+                paginationClickable: true
+            });
+
+            //Init max height var
+            var maxHeight;
+            var curHeight;
+
+            //Set height of all contentSections to be equal on load and window resize
+
+            setTimeout(resizeSections,500);
+
+            $(window).resize(function(){
+
+                if(resizeThrottle == true) { return; }
+
+                //Set the throttle to true
+                resizeThrottle = true;
+                setTimeout(function(){
+                    resizeThrottle = false;
+                    resizeSections();
+                }, 750);
+
+            });
+        });
+
+        function resizeSections()
+        {
+
+            return;
+
+            $('.contentSectionContainer').each(function(){
+
+                //Reset for each new section
+                maxHeight = 0;
+
+                //Get the height of each content section in order to set the max height
+                sections = $(this).find('.contentSection');
+
+                for(a=0; a<sections.length; a++)
+                {
+                    curHeight = $(sections[a]).outerHeight();
+
+                    console.log('Cur Height: ' + curHeight);
+
+                    //Set max height
+                    if(curHeight > maxHeight) { maxHeight = curHeight; }
+                };
+
+                //Loop through each content section and set the height as well as the child elements height
+                for(a=0; a<sections.length; a++)
+                {
+
+                    if($(sections[a]).find('section').length == 1)
+                    {
+                        $(sections[a]).children().each(function(){
+
+                            $(this).css('height', maxHeight);
+
+                        });
+                    }
+                }
+            });
+        }
+
+    </script>
+
+<a id="scrollUp" href="javascript:" title="Scroll to top" class="scrollUp" style="display:none;" onClick="$(document).scrollTo(0, 500);"><span class="fa fa-chevron-up"></span></a>
+
+<!-- open graph -->
+<meta property="og:title" content="Discover Newport | The coast you remember " />
+<meta property="og:description" content="The edge of a continent the start of an adventure" />
+ <meta property="og:type" content="website" />
+ <meta property="og:url" content="http://www.discovernewport.com" />
+ <meta property="http://discovernewport.com/uploads/2016/04/3e7c836e79e19d9ecb8ba21190cdd919.jpg" />
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '266202547067721');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=266202547067721&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Discover Newport",
+  "url" : "http://www.discovernewport.com",
+  "sameAs" : [ "https://www.facebook.com/discovernewport",
+    "http://www.instagram.com/NEWPORTOREGON"] 
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3541912-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+            var _gaq=[['_setAccount','UA-3541912-1'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+            </script>
+
+</body>
+</html>

@@ -1,0 +1,820 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <!-- force compatibility mode (quirks mode) off in IE  to avoid IE8/9/10/11 rendering as IE7 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=yes" />
+<link rel="shortcut icon" href="http://www.it.ox.ac.uk/sites/dandy/themes/dandy/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Helping Oxford University get the most from IT for teaching and learning - lecture capture, digital teaching resources, online communication and collaboration." />
+<meta name="abstract" content="Helping Oxford University get the most from IT for teaching and learning - lecture capture, digital teaching resources, online communication and collaboration." />
+<meta name="keywords" content="IT services lecture capture, IT services Oxford digital teaching resources, IT for teaching and learning, Oxford podcast, Oxford university online lectures" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.it.ox.ac.uk/do/teaching-and-learning" />
+<link rel="shortlink" href="http://www.it.ox.ac.uk/taxonomy/term/42" />
+  <title>Teaching and learning | IT Services</title>  
+  <style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/modules/system/system.base.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/system/system.menus.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/system/system.messages.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/system/system.theme.css?owzelx");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/misc/ui/jquery.ui.core.css?owzelx");
+@import url("http://www.it.ox.ac.uk/misc/ui/jquery.ui.theme.css?owzelx");
+@import url("http://www.it.ox.ac.uk/misc/ui/jquery.ui.tabs.css?owzelx");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/modules/aggregator/aggregator.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/date/date_api/date.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/field/theme/field.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/modules/custom/google_appliance/theme/google_appliance.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/node/node.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/search/search.css?owzelx");
+@import url("http://www.it.ox.ac.uk/modules/user/user.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/views/css/views.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?owzelx");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/lightbox2/css/lightbox.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/oembed/oembed.base.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/oembed/oembed.theme.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/panels/css/panels.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/custom/shib_auth/shib_auth.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/views_slideshow/views_slideshow.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/modules/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css?owzelx");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/font-awesome/css/font-awesome.min.css?owzelx");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/print.css?owzelx");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/alpha-reset.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/alpha-mobile.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/alpha-alpha.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/formalize.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/omega-text.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/omega-branding.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/omega-menu.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/omega-forms.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/omega/css/omega-visuals.css?owzelx");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular&amp;subset=latin" media="all" />
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/ckeditor-styles.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/global.css?owzelx");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default-normal.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?owzelx");
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default-narrow.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?owzelx");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default-normal.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?owzelx");
+</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 1200px)">
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/www.it.ox.ac.uk/themes/dandy/css/dandy-alpha-default-wide.css?owzelx");
+@import url("http://www.it.ox.ac.uk/sites/all/themes/omega/alpha/css/grid/alpha_default/wide/alpha-default-wide-12.css?owzelx");
+</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="http://www.it.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/drupal.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/ui/jquery.ui.tabs.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/jquery.ba-bbq.js?v=1.2.1"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/ajax.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/cookiecontrol/js/cookieControl-5.1.min.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/lightbox2/js/lightbox.js?1511653412"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/views_slideshow/js/views_slideshow.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/custom_search/js/custom_search.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/libraries/jquery.cycle/jquery.cycle.all.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/libraries/json2/json2.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/views/js/base.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/misc/progress.js?v=7.56"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/field_group/field_group.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?owzelx"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-33775187-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/quicktabs/js/qt_ui_tabs.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/themes/omega/omega/js/jquery.formalize.js?owzelx"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/themes/omega/omega/js/omega-mediaqueries.js?owzelx"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dandy","theme_token":"u929M489-bSTimKdmXFG9zRmGNK3pyJkKT6tv4wD5Vk","js":{"0":1,"1":1,"2":1,"3":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ui\/jquery.ui.tabs.min.js":1,"misc\/jquery.ba-bbq.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/field_group\/field_group.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/modules\/quicktabs\/js\/qt_ui_tabs.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.it.ox.ac.uk\/modules\/custom\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/oembed\/oembed.base.css":1,"sites\/all\/modules\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/font-awesome\/css\/font-awesome.min.css":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/print.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"http:\/\/fonts.googleapis.com\/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular\u0026subset=latin":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/ckeditor-styles.css":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/global.css":1,"ie::normal::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default.css":1,"ie::normal::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default.css":1,"narrow::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default.css":1,"normal::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default.css":1,"wide::sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/dandy-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"custom_search":{"form_target":"_self","solr":0},"viewsSlideshow":{"hero_slideshow-panel_pane_2":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"hero_slideshow-panel_pane_2":{"bottom":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"hero_slideshow-panel_pane_2":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_hero_slideshow-panel_pane_2":{"num_divs":3,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"hero_slideshow-panel_pane_2","effect":"fade","transition_advanced":1,"timeout":7000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":1,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"better_exposed_filters":{"views":{"hero_slideshow":{"displays":{"panel_pane_2":{"filters":[]}}},"news_items":{"displays":{"panel_pane_3":{"filters":[]}}},"events":{"displays":{"panel_pane_6":{"filters":[]}}},"federated_content_links":{"displays":{"fb_twitter_by_topic":{"filters":[]},"panel_pane_1":{"filters":[]},"blog_by_topic":{"filters":[]},"external_by_topic":{"filters":[]}}}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:f50c5bc60188ee98b4ef2534781708c4":{"view_name":"news_items","view_display_id":"panel_pane_3","view_args":"teaching-and-learning","view_path":"taxonomy\/term\/42","view_base_path":"news\/topic\/%","view_dom_id":"f50c5bc60188ee98b4ef2534781708c4","pager_element":0},"views_dom_id:c364e71d385bfd69f7b303c0d4df8c62":{"view_name":"events","view_display_id":"panel_pane_6","view_args":"teaching-and-learning","view_path":"taxonomy\/term\/42","view_base_path":"events\/topic\/%","view_dom_id":"c364e71d385bfd69f7b303c0d4df8c62","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/do\/teaching-and-learning":true},"quicktabs":{"qt_news_and_events_for_topic":{"name":"news_and_events_for_topic","active_tab":"0","history":0}},"responsive_menus":[{"toggler_text":"\u2630 ","selectors":["#block-menu-menu-top-nav-menu","#block-menu-block-4","#block-menu-menu-get-it-help"],"media_size":"740","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1200px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+<body class="html not-front not-logged-in page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-42 context-do">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <section class="block block-menu block-menu-header-shortcuts block-menu-menu-header-shortcuts odd" id="block-menu-menu-header-shortcuts">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Header shortcuts</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="/want/get-started" title="Getting started" class=""><i class="fa fa-2x fa-hand-o-right "> </i><span>Getting started</span></a></li><li class="leaf"><a href="https://register.it.ox.ac.uk/self/index/" title="Manage accounts" class=""><i class="fa fa-2x fa-dashboard "> </i><span>Manage accounts</span></a></li><li class="leaf"><a href="http://owa.nexus.ox.ac.uk" title="Nexus email" class=""><i class="fa fa-2x fa-envelope-o "> </i><span>Nexus email</span></a></li><li class="leaf"><a href="/status" title="Service status" class=""><i class="fa fa-2x fa-check "> </i><span>Service status</span></a></li><li class="leaf"><a href="/rules" title="IT rules" class=""><i class="fa fa-2x fa-book "> </i><span>IT rules</span></a></li><li class="leaf"><a href="http://blogs.it.ox.ac.uk/" title="Read our blogs" class=""><i class="fa fa-2x fa-comment-o "> </i><span>Blogs</span></a></li></ul>    </div>
+  </div>
+</section><section class="block block-menu block-menu-social-networking-links block-menu-menu-social-networking-links even" id="block-menu-menu-social-networking-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Social networking links</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/news/rss.xml" title="Subscribe to our RSS feed" class="fa fa-2x fa-rss">Subscribe to our RSS feed</a></li>
+<li class="leaf"><a href="http://twitter.com/Ox_IT" title="Go to IT Services Twitter page" id="socialnetwork-twitter" class="fa fa-2x fa-twitter">Follow us on Twitter</a></li>
+<li class="last leaf"><a href="https://github.com/ox-it" title="Find us on GitHub" id="socialnetwork-github" class="fa fa-2x fa-github">Find us on GitHub</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+          </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-menu block-menu-header-logos block-menu-menu-header-logos odd block-without-title" id="block-menu-menu-header-logos">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="http://www.ox.ac.uk/" id="oxCrest">University of Oxford</a></li>
+<li class="last leaf"><a href="/" id="itServices">IT Services</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-block block-3 block-block-3 even block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>delivering responsive, innovative IT across the University of Oxford</p>
+    </div>
+  </div>
+</div><div class="block block-google-appliance block-ga-block-search-form block-google-appliance-ga-block-search-form odd block-without-title" id="block-google-appliance-ga-block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="search-form search-google-appliance-search-form" action="/do/teaching-and-learning" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input placeholder="Search" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-radios form-item-collection">
+  <label for="edit-collection">Search within: </label>
+ <div id="edit-collection" class="form-radios"><div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices" name="collection" value="itservices" checked="checked" class="form-radio" />  <label class="option" for="edit-collection-itservices">all </label>
+
+</div>
+<div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices-help" name="collection" value="itservices-help" class="form-radio" />  <label class="option" for="edit-collection-itservices-help">help </label>
+
+</div>
+</div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-5k9BqNhIY6uM2PpEIdNIffi-PFCIps9czmmYtzPoFBQ" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block block-menu block-menu-get-it-help block-menu-menu-get-it-help even block-without-title" id="block-menu-menu-get-it-help">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="http://help.it.ox.ac.uk/help/request" class=""><i class="fa fa-desktop "> </i><span>Contact the service desk</span></a></li><li class="leaf"><a href="https://oxford.saasiteu.com" class=""><i class="fa fa-list "> </i><span>View requests</span></a></li><li class="leaf"><a href="http://help.it.ox.ac.uk" title="Visit the IT Help site" class=""><i class="fa fa-wrench "> </i><span>Visit the IT Help site</span></a></li></ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-12 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <section class="block block-menu block-menu-top-nav-menu block-menu-menu-top-nav-menu odd" id="block-menu-menu-top-nav-menu">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Top Nav</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/do">What we do</a></li>
+<li class="leaf"><a href="/want">I want to...</a></li>
+<li class="leaf"><a href="/services">Services</a></li>
+<li class="leaf"><a href="/about">About</a></li>
+<li class="last leaf"><a href="/news-events">News &amp; events</a></li>
+</ul>    </div>
+  </div>
+</section><div class="block block-easy-breadcrumb block-easy-breadcrumb block-easy-breadcrumb-easy-breadcrumb even block-without-title" id="block-easy-breadcrumb-easy-breadcrumb">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="easy-breadcrumb"><a href="/" class="easy-breadcrumb_segment easy-breadcrumb_segment-front">Home</a><span class="easy-breadcrumb_segment-separator"> &gt;&gt; </span><a href="/do" class="easy-breadcrumb_segment easy-breadcrumb_segment-1">What we do</a><span class="easy-breadcrumb_segment-separator"> &gt;&gt; </span><span class="easy-breadcrumb_segment easy-breadcrumb_segment-title">Teaching and learning</span></div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Teaching and learning</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-display omega-grid omega-12-twocol-9-3" >
+  <div class="panel-panel grid-9">
+    <div class="inside"><div class="panel-pane pane-views-panes pane-hero-slideshow-panel-pane-2"   class="panel-pane pane-views-panes pane-hero-slideshow-panel-pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-hero-slideshow view-id-hero_slideshow view-display-id-panel_pane_2 slideshow-pane view-dom-id-f9057d0ef1860a2369e5a98a1fcdcc68">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_hero_slideshow-panel_pane_2" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_hero_slideshow-panel_pane_2" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_hero_slideshow-panel_pane_2_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slideshow">
+  <div class="link">
+    <a href="http://www.it.ox.ac.uk/services/teaching-and-learning">
+      <div class="image"><img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/highlight/public/images/highlight/Service_cat_teaching2.jpg?itok=m3W6we94" width="1200" height="400" alt="" /></div>
+      <div class="overlay">
+        <div class="text"><h4>Teaching and learning</h4>
+          Browse our service catalogue to see how we assist with the use of technology in teaching and learning.  
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+</span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero_slideshow-panel_pane_2_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slideshow">
+  <div class="link">
+    <a href="http://www.it.ox.ac.uk/welcome/learn">
+      <div class="image"><img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/highlight/public/images/highlight/digital-learning.jpg?itok=GGnGFG0Q" width="1200" height="400" alt="" /></div>
+      <div class="overlay">
+        <div class="text"><h4>Learn</h4>
+          Access a free online library of instructional videos covering the latest software and use Weblearn (Oxford&#039;s VLE) to collaborate on group work and assessment.  
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+</span>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_hero_slideshow-panel_pane_2_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slideshow">
+  <div class="link">
+    <a href="http://podcasts.ox.ac.uk/">
+      <div class="image"><img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/highlight/public/images/highlight/shakespeare-banner.jpg?itok=NlHqN-Cz" width="1200" height="400" alt="" /></div>
+      <div class="overlay">
+        <div class="text"><h4>Oxford Podcasts: recent releases</h4>
+          A range of downloadable podcasts and training courses available.
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+</span>  </div></div>
+</div>
+</div>
+</div>
+      <div class="views-slideshow-controls-bottom clearfix">
+      <div id="widget_pager_bottom_hero_slideshow-panel_pane_2" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_hero_slideshow-panel_pane_2_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <div class="fa fa-2x fa-circle">
+  
+</div>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_hero_slideshow-panel_pane_2_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <div class="fa fa-2x fa-circle">
+  
+</div>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_hero_slideshow-panel_pane_2_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <div class="fa fa-2x fa-circle">
+  
+</div>  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field-extra pane-taxonomy-term-description"   class="panel-pane pane-entity-field-extra pane-taxonomy-term-description">
+  
+      
+  
+  <div class="pane-content">
+    <div class="taxonomy-term-description"><p>Part of our remit at IT Services is to help academics, students and staff get the most from technology for learning and teaching. Our work here ranges from facilitating the use of IT for lectures to creating digital teaching resources or helping Oxford’s world-class academics communicate and broadcast their work. We conduct research into the student digital experience and evaluate learning technologies to ensure that, where IT is concerned, the best experience for our students will be the typical experience.</p>
+<p>Our <a href="http://help.it.ox.ac.uk/replay/index">lecture capture (Replay)</a> service, for example, has proved very popular with students. It is a valued aid for all students but particularly for students with disabilities.</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KEH2vy4C3Uo" width="560"></iframe></p>
+<p>We also design, organise and teach IT literacy courses, to help staff and students make the most of the tools and resources at their disposal. We provide access to <a href="http://lynda.com">lynda.com</a>, free online IT courses, available anytime, anywhere. We develop, support and maintain <a href="http://help.it.ox.ac.uk/weblearn/index">WebLearn</a>, the University’s virtual learning environment (VLE). We also support <a href="http://help.it.ox.ac.uk/turnitin/index">Turnitin</a>, the University plagiarism awareness service.</p>
+<p>Public engagement and impact are increasingly important to many researchers and lecturers in the University. We advise colleagues on the use of new technology for outreach and engagement. We offer services to record and publish lectures, seminars and events through our <a href="http://www.it.ox.ac.uk/services/video-and-media-0">video and media services</a>. We help develop collections of reusable and open educational materials. These range from the highly successful <a href="http://www.ox.ac.uk/itunes-u">Oxford podcast site on iTunes U</a> – currently over 25 million downloads – to <a href="http://projects.oucs.ox.ac.uk/woruldhord/">Woruldhord</a>, an online collection of free educational resources for teaching and study of Old English and the Anglo-Saxons. We support the publication of educational resources to the Oxford page on the Times Educational Supplement Website: <a href="https://www.tes.com/member/OxfordUniversity">TES Connect</a>.</p>
+<p>To promote innovative use of learning technologies, we provide <a href="http://blogs.it.ox.ac.uk/ltg-casestudies/">case studies</a> and organise events, workshops and conferences relating to current projects. We recognise and reward creative practice across the institution in the annual <a href="http://blogs.it.ox.ac.uk/oxtalent/">OxTALENT Awards</a>.</p>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-quicktabs-news-and-events-for-topic"   class="panel-pane pane-block pane-quicktabs-news-and-events-for-topic">
+  
+      
+  
+  <div class="pane-content">
+    <div  id="quicktabs-news_and_events_for_topic" class="quicktabs-ui-wrapper"><ul><li><a href="#qt-news_and_events_for_topic-ui-tabs1">News</a></li></ul><div  id="qt-news_and_events_for_topic-ui-tabs1"><div class="view view-news-items view-id-news_items view-display-id-panel_pane_3 view-dom-id-f50c5bc60188ee98b4ef2534781708c4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article about="/news/plagiarism-awareness-courses-michaelmas-term" typeof="sioc:Item foaf:Document" class="node node-news-item node-teaser node-published node-not-promoted node-not-sticky author-lisa-mansell odd clearfix" id="node-news-item-1888">
+<a href="/news/plagiarism-awareness-courses-michaelmas-term">
+
+            <div class="teaser-field image-wrapper"> 
+          <div class="teaser-field image"> 
+            <img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/news_and_events_teaser_image/public/images/event/turnitinuk_logo_200x300.jpg?itok=Hzx3wjYT" width="150" height="100" alt="Turnitin logo" title="Turnitin logo" />          </div>
+        </div>
+            
+    <div class="teaser-field text-wrapper"> 
+    <div class="teaser-field title"> 
+        <h3>
+<!--     lets not use an icon for this, for now...     <i class="fa fa-newspaper-o"> </i>  -->
+          Plagiarism awareness courses for Michaelmas term</h3>
+    </div>
+                          <div class="teaser-field date">
+                  <span class="field-label">Publication date:&nbsp;</span>
+                    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-10T00:00:00+01:00">Tuesday, 10 October 2017</span>    
+                </div>
+              
+                          <div class="teaser-field teaser-text">
+                
+                    Free taught courses for staff and students.    
+                </div>
+                      
+      </div>
+    <div class="clearfix"></div>
+</a>
+
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article about="/news/weblearn-courses-michaelmas-term" typeof="sioc:Item foaf:Document" class="node node-news-item node-teaser node-published node-not-promoted node-not-sticky author-lisa-mansell even clearfix" id="node-news-item-1887">
+<a href="/news/weblearn-courses-michaelmas-term">
+
+            <div class="teaser-field image-wrapper"> 
+          <div class="teaser-field image"> 
+            <img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/news_and_events_teaser_image/public/images/event/Weblearn_Pentagon300x200_0.jpg?itok=fSS1wYsT" width="150" height="100" alt="Weblearn logo" title="Weblearn logo" />          </div>
+        </div>
+            
+    <div class="teaser-field text-wrapper"> 
+    <div class="teaser-field title"> 
+        <h3>
+<!--     lets not use an icon for this, for now...     <i class="fa fa-newspaper-o"> </i>  -->
+          WebLearn courses for Michaelmas term</h3>
+    </div>
+                          <div class="teaser-field date">
+                  <span class="field-label">Publication date:&nbsp;</span>
+                    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-10-10T00:00:00+01:00">Tuesday, 10 October 2017</span>    
+                </div>
+              
+                          <div class="teaser-field teaser-text">
+                
+                    Free taught courses and downloadable course books for self study.    
+                </div>
+                      
+      </div>
+    <div class="clearfix"></div>
+</a>
+
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <article about="/news/vle-review-findings-published" typeof="sioc:Item foaf:Document" class="node node-news-item node-teaser node-published node-not-promoted node-not-sticky author-lisa-mansell odd clearfix" id="node-news-item-1820">
+<a href="/news/vle-review-findings-published">
+
+            <div class="teaser-field image-wrapper"> 
+          <div class="teaser-field image"> 
+            <img typeof="foaf:Image" src="http://www.it.ox.ac.uk/sites/dandy/files/styles/news_and_events_teaser_image/public/images/news_item/Dig%20Education%20300x200.jpg?itok=IJyRA4Ip" width="150" height="100" alt="Students with laptop" />          </div>
+        </div>
+            
+    <div class="teaser-field text-wrapper"> 
+    <div class="teaser-field title"> 
+        <h3>
+<!--     lets not use an icon for this, for now...     <i class="fa fa-newspaper-o"> </i>  -->
+          VLE Review - findings published</h3>
+    </div>
+                          <div class="teaser-field date">
+                  <span class="field-label">Publication date:&nbsp;</span>
+                    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-06-19T00:00:00+01:00">Monday, 19 June 2017</span>    
+                </div>
+              
+                          <div class="teaser-field teaser-text">
+                
+                    Read more on the future of Oxford&#039;s virtual learning environment.    
+                </div>
+                      
+      </div>
+    <div class="clearfix"></div>
+</a>
+
+</article>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news/topic/teaching-and-learning">
+    Read more news for this topic  </a>
+</div>
+  
+  
+  
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-taxonomy-term-field-related-projects"   class="panel-pane pane-entity-field pane-taxonomy-term-field-related-projects">
+  
+        <h2 class="pane-title">
+      Related projects    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-related-projects field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/project-portfolio/education-IT-programme">Education IT Programme</a></p>
+<p><a href="http://www.it.ox.ac.uk/project-portfolio/weblearn-upgrade-project">WebLearn Upgrade</a></p>
+<p><a href="/project-portfolio/wise-weblearn-improved-student-experience">WebLearn Improved Students Experience Project</a> (WISE)</p>
+<p> </p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-taxonomy-term-field-related-services"   class="panel-pane pane-entity-field pane-taxonomy-term-field-related-services">
+  
+        <h2 class="pane-title">
+      Related services    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-related-services field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="/services">Service catalogue</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+  <div class="panel-panel grid-3">
+    <div class="inside"><div class="panel-pane pane-entity-field pane-taxonomy-term-field-contact-us"   class="panel-pane pane-entity-field pane-taxonomy-term-field-contact-us">
+  
+        <h2 class="pane-title">
+      Contact us    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-contact-us field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>For general advice and support contact <a href="mailto:academicit@it.ox.ac.uk">academicit@it.ox.ac.uk</a>.</p>
+<p>Contact specific services:</p>
+<p>WebLearn: <a href="mailto:weblearn@it.ox.ac.uk">weblearn@it.ox.ac.uk</a></p>
+<p>Media: <a href="mailto:media@it.ox.ac.uk">media@it.ox.ac.uk</a></p>
+<p>Podcasts: <a href="mailto:podcasts@it.ox.ac.uk">podcasts@it.ox.ac.uk</a></p>
+<p>Plagiarism awareness: <a href="mailto:turnitin@it.ox.ac.uk">turnitin@it.ox.ac.uk</a></p>
+<p>Lecture capture (Replay): <a href="mailto:replay@it.ox.ac.uk">replay@it.ox.ac.uk</a></p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-federated-content-links-fb-twitter-by-topic"   class="panel-pane pane-views-panes pane-federated-content-links-fb-twitter-by-topic">
+  
+        <h2 class="pane-title">
+      Keep up to date    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-federated-content-links view-id-federated_content_links view-display-id-fb_twitter_by_topic view-dom-id-15b43989ea7207d4ea6865107c97e747">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://twitter.com/acitOxford" title="LTG Oxford on Twitter"><i class="fa fa-2x fa-twitter"> </i></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://twitter.com/acitOxford">ACIT Oxford on Twitter</a>
+</span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clearfix"> </div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-federated-content-links-panel-pane-1"   class="panel-pane pane-views-panes pane-federated-content-links-panel-pane-1">
+  
+        <h2 class="pane-title">
+      Blog    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-federated-content-links view-id-federated_content_links view-display-id-panel_pane_1 view-dom-id-6c9b17765fcb44aa8b457e2760816c11">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-link">        <h4 class="field-content"><a href="http://blogs.it.ox.ac.uk/acit-news/2017/06/20/vle-review-next-steps/">VLE Review: next steps</a></h4>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Sarah Argles, Project Communications Officer for the Education IT Programme, writes: As you will be aware by now, the VLE Review set out to determine whether WebLearn continues to meet the University’s requirements as the primary platform to support teaching and learning. In Michaelmas … <a href="http://blogs.it.ox.ac.uk/acit-news/2017/06/20/vle-review-next-steps/">Continue reading →</a></p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-taxonomy-term-field-related-link"   class="panel-pane pane-entity-field pane-taxonomy-term-field-related-link">
+  
+        <h2 class="pane-title">
+      Also on this website    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-related-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/do/training-and-facilities/itlc-courses">IT Learning Centre</a></div><div class="field-item odd"><a href="/do/research-support">Research support</a></div><div class="field-item even"><a href="/do/working-together">Working together</a></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-federated-content-links-external-by-topic external-links"   class="panel-pane pane-views-panes pane-federated-content-links-external-by-topic external-links">
+  
+        <h2 class="pane-title">
+      Related websites    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-federated-content-links view-id-federated_content_links view-display-id-external_by_topic view-dom-id-a78a3b1a131667cad39764fc9922c542">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://openspires.it.ox.ac.uk/">Open Spires</a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://blogs.it.ox.ac.uk/engage/">Engage</a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://www.admin.ox.ac.uk/edc/">Education at Oxford</a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://blogs.it.ox.ac.uk/oxtalent/">OxTALENT</a></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://podcasts.ox.ac.uk">Oxford podcasts</a></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://help.it.ox.ac.uk/media/index">Educational media</a></div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="http://help.it.ox.ac.uk/replay/">Lecture capture (Replay)</a></div>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://weblearn.ox.ac.uk/portal">WebLearn</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <footer class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="footer-column footer-column-1">
+    <div class="footer-help-desk">
+      <h2>
+	Service desk</h2>
+<p>13 Banbury Road, Oxford, OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 612345</p>
+    </div>
+    <div class="footer-admin-address">
+      <h2>
+	Administrative address</h2>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-2">
+    <div class="footer-our-offices">
+      <h2>
+	Our offices</h2>
+<p>13 Banbury Road, Oxford OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 273200</p>
+<p>&nbsp;</p>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+<p><strong>tel:</strong>&nbsp;(+44) 1865 270202</p>
+<p>&nbsp;</p>
+<p>Gibson Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG</p>
+<p><strong>tel:</strong> (+44) 1865 (2)83835</p>
+<p>&nbsp;</p>
+<p>16 Wellington Square, Oxford OX1&nbsp;2HY</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-3">
+    <section class="block block-menu block-menu-footer-links block-menu-menu-footer-links odd" id="block-menu-menu-footer-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">footer links</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/accessibility">Accessibility</a></li>
+<li class="leaf"><a href="/about/jobs">Jobs</a></li>
+<li class="leaf"><a href="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy</a></li>
+<li class="leaf"><a href="/cookies">Cookies</a></li>
+<li class="leaf"><a href="http://www.ox.ac.uk/legal">Legal</a></li>
+<li class="leaf"><a href="/credits">Picture credits</a></li>
+<li class="last leaf"><a href="mailto:webmaster@it.ox.ac.uk">Contact webmaster</a></li>
+</ul>    </div>
+  </div>
+</section><section class="block block-menu block-menu-footer-related-sites block-menu-menu-footer-related-sites even" id="block-menu-menu-footer-related-sites">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Related sites</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="http://www.it.ox.ac.uk/staff">IT Staff Intranet</a></li>
+<li class="leaf"><a href="https://oxford.imparando.com/accessplan/LMSPortal/UI/Page/Dashboard.aspx">IT Learning Centre booking system</a></li>
+<li class="leaf"><a href="https://www.oxforduniversitystores.co.uk/browse/department.asp?compid=2&amp;modid=1&amp;deptid=85">IT Services online shop</a></li>
+<li class="leaf"><a href="https://sharepoint.nexus.ox.ac.uk">SharePoint</a></li>
+<li class="last leaf"><a href="http://weblearn.ox.ac.uk/">WebLearn</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</footer><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <section class="block block-block block-1 block-block-1 odd" id="block-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Footer text</h2>
+            
+    <div class="content clearfix">
+      <p><a class="ucisa logo" href="http://www.ucisa.ac.uk/">Ucisa member</a></p>
+    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function($) {
+    cookieControl({
+        introText: '<p>This site uses cookies to store information on your computer.</p>',
+        fullText: '<p>Some cookies on this site are essential, and the site won\'t work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p><p>We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you\'re not happy with this, we won\'t set these cookies but some nice features of the site may be unavailable.</p><p>By using our site you accept the terms of our <a href="/cookies">Privacy Policy</a>.',
+        theme: 'dark',
+        html: '<div id="cccwr"><div id="ccc-state" class="ccc-pause"><div id="ccc-icon"><button><span>Cookie Control</span></button></div><div class="ccc-widget"><div class="ccc-outer"><div class="ccc-inner"><h2>Cookie Control</h2><div class="ccc-content"><p class="ccc-intro"></p><div class="ccc-expanded"></div><div id="ccc-cookies-switch" style="background-position-x: 0;"><a id="cctoggle" href="#" style="background-position-x: 0;" name="cctoggle"><span id="cctoggle-text">Cookies test</span></a></div><div id="ccc-implicit-warning">(One cookie will be set to store your preference)</div><div id="ccc-explicit-checkbox"><label><input id="cchide-popup" type="checkbox" name="ccc-hide-popup" value="Y" /> Do not ask me again<br /></label> (Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</div><p class="ccc-about"><small><a href="http://www.civicuk.com/cookie-law" target="_blank">About this tool</a></small></p><a class="ccc-icon" href="http://www.civicuk.com/cookie-law" target="_blank"title="About Cookie Control">About Cookie Control</a><button class="ccc-close">Close</button></div></div></div><button class="ccc-expand">read more</button></div></div></div>',
+        position: 'left',
+        shape: 'triangle',
+        startOpen: true,
+        autoHide: 60000,
+        onAccept: function(cc){cookiecontrol_accepted(cc)},
+        onReady: function(){},
+        onCookiesAllowed: function(cc){cookiecontrol_cookiesallowed(cc)},
+        onCookiesNotAllowed: function(cc){cookiecontrol_cookiesnotallowed(cc)},
+        countries: '',
+        subdomains: true,
+        cookieName: 'it-services_cookiecontrol',
+        iconStatusCookieName: 'ccShowCookieIcon',
+        consentModel: 'information_only'
+        });
+      });
+    
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_accepted(cc) {
+cc.setCookie('ccShowCookieIcon', 'no');jQuery('#ccc-icon').hide();
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesallowed(cc) {
+
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesnotallowed(cc) {
+
+}
+//--><!]]>
+</script>
+</body>
+</html>

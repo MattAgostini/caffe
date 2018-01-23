@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<link rel="icon" type="image/png" href="http://gamestone.co.uk/favicon.png">
+<title>GameStone - Error 404 - File Not Found</title>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="20; url=http://www.gamestone.co.uk/" />
+<link href="http://www.gamestone.co.uk/gamestone_section.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="master_navigation">
+  <p>&nbsp;</p>
+</div>
+<noscript id="noscript">
+  <img class="align_vertical_center" src="images/icon_no_script.png" alt="No Script Icon" width="44" height="40"> Javascript is either disabled or not supported by your browser. Please enable Javascript or some site functions may not work. <img class="align_vertical_center" src="images/icon_no_script.png" alt="No Script Icon" width="44" height="40">
+</noscript>
+<div id="layout">
+<header>
+  <div id="header_logo"> <a href="http://www.gamestone.co.uk/"><img src="images/gamestone.png" alt="GameStone" width="326" height="56" /></a>
+  </div>
+  <div id="header_section">
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+</header>
+<div id="section_title">
+<h1>Error</h1>
+</div>
+<div id="error">
+  <h1>Error 404 - File Not Found</h1>
+  <p>We're sorry, you have incountered a File Not Found error, please try again later.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>Please report this to the <a href="http://www.gamestone.co.uk/contact.php?subject=Error%20404%20-%20File%20Not%20Found">webmaster</a></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>Page will redirect to the homepage in 20 seconds or you can click the link below.</p>
+  <p>&nbsp;</p>
+  <p><a href="http://www.gamestone.co.uk/">Back to GameStone</a></p>
+</div>
+<footer>
+  <p>Established 26th July 1997<br>
+    &copy;1997 - 2016 GameStone<br>
+    <br>
+    <a href="http://validator.w3.org/check?uri=referer"><img src="images/validate_html5.png" alt="Valid HTML 5" width="88" height="31" /></a></p>
+</footer>
+</div>
+</body>
+</html>

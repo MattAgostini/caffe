@@ -1,0 +1,430 @@
+<!DOCTYPE html><html ><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><title>BugDorm Store</title><base href="https://shop.bugdorm.com/"><link href="ext/bootstrap/css/bootstrap.min.css" rel="stylesheet"><!-- font awesome --><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link href="custom.css" rel="stylesheet"><link href="user.css" rel="stylesheet"><!--[if lt IE 9]>
+<script src="ext/js/html5shiv.js"></script>
+<script src="ext/js/respond.min.js"></script>
+<script src="ext/js/excanvas.min.js"></script>
+<![endif]-->
+<script src="ext/jquery/jquery-3.1.1.min.js"></script>
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4834850-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script><noscript><div class="no-script"><div class="no-script-inner"><p><strong>JavaScript seems to be disabled in your browser.</strong></p><p>You must have JavaScript enabled in your browser to utilize the functionality of this website.&nbsp;&nbsp;<a href="http://www.enable-javascript.com/" target="_blank" rel="nofollow">Click here for instructions on enabling javascript in your browser</a>.</div></div></noscript><style>.no-script { border: 1px solid #ddd; border-width: 0 0 1px; background: #ffff90; font: 14px verdana; line-height: 1.5; text-align: center; color: #2f2f2f; } .no-script .no-script-inner { margin: 0 auto; padding: 5px; } .no-script p { margin: 0; }</style><link href="ext/typeahead/css/typehead.js-bootstrap3.less/0.2.3/twitter-typeahead.css" rel="stylesheet"><link rel="stylesheet" href="ext/typeahead/css/ht-twitter-typeahead.css"></head><body><nav class="navbar navbar-inverse navbar-no-corners navbar-no-margin navbar-fixed-top navbar-custom" role="navigation"><div class="container"><div class="navbar-header"><a class="navbar-brand" href="https://shop.bugdorm.com/index.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm Store</a><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-core-nav"><span class="sr-only">Toggle Navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div class="collapse navbar-collapse" id="bs-navbar-collapse-core-nav"><ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span title="Selected Language: English"><i class="fa fa-globe fa-fw"></i><span class="hidden-sm">&nbsp;English</span>&nbsp;</span><span class="caret"></span></a><ul class="dropdown-menu"><li><a style="font-weight: bold; cursor: default;" title="English">English&nbsp;<i class="fa fa-caret-left"></i></a></li><li><a href="https://shop.bugdorm.com/index.php?language=ja&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="Japanese">日本語</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span title="Selected Currency: U.S. Dollar"><i class="fa fa-money fa-fw"></i><span class="hidden-sm">&nbsp;USD</span>&nbsp;</span><span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/index.php?currency=AUD&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="AUD">Australian Dollar</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=GBP&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="GBP">British Pound</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=CAD&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="CAD">Canadian Dollar</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=EUR&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="EUR">Euro</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=JPY&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="JPY">Japanese Yen</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=NZD&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="NZD">New Zealand Dollar</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=SEK&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="SEK">Swedish Krona</a></li><li><a href="https://shop.bugdorm.com/index.php?currency=CHF&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3" title="CHF">Swiss Franc</a></li><li><a style="font-weight: bold; cursor: default;" title="USD">U.S. Dollar&nbsp;<i class="fa fa-caret-left"></i></a></li></ul></li></ul><ul class="nav navbar-nav navbar-right"><style>
+.search-dropdown-menu {
+min-width: 320px;
+padding: 0px;
+margin-top: 8px;
+}
+.form-inline .input-group {
+width: 100%;
+}
+</style><li><ul class="search-dropdown-menu hidden-sm hidden-xs"><form name="quick_find" action="https://shop.bugdorm.com/advanced_search_result.php" method="get" class="form-inline" role="search"><div class="input-group"><input type="text" name="keywords" required aria-required="true" class="form-control" placeholder="Enter search terms"><span class="input-group-btn"><button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button><a href="https://shop.bugdorm.com/advanced_search.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3" class="btn role="button"><i class="fa fa-cog fa-inverse" title="Advanced Search"></i></a></span></div><input type="hidden" name="search_in_description" value="1" /></form></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><i class="fa fa-user fa-fw hidden-lg hidden-md"></i><span class="hidden-sm">&nbsp;Account</span>&nbsp;<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/login.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><i class="fa fa-sign-in fa-fw"></i>&nbsp;Sign In</a></li><li><a href="https://shop.bugdorm.com/create_account.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><i class="fa fa-user-plus fa-fw"></i>&nbsp;Register</a></li><li class="divider"></li><li><a href="https://shop.bugdorm.com/account.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">My Account</a></li><li><a href="https://shop.bugdorm.com/account_password.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">My Password</a></li><li><a href="https://shop.bugdorm.com/address_book.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">My Address Book</a></li><li><a href="https://shop.bugdorm.com/account_history.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">My Orders</a></li></ul></li><li><p class="navbar-text" style="cursor: default"><i class="fa fa-shopping-cart fa-fw"></i><span class="hidden-sm">&nbsp;0 item</span></p></li><li><p class="navbar-text" style="cursor: default"><i class="fa fa-share fa-fw hidden-sm"></i>&nbsp;Checkout</p></li></ul></div></div></nav>
+<style scoped>body { padding-top: 50px; }</style>  
+<div id="bodyWrapper" class="container"><div class="row"><div class="modular-header"><div id="storeLogo" class="col-sm-8 storeLogo hidden-xs"><a href="https://shop.bugdorm.com/index.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><img src="images/store_logo.png" alt="BugDorm Store" title="BugDorm Store" class="" /></a></div><div class="col-sm-4 search visible-xs-inline-block"><div class="searchbox-margin"><form name="quick_find" action="https://shop.bugdorm.com/advanced_search_result.php" method="get" class="form-horizontal"><div class="input-group"><input type="search" name="keywords" required placeholder="Enter search terms" class="form-control" /><span class="input-group-btn"><button type="submit" class="btn btn-info"><i class="fa fa-search"></i></button><a href="https://shop.bugdorm.com/advanced_search.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3" class="btn role="button"><i class="fa fa-cog" title="Advanced Search"></i></a></span></div><input type="hidden" name="search_in_description" value="1" /><input type="hidden" name="osCsid" value="1b70debd9fd6165c46fd183b4bd059c3" /></form></div></div><div id="catMenu" class="col-sm-12"><nav class="navbar navbar-default" role="navigation"><div class="navbar-header"><button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse"><span class="sr-only">Toggle Navigation</span><i class="fa fa-chevron-down"></i> Categories		</button></div><div class="collapse navbar-collapse" id="bs-navbar-collapse"><ul class="nav navbar-nav"><li class="dropdown"><a href="#" tabindex="-1" class="dropdown-toggle" data-toggle="dropdown">Insect Rearing <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/insect-rearing-c-5.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><strong><span"><span class="fa fa-th"></span>&nbsp;Insect Rearing</span><li class="visible-xs divider"></li></strong></a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-1-insect-cages-c-5_25.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-1 Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-2-insect-tents-c-5_6.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-2 Insect Tents</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-4s-insect-cages-c-5_7.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-4S Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-4f-insect-cages-c-5_26.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-4F Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-4m-insect-cages-c-5_27.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-4M Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-4e-insect-cages-c-5_28.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-4E Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-5-insect-boxes-c-5_8.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-5 Insect Boxes</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-bugdorm-6s-insect-cages-c-5_10.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">BugDorm-6S Insect Cages</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-pint-sized-insect-pots-c-5_12.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Pint-sized Insect Pots</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-insect-bags-sleeves-c-5_22.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Bags & Sleeves</a></li><li><a href="https://shop.bugdorm.com/insect-rearing-other-containers-c-5_9.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Other Containers</a></li></ul></li><li class="dropdown"><a href="#" tabindex="-1" class="dropdown-toggle" data-toggle="dropdown">Insect Sampling <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/insect-sampling-c-1.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><strong><span"><span class="fa fa-th"></span>&nbsp;Insect Sampling</span><li class="visible-xs divider"></li></strong></a></li><li><a href="https://shop.bugdorm.com/insect-sampling-insect-nets-c-1_17.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Nets</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-aspirators-c-1_2.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Aspirators</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-bait-traps-c-1_16.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Bait Traps</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-night-collecting-c-1_14.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Night Collecting</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-malaise-trapping-c-1_13.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Malaise Trapping</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-emergence-traps-c-1_11.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Emergence Traps</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-berlese-sampling-c-1_15.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Berlese Sampling</a></li></ul></li><li class="dropdown"><a href="#" tabindex="-1" class="dropdown-toggle" data-toggle="dropdown">Assortment <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/assortment-c-18.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><strong><span"><span class="fa fa-th"></span>&nbsp;Assortment</span><li class="visible-xs divider"></li></strong></a></li><li><a href="https://shop.bugdorm.com/assortment-sorting-c-18_24.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Sorting</a></li><li><a href="https://shop.bugdorm.com/assortment-netting-c-18_20.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Netting</a></li><li><a href="https://shop.bugdorm.com/assortment-tools-c-18_23.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Tools</a></li><li><a href="https://shop.bugdorm.com/assortment-accessories-c-18_19.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Accessories</a></li></ul></li><li class="dropdown"><a href="#" tabindex="-1" class="dropdown-toggle" data-toggle="dropdown">Spare Parts <span class="fa fa-caret-down"></span></a><ul class="dropdown-menu"><li><a href="https://shop.bugdorm.com/spare-parts-c-3.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><strong><span"><span class="fa fa-th"></span>&nbsp;Spare Parts</span><li class="visible-xs divider"></li></strong></a></li><li><a href="https://shop.bugdorm.com/spare-parts-parts-for-insect-rearing-c-3_21.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Parts for Insect Rearing</a></li><li><a href="https://shop.bugdorm.com/spare-parts-parts-for-insect-sampling-c-3_4.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Parts for Insect Sampling</a></li></ul></li></ul></div></nav></div><style>
+.dropdown-submenu { 
+position:relative;
+}
+.dropdown-menu > .dropdown > .dropdown-menu, .dropdown-submenu > .dropdown-menu {
+top:0;
+left:100%;
+margin-top:-6px;
+-webkit-border-radius:0 6px 6px 6px;
+-moz-border-radius:0 6px 6px 6px;
+border-radius:0 6px 6px 6px
+}
+.dropdown-menu > .dropdown > a:after, .dropdown-submenu > a:after {
+display: inline-block;
+content: "\f0da";
+font-family: FontAwesome;
+margin-left: 10px;
+color: #cccccc;
+}
+.dropdown-submenu:hover > a:after {
+color:#555;
+}
+</style><script>
+$(document).ready(function(){
+$('ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+event.preventDefault();
+event.stopPropagation(); 
+$(this).parent().siblings().removeClass('open');
+$(this).parent().toggleClass('open');
+});
+});
+</script><div class="col-sm-12 breadcrumbs"><ol  itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://shop.bugdorm.com" itemprop="item"><span itemprop="name"><i class="fa fa-home"><span class="sr-only">Home</span></i></span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://shop.bugdorm.com/index.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3" itemprop="item"><span itemprop="name">Catalog</span></a><meta itemprop="position" content="2" /></li></ol></div><div class="clearfix"></div></div><div class="body-sans-header clearfix"><div id="bodyContent" class="col-md-9 col-md-push-3"><div class="page-header"><h1>Welcome to BugDorm Store</h1></div><div class="row"><div class="index-categories col-sm-12"><div class="row"><div class="col-sm-6 col-md-3"><div class="thumbnail text-center"><a href="https://shop.bugdorm.com/insect-rearing-c-5.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><img width="175" height="175" src="images/cache/3a4acfca1da3f6be84d7a850d560c325/thumb175x175/products/_categories/category-insect-rearing.jpg" title="Insect Rearing" alt="Insect Rearing" class="img-responsive" /></a><br /><a href="https://shop.bugdorm.com/insect-rearing-c-5.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Rearing</a></div></div><div class="col-sm-6 col-md-3"><div class="thumbnail text-center"><a href="https://shop.bugdorm.com/insect-sampling-c-1.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><img width="175" height="175" src="images/cache/3a4acfca1da3f6be84d7a850d560c325/thumb175x175/products/_categories/category-insect-sampling.jpg" title="Insect Sampling" alt="Insect Sampling" class="img-responsive" /></a><br /><a href="https://shop.bugdorm.com/insect-sampling-c-1.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Sampling</a></div></div><div class="col-sm-6 col-md-3"><div class="thumbnail text-center"><a href="https://shop.bugdorm.com/assortment-c-18.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><img width="175" height="175" src="images/cache/3a4acfca1da3f6be84d7a850d560c325/thumb175x175/products/_categories/category-assortment.jpg" title="Assortment" alt="Assortment" class="img-responsive" /></a><br /><a href="https://shop.bugdorm.com/assortment-c-18.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Assortment</a></div></div><div class="col-sm-6 col-md-3"><div class="thumbnail text-center"><a href="https://shop.bugdorm.com/spare-parts-c-3.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3"><img width="175" height="175" src="images/cache/3a4acfca1da3f6be84d7a850d560c325/thumb175x175/products/_categories/category-replacement-parts.jpg" title="Spare Parts" alt="Spare Parts" class="img-responsive" /></a><br /><a href="https://shop.bugdorm.com/spare-parts-c-3.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Spare Parts</a></div></div></div></div></div></div><!-- bodyContent //--><div id="columnLeft" class="col-md-3  col-md-pull-9"><div class="panel panel-default"><div class="panel-heading"><a href="https://shop.bugdorm.com/shopping_cart.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Shopping Cart</a></div><div class="panel-body"><ul class="list-unstyled"><p>0 items</p></ul></div></div><div class="panel panel-default"><div class="panel-heading">Categories</div><ul class="nav nav-pills nav-stacked"><li><a href="https://shop.bugdorm.com/insect-rearing-c-5.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Rearing</a></li><li><a href="https://shop.bugdorm.com/insect-sampling-c-1.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Insect Sampling</a></li><li><a href="https://shop.bugdorm.com/assortment-c-18.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Assortment</a></li><li><a href="https://shop.bugdorm.com/spare-parts-c-3.html?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Spare Parts</a></li></ul></div></div></div><!-- row --></div><!-- bodyWrapper //--></div><footer><div class="footer"><div class="container"><div class="row"><div class="col-sm-3"><div class="footerbox information"><h2>Information</h2><ul class="nav nav-pills nav-stacked"><li><a href="https://shop.bugdorm.com/contact_us.php?osCsid=1b70debd9fd6165c46fd183b4bd059c3">Contact Us</a></li></ul></div></div></div></div></div><div class="footer-extra"><div class="container"><div class="row"><div class="col-sm-6 text-center-xs copyright"><p><div style="align: center">&copy; 2017 <a href="https://megaview.com.tw" target="_blank">MegaView Science Co., Ltd.</a></div></p></div><div class="col-sm-6 text-right text-center-xs icons"><p><div style="align: center"><img src="images/icons/payment/bdg_secured_by_pp_2line.png" alt="Payment Secured by PayPal" title="Payment Secured by PayPal" width="159" height="25" class="" />&nbsp;
+<i class="fa fa-paypal fa-lg" title="Pay Securely by PayPal Balance or eCheck with PayPal" style="padding-right: 7px"></i><i class="fa fa-cc-visa fa-lg" title="Pay Securely by VISA Card with PayPal" style="padding-right: 7px"></i><i class="fa fa-cc-mastercard fa-lg" title="Pay Securely by MasterCard with PayPal" style="padding-right: 7px"></i><i class="fa fa-cc-amex fa-lg" title="Pay Securely by American Express with PayPal" style="padding-right: 7px"></i><i class="fa fa-cc-discover fa-lg" title="Pay Securely by Discover Card with PayPal" style="padding-right: 7px"></i><i class="fa fa-cc-jcb fa-lg" title="Pay Securely by JCB Card with PayPal" style="padding-right: 7px"></i></div></p></div></div></div></div></footer>
+<script src="ext/bootstrap/js/bootstrap.min.js"></script>
+<script>
+$(document).ready(function(){
+$('body').append('<div id="back-to-top" class="btn btn-lg btn-info"><span class="fa fa-chevron-up"></span></div>');
+$(window).scroll(function() {
+if ($(this).scrollTop() > 10) {
+$('#back-to-top').fadeIn();
+} else {
+$('#back-to-top').fadeOut();
+}
+});
+$('#back-to-top').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 200);
+return false;
+});
+});
+</script>   
+<script src="ext/jquery/cookie.js"></script>
+<script>$(function() {var cc = $.cookie('list_grid');if (cc == 'list') {$('#products .item').removeClass('grid-group-item').addClass('list-group-item');}else {$('#products .item').removeClass('list-group-item').addClass('grid-group-item');}$(document).ready(function() {$('#list').click(function(event){event.preventDefault();$('#products .item').addClass('list-group-item').removeClass('grid-group-item');$.cookie('list_grid', 'list');});$('#grid').click(function(event){event.preventDefault();$('#products .item').removeClass('list-group-item').addClass('grid-group-item');$.cookie('list_grid', 'grid');});});});</script>
+<script src="ext/typeahead/js/twitter-typeahead/0.11.1/typeahead.bundle.modified.js"></script>
+<script src="ext/jquery/cookie.js"></script>
+<script type="text/javascript"><!--
+var search_input = $('form[name="quick_find"] input[name="keywords"]');
+
+if (search_input.is(":visible")) {
+
+  var limit_list = 10;
+
+  // 2015-11-05 AD: Change default value of 'Min Characters Required' from 2 to 1
+  //var min_length = 2;
+  var min_length = 2;
+
+  var sort_list = true;
+  var keyword_highlight = true;
+  var keyword_hint = true;
+  var focus_onKeyword = true;
+  var product_preview = false;
+  var product_preview_delay = 600;
+  var rateLimit_Wait = 500;
+  var rateLimit_By = 'debounce';
+  var show_popover_info = false;
+  var suggestion_menu_height = 292;
+  var suggestion_menu_height_options_adj = 17; // adjustment for the suggestion header when "view all results" and/or "advanced search results" is shown - x 1 for one, x2 for two
+  var cursorchange_suggestion = '';
+  var suggestion_length = 0;
+  var search_in_description = 'true';
+  var show_description = 'part';
+  var show_heading_prod_meta_keywords = '';
+
+  var suggestion_header_options = 0;
+  if ('1') {
+    suggestion_header_options = 1;
+  }
+
+  var search_autocomplete_attr = search_input.attr('autocomplete');
+  if (typeof search_autocomplete_attr === typeof undefined || search_autocomplete_attr === false || search_autocomplete_attr == 'on') {
+    search_input.attr('autocomplete', 'off');
+  }
+
+  if (product_preview == true) {
+    var bodyContent = $("#bodyContent");
+    var bodyContent_class = bodyContent.attr('class');
+    bodyContent.after('<div id="bodyContent_preview" class="'+bodyContent_class+'" style="display: none;"></div>');
+    var bodyContent_preview = $("#bodyContent_preview");
+    var current_preview = 0;
+    var changetimer;
+    var fadetimer;
+  }
+
+  $(function() {
+
+    if (show_popover_info) {
+      var popover_cookie = 'false';
+      popover_cookie = $.cookie('popover') || 'true';
+      do_typeahead(popover_cookie);
+    } else {
+      do_typeahead('false');
+    }
+
+  });
+
+  function do_typeahead(popover_cookie) {
+
+    if (show_popover_info) {
+      if (popover_cookie == 'false') {
+        show_popover_info = false;
+//        show_popover_info = true; // for testing cookie
+      } else {
+        var popover_shown = false;
+      }
+    }
+
+    if (show_popover_info) {
+      search_input.popover({
+        animation: true,
+        trigger: 'manual',
+        placement: 'auto',
+        html: true,
+        title: '<span style="font-size: 13px;">Results List Info</span><button id="popoverclose" type="button" class="close" aria-label="Close" title="permanently hide">&times;</button>',
+        content: '<span style="font-size: 13px;">Use up/down arrows and then you can tap/enter to select the product or just click/tap in the list to select a product.<br />(While the cursor is focused in the search box, but not having an item in the list highlighted from using up/down arrows, and you then hit enter or click/tap the search button (magnify glass) then the search will be performed on the words typed.)</span><br /><br /><span style="font-size: 12px; color: grey;">click/tap X top right to permanently hide this box</span>'
+      });
+    }
+
+    var products = new Bloodhound({
+      datumTokenizer: function(datum) {
+        return Bloodhound.tokenizers.whitespace(datum.name);
+      },
+      queryTokenizer: Bloodhound.tokenizers.whitespace,
+      remote: {
+        url: "ext/modules/header_tags/twitter_typeahead/autocomplete.php?term=%query",
+        wildcard : '%query',
+        rateLimitBy : rateLimit_By,
+        rateLimitWait : rateLimit_Wait,
+        transform: function(data) {
+          suggestion_length = data.length;
+
+          if (sort_list) {
+            var key = $.trim(search_input.val());
+            key = key.replace(/["\\()]+/g,'');
+            key = key.replace(/ +/g," ");
+            var srchTerms = key.split(" ");
+            var sort_key = "";
+
+            $.each(srchTerms, function( index, value ){
+              if (index > 0) {
+                sort_key += " ";
+              }
+              sort_key += value;
+
+              var startsWithMatcher = new RegExp("^" + sort_key, "i")
+                , startsWith = $.grep(data, function(value) {
+                    return startsWithMatcher.test(value.name);
+                })
+                , notStartsWith = $.grep(data, function(value) {
+                    return 0 > $.inArray(value, startsWith);
+                });
+              data = startsWith.concat(notStartsWith);
+            });
+          }
+
+          return $.map(data, function(product) {
+              return {
+                  name: product.name,
+                  description: product.description,
+                  price: product.price,
+                  model: product.model,
+                  manufacturer: product.manufacturer,
+                  image: product.img,
+                  link: product.link,
+                  pid: product.pid,
+
+                  // 2015-11-05 AD: Show parent category of each product listed in search result
+                  category: product.category
+              };
+          });
+
+        }
+      }
+    });
+
+    products.initialize();
+
+    search_input.addClass('twitter-typeahead');
+
+    search_input.typeahead({
+      minLength: min_length,
+      hint: keyword_hint,
+      highlight: false // not using built-in highlight as it does not match letters from mutiple keywords to multiple word suggestions, using function replacer(str) further below
+    },
+    {
+      name: 'products',
+      display: 'name',
+      limit: limit_list,
+      source: products.ttAdapter(),
+      templates: {
+         notFound: function() {
+            if (show_popover_info && popover_shown) {
+              search_input.popover('hide');
+              popover_shown = false;
+            }
+
+            // 2016-03-16 AD: Change font style of 'No Matches' text
+            //return '<div><div style="padding: 0 10px 0px 10px; color: red;">No matches<button id="menuclose" type="button" class="close notfound" aria-label="Close" title="close">&times;</button></div><div style="padding: 0px 10px 5px 20px; font-size: 12px;"><span class="fa fa-angle-right" style="color: #747EBB;"></span> <a href="https://shop.bugdorm.com/advanced_search.php?keywords='+encodeURIComponent(search_input.val())+'&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3">advanced search</a></div></div>';
+            return '<div><div style="padding: 0 10px 0px 10px; color: OrangeRed; font-weight: bold;">No matches<button id="menuclose" type="button" class="close notfound" aria-label="Close" title="close">&times;</button></div><div style="padding: 0px 10px 5px 20px; font-size: 12px;"><span class="fa fa-angle-double-right" style="color: #747EBB;"></span> <span style="text-decoration: underline;"><a href="https://shop.bugdorm.com/advanced_search.php?keywords='+encodeURIComponent(search_input.val())+'&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3">advanced search</a></span></div></div>';
+
+         },
+
+         // 2016-03-18 AD: Use built-in fontawesome 'spin' property to rotate the icon as a spinner
+         //pending: '<img src="images/ui-anim_basic_16x16.gif" style="padding-left: 10px;" />',
+         pending: '<span style="padding-left: 10px;">Searching...&nbsp;<span class="fa fa-circle-o-notch fa-spin text-primary"></span></span>',
+
+         header: function() {
+
+            var header_options = suggestion_header_options;
+            var menu_height = suggestion_menu_height;
+
+            if (suggestion_length > limit_list) {
+              header_options++;
+            }
+            if (show_heading_prod_meta_keywords == true) {
+              header_options++;
+            }
+            if (search_in_description == 'true' && show_description == 'none') {
+              header_options++;
+            }
+            menu_height = menu_height+suggestion_menu_height_options_adj*header_options;
+            $('form[name="quick_find"] .tt-menu').css({"max-height" : menu_height+"px"});
+
+            return '<div style="border-bottom: 1px solid #E9E7E7;"><div style="padding: 0 10px 0px 10px;"><span style="font-size: 14px; font-weight: bold;">Products found:</span><span style="font-size: 12px; color: #5D5F61;"> ('+(suggestion_length > limit_list ? 'showing '+limit_list+' of '+suggestion_length : 'showing total of '+suggestion_length)+')</span><button id="menuclose" type="button" class="close found" aria-label="Close" title="close">&times;</button></div>'+
+                   '<div style="padding: 0px 10px 5px 20px; font-size: 12px;">'+(search_in_description == 'true' && show_description == 'none' ? '<span style="font-size: 11px; color: #5D5F61;">Note: also searching within description...<br /></span>' : '')+(show_heading_prod_meta_keywords == true ? '<span style="font-size: 11px; color: #5D5F61;">Note: also searching products keywords...<br /></span>' : '')+
+                   (suggestion_length > limit_list ? '<span class="fa fa-angle-right" style="color: #747EBB;"></span> <a href="https://shop.bugdorm.com/advanced_search_result.php?keywords='+encodeURIComponent(search_input.val())+(search_in_description == 'true' ? '&amp;search_in_description=1' : '')+'">show all results</a><br />' : '')+'<span class="fa fa-angle-double-right" style="color: #747EBB;"></span> <a href="https://shop.bugdorm.com/advanced_search.php?keywords='+encodeURIComponent(search_input.val())+'&amp;osCsid=1b70debd9fd6165c46fd183b4bd059c3">advanced search</a></div></div>';
+         },
+         suggestion: function(data) {
+
+            if (keyword_highlight) {
+              var key = $.trim(search_input.val());
+              key = key.replace(/["\\()]+/g,'');
+              key = key.replace(/ +/g," ");
+              var srchTerms = key.split(" ");
+              var re = new RegExp(srchTerms.join("|"), "gi");
+              var n = data.name.replace(re, replacer);
+              var d = data.description != '' ? data.description.replace(re, replacer) : '';
+              var m = data.model != '' ? data.model.replace(re, replacer) : '';
+              var mf = data.manufacturer != '' ? data.manufacturer.replace(re, replacer) : '';
+            } else {
+              var n = data.name;
+              var d = data.description;
+              var m = data.model;
+              var mf = data.manufacturer;
+            }
+
+            return "<div style='padding: 0px 10px 0px 5px;'><table border='0' width='100%' cellspacing='0' cellpadding='0'><tr><td valign='center' align='center' width='10%' style='padding: 3px 6px 3px 0;'>"+data.image+"</td>"+
+
+                   // 2015-11-05 AD: Show parent category of each product listed in search result
+                   //"<td valign='center' align='left' width='90%' style='padding: 5px 0px 5px 0px;'><span style='font-size: 14px; line-height: 1.0;'>"+n+"<br />"+(mf == '' ? "" : "<span style='color: #6C6B6B; font-size: 12px;'>"+mf+"</span>&nbsp;&#32;")+(m == '' ? "" : "<span style='color: #6C6B6B; font-size: 12px;'>&#91;"+m+"&#93;</span>&nbsp;&#32;")+data.price+"</span>"+(d == '' ? "" : "<br /><div style='color: #6C6B6B; font-size: 11px; font-style: italic; padding-top: 3px; margin-top: 3px; border-top: 1px solid #F5F4F4;'>"+d+"</div>")+"</td></tr></table><style>img[src='']{display: none;}</style></div>";
+                   "<td valign='center' align='left' width='90%' style='padding: 5px 0px 5px 0px;'><span style='font-size: 14px; line-height: 1.0;'>"+n+"&nbsp;in&nbsp;<strong>"+data.category+"</strong><br />"+(mf == '' ? "" : "<span style='color: #6C6B6B; font-size: 12px;'>"+mf+"</span>&nbsp;&#32;")+(m == '' ? "" : "<span style='color: #6C6B6B; font-size: 12px;'>&#91;"+m+"&#93;</span>&nbsp;&#32;")+data.price+"</span>"+(d == '' ? "" : "<br /><div style='color: #6C6B6B; font-size: 11px; font-style: italic; padding-top: 3px; margin-top: 3px; border-top: 1px solid #F5F4F4;'>"+d+"</div>")+"</td></tr></table><style>img[src='']{display: none;}</style></div>";
+         }
+      }
+    }).on('typeahead:render', function(ev, selections, async, ds) {
+      $(".tt-menu").css({"opacity": 1.0});
+      suggestion_length = selections.length;
+      if (show_popover_info && !popover_shown && suggestion_length > 0) {
+        $(this).popover('show');
+        popover_shown = true;
+      }
+    }).on('typeahead:close', function() {
+      if (show_popover_info && popover_shown) {
+        $(this).popover('hide');
+        popover_shown = false;
+      }
+    }).on('typeahead:select', function(ev, selection, ds) {
+        location.href = selection.link;
+    }).on('typeahead:cursorchange', function(ev, suggestion, ds) {
+      if (focus_onKeyword == false && suggestion) {
+        cursorchange_suggestion = suggestion.name;
+      } else {
+        cursorchange_suggestion = $(this).typeahead('val');
+      }
+      if (product_preview == true) {
+        $(".tt-menu").css({"opacity": 1.0});
+        if (changetimer) {
+          clearTimeout(changetimer);
+        }
+        changetimer = setTimeout(function(){
+          if (suggestion && current_preview != suggestion.pid) {
+            if (bodyContent.is(":visible")) {
+              bodyContent.fadeTo("fast", 0.5).hide();
+              bodyContent_preview.html('').show();
+            } else {
+              bodyContent_preview.html('').fadeTo("fast", 0.5);
+            }
+            bodyContent_preview.css({"min-height": "400px"});
+            if (fadetimer) {
+              clearTimeout(fadetimer);
+            }
+            fadetimer = setTimeout(function(){
+              current_preview = suggestion.pid;
+              $(".tt-menu").css({"opacity": 0.5});
+
+              // 2015-10-05 AD: Use single element css instead of a gif to load spinner
+              //bodyContent_preview.html('<div class="text-center" style="padding: 150px 0 150px 0;"><img src="images/ajax-loader.gif" /></div>');
+              // 2016-03-18 AD: Use built-in fontawesome 'spin' property to rotate the icon as a spinner
+              //bodyContent_preview.html('<div class="spinner-L"></div><div class="text-center">Loading preview...</div>');
+              bodyContent_preview.html('<div class="text-center"><div class="fa fa-circle-o-notch fa-spin fa-5x text-primary"></div><div>Loading preview...</div></div>');
+
+              bodyContent_preview.load("ext/modules/header_tags/twitter_typeahead/product_info_tt.php?products_id="+suggestion.pid, function(){ bodyContent_preview.css({"min-height": "auto"}); $(".tt-menu").css({"opacity": 0.95}); }).fadeTo("fast", 1);
+            }, 100);
+          } else {
+            $(".tt-menu").css({"opacity": 0.95});
+          }
+        }, product_preview_delay);
+      }
+    }).keydown(function(event) {
+      if (event.keyCode == 27) {
+        event.preventDefault();
+        close_menu($(this));
+      }
+      if (cursorchange_suggestion != '') {
+        if (event.altKey == false && event.ctrlKey == false) {
+          if ((event.keyCode >= 48 && event.keyCode <= 57 && event.shiftKey == false) ||
+              (event.keyCode >= 65 && event.keyCode <= 90) ||
+              (event.keyCode >= 96 && event.keyCode <= 111) || event.keyCode == 8  || event.keyCode == 46) {
+            cursorchange_suggestion = '';
+          }
+        }
+      }
+    }).blur(function() {
+      if (cursorchange_suggestion != '') {
+        $(this).val(cursorchange_suggestion);
+      }
+    }).focus(function() {
+      if (show_popover_info && !popover_shown && suggestion_length !== 0) {
+        $(this).popover('show');
+        popover_shown = true;
+      }
+    }).change(function() {
+      if ($(this).val() == '' && cursorchange_suggestion != '') {
+        cursorchange_suggestion = '';
+      }
+    });
+
+    $(document).click(function(e) {
+      if (show_popover_info) {
+        if (e.target.id=="popoverclose") {
+          search_input.popover('destroy');
+          search_input.focus();
+          show_popover_info = false;
+          $.cookie('popover', 'false');
+//          $.cookie('popover', 'true'); // for testing cookie
+        }
+      }
+
+      if (e.target.id=="menuclose") {
+        close_menu(search_input);
+      }
+    });
+
+    $(document).keydown(function(e) {
+      if (e.keyCode == 27 && $(".tt-menu").is(":visible")) {
+        close_menu(search_input);
+      }
+    });
+
+  } // end function do_typeahead
+
+  function replacer(str) {
+    return '<span style="font-weight: bold; color: #0000CD">' + str + '</span>';
+  }
+
+  function close_menu(el) {
+    if (cursorchange_suggestion != '') {
+      el.typeahead('val', cursorchange_suggestion);
+    }
+    el.typeahead('close');
+    el.blur();
+  }
+
+  function fix_piGal() {
+    var attr = $(".piGal img").attr('id');
+    if (typeof attr === typeof undefined || attr === false) {
+      $(".piGal img").attr('id', 'piGalImg_1');
+    }
+  }
+
+  if ('index.php' == 'product_info.php') {
+    fix_piGal();
+  }
+
+} // end if (search_input.is(":visible"))
+//--></script>
+</body></html>

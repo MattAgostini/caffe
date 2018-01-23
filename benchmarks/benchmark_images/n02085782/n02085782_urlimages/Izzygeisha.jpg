@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<head>
+<title>M&A Corporation</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="coin-slider.css" />
+<script type="text/javascript" src="js/droid_sans_400-droid_sans_700.font.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/coin-slider.min.js"></script>
+</head>
+<body>
+<div class="interface_infor">
+  <div class="interface_head">
+    <div class="interface_head_resize">
+      <div class="logo">
+        <h1><a href="index.html"><img src="images/logo.png"></a></h1>
+      </div>
+      <div class="searchform">
+        <form id="formsearch" name="formsearch" method="post" action="">
+          <span>
+          <input name="editbox_search" class="editbox_search" id="editbox_search" maxlength="80" value="Search our ste:" type="text" />
+          </span>
+          <input name="button_search" src="images/search.gif" class="button_search" type="image" />
+        </form>
+      </div>
+      <div class="clr"></div>
+      <div class="interface_navi">
+        <ul>
+          <li class="active"><a href="index.html"><span>HOME</span></a></li>
+          <li><a href="what-is-m-a.html"><span>企業の存続</span></a></li>
+          <li><a href="m-that-is-not-another-persons.html"><span>M＆Aの隠れた影響</span></a></li>
+          <li><a href="m-where-japan-is-targeted.html"><span>企業が成長できるチャンス</span></a></li>
+          <li><a href="merits-and-demerits-of-m-a.html"><span>M＆Aで生き残る</span></a></li>
+          <li><a href="this-is-perfect-m-countermeasure.html"><span>敵対的M＆Aの対策法</span></a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      <div class="slider">
+        <div id="coin-slider"> <a href="#"><img src="images/photo_1.jpg" width="960" height="360"  /></a> <a href="#"><img src="images/photo_2.jpg" width="960" height="360"  /></a> <a href="#"><img src="images/photo_3.jpg" width="960" height="360"  /></a> </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="interface_page">
+    <div class="interface_resize">
+      <div class="interface_bar">
+        <div class="interface_box">
+          <h2>M＆Aとは何か？</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="what-is-m-a.html"><img src="images/gal1.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p>M＆Aとは企業の合併・買収を総称する言葉で、その中には資本や業務の提携といった意味合いも含まれています。買収という言葉からはあまり良いイメージを抱かないかもしれませんが、たとえば売却する側であれば…</p>
+            <p class="spec"><a href="what-is-m-a.html" class="rm">Read more &raquo;</a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="interface_box">
+          <h2>他人事ではない「M＆A」</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="m-that-is-not-another-persons.html"><img src="images/gal2.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p>近年ニュースや新聞で取り上げられることが多く、耳にする機会が増えた「M＆A」とは、いったいどんなことなのでしょうか。M＆A（Merger and Acquisition）とは、和訳すると「合併と買…</p>
+            <p class="spec"><a href="m-that-is-not-another-persons.html" class="rm">Read more &raquo;</a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="interface_box">
+          <h2>日本が狙われている「M＆A」</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="m-where-japan-is-targeted.html"><img src="images/gal3.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p>M＆Aとは、成長を願う企業が合併買収をすることで、国内だけでなく海外の企業同士で行われることがあります。会社が一つになることで、コストを抑えることができたり、販売網が広がるなどを狙って合併をする企…</p>
+            <p class="spec"><a href="m-where-japan-is-targeted.html" class="rm">Read more &raquo;</a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="interface_box">
+          <h2>M＆Aのメリット・デメリット</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="merits-and-demerits-of-m-a.html"><img src="images/gal4.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p>企業は必ずしも順風満帆な状態で会社経営できるとは限りませんよね。不況が続けば倒産してしまう可能性もあるのですが、こういうときに役立つのM＆Aです。自分の会社を希望する別会社に売ることによって、不況…</p>
+            <p class="spec"><a href="merits-and-demerits-of-m-a.html" class="rm">Read more &raquo;</a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="interface_box">
+          <h2>これで完璧！「M＆A対策」</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="this-is-perfect-m-countermeasure.html"><img src="images/gal5.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p>企業の競争は激しいので経営基盤が弱い企業は業績が悪化するリスクが常にあります。お互いの企業が成長できるよいM＆Aをすることは率先してした方がメリットが多いと考える企業は増えています。逆に一方の企業…</p>
+            <p class="spec"><a href="this-is-perfect-m-countermeasure.html" class="rm">Read more &raquo;</a></p>
+          </div>
+          <div class="clr"></div>
+        </div>
+        <div class="interface_box" >
+          <h2>ライバル同士でもあり得るM&A</h2>
+          <div class="clr"></div>
+          <div class="inner">
+            <figure><a href="index.html"><img src="images/gal6.jpg" width="220" class="fl" /></a></figure>
+          </div>
+          <div class="interface_post">
+            <p><a href="http://jms-support.jp/">M&Aは、企業間の買収や合併などを指し示す言葉</a>です。時代の流れと共に激化する競争を勝ち抜くための手段としても注目されています。</p>
+
+
+
+
+
+
+            
+          </div>
+          <div class="clr"></div>
+        </div>
+      </div>
+      <div class="interface_sidebar">
+        <div class="gadget">
+          <h2><a href="index.html">おすすめ記事</a></h2>
+          <div class="clr"></div>
+          <ul class="sb_menu">
+            <li><a href="what-is-m-a.html">企業の存続</a></li>
+            <li><a href="m-that-is-not-another-persons.html">M＆Aの隠れた影響</a></li>
+            <li><a href="m-where-japan-is-targeted.html">企業が成長できるチャンス</a></li>
+            <li><a href="merits-and-demerits-of-m-a.html">M＆Aで生き残る</a></li>
+            <li><a href="this-is-perfect-m-countermeasure.html">敵対的M＆Aの対策法</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="interface_foot">
+    <div class="interface_foot_resize">
+      <p class="lf">&copy; Copyright <a href="index.html">M&A Corporation</a>. All Rights Reserved.</p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

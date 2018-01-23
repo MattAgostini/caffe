@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="../App_themes/Master/Master.css" rel="stylesheet" type="text/css" />
+    <title>Living at Lake Chapala - Page Not Found</title>
+
+    <script type="text/javascript" src="/Admin/javascript/copyRightYear.js"></script>
+
+    <script type="text/javascript" src="/Admin/javascript/redirect.js"></script>
+
+</head>
+<body onload="getYear();">
+    <div class="wrapper">
+        <div style="background-color: #6597d8; position: absolute; left: 1; top: 1;
+            z-index: 110; width: 123px; height: 80px;">
+        </div>
+        <img src="/gen/images/MIlogoTran.gif" style="position: absolute; left: 1px;
+            top: 0px; z-index: 999;" alt="Mexico-Insights Logo" />
+        <div class="top">
+            <img src="/gen/images/lilc_title.gif" alt="MItitle" style="z-index: 101;
+                left: 213px; position: absolute; top: 32px" />
+            <img src="/gen/images/MItitle.gif" alt="MItitle" style="z-index: 102; left: 193px;
+                position: absolute; top: 5px" />
+        </div>
+        <!-- ------------------------------------------------------------------------------------------------- -->
+        <!-- TOP NAV -->
+        <!-- ------------------------------------------------------------------------------------------------- -->
+        <div class="headerNav">
+            &nbsp;&nbsp;&nbsp;
+        </div>
+        <!-- ------------------------------------------------------------------------------------------------- -->
+        <!-- Main Area                                        -->
+        <!-- ------------------------------------------------------------------------------------------------- -->
+        <table class="master" cellpadding="0" cellspacing="0">
+            <tr>
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <!-- LEFT NAV -->
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <td class="left" style="padding-top: 60px;">
+                    <p>
+                        <a class="leftNav" href="/gen/Editors.aspx">Meet the Experts</a>
+                        <br />
+                        <br />
+                        <a class="leftNav" href="/gen/ReadersSay.aspx">Readers Say...</a>
+                        <br />
+                        <br />
+                        <a class="leftNav" href="http://www.mexico-insights.com/judysblog">
+                            Judy's Blog</a>
+                    </p>
+                    <p>
+                        <a class="leftNav" href="/gen/askUs.aspx">Ask Us!</a></p>
+                    <p>
+                        <a class="leftNav" href="/gen/Map.aspx">Where are we?</a>
+                    </p>
+                    <p>
+                        &nbsp;</p>
+                </td>
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <!-- MAIN CONTENT AREA -->
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <td class="main" style="padding: 12px;">
+                    <h1 style="color: #8b4513; text-align: center">
+                        Sorry!</h1>
+                    <h2 style="color: #8b4513; text-align: center">
+                        The page you requested was not found.</h2>
+                    <br />
+                    <h2 style="color: #8b4513; text-align: center">
+                        Perhaps it's an outdated link.</h2>
+                    <br />
+                    <h3 style="color: #8b4513; text-align: center">
+                        Please visit our site's Home Page at <a href="http://www.Mexico-Insights.com">
+                            www.Mexico-Insights.com</a>
+                    </h3>
+                    <h3 style="color: #8b4513; text-align: center">
+                        ... or select one of the updated links in the blue or red border areas.
+                    </h3>
+                    <p style="color: #8b4513; text-align: center; ">
+                        You may also select from one of the following:</p>
+                    <h4 style="text-align: center">
+                        <a href="/Articles/Default.aspx?c=comp">Complimentary Issue</a>
+                        <br />
+                        <br />
+                        <a href="/Articles/Default.aspx?c=current">Current Issue</a>
+                        <br />
+                        <br />
+                        <a href="/Articles/Default.aspx?c=archives">List of Archived Issues</a>
+                        <br />
+                    </h4>
+                </td>
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <!-- RIGHT SIDE -->
+                <!-- ------------------------------------------------------------------------------------------------- -->
+                <td class="right">
+                    <p>
+                        &nbsp;</p>
+                    <p>
+                        <a class="rightNav" href="/gen/Books.aspx">Recommended Reading</a>
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="footer">
+        <table class="footer" onload='getYear();'>
+            <tr>
+                <td><a class="footer" href="/gen/SiteIndex.aspx">Site Index</a> &nbsp;|&nbsp; 
+                    <a class="footer" href="/gen/Privacy.aspx">Privacy Policy</a> &nbsp;|&nbsp; 
+                    <a class="footer" href="/gen/useTerms.aspx">Terms of Use</a> &nbsp;|&nbsp; 
+                    <a class="footer" href="mailto:webcomments@mexico-insights.com?subject=Mexico Insights -- Website Comments and Suggestions">
+                            Comments or Suggestions?</a> </td>
+            </tr>
+            <tr>
+                <td>
+                    <br />
+                    Copyright&copy; 2001-<span id="cYear">&nbsp;</span> by Mexico Insights.
+                    All rights reserved. </td>
+            </tr>
+            <tr>
+                <td>Website design &amp; development: <a class="footer" href="http://www.PerceptiveLogic.com">Perceptive Logic</a> </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

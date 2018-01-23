@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Webhosting - soluzione per privati | ticino.com</title>
+    <meta name="description" content="ticino.com offre ai privati un webhosting completo e personalizzato, per esempio la nostra offerta Large con 15 GB di spazio server per soli 150 CHF/anno.">
+    <meta name="keywords" content="Webhosting ticino">    
+	<meta name="robots" content="index,follow" />
+  
+    <link rel="alternate" hreflang="it-ch" href="https://www.ticino.com/it/web-hosting" />
+    <link rel="alternate" hreflang="it" href="https://www.ticino.com/it/web-hosting" />
+    <link rel="alternate" hreflang="de-ch" href="https://www.ticino.com/de/web-hosting" />
+    <link rel="alternate" hreflang="de" href="https://www.ticino.com/de/web-hosting" />
+    <link rel="canonical" href="https://www.ticino.com/it/web-hosting" />
+  
+    <link rel="shortcut icon" href="https://www.ticino.com/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.ticino.com/assets/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.ticino.com/assets/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.ticino.com/assets/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.ticino.com/assets/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.ticino.com/assets/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.ticino.com/assets/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.ticino.com/assets/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.ticino.com/assets/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.ticino.com/assets/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="https://www.ticino.com/assets/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://www.ticino.com/assets/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.ticino.com/assets/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://www.ticino.com/assets/favicons/android-chrome-192x192.png" sizes="192x192">
+    <meta name="msapplication-square70x70logo" content="https://www.ticino.com/assets/favicons/smalltile.png" />
+    <meta name="msapplication-square150x150logo" content="https://www.ticino.com/assets/favicons/mediumtile.png" />
+    <meta name="msapplication-wide310x150logo" content="https://www.ticino.com/assets/favicons/widetile.png" />
+    <meta name="msapplication-square310x310logo" content="https://www.ticino.com/assets/favicons/largetile.png" />
+    <meta name="theme-color" content="#ffffff">
+  
+    <meta property="og:title" content="Webhosting - soluzione per privati | ticino.com">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.ticino.com/assets/images/ticinocom-header-fb.jpg">
+    <meta property="og:image:width" content="1200">    
+    <meta property="og:image:height" content="630">    
+    <meta property="og:url" content="https://www.ticino.com/it/web-hosting">
+    <meta property="og:description" content="ticino.com offre ai privati un webhosting completo e personalizzato, per esempio la nostra offerta Large con 15 GB di spazio server per soli 150 CHF/anno.">
+    <meta property="og:site_name" content="ticino.com">
+    <meta property="og:locale" content="it_IT">
+  
+	<link href="https://www.ticino.com/assets/stylesheets/main.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+		
+	<script src="https://www.ticino.com/assets/js/vendor/jquery.min.js"></script>
+	<script src="https://www.ticino.com/assets/js/plugins.js"></script>
+  </head>
+  
+  <body>
+
+    <header>
+      
+      <h1><a href="https://www.ticino.com/it">ticino.com</a></h1>
+      
+      <div class="navbar-top">
+        
+        <div class="wrapper">
+        
+          <ul class="navbar-languages">
+            <li class="active"><a href="https://www.ticino.com/it/web-hosting">it</a></li>
+            <li><a href="https://www.ticino.com/de/web-hosting">de</a></li>
+          </ul>
+
+          <ul class="navbar-sections">
+            <li class="active"><a href="https://www.ticino.com/it">Privato</a></li>
+            <li><a href="https://www.ticino.com/it/business">Business</a></li>
+          </ul>
+          
+          <div class="navbar-tools">
+            <ul>
+              <li><a href="https://shop.ticino.com/" title="ticino.com Shop" target="blank">Shop <span class="new">new</span></a></li>
+              <li><a href="https://www.ticino.com/it/supporto-e-contatti">Supporto <span class="hide-md">e contatti</span></a></li>
+              <li><a href="https://www.ticino.com/it/stato-servizi">Stato servizi</a></li>
+              <li><a href="https://webmail.ticino.com">Webmail</a></li>
+              <li class="emphasized"><a href="http://my.ticino.com" title="Area clienti">Area clienti</a></li>
+              <li class="social"><a href="https://www.facebook.com/ticinocom" target="blank" title=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            </ul>
+          </div>
+        
+        </div>
+        
+      </div>
+      
+      <div class="navbar-default">
+        
+        <div class="wrapper">
+        
+          <div class="logo">
+            <a href="https://www.ticino.com/it" title="">
+              <img src="https://www.ticino.com/assets/images/ticinocom-logo.png" alt="ticino.com Logo" />
+            </a>
+          </div>
+          
+          <nav class="navbar-main" role="navigation">
+            <ul>
+                
+              
+                  <li><div class="navbar-item-parent"><span>Internet e telefono</span></div>
+                    <ul>
+                        
+                        <li><a href="/it/home-connect" title="">HomeConnect</a></li>
+                        <li><a href="/it/fixnet" title="">FixNet</a></li>
+                        <li><a href="/it/all-ip" title="">All-IP</a></li>
+                        
+                    </ul>
+                  </li>
+                        
+                
+                    
+              
+                  <li class="active"><div class="navbar-item-parent"><span>Hosting e domini</span></div>
+                    <ul>
+                        
+                        <li class="active"><a href="/it/web-hosting" title="">WebHosting</a></li>
+                        <li><a href="/it/registrazione-dominio" title="">Registrazione dominio</a></li>
+                        <li><a href="/it/trasferimento-dominio" title="">Trasferimento dominio</a></li>
+                        <li><a href="/it/whois" title="">Whois</a></li>
+                        
+                    </ul>
+                  </li>
+                        
+                
+                    
+              
+                
+                  <li><a href="/it/tv-digitale" title="">TV DIgitale</a></li>
+                    
+
+            </ul>
+          </nav>
+          
+          <button type="button" class="navbar-toggle">
+            <div class="line line-1"></div>
+            <div class="line line-2"></div>
+            <div class="line line-3"></div>
+          </button>  
+                  
+        </div>
+        
+      </div>
+      
+      <div class="navbar-small"></div>
+      
+    </header> 
+
+    <div class="main" role="main">
+  
+  <div class="section section-header section-header-hosting">
+  
+    <div class="wrapper">
+      
+      <div class="col-1 col-md-12 text-right text-center-md">
+        
+        <i class="icon icon-hosting icon-md"></i>
+        
+      </div>
+      
+      <div class="col-5 col-lg-6 col-md-8 col-sm-10 push-md-2 push-sm-1 push-xs-0 text-center-md header-text">
+        
+        <h2><span>Web</span><span>Hosting</span></h2>
+        <p>Ti mettiamo a disposizione lo spazio per caricare il tuo sito internet e per il traffico di posta elettronica. Inoltre registriamo il tuo dominio.</p>
+                 
+      </div>
+      
+    </div>
+            
+    <div class="section-bg">
+      <i class="icon icon-hosting"></i>
+      <span class="char char-1">{</span>
+      <span class="char char-2">=</span>
+      <span class="char char-3">]</span>
+    </div>
+    
+  </div>
+  
+  <div class="section section-features section-no-pt">
+    
+    <div class="wrapper">
+      
+      <div class="col-12">
+      
+        <ul class="table-price-3">
+          
+          <li class="col-4 col-md-6 col-sm-8 push-sm-2 col-xs-12">
+            <div class="square">
+              <div class="wrapper">
+                <h3>M — 7.5GB <span>di spazio server</span></h3>
+                <div class="features">
+                  1 nome dominio + 1 alias<br />
+                  50 email<br />
+                  10 Database MySql
+                </div>
+                <div class="price">100.-<br /><span>CHF / anno</span></div>
+              </div>
+            </div>
+            
+            <p><a href="/it/web-hosting-m-ordina-online" class="btn">Ordina online</a></p>
+            <p><a href="https://ticino.com/files/ticinocom-web-hosting-form-it.pdf" target="_new">oppure tramite formulario PDF</a></p>
+            
+          </li>
+          <li class="emphasized col-4 col-md-6 col-sm-8 push-sm-2 col-xs-12">
+            <div class="square">
+              <div class="wrapper">
+                <h3>L — 15GB <span>di spazio server</span></h3>
+                <div class="features">
+                  1 nome dominio + 2 alias<br />
+                  100 email<br />
+                  20 Database MySql
+                </div>
+                <div class="price">150.-<br /><span>CHF / anno</span></div>
+              </div>
+            </div>
+            
+            <p><a href="/it/web-hosting-l-ordina-online" class="btn">Ordina online</a></p>
+            <p><a href="https://ticino.com/files/ticinocom-web-hosting-form-it.pdf" target="_new">oppure tramite formulario PDF</a></p>
+            
+          </li>
+          <li class="col-4 col-md-6 push-md-3 col-sm-8 push-sm-2 col-xs-12">
+            <div class="square">
+              <div class="wrapper">
+                <h3>XL — 75GB <span>di spazio server</span></h3>
+                <div class="features">
+                  1 nome dominio + 5 alias<br />
+                  200 email<br />
+                  25 Database MySql
+                </div>
+                <div class="price">200.-<br /><span>CHF / anno</span></div>
+              </div>
+            </div>  
+            
+            <p><a href="/it/web-hosting-xl-ordina-online" class="btn">Ordina online</a></p>
+            <p><a href="https://ticino.com/files/ticinocom-web-hosting-form-it.pdf" target="_new">oppure tramite formulario PDF</a></p>
+            
+          </li>
+          
+        </ul>
+      
+      </div>
+      
+    </div>
+    
+  </div>
+  
+  <div class="section section-includes section-no-pt">
+    
+    <div class="wrapper">
+      
+      <div class="col-12 col-bg">
+      
+        <div class="row">
+          
+          <div class="col-4 col-pl col-md-5 push-md-1 col-sm-12 push-sm-0 col-sm-pl">
+            
+            <h3>Prestazioni incluse in tutti i piani:</h3>
+            
+          </div>
+          
+          <div class="col-6 col-pr col-lg-8 col-md-5 col-sm-12 col-sm-pl">
+            
+            <ul>
+              <li>Possibilità Web e DNS Redirect</li>
+              <li>Costo dei Domini escluso</li>
+              <li>Alias email illimitati</li>
+              <li>Webmail</li>
+              <li>Mailing List</li>
+              <li>Catch-all mailbox</li>
+              <li>Autoresponder</li>
+              <li>Antivirus e Antispam</li>
+              <li>Volume trasferimento dati illimitato</li>
+              <li>CGI Directory, PHP 5, MySql 5, C-Panel, Password protected folder, 10 FTP Access, File manager, Server Side Includes (SSI), Statistiche (Analog, Webalizer)</li>
+              <li>Attivazione gratuita in tempo reale</li>
+            </ul>  
+              
+          </div>
+                    
+        </div>
+      
+      </div>
+      
+    </div>
+    
+  </div>
+  
+  <div class="section section-options section-no-pt">
+    
+    <div class="wrapper">
+      
+      <div class="col-3 col-lg-4 col-md-12 text-center-md">
+      
+        <h3>Opzioni disponibili</h3>
+              
+      </div>
+    
+      <div class="col-9 col-lg-8 col-md-10 col-sm-12 push-md-1 push-sm-0 text-center-md">
+    
+        <ul class="table-options-1">
+          
+          <li class="col-4 col-lg-6 col-xs-12">
+            <strong>Certificato SSL</strong><br />
+            SSL o "Secure Sockets Layer" è un protocollo progettato per consentire 
+            alle applicazioni di trasmettere informazioni in modo sicuro e protetto.<br />
+            <span class="price">99.-</span><br />
+            CHF / anno
+          </li>
+          
+          <li class="col-4 col-lg-6 col-xs-12">
+            <strong>Modifica del nome a dominio</strong><br />
+            Se sei proprieterio di un nome a dominio puoi modificarlo.<br />
+            <span class="price">20.-</span><br />
+            per ogni modifica
+          </li>
+          
+          <li class="col-4 col-lg-6 col-xs-12 clear-lg clear-md clear-sm">
+            <strong>Redirect</strong><br />
+            Senza spazio web, fino a 2 domini. Hai già il tuo dominio e vuoi che digitandolo si arrivi 
+            su un'altro tuo sito? Oppure vuoi che tutto il traffico verso il tuo dominio venga 
+            indirizzato ad un IP? Grazie al servizio Redirect è possibile gestire reindirizzamenti WEB e DNS.<br />
+            <span class="price">20.-</span><br />
+            CHF / anno<br />
+            <a href="/it/web-redirect-ordina-online">Ordina online</a>
+          </li>
+                    
+        </ul>
+      
+      </div>
+                
+    </div>
+    
+  </div>
+  
+</div>
+    
+    <footer>
+      
+      <div class="section bg-grey-lighter border-top section-support">
+        
+        <div class="wrapper">
+        
+          <div class="col-12 text-center">
+            
+            <h2>Domande? Siamo a tua disposizione.</h2>
+            
+          </div>
+          
+          <div class="col-4 col-md-12">
+            
+            <div class="row">
+              
+              <div class="col-3 col-lg-12 text-right text-center-lg">
+                <i class="icon icon-help icon-md"></i>  
+              </div>
+              
+              <div class="col-9 col-lg-12 col-md-8 col-sm-10 col-xs-12 push-md-2 push-sm-1 push-xs-0 text-center-lg">
+                
+                <h3 class="md"><a href="https://www.ticino.com/it/supporto-e-contatti" class="blue">Supporto <br />e contatti</a></h3>
+                <p>Contatti, istruzioni e FAQ.</p>          
+                
+              </div>              
+              
+            </div>
+            
+          </div>
+          
+          <div class="col-4 col-md-12">
+            
+            <div class="row">
+              
+              <div class="col-3 col-lg-12 text-right text-center-lg">
+                <i class="icon icon-info-outline icon-md"></i>  
+              </div>
+              
+              <div class="col-9 col-lg-12 col-md-8 col-sm-10 col-xs-12 push-md-2 push-sm-1 push-xs-0 text-center-lg">
+                
+                <h3 class="md"><a href="tel:0041585223344" class="blue">Informazioni <br />commerciali<br />058 522 33 44</a></h3>
+                <p>dal lunedì al venerdì<br />08.30–12:00 / 13.00–17:30<br />(tariffa locale)</p> 
+                
+              </div>              
+              
+            </div>
+            
+          </div>
+          
+          <div class="col-4 col-md-12">
+            
+            <div class="row">
+              
+              <div class="col-3 col-lg-12 text-right text-center-lg">
+                <i class="icon icon-tech icon-md"></i>  
+              </div>
+              
+              <div class="col-9 col-lg-12 col-md-8 col-sm-10 col-xs-12 push-md-2 push-sm-1 push-xs-0 text-center-lg">
+            
+                <h3 class="md"><a href="tel:0041585222424" class="blue">Informazioni <br />tecniche<br />058 522 24 24</a></h3>
+                <p>dal lunedì al venerdì<br />08.30–12:00 / 13.00–17:30<br />(tariffa locale)</p>  
+                <p>Per il supporto prioritario scrivici dalla tua <a href="https://www.ticino.com/it/area-clienti" target="blank">Area clienti</a></p>         
+                
+              </div>              
+              
+            </div>
+            
+          </div>
+                  
+        </div>
+        
+      </div>
+      
+      <div class="section bg-grey-lightest border-top section-footer">
+        
+        <div class="wrapper">
+        
+          <div class="col-3 col-md-0 col-sm-12 text-center-sm">
+            <img src="https://www.ticino.com/assets/images/ticinocom-logo-grey.png" alt="ticino.com Logo" class="logo-footer" />  
+          </div>
+          
+          <div class="col-2 col-xl-3 col-md-4 col-sm-12 text-center-sm">
+            <ul>
+              
+              <li><a href="https://www.ticino.com/it/chi-siamo" title="">Chi siamo</a></li>
+              <li><a href="https://www.ticino.com/it/jobs" title="">Jobs</a></li>
+              
+            </ul>
+          </div>
+          
+          <div class="col-4 col-xl-3 col-md-4 col-sm-12 text-center-sm">
+            
+            <div class="row">
+              
+              <div class="col-6 col-xl-12">
+                <h2 class="md">Servizi veloci</h2>
+                <ul>
+                  <li><a href="https://admincenter.ticinocom.com/admincenter/AdminCenter-easy-fatt-pay/stp-01.cfm?lingua=it" target="blank" title="">Pagare una fattura</a></li>
+                </ul>
+              </div>
+              
+              <div class="col-6 col-xl-12">
+                <h2 class="md">Link utili</h2>
+                <ul>
+                  <li><a href="http://www4.ti.ch/index.php?id=24347" target="blank" title="">Elenco targhe</a></li>
+                  <li><a href="http://www.paginebianche.ch/" target="blank" title="">Elenco telefonico</a></li>
+                </ul>
+              </div>
+              
+            </div>
+            
+          </div>
+          
+          <div class="col-3 col-md-4 col-sm-12 text-center-sm">
+            <h2 class="md">Newsletter</h2>
+  
+            <div id="mc_embed_signup">
+            <form action="//ticino.us7.list-manage.com/subscribe/post?u=b2b28a5df128d97a2ce717a90&amp;id=8f00edf336" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+	
+                    <div class="mc-field-group form-group">
+	                    <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Il tuo indirizzo email">
+                    </div>
+	                <div id="mce-responses" class="clear">
+		                <div class="response" id="mce-error-response" style="display:none"></div>
+		                <div class="response" id="mce-success-response" style="display:none"></div>
+	                </div>  
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b2b28a5df128d97a2ce717a90_8f00edf336" tabindex="-1" value=""></div>
+                    <div class="clear">
+                        <input type="submit" value="Iscrizione" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-link">
+                    </div>
+                </div>
+            </form>
+            </div>
+
+          </div>
+        
+        </div>
+        
+      </div>
+      
+      <div class="section section-certificazioni">
+        
+        <div class="wrapper">
+        
+          <div class="col-3 col-sm-12 text-center-sm">
+            
+            <h2 class="sm">Certificazioni</h2>  
+            
+          </div>
+          
+          <div class="col-9 col-sm-12">
+            <ul class="certificazioni">
+              <li><a href="http://www.swisslabel.ch/it" target="blank"><img src="https://www.ticino.com/assets/images/logo-swisslabel.png" alt="Swisslabel Logo" /></a></li>
+              <li><a href="http://www4.ti.ch/dfe/dr/csi/servizi/azienda-formatrice" target="blank"><img src="https://www.ticino.com/assets/images/logo-aziendaformatrice.png" alt="Azienda Formatrice Logo" /></a></li>
+              <li class="small"><a href="http://www.ecoprodotti.ch/tiacqua" target="blank"><img src="https://www.ticino.com/assets/images/logo-tiacqua.png" alt="Tiacqua Logo" /></a></li>
+            </ul>
+          </div>
+        
+        </div>
+        
+      </div>
+      
+    </footer>
+    
+    <script src="https://www.ticino.com/assets/js/main-min.js"></script>
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-89812161-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+    window.__lc = window.__lc || {};
+    window.__lc.license = 8508783;
+    (function() {
+      var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+      lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+    })();
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,545 @@
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+  <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"> 
+  
+  <head><meta http-equiv="X-UA-Compatible" content="IE=EDGE" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="google-site-verification" content="T4Pix1IfQvLyEjd3SDsBFoyG9SGrzP0bDGM6BTiL2H0" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="shortcut icon" href="http://myfwc.com/images/FWCfavicon.ico" /><link rel="apple-touch-icon-precomposed" href="http://myfwc.com/images/apple-touch-icon-precomposed.png" /><title>
+	404 Error: Page Not Found on MyFWC.com
+</title><link rel="stylesheet" type="text/css" href="http://myfwc.com/css/home1.css" /><link rel="stylesheet" type="text/css" href="http://myfwc.com/css/w3.css" />
+   
+             <link rel="stylesheet" type="text/css" href="/css/L1.css" />
+              
+    
+       
+    
+    <!--new accordian script 8/30/16-->
+    <script type="text/javascript">
+function myFunction(id) {
+    var x = document.getElementById(id);
+if (x.className.indexOf("w3-show") == -1) {
+  x.className += " w3-show";
+  x.previousElementSibling.className += " w3-red";
+} else { 
+  x.className = x.className.replace("w3-show", "");
+  x.previousElementSibling.className = 
+  x.previousElementSibling.className.replace("w3-red", "");
+}
+}
+</script>
+       
+  
+  <script id="ContentPlaceHolderDefault_jquery" type="text/javascript" src="/scripts/jquery.min.js"></script><script id="ContentPlaceHolderDefault_megamenu.js" type="text/javascript" src="/scripts/megamenu.js"></script><link id="ContentPlaceHolderDefault_green.css" rel="stylesheet" type="text/css" href="/css/green.css"></link></head> 
+   
+  <body style="padding:0; margin:0;">  
+    <a name="top"></a>
+      <div id="header"> 
+        <div class="centered"> 
+          <div id="eyebrow">
+            <a href="#Main" style="display: inline; position: absolute; width: 12em; left: -200em; text-decoration:none;">Skip to main content</a>
+            <div class="mega-anchorsTop" style="border: 0;"><a href="/ask-fwc/" id="mega-1087"><span>Ask FWC</span></a></div>
+<div class="mega-anchorsTop"><a href="/about/" id="mega-1063"><span>About</span></a></div>
+<div class="mega-anchorsTop"><a href="/contact/" id="mega-1089"><span>Contact</span></a></div>
+<div class="mega-anchorsTop"><a href="/news/" id="mega-1173"><span>News</span></a></div>
+<div class="mega-anchorsTop"><a href="/calendar/" id="mega-27108"><span>Calendar</span></a></div>
+<div class="mega-anchorsTop"><a href="/get-involved/" id="mega-1092"><span> Get Involved</span></a></div>
+<div class="mega-anchorsTop"><a href="/sign-up/" id="mega-51283"><span>Sign Up</span></a></div>
+<div class="mega-anchorsTop"><a href="/"><span>Home</span></a></div>
+<div id="TopNav" style="height: 0; width: 0;">
+  <div id="mega-1063-sub" class="megamenu"><div class="column">
+<h3><a href="/about/commission">The Commission</a></h3>
+<ul>
+<li><a href="/about/commission/commissioners/" title="Commissioners">The Commissioners</a></li>
+<li><a href="/about/commission/commission-meetings">Commission Meetings</a></li>
+<li><a href="/about/commission/meeting-protocol">Meeting Protocol</a></li>
+</ul>
+<h3><a href="/about/inside-fwc">Inside FWC</a></h3>
+<ul>
+<li><a href="/about/inside-fwc/executive">Executive Director</a></li>
+<li><a href="/about/inside-fwc#DOs">Divisions/Offices</a></li>
+<li><a href="/about/inside-fwc#RO">Regional Offices</a></li>
+</ul>
+</div>
+<div class="column">
+<h3><a href="http://strategicplan.myfwc.com" title="Strategic Plan">Strategic Plan</a></h3>
+<h3><a href="/about/overview">Overview: Fast Facts</a></h3>
+<ul>
+<li><a href="/about/overview/programs/" title="Programs of the FWC">Programs of the FWC</a></li>
+<li><a href="/about/overview/long-range/" title="Long Range">Long Range Program Plan</a></li>
+<li><a href="/about/overview/economics/" title="Economics">Economics</a></li>
+</ul>
+<h3><a href="/about/rules-regulations">Rules &amp; Regulations</a></h3>
+<ul>
+<li><a href="/about/rules-regulations/changes/" title="Rule Changes">Rule Changes</a></li>
+</ul>
+</div>
+<!--Break after 3rd column. Move this if desired--></div>
+  <div id="mega-1089-sub" class="megamenu"><div class="column">
+<h3><a href="/contact/fwc-staff/" title="Contact FWC Staff">Contact FWC Staff</a></h3>
+<ul>
+<li><a href="/ask-fwc/" title="Ask FWC">Customer Service</a></li>
+<li><a href="/about/commission/commissioners/" title="The Commissioners">Commissioners</a></li>
+<li><a href="/contact/fwc-staff/senior-staff/" title="Senior Staff">Senior Staff</a></li>
+<li><a href="/contact/fwc-staff/divisions-offices/" title="Divisions &amp; Offices">Divisions/Offices</a></li>
+<li><a href="/contact/fwc-staff/regional-offices/" title="Regional Offices">Regional Offices</a></li>
+<li><a href="/contact/fwc-staff/praise-an-employee/" title="Praise an Employee">Praise an Employee</a></li>
+<li><a href="/contact/fwc-staff/report-misconduct/" title="Report Misconduct">Report Misconduct</a></li>
+<li><a href="/contact/fwc-staff/webmaster/" title="Webmaster">Webmaster</a></li>
+</ul>
+<h3><a href="/contact/law-enforcement/" title="Contact FWC Law Enforcement">Contact FWC Law Enforcement</a></h3>
+<ul>
+<li><a href="/contact/wildlife-alert/" title="Wildlife Alert">Wildlife Alert</a></li>
+<li><a href="/contact/law-enforcement/contact-recruiter/" title="Contact Recruiter">Contact Recruiter</a></li>
+</ul>
+<h3><a href="/contact/wildlife-alert/" title="Report Violators - Wildlife Alert">Report Violators - Wildlife Alert</a></h3>
+</div>
+<div class="column">
+<h3><a href="/contact/" title="Contact">Report Fish Kills, Wildlife Emergencies, Sightings ...</a></h3>
+<h3><a href="/contact/nuisance-wildlife/" title="Nuisance Wildlife">Nuisance Wildlife</a></h3>
+<h3><a href="/about/rules-regulations/changes/" title="Rule Changes">Rule Change Comments</a></h3>
+<h3><a href="/contact/tell-us/" title="Tell Us What You Think">Tell Us What You Think</a></h3>
+<h3><a href="/contact/public-records-requests/" title="Public Records">Public Records</a></h3>
+<h3><a href="https://public.myfwc.com/CrossDoi/Publications/Internet/sSearch.aspx">Request Publications</a></h3>
+<h3><a href="/contact/auto-alerts/" title="Auto-Alerts">Social Media, Newsletters, Auto-Alerts</a></h3>
+<h3><a href="/contact/event/" title="Event">FWC Participation at Your Event</a></h3>
+</div></div>
+  <div id="mega-1173-sub" class="megamenu"><div class="column">
+<h3><a href="/news/news-releases/" title="News Releases">News Releases</a></h3>
+<h3><a href="/news/contacts/" title="Contacts">Media Contacts</a></h3>
+<h3><a href="/news/social/" title="Social">Social Media</a></h3>
+<h3><a href="/news/resources/" title="Resources">Media Resources</a></h3>
+<ul>
+<li><a href="/news/resources/columns/" title="Monthly Columns">Monthly Columns</a></li>
+<li><a href="/news/resources/fact-sheets/" title="Fact Sheets, FAQs, etc.">Fact Sheets</a></li>
+<li><a href="/news/resources/fwc-logos/" title="FWC Logos">FWC Logos</a></li>
+</ul>
+<h3><a href="/news/sign-up/" title="Sign up">Get News by Email</a></h3>
+<h3><a href="/news/news-feeds/" title="News Feeds">News Feeds</a></h3>
+</div></div>
+  <div id="mega-1092-sub" class="megamenu"><div class="column">
+<h3><a href="/get-involved/citizen-science/" title="Citizen Science">Citizen Science</a></h3>
+<h3><a href="/get-involved/employment/" title="Employment">Employment</a></h3>
+<ul>
+<li><a href="/get-involved/employment/careers/" title="Careers">Careers</a></li>
+<li><a href="/get-involved/employment/law-enforcement/" title="Law Enforcement">Become an FWC Officer</a></li>
+</ul>
+<h3><a href="/get-involved/internships/" title="Internships">Internships</a></h3>
+<h3><a href="/get-involved/volunteer/" title="Volunteer">Volunteer</a></h3>
+<ul>
+<li><a href="/get-involved/volunteer/programs/" title="Programs">Volunteer Programs</a></li>
+<li><a href="/get-involved/volunteer/other-opportunities/">Other Opportunities</a></li>
+</ul>
+<h3><a href="/get-involved/support-fwc/" title="Support FWC">Support FWC</a></h3>
+<ul>
+<li><a href="/get-involved/support-fwc/" title="Support FWC">Gift Ideas</a></li>
+<li><a href="/get-involved/support-fwc/youth/" title="Youth">Youth</a></li>
+<li><a href="/get-involved/support-fwc/buy-a-plate/" title="Buy a Plate">Buy a Plate</a></li>
+<li><a href="/get-involved/support-fwc/wildlife-foundation/" title="Wildlife Foundation">Wildlife Foundation</a></li>
+</ul>
+</div></div>
+</div>  
+            </div>
+          <div id="logo"><a href="/"><img src="/images/logo.png" alt="FWC logo" width="117" height="130"/></a></div>
+          <div id="Title">Florida Fish and Wildlife<br />Conservation Commission</div>
+       <div style="float:left; padding:15px 0px 10px 0px;" id="google_translate_element">
+                                         <script type="text/javascript">
+                                function googleTranslateElementInit() {
+                               new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div>
+        
+        
+          <div style="width:200px; margin:0px 50px 0px 0px; padding:10px 0px 10px 5px; background-position:right bottom; float:right;" id="searchbox"> 
+    <!-- start of freefind search box html -->
+    <form style="margin:0px; margin-top:4px;" action="http://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_blank">
+    <input type="hidden" name="si" value="35342429"/>
+    <input type="hidden" name="pid" value="r"/>
+    <input type="hidden" name="n" value="0"/>
+    <input type="hidden" name="_charset_" value=""/>
+    <input type="hidden" name="bcd" value="&#247;"/>
+    <input type="text" title="Enter Search" name="query" size="15"/> 
+    <input type="submit" value="search"/>
+    </form>  
+                          <!-- end of freefind search box html -->
+
+          </div>      
+        </div>
+
+      </div>
+             <div id="menu"><div class="centered"><br class="clearFloat" /><div id="no-wrap"><div class="mega-anchors" id="div-1058" style="border: 0;"><a href="/fishing/" id="mega-1058"><span>Fishing</span></a></div><div class="mega-anchors" id="div-1059"><a href="/boating/" id="mega-1059"><span>Boating</span></a></div><div class="mega-anchors" id="div-1060"><a href="/hunting/" id="mega-1060"><span>Hunting</span></a></div><div class="mega-anchors" id="div-1064"><a href="/license/" id="mega-1064"><span>Licenses &amp; Permits</span></a></div><div class="mega-anchors" id="div-1065"><a href="/viewing/" id="mega-1065"><span>Wildlife Viewing</span></a></div><div class="mega-anchors" id="div-1066"><a href="/wildlifehabitats/" id="mega-1066"><span>Wildlife &amp; Habitats</span></a></div><div class="mega-anchors" id="div-1067"><a href="/research/" id="mega-1067"><span>Research</span></a></div><div class="mega-anchors" id="div-1068"><a href="/education/" id="mega-1068"><span>Education</span></a></div><div class="mega-anchors" id="div-1069"><a href="/conservation/" id="mega-1069"><span>Conservation</span></a></div></div></div></div><div id="MainNav"><div id="mega-1058-sub" class="megamenu"><div class="column">
+<h3><a href="/fishing/freshwater/" title="Freshwater Fishing">Freshwater</a></h3>
+<ul>
+<li><a href="/fishing/freshwater/regulations/" title="Freshwater Regulations">Regulations</a></li>
+<li><a href="/wildlifehabitats/profiles/freshwater/" title="Freshwater Fish ID">Fish Identification</a></li>
+<li><a href="/fishing/freshwater/sites-forecast/" title="Sites &amp; Forecast">Sites &amp; Forecasts</a></li>
+<li><a href="/fishing/freshwater/commercial/" title="Commercial Freshwater Fishing">Commercial Freshwater</a></li>
+</ul>
+<h3><a href="/fishing/saltwater/" title="Saltwater Fishing">Saltwater</a></h3>
+<ul>
+<li><a href="/fishing/saltwater/hot-topics/" title="Hot Topics">News</a></li>
+<li><a href="/fishing/saltwater/recreational/" title="Recreational Regulations">Recreational</a></li>
+<li><a href="/fishing/saltwater/commercial/" title="Commercial Saltwater Fishing">Commercial</a></li>
+<li><a href="/fishing/saltwater/rulemaking/" title="Rulemaking">Public Comments/Workshops</a></li>
+<li><a href="http://catchafloridamemory.com/" target="_blank" title="Angler Recognition">Angler Recognition <img src="/media/82808/icon_external_12x12.jpg"  width="12"  height="12" alt="External Website"/></a></li>
+<li><a href="/wildlifehabitats/profiles/saltwater/" title="Saltwater Fish ID">Fish Identification</a></li>
+</ul>
+<h3><a href="/license/accessibility/ada-for-anglers/" title="ADA for Anglers"><img src="/media/1170555/ada.gif" width="13" height="14" alt="ada"/>Persons with Disabilities</a></h3>
+<h3><a href="https://public.myfwc.com/hgm/outfitters/" title="Outfitters and Guides">Outfitters &amp; Guides</a></h3>
+</div></div><div id="mega-1059-sub" class="megamenu"><div class="column">
+<h3><a href="/boating/regulations/" title="Boating Regulations">Regulations</a></h3>
+<h3><a href="/boating/safety-education" title="Safety and Education">Safety &amp; Education</a></h3>
+<ul>
+<li><a href="/boating/safety-education/courses/" title="Boating Courses">Boating Courses</a></li>
+<li><a href="/boating/safety-education/id/" title="ID Card">ID Card</a></li>
+<li><a href="/boating/safety-education/accidents/" title="Boating Accidents">Accidents</a></li>
+<li><a href="/boating/safety-education/equipment/" title="Safety Equipment">Safety Equipment</a></li>
+</ul>
+<h3><a href="/boating/anchoring-mooring" title="Anchoring and Mooring">Anchoring &amp; Mooring</a></h3>
+<h3><a href="/boating/waterway/" title="Waterway">Waterway Management</a></h3>
+<ul>
+<li><a href="/boating/waterway/derelict-vessels/" title="Derelict Vessels">Derelict Vessels</a></li>
+</ul>
+<h3><a href="/boating/boat-ramps-access" title="Boat Ramps">Boat Ramps &amp; Access</a></h3>
+<h3><a href="/boating/grant-programs/" title="Grant Programs">Grants</a></h3>
+</div></div><div id="mega-1060-sub" class="megamenu"><div class="column">
+<h3><a href="/hunting/regulations" title="Hunting Regulations">Regulations</a></h3>
+<h3><a href="/hunting/newhunter/" title="New Hunter"><strong>New Hunter</strong></a></h3>
+<h3><a href="/hunting/wma-brochures" title="WMA Brochures">WMA Brochures</a></h3>
+<h3><a href="/license/limited-entry-hunts/" title="Limited Entry Hunts">Limited Entry Hunts</a></h3>
+<h3><a href="/hunting/season-dates" title="Season Dates">Season Dates</a></h3>
+<h3><a href="/hunting/safety-education">Safety &amp; Education</a></h3>
+<h3><a href="/license/accessibility/ada-for-hunters/" title="ADA for Hunters"><img src="/media/1170555/ada.gif" width="13" height="14" alt="ada"/>Persons with Disabilities</a></h3>
+<h3><a href="https://public.myfwc.com/hgm/outfitters/" title="Outfitters and Guides">Outfitters &amp; Guides</a></h3>
+</div>
+<div class="column">
+<h3><a href="/hunting/by-species/" title="Hunting By Species">By Species</a></h3>
+<ul>
+<li><a href="/wildlifehabitats/managed/alligator/harvest/" title="Statewide Alligator Harvest Program">Alligator</a></li>
+<li><a href="/hunting/by-species/bear/" title="Bear Hunting">Bear</a></li>
+<li><a href="/wildlifehabitats/nonnatives/python/removing/" title="Python Removal">Burmese Python</a></li>
+<li><a href="/hunting/by-species/deer/" title="Deer">Deer</a></li>
+<li><a href="/hunting/by-species/dove/" title="Dove Hotline">Dove</a></li>
+<li><a href="/hunting/by-species/furbearers/" title="Furbearers">Furbearers</a></li>
+<li><a href="/hunting/by-species/wild-hog/" title="Wild Hog">Hogs</a></li>
+<li><a href="/hunting/by-species/quail/" title="Quail">Quail</a></li>
+<li><a href="/hunting/by-species/small-game/" title="Small Game">Gray Squirrel/Rabbit</a></li>
+<li><a href="/hunting/by-species/turkey/" title="Turkey">Turkey</a></li>
+<li><a href="/hunting/by-species/waterfowl/" title="Waterfowl/Duck">Waterfowl</a></li>
+</ul>
+</div></div><div id="mega-1064-sub" class="megamenu"><div class="column">
+<h3><a href="https://public.myfwc.com/CrossDOI/LPIS/LicensePermits.aspx">License and Permit Information Search</a></h3>
+<h3><a href="/license/recreational">Hunting &amp; Fishing Licenses</a></h3>
+<ul>
+<li><a href="/license/do-i-need-one/" title="Do I Need One?">Do I need one?</a></li>
+<li><a href="/license/apply-online/" target="_blank" title="Apply Online">Apply Online</a></li>
+<li><a href="/license/limited-entry-hunts/" title="Limited Entry Hunts">Limited Entry/Quota Hunts</a></li>
+<li><a href="/license/public-land-use/" title="Public Land Use">Public Land Use /Camping</a></li>
+</ul>
+<h3><a href="/license/saltwater/commercial-fishing/" title="Commercial Fishing">Commercial Saltwater Products</a></h3>
+</div>
+<div class="column">
+<h3><a href="/license/accessibility/" title="Accessibility"><img src="/media/1170555/ada.gif" width="13" height="14" alt="ada"/>Persons with Disabilities</a></h3>
+<h3><a href="/license/captive-wildlife/" title="Captive Wildlife Licenses">Captive Wildlife</a></h3>
+<h3><a href="/license/wildlife" title="Wildlife Licenses">Wildlife</a></h3>
+<h3><a href="/license/freshwater/" title="Freshwater">Freshwater Fish, Eels &amp; Frogs</a></h3>
+<h3><a href="/license/saltwater/" title="Saltwater">Saltwater Species</a></h3>
+<h3><a href="/license/aquatic-plants">Aquatic Plants</a></h3>
+<h3><a href="/license/boating-navigation/" title="Boating &amp; Navigation">Boating &amp; Navigation</a></h3>
+</div></div><div id="mega-1065-sub" class="megamenu"><div class="column">
+<ul>
+<li><a href="/viewing/how/" title="How to view wildlife">How to View Wildlife</a></li>
+<li><a href="/viewing/where/" title="Where to view wildlife">Where to View Wildlife</a></li>
+<li><a href="/viewing/species/" title="Species">Species Spotlights</a></li>
+<!-- <li><a href="/viewing/habitat/" title="Wildlife viewing at home">Create Wildlife Habitat at Home</a></li> -->
+<li><a href="/viewing/get-involved/" title="Get Involved">Get Involved</a></li>
+<li><a href="/viewing/business-and-tourism/" title="Business and Tourism">Business and Tourism</a></li>
+</ul>
+<h3><a href="https://public.myfwc.com/hgm/outfitters/" title="Outfitters &amp; Guides">Outfitters &amp; Guides</a></h3>
+</div>
+<div class="column">
+<h3><a href="/viewing/recreation/" title="Recreation">Recreation on Wild Lands</a></h3>
+<ul>
+<li><a href="/viewing/recreation/wmas/" title="WMAs">What are WMAs?</a></li>
+<li><a href="http://ocean.floridamarine.org/wma/entrances/">Explore Map</a></li>
+</ul>
+<h3><a href="/viewing/get-outdoors-florida/" target="_blank" title="Get Outdoors Florida">Get Outdoors Florida!</a></h3>
+</div></div><div id="mega-1066-sub" class="megamenu"><div class="column">
+<h3><a href="/wildlifehabitats/profiles/" title="Species Profiles">Species Profiles</a></h3>
+<h3><a href="/wildlifehabitats/managed/" title="Species Management">Managed Species</a></h3>
+<ul>
+<li><a href="/wildlifehabitats/managed/alligator/" title="Alligator">Alligator</a></li>
+<li><a href="/wildlifehabitats/managed/bald-eagle/" title="Bald Eagle">Bald Eagle</a></li>
+<li><a href="/wildlifehabitats/managed/bear/" title="Bear">Bear</a></li>
+<li><a href="/wildlifehabitats/managed/gopher-tortoise/" title="Gopher Tortoise">Gopher Tortoise</a></li>
+<li><a href="/wildlifehabitats/managed/manatee/" title="Manatee">Manatee</a></li>
+<li><a href="/wildlifehabitats/managed/panther/" title="Panther">Panther</a></li>
+<li><a href="/wildlifehabitats/managed/sea-turtles/" title="Sea Turtles">Sea Turtles</a></li>
+<li><a href="/wildlifehabitats/managed/waterfowl/" title="Waterfowl">Waterfowl</a></li>
+</ul>
+<h3><a href="/wildlifehabitats/imperiled/" title="Imperiled Species">Imperiled Species</a></h3>
+<h3><a href="/wildlifehabitats/nonnatives/" title="Nonnative Species">Nonnative Species</a></h3>
+<h3><a href="/wildlifehabitats/invasive-plants/" title="Invasive Plant Management">Invasive Plants</a></h3>
+<h3><a href="/wildlifehabitats/captive-wildlife/" title="Captive Wildlife">Captive Wildlife</a></h3>
+</div>
+<div class="column">
+<h3><a href="/wildlifehabitats/nonnatives/regulations/" title="Conditional/Prohibited Species">Conditional/Prohibited Species</a></h3>
+<h3><a href="/conservation/you-conserve/wildlife/" title="Wildlife">Living with Wildlife</a></h3>
+<h3><a href="/wildlifehabitats/habitat/" title="Habitat">Habitat Information</a></h3>
+<ul>
+<li><a href="/conservation/saltwater/artificial-reefs/" title="Artificial Reefs">Artificial Reefs</a></li>
+<li><a href="/research/habitat/coral/" title="Coral Reefs and Hard Grounds">Coral Reefs</a></li>
+<li><a href="/research/habitat/seagrasses/" title="Seagrasses">Seagrasses</a></li>
+<li><a href="/conservation/special-initiatives/fwli/archive/taking-action/scrub/" title="Scrub">Scrub</a></li>
+<li><a href="/conservation/freshwater/wetland-habitat/" title="Wetland Habitat">Wetlands</a></li>
+<li><a href="/conservation/terrestrial/management-plans/" title="Management Plans">Management Plans</a></li>
+</ul>
+<h3><a href="/conservation/special-initiatives/lap/" title="LAP">Private Lands Partnerships</a></h3>
+<h3><a href="#" title="Health &amp; Disease">Health &amp; Disease</a></h3>
+<h3><a href="/conservation/you-conserve/assistnuisance-wildlife/" title="Assist/Nuisance Wildlife">Wildlife Assistance</a></h3>
+<h3><a href="/wildlifehabitats/prescribed-fire/" title="Prescribed Fire">Prescribed Fire</a></h3>
+</div></div><div id="mega-1067-sub" class="megamenu"><div class="column">
+<h3><a href="/research/manatee/" title="Manatee">Florida Manatee</a></h3>
+<h3><a href="/research/freshwater">Freshwater</a></h3>
+<h3><a href="/research/gis/" title="GIS">GIS and Mapping</a></h3>
+<h3><a href="/research/habitat">Habitat</a></h3>
+<h3><a href="/research/redtide/" title="Redtide">Red Tide</a></h3>
+<h3><a href="/research/saltwater">Saltwater</a></h3>
+<h3><a href="/research/wildlife">Wildlife</a></h3>
+<h3><a href="/research/publications">Publications</a></h3>
+</div></div><div id="mega-1068-sub" class="megamenu"><div class="column">
+<h3><a href="/education/adults/" title="Adults">Adults &amp; Families</a></h3>
+<h3><a href="/education/youth/" title="Youth">Youth &amp; Student</a></h3>
+<h3><a href="/education/educators">Educators</a></h3>
+<h3><a href="/education/outdoor-skills">Outdoor Skills</a></h3>
+<ul>
+<li><a href="/education/outdoor-skills/hunting/" title="Hunting">Hunting</a></li>
+<li><a href="/boating/safety-education/" title="Safety &amp; Education">Boating</a></li>
+<li><a href="/education/outdoor-skills/fishing/" title="Fishing">Fishing</a></li>
+<li><a href="/education/outdoor-skills/outdoors-woman/" title="Outdoors Woman">Outdoors-Woman</a></li>
+</ul>
+<h3><a href="/education/wildlife/" title="Wildlife Viewing">Learn About Wildlife</a></h3>
+<h3><a href="/education/wildlife/unhook/" title="Unhook">Unhook Seabirds</a></h3>
+</div></div><div id="mega-1069-sub" class="megamenu"><div class="column">
+<h3><a href="/conservation/value/" title="Value">Value of Conservation</a></h3>
+<h3><a href="/conservation/you-conserve/" title="You Conserve">How You Can Conserve</a></h3>
+<h3><a href="/conservation/freshwater">Freshwater Programs</a></h3>
+<h3><a href="/conservation/saltwater">Saltwater Programs</a></h3>
+<h3><a href="/conservation/terrestrial/" title="Terrestrial">Terrestrial Programs</a></h3>
+<h3><a href="/conservation/special-initiatives">Special Initiatives</a><a href="/conservation/special-initiatives/cwci/" title="CWCI"></a></h3>
+<ul>
+<li><a href="/conservation/special-initiatives/cwci/" title="CWCI">Coastal Wildlife</a></li>
+<li><a href="/conservation/special-initiatives/fbci/" title="FBCI">Florida Bird Conservation Initiative</a></li>
+<li><a href="/conservation/special-initiatives/lap/" title="LAP">Private Lands Partnerships</a></li>
+<li><a href="/conservation/special-initiatives/wildlife-2060/" title="Wildlife 2060">Wildlife 2060</a></li>
+<li><a href="/conservation/special-initiatives/fwli/" title="FWLI">Wildlife Legacy Initiative</a></li>
+</ul>
+</div></div></div>
+<form method="post" action="/error-pages/404.aspx?404;http://myfwc.com:80/viewing/graphics/pictures/ribbon.gif" id="ctl03" style="margin:0">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAgIHEGRkFgICAw9kFgJmD2QWAmYPFgIeBFRleHQFpwFXb29kIHN0b3JrIG5lc3RsaW5ncyBhcmUgZnVsbHkgZmVhdGhlcmVkIGFuZCBjYXBhYmxlIG9mIHNob3J0IGZsaWdodHMgYXQgYWJvdXQgNy04IHdlZWtzIG9mIGFnZSBidXQgYXJlIG5vdCBpbmRlcGVuZGVudCBvZiB0aGVpciBwYXJlbnRzIHVudGlsIHRoZXkgYXJlIDktMTAgd2Vla3Mgb2xkLmRk61wFKx5+0nhXI/p+Q9vWBNT0mjLgxb0/6Cdlx6o5n2E=" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+        jkmegamenu.definemenu("mega-1063", "mega-1063-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1089", "mega-1089-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1173", "mega-1173-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1092", "mega-1092-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1058", "mega-1058-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1059", "mega-1059-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1060", "mega-1060-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1064", "mega-1064-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1065", "mega-1065-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1066", "mega-1066-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1067", "mega-1067-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1068", "mega-1068-sub", "mouseover");
+      
+        jkmegamenu.definemenu("mega-1069", "mega-1069-sub", "mouseover");
+      //]]>
+</script>
+
+            
+  <div class="centered">
+       <div id="TitleBar">
+           
+        <h1>404 Error: Page Not Found on MyFWC.com</h1>
+      </div>
+  
+      <!-- <div class="left">
+<div id="MenuLeft">   
+        
+          <!-- Insert default "leftMenu" markup here
+        
+<div class="hr"></div>
+  </div>
+    <div id="Gallery">
+    
+          
+           
+    </div>
+      </div>
+      
+        
+           <!-- Insert default "Featured" markup here
+           
+    -->
+
+      <div class="centered">
+        
+         <p>Our apologies...  The page you requested cannot be displayed.</p>
+<p>Unfortunately, the page you were trying to retrieve is not available on MyFWC.com.  This could have happened as content on our site is constantly being reviewed and updated, and occasionally, deleted.</p>
+<p>To assist in finding the page you are looking for, please try one of the following options:</p>
+<ul>
+<li><a href="/sitemap/" title="SiteMap">Search our Site Map</a></li>
+</ul>
+<p>Below is a helpful list of MyFWC.com's most viewed pages.  If you still are unable to find what you are looking for, please use the search box in the upper right-hand corner of this page.</p>
+<div style="width: 650px;">
+<div class="left">
+<h3><a href="/license/" title="License">License Information</a></h3>
+<ul>
+<li><a href="/license/apply-online/" title="Apply Online">Buy a license</a></li>
+<li><a href="/license/recreational/saltwater-fishing/" title="Saltwater Fishing">Fishing licenses</a></li>
+<li><a href="/license/recreational/hunting/" title="Hunting">Hunting licenses</a></li>
+<li><a href="/license/boating-navigation/" title="Boating &amp; Navigation">Boating license</a></li>
+</ul>
+<h3><a href="/hunting/" title="Hunting">Hunting</a></h3>
+<ul>
+<li><a href="/hunting/season-dates/" title="Season Dates">Hunting season</a></li>
+<li><a href="/hunting/safety-education/" title="Safety &amp; Education">Hunter Education</a></li>
+<li><a href="/viewing/recreation/wmas/" title="WMAs">WMAs</a></li>
+</ul>
+<h3><a href="/fishing/" title="Fishing">Fishing</a></h3>
+<ul>
+<li><a href="#" title="Freshwater">Freshwater Fish ID</a></li>
+<li><a href="#" title="Saltwater">Saltwater Fish ID</a></li>
+<li><a href="/fishing/saltwater/artificial-reefs/" title="Artificial Reefs">Artificial reefs</a></li>
+</ul>
+</div>
+<div style="float: right;">
+<h3><br /> Regulations</h3>
+<ul>
+<li><a href="/hunting/regulations/" title="Regulations">Hunting</a></li>
+<li><a href="/fishing/freshwater/regulations/" title="Regulations">Freshwater Fishing</a></li>
+<li><a href="/fishing/saltwater/recreational/" title="Regulations">Saltwater Fishing</a></li>
+</ul>
+<h3><a href="/get-involved/" title="Get Involved">Get Involved</a></h3>
+<ul>
+<li><a href="/about/inside-fwc/le/" title="LE">Info about Law Enforcement</a></li>
+<li><a href="/get-involved/employment/" title="Employment">Info about FWC careers</a></li>
+</ul>
+<h3><a href="/wildlifehabitats/" title="WildlifeHabitats">Wildlife</a></h3>
+<ul>
+<li><a href="/wildlifehabitats/managed/alligator/" title="Alligator">Alligators</a></li>
+</ul>
+<h3><a href="/contact/" title="Contact">Contact</a></h3>
+</div>
+</div>
+<br /> <br /> <br /> <br /> <br /> <br />
+            
+      </div>
+      <br clear="all">
+   </div> 
+  
+      
+      <br class="clearFloat"/>
+      <div id="pageBody-ask">
+        <div class="centered">
+        <div class="More"></div>
+        <div id="Ask">
+          <p class="tidbit">FWC Facts:<br />Wood stork nestlings are fully feathered and capable of short flights at about 7-8 weeks of age but are not independent of their parents until they are 9-10 weeks old.</p>
+          <p class="tidbit"><a href="http://myfwc.com/ask-fwc/">Learn More at AskFWC</a></p>
+        </div>
+      </div></div>
+
+      <div id="footer"> 
+        <div class="centered"> 
+          <div class="left"> 
+            <p class="Social">
+    <a href="/news/social/"><img src="/images/icon_Facebook.png" alt="Facebook"/></a>
+    <a href="/news/social/"><img src="/images/icon_Twitter.png" alt="Twitter"/></a>
+    <a href="/news/social/"><img src="/media/2473958/Instagram.png" alt="Instagram"/></a>
+    <a href="/news/social/"><img src="/images/icon_YouTube.png" alt="YouTube"/></a>
+    <a href="/news/social/"><img src="/media/4103528/icon_periscope.png" alt="Periscope"/></a>
+    <a href="/news/social/"><img src="/images/icon_Flickr.png" alt="Flickr"/></a>
+    <a href="/news/social/"><img src="/media/4103535/icon_snapchat.png" alt="Snapchat"/></a></p>
+            <br />
+            <p class="Social"><a href="/news/news-feeds/">Get FWC News Feeds&nbsp;&nbsp;<img src="/images/icon_RSS.png" alt="RSS"/></a></p>
+    <div class="hr"></div> 
+             <p><a href="http://www.myflorida.com/myflorida/copyright.html">Copyright  1999-2017 State of Florida</a><br/> &bull; <a href="/contact/fwc-staff/webmaster/">Technical Help</a> &bull;
+               <a href="/get-involved/employment/">EEO/AA/</a><a href="/license/accessibility/ada/">ADA</a> &bull; <a href="http://www.myflorida.com/myflorida/privacy.html">Privacy Statement</a> &bull; <a href="/Disclaimer/">Advertising Statement &amp; Disclaimer</a> &bull; <a href="/SiteMap/">Site Map</a></p>
+           
+            <p>Florida Fish and Wildlife Conservation Commission &bull; Farris Bryant Building<br/>
+            620 S. Meridian St. &bull; Tallahassee, FL<br/>
+            32399-1600 &bull; (850) 488-4676</p>
+            
+          </div> 
+          <div class="center"> 
+   
+     
+            <a href="http://www.adoptflorida.org/"><img src="/media/1619615/exploreadoption.jpg" alt="Explore Adoption" title="Explore Adoption" width="127" height="48" /></a>
+            <a href="https://www.employflorida.com/"><img src="/media/1341036/gov_EmployFlorida.jpg" alt="Employ Florida Marketplace: Help Finding a Job" title="Employ Florida Marketplace: Help Finding a Job" width="127" height="48" /></a><br /><br />
+            <a href="/about/inside-fwc/ig/"><img src="/media/1341043/gov_ReportWasteFraudAbuse.jpg" alt="Report Waste, Fraud and Abuse in State Government" title="Report Waste, Fraud and Abuse in State Government" width="127" height="48" /></a>
+            <a href="http://www.floridahasarighttoknow.com/"><img src="/media/1341050/gov_RighttoKnow.jpg" alt="Florida Has A Right To Know" title="Florida Has A Right To Know" width="127" height="48" /></a><br /><br />
+                    <p style="text-align:center;">Pursuant to section 120.74, Florida Statutes, the Fish and Wildlife Conservation Commission has published its <a href="http://myfwc.com/media/4301386/2017RegulatoryPlan.pdf" style="color:blue;">2017 Agency Regulatory Plan</a>.</p> 
+          </div> 
+          <div class="right"> 
+            <a href="/about/inside-fwc/le/"><img src="/images/icon_LEBadge.png" alt="FWC Law Enforcement"/> </a>
+            <a href="http://www.visitflorida.com/en-us/fishing.html"><img src="/images/icon_FishingCapital.png" alt="Florida - The fishing Capital of the World"/> </a>
+            <a href="http://www.visitflorida.com"><img src="/images/icon_VisitFlorida.png" style="width:80px" alt="Visit Florida"/> </a>
+            <a href="http://www.myflorida.com/"><img src="/images/icon_MyFlorida.png" alt="My Florida"/></a>
+     <div class="hr"></div> 
+            <p>Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing..</p>
+            
+             <p>Employee Resources (Password required)<br/>
+            <a href="http://portal2.fwc.state.fl.us">Intranet Portal</a> | <a href="https://outlook.office365.com/owa/">Outlook E-Mail</a> | <a href="/about/inside-fwc/hr/for-retirees">Retiree Info</a>
+               <a href="/viewing/recreation/notices/"> Disaster Information for FWC Employees</a></p>
+         </div> 
+  <br class="clearFloat"/>
+
+        </div> 
+      </div>
+     </div>   
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form>
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5308938-2']);
+  _gaq.push(['_setDomainName', '.myfwc.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    (function () {
+        var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+        sz.src = '//siteimproveanalytics.com/js/siteanalyze_84166.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+/*]]>*/
+</script>
+ 
+  </body> 
+  </html>
+    
+      

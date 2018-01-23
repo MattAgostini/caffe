@@ -1,0 +1,11 @@
+sysTime of image 1 is .060 seconds
+sysTime of image 2 is .040 seconds
+sysTime of image 3 is .060 seconds
+sysTime of image 4 is .050 seconds
+sysTime of image 5 is .060 seconds
+sysTime of image 6 is .050 seconds
+sysTime of image 7 is .070 seconds
+sysTime of image 8 is .040 seconds
+sysTime of image 9 is .040 seconds
+sysTime of image 10 is .040 seconds
+average sys time of classifying an image over 10 images is ------------------------- .051 seconds

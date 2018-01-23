@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8" />
+<title>Music Matters</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="https://musicmattersdirect.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Music Matters &raquo; Feed" href="https://musicmattersdirect.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Music Matters &raquo; Comments Feed" href="https://musicmattersdirect.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/musicmattersdirect.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wplc-user-pro-styles-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support-pro/css/wplc_styles_pro.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='es-widget-css-css'  href='https://musicmattersdirect.com/wp-content/plugins/email-subscribers/widget/es-widget.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wplc-font-awesome-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/css/font-awesome.min.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wplc-style-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css?ver=7.1.07' type='text/css' media='all' />
+<style id='wplc-style-inline-css' type='text/css'>
+#wp-live-chat-header { background:url('https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/images/iconRetina.png') no-repeat; background-size: cover; }  #wp-live-chat-header.active { background:url('https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/images/iconCloseRetina.png') no-repeat; background-size: cover; } #wp-live-chat-4 { background:url('https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/images/bg/cloudy.jpg') repeat; background-size: cover; }
+</style>
+<link rel='stylesheet' id='wplc-theme-palette-default-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/css/themes/theme-default.css?ver=7.1.07' type='text/css' media='all' />
+<link rel='stylesheet' id='wplc-theme-modern-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/css/themes/modern.css?ver=7.1.07' type='text/css' media='all' />
+<link rel='stylesheet' id='wplc-theme-position-css'  href='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/css/themes/position-bottom-right.css?ver=7.1.07' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='https://musicmattersdirect.com/wp-content/themes/superstore/style.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='https://musicmattersdirect.com/wp-content/themes/superstore/css/layout.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='https://musicmattersdirect.com/wp-content/themes/superstore/includes/integrations/woocommerce/css/woocommerce.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://musicmattersdirect.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='https://musicmattersdirect.com/wp-content/themes/superstore/includes/css/prettyPhoto.css?ver=4.9' type='text/css' media='all' />
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/js/wplc_server.js?ver=7.1.07'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wplc_restapi_enabled = "1";
+var wplc_restapi_token = "9d109c3edb045573dcf64339e6010732";
+var wplc_restapi_endpoint = "https:\/\/musicmattersdirect.com\/wp-json\/wp_live_chat_support\/v1";
+var wplc_enable_ga = "1";
+var wplc_is_mobile = "false";
+var wplc_ajaxurl = "https:\/\/musicmattersdirect.com\/wp-admin\/admin-ajax.php";
+var wplc_ajaxurl_site = "https:\/\/musicmattersdirect.com\/wp-admin\/admin-ajax.php";
+var wplc_nonce = "ac9d220806";
+var wplc_plugin_url = "https:\/\/musicmattersdirect.com\/wp-content\/plugins";
+var wplc_preload_images = ["https:\/\/musicmattersdirect.com\/wp-content\/plugins\/wp-live-chat-support-pro\/images\/picture-for-chat-box.jpg","https:\/\/musicmattersdirect.com\/wp-content\/plugins\/wp-live-chat-support\/images\/iconRetina.png","https:\/\/musicmattersdirect.com\/wp-content\/plugins\/wp-live-chat-support\/images\/iconCloseRetina.png"];
+var wplc_show_chat_detail = {"name":"","avatar":"","date":"","time":""};
+var wplc_agent_data = {"1":{"name":"Admin","md5":"6f583d46b86d126ea8531b2f91db62c8"}};
+var wplc_error_messages = {"valid_name":"Please enter your name","valid_email":"Please enter your email address","server_connection_lost":"Connection to server lost. Please reload this page. Error: ","chat_ended_by_operator":"The chat has been ended by the operator.","empty_message":"Please enter a message"};
+var wplc_enable_ding = "1";
+var wplc_filter_run_override = "1";
+var wplc_offline_msg = "Sending message...";
+var wplc_offline_msg3 = "Thank you for your message. We will be in contact soon.";
+var wplc_welcome_msg = "Please standby for an agent. While you wait for the agent you may type your message.";
+var wplc_localized_string_is_typing = "Admin is typing...";
+var wplc_localized_string_is_typing_single = " is typing...";
+var wplc_extra_data = {"object_switch":"1"};
+var wplc_gravatar_image = [""];
+var wplc_hide_chat = null;
+var wplc_misc_strings = {"typing_enabled":"1","typingimg":"https:\/\/musicmattersdirect.com\/wp-content\/plugins\/wp-live-chat-support-pro\/images\/comment.svg"};
+var wplc_delay = "2000";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/js/wplc_u.js?ver=7.1.07'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/js/md5.js?ver=7.1.07'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/js/themes/modern.js?ver=7.1.07'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support/js/jquery-cookie.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support-pro/js/wplc_pro_features.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/wp-live-chat-support-pro/js/wplc_u_editor.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/third-party.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/jquery.tiptip.min.js?ver=4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_general_params = {"stickyCheckout":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/general.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/enable-lightbox.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_localized_data = {"animation":"fade","controlsContainer":".controls-container","smoothHeight":"true","directionNav":"true","controlNav":"false","manualControls":"","slideshow":"true","pauseOnHover":"false","slideshowSpeed":"4000","touch":"true","pauseOnAction":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/featured-slider.js?ver=4.9'></script>
+<link rel='https://api.w.org/' href='https://musicmattersdirect.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://musicmattersdirect.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://musicmattersdirect.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9" />
+<meta name="generator" content="WooCommerce 3.2.4" />
+<link rel='shortlink' href='https://wp.me/9fNTd' />
+<meta name="norton-safeweb-site-verification" content="g9ep8bg1wt-ed6oxdfufr1py9c5nwpr164jzyxzpt-9rhx5pcvvpphnb9idv7beunnu5pi25t72-2m4ph0h8sxotxd1cevtqj918-txq-ew-5-098paw-t9n406zuh2m" />
+
+        <script type="text/javascript">
+                    var wplc_ajaxurl = 'https://musicmattersdirect.com/wp-admin/admin-ajax.php';
+                    var wplc_nonce = 'ac9d220806';
+        </script>
+
+
+
+
+        
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Theme version -->
+<meta name="generator" content="Superstore 1.2.17" />
+<meta name="generator" content="WooFramework 6.2.8" />
+
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- WooCommerce Facebook Integration Begin -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '304351783381144', {}, {
+    "agent": "woocommerce-3.2.4-1.6.6"
+});
+
+fbq('track', 'PageView', {
+    "source": "woocommerce",
+    "version": "3.2.4",
+    "pluginVersion": "1.6.6"
+});
+
+<!-- Support AJAX add to cart -->
+if(typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($){
+    jQuery('body').on('added_to_cart', function(event) {
+
+      // Ajax action.
+      $.get('?wc-ajax=fb_inject_add_to_cart_event', function(data) {
+        $('head').append(data);
+      });
+
+    });
+  });
+}
+<!-- End Support AJAX add to cart -->
+
+</script>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- WooCommerce Facebook Integration end -->
+      <meta name="description" content="making music matter" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Music Matters" />
+<meta property="og:description" content="making music matter" />
+<meta property="og:url" content="https://musicmattersdirect.com/" />
+<meta property="og:site_name" content="Music Matters" />
+<meta property="og:image" content="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/cropped-Favicon-2-1-1.png?fit=512%2C512&#038;ssl=1" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:site" content="@MusicMattersUK" />
+<link rel="icon" href="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/cropped-Favicon-2-1-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/cropped-Favicon-2-1-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/cropped-Favicon-2-1-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/cropped-Favicon-2-1-1.png?fit=270%2C270&#038;ssl=1" />
+
+<!-- Woo Custom Styling -->
+<style type="text/css">
+a.button, a.comment-reply-link, #commentform #submit, #contact-page .submit { background: #636363 !important; border-color: #636363 !important; }
+a.button:hover, a.button.hover, a.button.active, a.comment-reply-link:hover, #commentform #submit:hover, #contact-page .submit:hover { background: #636363 !important; opacity: 0.9; }
+</style>
+
+<!-- Google Webfonts -->
+<link href="https://fonts.googleapis.com/css?family=Droid+Serif%3Aregular%2Citalic%2C700%2C700italic%7CDroid+Sans%3Aregular%2C700" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="https://musicmattersdirect.com/wp-content/themes/superstore/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="https://musicmattersdirect.com/wp-content/themes/superstore/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="https://musicmattersdirect.com/wp-content/themes/superstore/custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body data-rsssl=1 class="home blog unknown alt-style-blue layout-right-content has-lightbox ">
+
+
+<div id="wrapper">
+
+    
+	<div id="top">
+		<div class="col-full">
+						<ul class="contact">
+				<li class="phone"><a href="tel:01622 755600">01622 755600</a></li>												<li class="facebook"><a href="http://facebook.com/musicmattersukltd">Facebook</a></li>			</ul>
+					<nav role="navigation" class="top-nav">
+				<ul id="top-nav" class="nav fl"><li id="menu-item-3643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3643"><a href="https://musicmattersdirect.com/my-account-2/">My Account</a></li>
+<li id="menu-item-3644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3644"><a href="https://musicmattersdirect.com/basket/">Basket</a></li>
+<li id="menu-item-3646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3646"><a href="https://musicmattersdirect.com/shop/">Shop</a></li>
+</ul>			</nav>
+		</div><!--/.col-full-->
+	</div><!-- /#top -->
+
+ 
+	<header id="header" class="col-full">
+
+		<div class="header-top ">
+
+			<div class="row">
+
+				
+	<a id="logo" href="https://musicmattersdirect.com/" title="making music matter">
+		<img src="https://musicmattersdirect.com/wp-content/uploads/2017/10/drummerman3.jpg" alt="Music Matters" />
+	</a>
+
+			    <div class="heading-group">
+					<span class="nav-toggle"><a href="#navigation"><span>Navigation</span></a></span>
+					<h1 class="site-title"><a href="https://musicmattersdirect.com/">Music Matters</a></h1>
+					<h2 class="site-description">making music matter</h2>
+				</div>
+
+				<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://musicmattersdirect.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products&hellip;" value="" name="s" />
+	<input type="submit" value="Search" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>	<div class="account logged-out">
+	<a href="https://musicmattersdirect.com/my-account-2/" title="Log In">
+		<img alt='' src='https://secure.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' />	</a>
+		<nav class="account-links">
+			<ul>
+									<li class="my-account"><a href="https://musicmattersdirect.com/my-account-2/" class="tiptip" title="Log In"><span>Log In</span></a></li>
+				
+									<li class="register"><a href="https://musicmattersdirect.com/my-account-2/" class="tiptip" title="Register"><span>Register</span></a></li>
+				
+							</ul>
+		</nav>
+	</div>
+	    	</div><!--/.row-->
+
+	    </div><!--/.header-top-->
+
+		<nav id="navigation" class="col-full" role="navigation">
+
+			
+	<ul class="cart">
+		<li class="container ">
+       			<a class="cart-contents" href="https://musicmattersdirect.com/basket/" title="View your shopping cart"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <span class="contents">0</span></a>
+	<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>		</li>
+	</ul>
+
+	<script>
+    jQuery(function(){
+		jQuery('ul.cart a.cart-contents, .added_to_cart').tipTip({
+			defaultPosition: "top",
+			delay: 0
+		});
+	});
+	</script>
+
+	
+			<ul id="main-nav" class="nav fl"><li id="menu-item-3795" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3795"><a href="https://musicmattersdirect.com/">Home</a></li>
+<li id="menu-item-3793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3793"><a href="https://musicmattersdirect.com/shop/">Shop</a></li>
+<li id="menu-item-3810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810"><a href="https://musicmattersdirect.com/templates/blog-grid/">News &#038; Articles</a></li>
+<li id="menu-item-3791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3791"><a href="https://musicmattersdirect.com/guitar-repairs-setups/">Guitar Repairs &#038; Setups</a></li>
+<li id="menu-item-17332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17332"><a href="https://www.mailmymusic.com/index.php?store=muma03">Music Books</a></li>
+</ul>
+
+		</nav><!-- /#navigation -->
+
+		
+
+
+	</header><!-- /#header -->
+
+	
+    <div id="content" class="col-full">
+
+    	<div id="featured-slider" class="flexslider flexslider default-width-slide">
+	<ul class="slides">
+		<li class="slide slide-number-1 has-image no-video">
+			<div class="slide-media"><img src="https://i1.wp.com/musicmattersdirect.com/wp-content/uploads/2012/12/ukues-1.jpg?fit=978%2C282&#038;ssl=1" alt="ukues"  width="1200" title="Ukuleles &#8211; Get in on the act." class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1>Ukuleles &#8211; Get in on the act.</h1></header>
+									<div class="entry"><p>&nbsp;</p>
+<blockquote><p>Ukuleles &#8211; Fun and easy to play.. and they won&#8217;t break the bank!</p>
+<a href="https://musicmattersdirect.com/product-category/folk-instruments/ukuleles/" class="woo-sc-button  custom large" style="background:#5e5c5e;border-color:#5e5c5e"><span class="woo-">Buy Now..</span></a></blockquote>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-2 has-image no-video">
+			<div class="slide-media"><img src="https://i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/05/PARADIGM2.jpg?fit=997%2C289&#038;ssl=1" alt="PARADIGM2"  width="1200" title="Ernie Ball Paradigm Guitar Strings" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1>Ernie Ball Paradigm Guitar Strings</h1></header>
+									<div class="entry"><p>Legendary Tone &#8211; Born to Innovate.</p>
+<a href="https://musicmattersdirect.com/paradigm-guitar-strings-legendary-tone/" class="woo-sc-button  custom large" style="background:#4d484d;border-color:#4d484d"><span class="woo-">Take a Look..</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-3 has-image no-video">
+			<div class="slide-media"><img src="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/05/MV50-Web-Banner.png?fit=997%2C289&#038;ssl=1" alt="MV50 Web Banner"  width="1200" title="All New MV50 Vox Guitar Amps" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1>All New MV50 Vox Guitar Amps</h1></header>
+									<div class="entry"><p>The MV50 Series from VOX represents a truly innovative approach to guitar amplification.</p>
+<a href="https://musicmattersdirect.com/product/vox-mv50ac-set-50-watt-amp-cab/" class="woo-sc-button  custom large" style="background:#333133;border-color:#333133"><span class="woo-">Check it Out.</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-4 has-image no-video">
+			<div class="slide-media"><img src="https://i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/Music-Book-Website-Banner.png?fit=997%2C289&#038;ssl=1" alt="Music Book Website Banner"  width="1200" title="Music Books" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1><a href="https://www.mailmymusic.com/index.php?store=muma03" title="Music Books">Music Books</a></h1></header>
+									<div class="entry"><p>Not only do we sell instruments and accessories, we also happen to sell music books. From tutor books to sheet music!</p>
+<a href="https://www.mailmymusic.com/index.php?store=muma03" class="woo-sc-button  custom large" style="background:#4d484d;border-color:#4d484d"><span class="woo-">Take a Look..</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-5 has-image no-video">
+			<div class="slide-media"><img src="https://i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/Guitar-Strings-Website-Banner.png?fit=997%2C289&#038;ssl=1" alt="Guitar Strings Website Banner"  width="1200" title="Guitar Strings" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1><a href="https://musicmattersdirect.com/product-category/guitar-strings/" title="Guitar Strings">Guitar Strings</a></h1></header>
+									<div class="entry"><p>Ernie Ball, Rotosound, D&#8217;Addario, Martin&amp;Co, Elixir.</p>
+<a href="https://musicmattersdirect.com/product-category/guitar-strings/" class="woo-sc-button  custom large" style="background:#4d484d;border-color:#4d484d"><span class="woo-">Take a Look..</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-6 has-image no-video">
+			<div class="slide-media"><img src="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/GR1.png?fit=978%2C282&#038;ssl=1" alt="GR1"  width="1200" title="Guitar Setups and Repairs" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1><a href="https://musicmattersdirect.com/guitar-repairs-setups/" title="Guitar Setups and Repairs">Guitar Setups and Repairs</a></h1></header>
+									<div class="entry"><p>At Music Matters we believe that no matter how much or little you have paid for your guitar, there is no excuse for your guitar to be hard to play.</p>
+<a href="https://musicmattersdirect.com/guitar-repairs-setups/" class="woo-sc-button  custom large" style="background:#4d484d;border-color:#4d484d"><span class="woo-">More Info</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+		<li class="slide slide-number-7 has-image no-video">
+			<div class="slide-media"><img src="https://i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/Drums-Percussion-Image-1.png?fit=997%2C289&#038;ssl=1" alt="Drums &amp; Percussion Image"  width="1200" title="Drum Kits &#038; Accessories" class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1><a href="https://musicmattersdirect.com/product-category/drums-percussion/" title="Drum Kits &#038; Accessories">Drum Kits &#038; Accessories</a></h1></header>
+									<div class="entry"><p>All the necessities that you need for your drums can be found here.</p>
+<a href="https://musicmattersdirect.com/product-category/drums-and-percussion/drum-kits-drum-machines-drums-and-percussion/" class="woo-sc-button  custom large" style="background:;border-color:"><span class="woo-">Drum Kits &amp; Drum Machines</span></a>
+</div><!--/.entry-->
+							</div><!--/.slide-content-->
+					</li>
+	</ul>
+</div><!--/#featured-slider-->
+
+    	<div class="woocommerce woocommerce-wrap woocommerce-columns-4">
+	    	<div id="woo_recent_products-4" class="widget widget_woo_recent_products"><h1>New In Store</h1><div class="woocommerce columns-4 "><ul class="products">
+<li class="post-19678 product type-product status-publish has-post-thumbnail product_cat-ukulele first instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://musicmattersdirect.com/product/absolute-beginners-ukulele-omnibus-edition/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="img-wrap"><img width="300" height="300" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?w=650&amp;ssl=1 650w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="19679" data-permalink="//musicmattersdirect.com/product/absolute-beginners-ukulele-omnibus-edition/attachment/110006/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="110006" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110006.jpg?fit=650%2C650&amp;ssl=1" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>14.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap--><h2 class="woocommerce-loop-product__title">Absolute Beginners Ukulele Omnibus Edition</h2><div class="categories"><a href="https://musicmattersdirect.com/product-category/music-books/ukulele/" rel="tag">Ukulele</a></div></a><a rel="nofollow" href="/?add-to-cart=19678" data-quantity="1" data-product_id="19678" data-product_sku="110006" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a></li>
+<li class="post-19676 product type-product status-publish has-post-thumbnail product_cat-ukulele  instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://musicmattersdirect.com/product/starting-ukulele-the-next-step-inc-cd/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="img-wrap"><img width="300" height="300" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?w=650&amp;ssl=1 650w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="19677" data-permalink="//musicmattersdirect.com/product/starting-ukulele-the-next-step-inc-cd/attachment/110005/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="110005" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110005.jpg?fit=650%2C650&amp;ssl=1" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>8.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap--><h2 class="woocommerce-loop-product__title">Starting Ukulele the next step inc CD</h2><div class="categories"><a href="https://musicmattersdirect.com/product-category/music-books/ukulele/" rel="tag">Ukulele</a></div></a><a rel="nofollow" href="/?add-to-cart=19676" data-quantity="1" data-product_id="19676" data-product_sku="110005" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a></li>
+<li class="post-19482 product type-product status-publish has-post-thumbnail product_cat-other  instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://musicmattersdirect.com/product/pre-loved-digitech-trio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="img-wrap"><img width="300" height="300" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?w=650&amp;ssl=1 650w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="19486" data-permalink="//musicmattersdirect.com/product/pre-loved-digitech-trio/attachment/110004/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="110004" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/110004.jpg?fit=650%2C650&amp;ssl=1" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>80.00</span></span>
+<span class="details-link"></span></div> <!--/.wrap--><h2 class="woocommerce-loop-product__title">pre loved Digitech Trio</h2><div class="categories"><a href="https://musicmattersdirect.com/product-category/pre-loved-gear/other/" rel="tag">Other</a></div></a><a rel="nofollow" href="/?add-to-cart=19482" data-quantity="1" data-product_id="19482" data-product_sku="110004" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a></li>
+<li class="post-19461 product type-product status-publish has-post-thumbnail product_cat-folk-strings last instock taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://musicmattersdirect.com/product/aquila-baritone-ukulele-strings-set/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="img-wrap"><img width="300" height="300" src="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?w=650&amp;ssl=1 650w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?resize=150%2C150&amp;ssl=1 150w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?resize=300%2C300&amp;ssl=1 300w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?resize=180%2C180&amp;ssl=1 180w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="19462" data-permalink="//musicmattersdirect.com/product/aquila-baritone-ukulele-strings-set/attachment/101624/" data-orig-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="101624" data-image-description="" data-medium-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101624.jpg?fit=650%2C650&amp;ssl=1" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>9.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap--><h2 class="woocommerce-loop-product__title">Aquila baritone Ukulele Strings &#8211; Set</h2><div class="categories"><a href="https://musicmattersdirect.com/product-category/folk-instruments/folk-strings/" rel="tag">Folk Strings</a></div></a><a rel="nofollow" href="/?add-to-cart=19461" data-quantity="1" data-product_id="19461" data-product_sku="101624" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a></li>
+</ul>
+</div></div><div id="woo_featured_products-6" class="widget widget_woo_featured_products"><ul class="products featured">
+						<li class="product featured first">
+
+							<a href="https://musicmattersdirect.com/product/roland-go-61-p-portable-piano-bluetooth/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+							<a href="https://musicmattersdirect.com/product/roland-go-61-p-portable-piano-bluetooth/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?resize=150%2C150&amp;ssl=1 150w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?resize=180%2C180&amp;ssl=1 180w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?resize=300%2C300&amp;ssl=1 300w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?zoom=2&amp;resize=300%2C300&amp;ssl=1 600w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?zoom=3&amp;resize=300%2C300&amp;ssl=1 900w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="18172" data-permalink="//musicmattersdirect.com/product/roland-go-61-p-portable-piano-bluetooth/attachment/109591/" data-orig-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?fit=1200%2C373&amp;ssl=1" data-orig-size="1200,373" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="109591" data-image-description="" data-medium-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?fit=300%2C93&amp;ssl=1" data-large-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109591.jpg?fit=1024%2C318&amp;ssl=1" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>298.80</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>249.00</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Roland GO 61-P Portable Piano Bluetooth</h3>
+
+							</a>
+
+							<div class="excerpt">The Roland GO:PIANO Digital Piano provides the perfect solution for ...</div><div class="categories"><a href="https://musicmattersdirect.com/product-category/winter-sale-2017/sale-winter-sale-2017/" rel="tag">Sale</a></div></a><a rel="nofollow" href="/?add-to-cart=17031" data-quantity="1" data-product_id="17031" data-product_sku="109591" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="https://musicmattersdirect.com/product/tokai-jazz-style-electric-bass-guitar-blue/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+							<a href="https://musicmattersdirect.com/product/tokai-jazz-style-electric-bass-guitar-blue/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="300" height="300" src="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?w=650&amp;ssl=1 650w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?resize=150%2C150&amp;ssl=1 150w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?resize=300%2C300&amp;ssl=1 300w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?resize=180%2C180&amp;ssl=1 180w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="17024" data-permalink="//musicmattersdirect.com/product/tokai-jazz-style-electric-bass-guitar-blue/attachment/103730/" data-orig-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="103730" data-image-description="" data-medium-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/103730.jpg?fit=650%2C650&amp;ssl=1" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>328.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>279.99</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Tokai Jazz style  Electric Bass Guitar blue</h3>
+
+							</a>
+
+							<div class="excerpt">Tokai Jazz Sound J-Style Bass</div><div class="categories"><a href="https://musicmattersdirect.com/product-category/winter-sale-2017/sale-winter-sale-2017/" rel="tag">Sale</a></div></a><a rel="nofollow" href="/?add-to-cart=17023" data-quantity="1" data-product_id="17023" data-product_sku="103730" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="https://musicmattersdirect.com/product/portable-music-creation-keyboard-go-61k/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+							<a href="https://musicmattersdirect.com/product/portable-music-creation-keyboard-go-61k/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="300" height="187" src="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?resize=300%2C187&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?resize=300%2C187&amp;ssl=1 300w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?zoom=2&amp;resize=300%2C187&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="17011" data-permalink="//musicmattersdirect.com/product/portable-music-creation-keyboard-go-61k/attachment/109590/" data-orig-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?fit=600%2C187&amp;ssl=1" data-orig-size="600,187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="109590" data-image-description="" data-medium-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?fit=300%2C94&amp;ssl=1" data-large-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/109590.jpg?fit=600%2C187&amp;ssl=1" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>299.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>239.00</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Roland GO61-K Portable Music Creation Keyboard</h3>
+
+							</a>
+
+							<div class="excerpt">GO:KEYS, the new Music Creation Keyboard GO-61K from Roland ...</div><div class="categories"><a href="https://musicmattersdirect.com/product-category/winter-sale-2017/sale-winter-sale-2017/" rel="tag">Sale</a></div></a><a rel="nofollow" href="/?add-to-cart=11133" data-quantity="1" data-product_id="11133" data-product_sku="109590" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="https://musicmattersdirect.com/product/alesis-dm-lite-electonic-drum-kit/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+							<a href="https://musicmattersdirect.com/product/alesis-dm-lite-electonic-drum-kit/">
+
+								<div class="img-wrap"><img width="300" height="300" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=300%2C300&amp;ssl=1" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?w=1200&amp;ssl=1 1200w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=768%2C768&amp;ssl=1 768w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=1024%2C1024&amp;ssl=1 1024w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-attachment-id="18827" data-permalink="//musicmattersdirect.com/product/alesis-dm-lite-electonic-drum-kit/103671-2/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?fit=1200%2C1200&amp;ssl=1" data-orig-size="1200,1200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="103671" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/103671.jpg?fit=1024%2C1024&amp;ssl=1" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>229.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Alesis DM Lite Electonic Drum Kit</h3>
+
+							</a>
+
+							<div class="excerpt">The Alesis DM Lite is a compact electronic drum kit with ...</div><div class="categories"><a href="https://musicmattersdirect.com/product-category/drums-and-percussion/drum-kits-drum-machines-drums-and-percussion/" rel="tag">Drum Kits &amp; Drum Machines</a></div></a><a rel="nofollow" href="/?add-to-cart=5467" data-quantity="1" data-product_id="5467" data-product_sku="103671" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add</a>
+						</li>
+
+					</ul></div><div id="eu_cookie_law_widget-2" class="widget widget_eu_cookie_law_widget"><div
+	class="hide-on-button"
+	data-hide-timeout="30"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Close and accept" class="accept" />
+	</form>
+
+	Privacy &amp; Cookies: This site uses cookies.		<br />
+		To find out more, as well as how to remove or block these, see here:
+	<a href="https://jetpack.com/support/cookies/" >
+		Our Cookie Policy	</a>
+</div>
+</div>		</div><!--/.woocommerce-->
+		<section id="main" class="col-left">
+				
+						
+				
+	
+	<article class="post-17222 post type-post status-publish format-standard has-post-thumbnail hentry category-products">
+
+		<div class="post-content">
+
+			<a href="https://musicmattersdirect.com/qtx-busker-pa-with-vhf-mics-media-player-bluetooth/"  title="QTX Busker PA with VHF Mics, Media Player &#038; Bluetooth®"><img src="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/10/buskeramps.jpg?fit=800%2C310&#038;ssl=1" alt="buskeramps"  width="800"  height="300" title="QTX Busker PA with VHF Mics, Media Player &#038; Bluetooth®" class="woo-image thumbnail aligncenter" /></a>
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1 class="entry-title"><a href="https://musicmattersdirect.com/qtx-busker-pa-with-vhf-mics-media-player-bluetooth/" title="Continue Reading &rarr;">QTX Busker PA with VHF Mics, Media Player &#038; Bluetooth®</a></h1>
+
+		        </header>
+
+				<p>This all new light weight compact portable powered PA system is a must for budding buskers and performers alike. At Just £149.99 for the Busker 12 this PA system is extremely affordable and now in stock to take away. Watch demo Busker PA with VHF Mics, Media Player &amp; Bluetooth Complete portable PA unit in [&hellip;]</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="https://musicmattersdirect.com/qtx-busker-pa-with-vhf-mics-media-player-bluetooth/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span class="updated">27th October 2017</span>
+				</li>
+				<li class="post-author author"><a href="https://musicmattersdirect.com/author/music-matters/">Music Matters</a></li>
+				<li class="post-category"><a href="https://musicmattersdirect.com/category/products/" rel="category tag">Products</a></li>
+				<li class="post-comments">Comments off.</li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+				
+	
+	<article class="post-15918 post type-post status-publish format-standard has-post-thumbnail hentry category-shop-news">
+
+		<div class="post-content">
+
+			<a href="https://musicmattersdirect.com/welcome-to-music-matters-in-kent/"  title="Welcome to Music Matters in Kent."><img src="https://i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/05/Headerbanner2.jpg?fit=748%2C98&#038;ssl=1" alt="Headerbanner2"  width="800"  height="300" title="Welcome to Music Matters in Kent." class="woo-image thumbnail aligncenter" /></a>
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1 class="entry-title"><a href="https://musicmattersdirect.com/welcome-to-music-matters-in-kent/" title="Continue Reading &rarr;">Welcome to Music Matters in Kent.</a></h1>
+
+		        </header>
+
+				<p>As one of Kent&#8217;s leading Musical Instrument retailer we have provided over 15 years of service to musicians young and old ,from the beginner to international music stars. We pride ourselves on friendly service and dedication to all our customers making sure we provide the right information for the right product at the right price.</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="https://musicmattersdirect.com/welcome-to-music-matters-in-kent/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span class="updated">10th October 2017</span>
+				</li>
+				<li class="post-author author"><a href="https://musicmattersdirect.com/author/music-matters/">Music Matters</a></li>
+				<li class="post-category"><a href="https://musicmattersdirect.com/category/shop-news/" rel="category tag">Shop News</a></li>
+				<li class="post-comments">Comments off.</li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+				
+	
+	<article class="post-4441 post type-post status-publish format-standard has-post-thumbnail hentry category-shop-news">
+
+		<div class="post-content">
+
+			<a href="https://musicmattersdirect.com/winter-clearance/"  title="Winter Clearance"><img src="https://i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/06/winter.jpg?fit=579%2C241&#038;ssl=1" alt="Winter Sale Now On"  width="800"  height="300" title="Winter Clearance" class="woo-image thumbnail aligncenter" /></a>
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1 class="entry-title"><a href="https://musicmattersdirect.com/winter-clearance/" title="Continue Reading &rarr;">Winter Clearance</a></h1>
+
+		        </header>
+
+				<p>The Music Matters Winter Clearance&#8230; Time to take advantage of our winter clear out just in time for Christmas! Many big brand names at unmissable prices. Products being added daily so be sure to click back. &nbsp;</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="https://musicmattersdirect.com/winter-clearance/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span class="updated">10th October 2017</span>
+				</li>
+				<li class="post-author author"><a href="https://musicmattersdirect.com/author/music-matters/">Music Matters</a></li>
+				<li class="post-category"><a href="https://musicmattersdirect.com/category/shop-news/" rel="category tag">Shop News</a></li>
+				<li class="post-comments">Comments off.</li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+		        
+		<nav class="pagination woo-pagination"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://musicmattersdirect.com/page/2/'>2</a>
+<a class="next page-numbers" href="https://musicmattersdirect.com/page/2/">Next &rarr;</a></nav>
+		</section><!-- /#main -->
+		
+        	
+<aside id="sidebar" class="col-right">
+
+	
+	    <div class="primary">
+		<div id="woocommerce_product_categories-4" class="widget woocommerce widget_product_categories"><h3>Product categories</h3><ul class="product-categories"><li class="cat-item cat-item-15 cat-parent"><a href="https://musicmattersdirect.com/product-category/amplification/">Amplification</a></li>
+<li class="cat-item cat-item-110 cat-parent"><a href="https://musicmattersdirect.com/product-category/audio-leads/">Audio Leads</a></li>
+<li class="cat-item cat-item-166 cat-parent"><a href="https://musicmattersdirect.com/product-category/brass-and-woodwind-accessories/">Brass and Woodwind Accessories</a></li>
+<li class="cat-item cat-item-193 cat-parent"><a href="https://musicmattersdirect.com/product-category/brass-and-woodwind-instruments/">Brass and Woodwind Instruments</a></li>
+<li class="cat-item cat-item-229 cat-parent"><a href="https://musicmattersdirect.com/product-category/drums-and-percussion/">Drums and Percussion</a></li>
+<li class="cat-item cat-item-633 cat-parent"><a href="https://musicmattersdirect.com/product-category/ebay-listed/">Ebay Listed</a></li>
+<li class="cat-item cat-item-21 cat-parent"><a href="https://musicmattersdirect.com/product-category/folk-instruments/">Folk Instruments</a></li>
+<li class="cat-item cat-item-88 cat-parent"><a href="https://musicmattersdirect.com/product-category/general-accessories/">General Accessories</a></li>
+<li class="cat-item cat-item-448 cat-parent"><a href="https://musicmattersdirect.com/product-category/gifts/">Gifts</a></li>
+<li class="cat-item cat-item-60 cat-parent"><a href="https://musicmattersdirect.com/product-category/guitar-accessories/">Guitar Accessories</a></li>
+<li class="cat-item cat-item-72 cat-parent"><a href="https://musicmattersdirect.com/product-category/guitar-effects-pedals/">Guitar Effects Pedals</a></li>
+<li class="cat-item cat-item-334 cat-parent"><a href="https://musicmattersdirect.com/product-category/guitar-packs/">Guitar Packs</a></li>
+<li class="cat-item cat-item-66 cat-parent"><a href="https://musicmattersdirect.com/product-category/guitar-strings/">Guitar Strings</a></li>
+<li class="cat-item cat-item-23 cat-parent"><a href="https://musicmattersdirect.com/product-category/guitars/">Guitars</a></li>
+<li class="cat-item cat-item-504 cat-parent"><a href="https://musicmattersdirect.com/product-category/headphones/">Headphones</a></li>
+<li class="cat-item cat-item-96 cat-parent"><a href="https://musicmattersdirect.com/product-category/home-recording/">Home Recording</a></li>
+<li class="cat-item cat-item-307 cat-parent"><a href="https://musicmattersdirect.com/product-category/keyboards-and-accessories/">Keyboards and Accessories</a></li>
+<li class="cat-item cat-item-362 cat-parent"><a href="https://musicmattersdirect.com/product-category/lighting-and-visual-effects/">Lighting and Visual Effects</a></li>
+<li class="cat-item cat-item-320 cat-parent"><a href="https://musicmattersdirect.com/product-category/microphones-and-accessories/">Microphones and Accessories</a></li>
+<li class="cat-item cat-item-90 cat-parent"><a href="https://musicmattersdirect.com/product-category/music-books/">Music Books</a></li>
+<li class="cat-item cat-item-665 cat-parent"><a href="https://musicmattersdirect.com/product-category/pa-speakers-and-mixers/">PA Speakers and Mixers</a></li>
+<li class="cat-item cat-item-30 cat-parent"><a href="https://musicmattersdirect.com/product-category/pre-loved-gear/">Pre Loved Gear</a></li>
+<li class="cat-item cat-item-26 cat-parent"><a href="https://musicmattersdirect.com/product-category/pre-owned-gear/">Pre Owned Gear</a></li>
+<li class="cat-item cat-item-508 cat-parent"><a href="https://musicmattersdirect.com/product-category/pro-audio-equipment/">Pro Audio Equipment</a></li>
+<li class="cat-item cat-item-569 cat-parent"><a href="https://musicmattersdirect.com/product-category/winter-sale-2017/">Winter Sale 2017</a></li>
+</ul></div><div id="email-subscribers-3" class="widget widget_text elp-widget"><h3>Newsletter</h3>
+		<div>
+			<form class="es_widget_form" data-es_form_id="es_widget_form">
+									<div class="es_caption">Sign up today</div>
+													<div class="es_lablebox"><label class="es_widget_form_name">Name</label></div>
+					<div class="es_textbox">
+						<input type="text" id="es_txt_name" class="es_textbox_class" name="es_txt_name" value="" maxlength="225">
+					</div>
+								<div class="es_lablebox"><label class="es_widget_form_email">Email *</label></div>
+				<div class="es_textbox">
+					<input type="text" id="es_txt_email" class="es_textbox_class" name="es_txt_email" onkeypress="if(event.keyCode==13) es_submit_page(event,'https://musicmattersdirect.com')" value="" maxlength="225">
+				</div>
+				<div class="es_button">
+					<input type="button" id="es_txt_button" class="es_textbox_button es_submit_button" name="es_txt_button" onClick="return es_submit_page(event,'https://musicmattersdirect.com')" value="Subscribe">
+				</div>
+				<div class="es_msg" id="es_widget_msg">
+					<span id="es_msg"></span>
+				</div>
+								<input type="hidden" id="es_txt_group" name="es_txt_group" value="Public">
+			</form>
+		</div>
+		</div>		           
+	</div>        
+	   
+	
+	 
+	
+</aside><!-- /#sidebar -->
+
+    </div><!-- /#content -->
+
+	
+	<div class="footer-wrap contact">
+
+		<section class="col-full">
+
+						<ul class="contact">
+				<li class="phone"><a href="tel:01622 755600">01622 755600</a></li>												<li class="facebook"><a href="http://facebook.com/musicmattersukltd">Facebook</a></li>			</ul>
+		
+		</section>
+
+	</div><!--/.footer-wrap-contact-->
+
+	<div class="footer-wrap">
+
+	
+	
+		<section id="footer-widgets" class="col-full col-4 fix">
+
+							
+			<div class="block footer-widget-1">
+	        	<div id="widget_contact_info-2" class="widget widget_contact_info"><h3>Contact Info</h3><div itemscope itemtype="http://schema.org/LocalBusiness"><div class="confit-address" itemscope itemtype="http://schema.org/PostalAddress" itemprop="address"><a href="https://maps.google.com/maps?z=16&#038;q=114+week+street+maidstone+kent+me14+1rh" target="_blank">114 Week Street<br/>Maidstone<br/>Kent<br/>ME14 1RH</a></div><div class="confit-phone"><span itemprop="telephone">01622 755600</span></div><div class="confit-email"><a href="mailto:sales@musicmattersuk.co.uk">sales@musicmattersuk.co.uk</a></div><div class="confit-hours" itemprop="openingHours">Monday to Saturday<br/>9.00 AM - 5.30 PM</div></div></div>			<div id="woo_subscribe-2" class="widget widget_woo_subscribe">					<aside id="connect" class="fix">
+		<h3>Subscribe</h3>
+
+		<div >
+			
+			
+			
+						<div class="social">
+		   				   		<a href="http://twitter.com/musicmattersuk" class="twitter" title="Twitter"></a>
+
+		   				   		<a href="http://facebook.com/musicmattersukltd" class="facebook" title="Facebook"></a>
+
+		   				   		<a href="http://youtube.com/" class="youtube" title="YouTube"></a>
+
+		   				   		<a href="#" class="flickr" title="Flickr"></a>
+
+		   				   		<a href="#" class="linkedin" title="LinkedIn"></a>
+
+		   				   		<a href="#" class="delicious" title="Delicious"></a>
+
+		   				   		<a href="#" class="googleplus" title="Google+"></a>
+
+		   					</div>
+			
+		</div><!-- col-left -->
+
+		
+	</aside>
+				</div>					</div>
+
+		        							
+			<div class="block footer-widget-2">
+	        				</div>
+
+		        							
+			<div class="block footer-widget-3">
+	        	<div id="woocommerce_top_rated_products-4" class="widget woocommerce widget_top_rated_products"><ul class="product_list_widget">
+<li>
+	<a href="https://musicmattersdirect.com/product/tgi-guitar-strap-warrior-mask/">
+		<img width="180" height="180" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?resize=180%2C180&amp;ssl=1" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?w=650&amp;ssl=1 650w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="19333" data-permalink="//musicmattersdirect.com/product/tgi-guitar-strap-warrior-mask/attachment/109996/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?fit=650%2C650&amp;ssl=1" data-orig-size="650,650" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="109996" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/109996.jpg?fit=650%2C650&amp;ssl=1" />		<span class="product-title">Tgi Guitar Strap Warrior Mask</span>
+	</a>
+					<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.99</span></li>
+
+<li>
+	<a href="https://musicmattersdirect.com/product/daddario-phosphor-bronze-10-47-extra-light/">
+		<img width="180" height="180" src="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?resize=180%2C180&amp;ssl=1" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?w=250&amp;ssl=1 250w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?resize=150%2C150&amp;ssl=1 150w, //i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?resize=180%2C180&amp;ssl=1 180w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="19599" data-permalink="//musicmattersdirect.com/product/daddario-phosphor-bronze-10-47-extra-light/attachment/100236/" data-orig-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?fit=250%2C250&amp;ssl=1" data-orig-size="250,250" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="100236" data-image-description="" data-medium-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?fit=250%2C250&amp;ssl=1" data-large-file="//i2.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/100236.jpg?fit=250%2C250&amp;ssl=1" />		<span class="product-title">D'Addario Phosphor Bronze 10-47 Extra Light</span>
+	</a>
+					<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>8.99</span></li>
+
+<li>
+	<a href="https://musicmattersdirect.com/product/rotosound-r10-yellows-10-46/">
+		<img width="180" height="180" src="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=180%2C180&amp;ssl=1" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?w=1200&amp;ssl=1 1200w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=150%2C150&amp;ssl=1 150w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=300%2C300&amp;ssl=1 300w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=768%2C768&amp;ssl=1 768w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=1024%2C1024&amp;ssl=1 1024w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=180%2C180&amp;ssl=1 180w, //i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="19168" data-permalink="//musicmattersdirect.com/product/rotosound-r10-yellows-10-46/attachment/101279/" data-orig-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?fit=1200%2C1200&amp;ssl=1" data-orig-size="1200,1200" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="101279" data-image-description="" data-medium-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i1.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/101279.jpg?fit=1024%2C1024&amp;ssl=1" />		<span class="product-title">Rotosound R10 Yellows 10-46</span>
+	</a>
+					<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>6.99</span></li>
+
+<li>
+	<a href="https://musicmattersdirect.com/product/chord-plastic-maple-rute-sticks/">
+		<img width="180" height="180" src="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?resize=180%2C180&amp;ssl=1" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?resize=150%2C150&amp;ssl=1 150w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?resize=180%2C180&amp;ssl=1 180w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?resize=300%2C300&amp;ssl=1 300w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?zoom=2&amp;resize=180%2C180&amp;ssl=1 360w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?zoom=3&amp;resize=180%2C180&amp;ssl=1 540w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="14301" data-permalink="//musicmattersdirect.com/product/chord-plastic-maple-rute-sticks/101969-16/" data-orig-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?fit=1500%2C370&amp;ssl=1" data-orig-size="1500,370" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="101969" data-image-description="" data-medium-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?fit=300%2C74&amp;ssl=1" data-large-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/09/101969.jpg?fit=1024%2C253&amp;ssl=1" />		<span class="product-title">Chord Plastic Maple Rute Sticks</span>
+	</a>
+					<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.99</span></li>
+
+<li>
+	<a href="https://musicmattersdirect.com/product/roland-cube-street-ex/">
+		<img width="180" height="180" src="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=180%2C180&amp;ssl=1" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?w=1200&amp;ssl=1 1200w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=150%2C150&amp;ssl=1 150w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=300%2C300&amp;ssl=1 300w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=768%2C768&amp;ssl=1 768w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=1024%2C1024&amp;ssl=1 1024w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=180%2C180&amp;ssl=1 180w, //i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?resize=600%2C600&amp;ssl=1 600w" sizes="(max-width: 180px) 100vw, 180px" data-attachment-id="19381" data-permalink="//musicmattersdirect.com/product/roland-cube-street-ex/108142-4/" data-orig-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?fit=1200%2C1200&amp;ssl=1" data-orig-size="1200,1200" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="108142" data-image-description="" data-medium-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?fit=300%2C300&amp;ssl=1" data-large-file="//i0.wp.com/musicmattersdirect.com/wp-content/uploads/2017/11/108142.jpg?fit=1024%2C1024&amp;ssl=1" />		<span class="product-title">Roland Cube Street EX</span>
+	</a>
+					<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>519.99</span></li>
+</ul></div>			</div>
+
+		        										
+		</section><!-- /#footer-widgets  -->
+			<footer id="footer" class="col-full">
+
+			<hr />
+
+			<div id="copyright" class="col-left">
+							<p>Music Matters &copy; 2017. All Rights Reserved.</p>
+						</div>
+
+			<div id="credit" class="col-right">
+	        				<p>Powered by <a href="http://www.wordpress.org">WordPress</a>. Designed by <a href="http://www.woothemes.com/"><img src="https://musicmattersdirect.com/wp-content/themes/superstore/images/woothemes.png" width="74" height="19" alt="Woo Themes" /></a></p>
+						</div>
+
+		</footer><!-- /#footer  -->
+
+	</div><!--/.footer-wrap-->
+
+</div><!-- /#wrapper -->
+	<div style="display:none">
+	</div>
+<!--[if lt IE 9]>
+<script src="https://musicmattersdirect.com/wp-content/themes/superstore/includes/js/respond.js"></script>
+<![endif]-->
+			<script>
+				jQuery(document).ready(function(){
+					jQuery('.images a').attr('rel', 'prettyPhoto[product-gallery]');
+				});
+			</script>
+		
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=304351783381144&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+    <script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var es_widget_notices = {"es_email_notice":"Please enter email address","es_incorrect_email":"Please provide a valid email address","es_load_more":"loading...","es_ajax_error":"Cannot create XMLHTTP instance","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Within a few minutes, kindly check the mail in your mailbox and confirm your subscription. If you can't see the mail in your mailbox, please check your spam folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_problem_request":"There was a problem with the request"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/email-subscribers/widget/es-widget.js?ver=4.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var es_widget_page_notices = {"es_email_notice":"Please enter email address","es_incorrect_email":"Please provide a valid email address","es_load_more":"loading...","es_ajax_error":"Cannot create XMLHTTP instance","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Within a few minutes, kindly check the mail in your mailbox and confirm your subscription. If you can't see the mail in your mailbox, please check your spam folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_problem_request":"There was a problem with the request"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/email-subscribers/widget/es-widget-page.js?ver=4.9'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201747'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/musicmattersdirect.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/musicmattersdirect.com\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/musicmattersdirect.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/musicmattersdirect.com\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_cadf956c18d4c57b0e99188cbcbfa839"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2017Novaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-content/plugins/jetpack/modules/widgets/eu-cookie-law/eu-cookie-law.js?ver=20170404'></script>
+<script type='text/javascript' src='https://musicmattersdirect.com/wp-includes/js/wp-embed.min.js?ver=4.9'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201747.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5',blog:'136753723',post:'0',tz:'0',srv:'musicmattersdirect.com'} ]);
+	_stq.push([ 'clickTrackerInit', '136753723', '0' ]);
+</script>
+</body>
+</html>

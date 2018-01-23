@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no">
+  <!-- inital scale removed so ipad in portrait doesn't zoom out (!?) to 1 (wants to be .75 scale due to dpi -->
+
+      <meta name="description" content="">
+      <meta name="keywords" content="" >
+
+
+  <title>
+        Schools | 
+        
+
+    Birmingham Museums
+  </title>
+  
+  <!-- Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="http://fast.fonts.net/jsapi/be46e20e-28ec-4903-9963-8629cdfc337b.js"></script>
+  
+  <link data-turbolinks-track="true" href="/assets/application-763815df05468cc6b4ea5776a007bd3f.css" media="all" rel="stylesheet" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="07p8FQhj47nqWsx8bF8lHM7Ubiq/sv1Bo4FzkUl+uwI=" name="csrf-token" />
+  
+  <!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58232334-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+  
+  
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Favicons -->
+    <!-- <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <meta name="apple-mobile-web-app-title" content="Birmingham Museums Trust">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href=/favicon-16x16 sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#bc9b6a">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="application-name" content="Birmingham Museums Trust"> -->
+
+    <link href="/assets/favicons/favicon-dbf0c8c68e41a08bd05089e30be26e7f.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+  </head>
+
+
+  <body class="template-schools venue-none show-view template-content-page layout-page-header-small">
+    <div id="fb-root"></div>
+
+        <header class="site-header site-header-content">
+  <div class="navigation-bar     is-always-page-mode
+ fixed-helper">
+
+    <div class="logo-small">
+         <a href="/"><img alt="Logo bmt side" src="/assets/logo-bmt-side-1ac27a95304f87fcd610ba59b286951f.svg" /></a>
+    </div>
+
+    <ul class="main-navigation">
+        <li class="">
+            <a href="/whats-on">What&#39;s On</a>
+        </li>
+        <li class="">
+            <a href="/about">About</a>
+        </li>
+        <li class="">
+            <a href="/collection">Collection</a>
+        </li>
+        <li class="">
+            <a href="/eat-drink">Eat &amp; Drink</a>
+        </li>
+        <li class="is-active">
+            <a href="/schools">Schools</a>
+        </li>
+        <li class="">
+            <a href="/blog">Blog</a>
+        </li>
+        <li class="">
+            <a href="/support-us">Support Us</a>
+        </li>
+        <li class="">
+            <a href="/volunteering">Volunteering</a>
+        </li>
+        <li class="">
+            <a href="/venue-hire">Venue Hire</a>
+        </li>
+        <li class="">
+            <a href="https://shop.birminghammuseums.org.uk/">Shop</a>
+        </li>
+        <li class="">
+            <a href="/contact">Contact</a>
+        </li>
+</ul>
+
+    <div class="icon-navigation">
+      <ul>
+        <li><a href="#" class="search-link"><i class="fa fa-search"></i></a></li>
+        <!--<li><a href="/languages" class="languages-link"><i class="fa fa-flag"></i></a></li>-->
+      </ul>
+    </div>
+
+  </div><!-- /navigation-bar -->
+</header><!-- /site-header -->
+
+<div class="search-bar fixed-helper">
+  <div class="row">
+    <div class="col-sm-12">
+
+      <h3>Search <span>the website</span></h3>
+      <form accept-charset="UTF-8" action="/search" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+      <div class="form-group">
+      <input class="form-control" id="q" name="q" placeholder="Search entire website" type="text" />
+      </div>
+      <button type="submit" class="btn btn-primary">Go</button>
+</form>
+    </div>
+  </div>
+</div>
+
+
+
+    
+    <div class="venues-widget-display-button">
+      <a href="#">Our venues <i class="fa fa-caret-down"></i></a>
+    </div>
+
+    <div class="venues-widget">
+      <h2>Venues:</h2>
+
+      <ul>
+          <li class="venues-widget-link venues-widget-link-bmag" data-venue-id="1" data-venue-slug="bmag">
+            <a href="/bmag">
+              Museum &amp; Art Gallery
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-thinktank" data-venue-id="2" data-venue-slug="thinktank">
+            <a href="/thinktank">
+              Thinktank
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-aston" data-venue-id="3" data-venue-slug="aston">
+            <a href="/aston">
+              Aston Hall
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-blakesley" data-venue-id="4" data-venue-slug="blakesley">
+            <a href="/blakesley">
+              Blakesley Hall
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-jewellery" data-venue-id="5" data-venue-slug="jewellery">
+            <a href="/jewellery">
+              Museum of the Jewellery Qtr
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-sarehole" data-venue-id="6" data-venue-slug="sarehole">
+            <a href="/sarehole">
+              Sarehole Mill
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-soho" data-venue-id="7" data-venue-slug="soho">
+            <a href="/soho">
+              Soho House
+            </a>
+          </li>
+          <li class="venues-widget-link venues-widget-link-weoley" data-venue-id="8" data-venue-slug="weoley">
+            <a href="/weoley">
+              Weoley Castle
+            </a>
+          </li>
+      </ul>
+
+      <div class="venues-widget-panel">
+          <div class="venues-widget-panel-item venues-widget-panel-item-bmag" data-venue-id="1">
+            <img alt="Photo bmag" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-bmag-1e0edf1e93e977b593642596287c59bd.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo bmag" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-bmag-78b822249dd4ce4242bb684193083bcf.svg" />
+              <p>
+                World class museum in the heart of Birmingham city centre.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Chamberlain Square</p>
+<p>Birmingham, B3 3DH</p>
+<p>0121 348 8038</p>
+
+                    <a class="directions-link" href="https://www.google.com/maps/d/viewer?geocode&amp;ll=52.48048,-1.90263&amp;source=s_q&amp;ie=UTF8&amp;msa=0&amp;spn=0.002869,0.006877&amp;z=17&amp;hl=en&amp;mid=zRHFleYqLyTo.k5HsxMkmrFEM">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/bmag">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-thinktank" data-venue-id="2">
+            <img alt="Photo thinktank" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-thinktank-85ca40648295690d74df868aae2d8690.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo thinktank" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-thinktank-d9730cb45a556f2d986d8d235c5979c2.svg" />
+              <p>
+                Award-winning science museum for fun-packed family days out.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Millennium Point, Curzon Street</p>
+<p>Birmingham, B4 7XG</p>
+<p>0121 348 8000</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Thinktank+(Birmingham+Science+Museum)/@52.482607,-1.88643,17z/data=!4m2!3m1!1s0x4870bc83bbb404df:0x7b40572139ead297">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/thinktank">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-aston" data-venue-id="3">
+            <img alt="Photo aston" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-aston-3b414e54b7b7b0ded7f9e92360c7a251.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo aston" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-aston-b71285959c2f9b2240c4626a575c140b.svg" />
+              <p>
+                Explore the splendour of one of the last great houses built in the Jacobean style.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Trinity Road, Aston</p>
+<p>Birmingham, B6 6JD</p>
+<p>0121 348 8100</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Aston+Park/@52.5057873,-1.8843221,670m/data=!3m1!1e3!4m2!3m1!1s0x4870bca7dbe30a63:0xc75bcd4ae34ad34f!6m1!1e1?hl=en">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/aston">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-blakesley" data-venue-id="4">
+            <img alt="Photo blakesley" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-blakesley-4dc61f381142a8dd91891f4ee190eed9.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo blakesley" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-blakesley-8441c54dcc801071a3bc5852980a2e2e.svg" />
+              <p>
+                Discover a fine Tudor house and beautiful gardens just a few miles from the heart of the city.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Blakesley Road</p>
+<p>Birmingham, B25 8RN</p>
+<p>0121 348 8120</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode&amp;q=Blakesley+Hall&amp;sll=52.506432,-1.884544">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/blakesley">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-jewellery" data-venue-id="5">
+            <img alt="Photo jewellery" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-jewellery-55badacdabb5ccf03da70517db7aed33.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo jewellery" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-jewellery-2ced786f232fc5db36e2f0b5fb9cc5b8.svg" />
+              <p>
+                A perfectly preserved workshop in Birmingham&#39;s Jewellery Quarter.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>75-80 Vyse Street</p>
+<p>Birmingham, B18 6HA</p>
+<p>0121 348 8140</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Museum+of+the+Jewellery+Quarter/@52.490589,-1.912136,17z/data=!3m1!4b1!4m2!3m1!1s0x4870bcebe5a38a41:0xabd4cccc295dab3e">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/jewellery">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-sarehole" data-venue-id="6">
+            <img alt="Photo sarehole" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-sarehole-2d4467ca9b121ed6922984f1613102fe.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo sarehole" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-sarehole-fa476bcd69634907e53661e5a8cef977.svg" />
+              <p>
+                A 250 year old working watermill famous for its association with author J.R.R Tolkien.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Cole Bank Road</p>
+<p>Birmingham, B13 0BD</p>
+<p>0121 348 8160</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Sarehole+Mill/@52.438746,-1.851711,14z/data=!4m2!3m1!1s0x4870bbe1a8e11519:0xc8bf53e156d80a83?hl=en">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/sarehole">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-soho" data-venue-id="7">
+            <img alt="Photo soho" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-soho-ff339ca568ac779945cc1ecad3180204.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo soho" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-soho-8a1c1d7d138ad17f7f1b5d914a517786.svg" />
+              <p>
+                Georgian home of the Birmingham industrialist, Matthew Boulton.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Soho Avenue (off Soho Road)</p>
+<p>Birmingham, B18 5LB</p>
+<p>0121 348 8150</p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Soho+House/@52.499598,-1.922849,17z/data=!3m1!4b1!4m2!3m1!1s0x4870bcdc8807313b:0x98652383ce33f986">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/soho">Visit website</a>
+            </div>
+          </div>
+          <div class="venues-widget-panel-item venues-widget-panel-item-weoley" data-venue-id="8">
+            <img alt="Photo weoley" class="venues-widget-panel-photo" src="/assets/venue_photos/photo-weoley-ab9656ba0253f286a68747d2863678c9.jpg" />
+
+            <div class="venues-widget-panel-description">
+              <img alt="Logo weoley" class="venues-widget-panel-logo" src="/assets/venue_logos/logo-weoley-c7867f4bed3c3fdcca082793ea3c48d9.svg" />
+              <p>
+                The ruins of an exquisite fortified manor house built 750 years ago.
+              </p>
+            </div>
+
+            <div class="venues-widget-panel-address">
+                <!-- <h3>Address</h3> -->
+                <address>
+                  <p>Alwold Road</p>
+<p>Birmingham, B29</p>
+<p>0121 348 8160 </p>
+
+                    <a class="directions-link" href="https://www.google.co.uk/maps/place/Weoley+Castle+Ruins,+Birmingham,+West+Midlands+B29+5RX/@52.4428501,-1.9697634,17z/data=!4m7!1m4!3m3!1s0x4870bdf0f9ff2e27:0xb00eeed8affebc65!2sWeoley+Castle+Ruins,+Birmingham,+West+Midlands+B29+5RX!3b1!3m1!1s0x4870bdf0f9ff2e27:0xb00eeed8affebc65?hl=en">Directions</a>
+                </address>
+            </div>
+
+            <div class="venues-widget-panel-link">
+                <a href="/weoley">Visit website</a>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
+
+    
+<div class="page-header page-header-small">
+        <div class="page-header-image" style="background-image: url(http://www.birminghammuseums.org.uk/system/images/W1siZiIsIjIwMTQvMTEvMjcvODdxODJtMjYxdl9Bc3RvbkhhbGw0MV9jcm9wNC5qcGciXSxbInAiLCJ0aHVtYiIsIjE5MjB4MTA4MCMiXV0/AstonHall41_crop4.jpg);"></div>
+</div>
+
+<main class="main--scl-home">
+
+    <div class="scl-title">
+        <h1>Schools</h1>
+    </div>
+
+    <div class="scl-navigation">
+<ul><li class=""><a href="/school_sessions">School Sessions</a></li><li class=""><a href="/school_resources">Resources</a></li><li class=""><a href="/schools/planning-a-visit">Planning a Visit</a></li><li class=""><a href="/schools/museum-in-a-box-outreach">Museum in a Box &amp; Outreach</a></li><li class=""><a href="/blog?category=schools">Latest News</a></li><li class=""><a href="/school_session/bookings/new">Bookings</a></li></ul></div>
+
+    <div class="scl-intro">
+        <div class="blurb">
+            <p>The Birmingham Museums education programme offers a wide range of stimulating and memorable on-site taught sessions, self-guided visits and outreach services at nine stunning venues, all designed to inspire and engage your students.</p>
+
+        </div>
+    </div>
+
+    <div class="scl-home-features">
+            <div class="highlight">
+                <div class="image" style="background-image: url('/system/images/W1siZiIsIjIwMTYvMDkvMjEvNm4wMTZ0em5nbF9zY2hvb2wwMTM4X2JtYWcuanBnIl0sWyJwIiwidGh1bWIiLCI1NTB4NDAwIyJdXQ/school0138%20bmag.jpg')"></div>
+
+                <h2>Taught On-site School Sessions</h2>
+
+                <div class="text-content">
+                    <p>Our <a href="/school_sessions" title="School Sessions"><strong>school sessions</strong>
+</a> support subject areas across the new National Curriculum. Our expert Learning Officers cater for groups from Early Years to Further Education and for all learning styles, including special educational needs and home education.</p>
+<p><a href="/school_sessions" title="School Sessions"><strong>Search online</strong>
+</a> or download the <a href="http://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTYvMDgvMzAvOW1tcmIxOW1wbV9CaXJtaW5naGFtX0VkdWNhdGlvbl9Ccm9jaHVyZV8yMDE2X1dFQi5wZGYiXV0/Birmingham%20Education%20Brochure_2016-WEB" title="http://www.birminghammuseums.org.uk/system/resources/W1siZiIsIjIwMTYvMDgvMzAvOW1tcmIxOW1wbV9CaXJtaW5naGFtX0VkdWNhdGlvbl9Ccm9jaHVyZV8yMDE2X1dFQi5wZGYiXV0/Birmingham%20Education%20Brochure_2016-WEB"><strong><a href="/system/resources/W1siZiIsIjIwMTcvMDcvMjAvNWZwazQ3ZnNhcF9CaXJtaW5naGFtX0VkdWNhdGlvbl9Ccm9jaHVyZV8yMDE3XzE4X1dFQl9TUFIucGRmIl1d/Schools%20Education%20Brochure%202017-18" title="Schools Education Brochure 2017 18">education brochure</a>
+</strong></a>.</p>
+<p>
+<a href="/school_sessions" title="School Sessions">Search sessions</a>
+</p>
+                </div>
+            </div>
+            <div class="highlight">
+                <div class="image" style="background-image: url('/system/images/W1siZiIsIjIwMTYvMDkvMjEvOHE1ZWh3M2h1dl90dDQ4X3NjaWVuY2Vfc2Nob29sX3Nlc3Npb24uanBnIl0sWyJwIiwidGh1bWIiLCI1NTB4NDAwIyJdXQ/tt48%20science%20school%20session.jpg')"></div>
+
+                <h2>Contact Us and Book a Visit</h2>
+
+                <div class="text-content">
+                    <p>All visits (including self-guided visits and teacher previews) require advanced booking.&#160;</p>
+<p>To make a booking or for general enquiries please contact the Education Bookings Team:</p>
+<p>Call us on <strong>0121 348 8001</strong> or email <a href="mailto:educationbookings@birminghammuseums.org.uk" title="mailto:educationbookings@birminghammuseums.org.uk"><strong>educationbookings@birminghammuseums.org.uk</strong>
+</a>
+</p>
+<p><a href="/school_session/bookings/new" title="Bookings">Contact us &amp; book a visit</a>
+</p>
+                </div>
+            </div>
+            <div class="highlight">
+                <div class="image" style="background-image: url('/system/images/W1siZiIsIjIwMTYvMTAvMjUvbHk4bjVmYnRxX3BpY19tdXNldW1faW5fYV9ib3guanBnIl0sWyJwIiwidGh1bWIiLCI1NTB4NDAwIyJdXQ/pic-museum-in-a-box.jpg')"></div>
+
+                <h2>Museum in a Box &amp; Outreach</h2>
+
+                <div class="text-content">
+                    <p>Bring Birmingham Museums to your classroom! Enrich your lessons with authentic artefacts with our <a href="http://www.birminghammuseums.org.uk/schools/museum-in-a-box-outreach/museum-in-a-box" title="http://www.birminghammuseums.org.uk/schools/museum-in-a-box-outreach/museum-in-a-box"><strong>Museum in a Box</strong>
+</a> service or book an&#160;<a href="http://www.birminghammuseums.org.uk/school_sessions?school_key_stage=21,22,34&amp;outreach=true" title="http://www.birminghammuseums.org.uk/school_sessions?school_key_stage=21,22,34&amp;outreach=true"><strong>Outreach Session</strong>
+</a>&#160;with our team for stimulating curriculum-linked interactive science shows, workshops, and mobile planetarium dome sessions.</p>
+<p><a href="/schools/museum-in-a-box-outreach" title="Museum in a Box &amp; Outreach">More information</a>
+</p>
+                </div>
+            </div>
+            <div class="highlight">
+                <div class="image" style="background-image: url('/system/images/W1siZiIsIjIwMTYvMTAvMjYvOW1sbjlkN2Q1d19ibWtpZHMuanBnIl0sWyJwIiwidGh1bWIiLCI1NTB4NDAwIyJdXQ/bmkids.jpg')"></div>
+
+                <h2>Birmingham Museums for Kids</h2>
+
+                <div class="text-content">
+                    <p>Birmingham Museums for Kids online resource is a&#160;great place for pupils to make some exciting discoveries.&#160;Join in the fun and find out about: Victorians, World War 2, Egyptians, Romans and Art. Plus discover more about our unique Heritage Sites. Flash player is required.</p>
+<p><a href="http://www.bmkids.org.uk" title="http://www.bmkids.org.uk">Birmingham Museum for Kids</a>
+</p>
+                </div>
+            </div>
+    </div>
+
+
+    <div class="scl-home-search-by-tag">
+
+        <div class="scl-subheader">
+            <!-- <a href="#">See all</a> -->
+            <h1>Search sessions &amp; resources</h1>
+        </div>
+
+        <div class="tag-lists">
+
+            <div class="tag-list tag-list--venue">
+                <h2>Venue</h2>
+                <ul>
+                        <li><a href="/sessions_and_resources?school_venue=1">Museum &amp; Art Gallery</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=2">Thinktank</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=3">Aston Hall</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=4">Blakesley Hall</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=5">Museum of the Jewellery Qtr</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=6">Sarehole Mill</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=7">Soho House</a></li>
+                        <li><a href="/sessions_and_resources?school_venue=8">Weoley Castle</a></li>
+                </ul>
+            </div>
+
+            <div class="tag-list tag-list--age">
+                <h2>Key stage</h2>
+                <ul>
+                        <li><a href="/sessions_and_resources?school_key_stage=34">Foundation</a></li>
+                        <li><a href="/sessions_and_resources?school_key_stage=21">Key Stage 1</a></li>
+                        <li><a href="/sessions_and_resources?school_key_stage=22">Key Stage 2</a></li>
+                        <li><a href="/sessions_and_resources?school_key_stage=35">Key Stage 3</a></li>
+                        <li><a href="/sessions_and_resources?school_key_stage=36">Key Stage 4</a></li>
+                        <li><a href="/sessions_and_resources?school_key_stage=37">Key Stage 5</a></li>
+                </ul>
+            </div>
+
+            <div class="tag-list tag-list--subject">
+                <h2>Subject</h2>
+                <ul>
+                        <li><a href="/sessions_and_resources?school_subject=25">Art</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=28">Citizenship</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=30">Computing</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=26">Design and Technology</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=33">Drama</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=134">Engineering</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=27">English</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=17">Geography</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=16">History</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=29">Leisure, Travel and Tourism</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=32">Maths</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=38">Music</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=31">PSHE</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=18">Science</a></li>
+                        <li><a href="/sessions_and_resources?school_subject=133">STEM</a></li>
+                </ul>
+            </div>
+
+            <div class="tag-list tag-list--topic tag-list--wide">
+
+                <h2>Topic</h2>
+
+                <ul>
+                        <li><a href="/sessions_and_resources?school_topic=111">Arts Council Collection</a></li>
+                        <li><a href="/sessions_and_resources?school_topic=20">Aston Hall</a></li>
+                        <li><a href="/sessions_and_resources?school_topic=137">Communication and language </a></li>
+                        <li><a href="/sessions_and_resources?school_topic=135">Physical Development</a></li>
+                        <li><a href="/sessions_and_resources?school_topic=19">Staffordshire Hoard</a></li>
+                        <li><a href="/sessions_and_resources?school_topic=136">Understanding the World</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div><!-- /scl-home-search-by-tag -->
+
+
+    <div class="scl-home-popular-sessions">
+
+        <div class="scl-subheader">
+            <a href="/school_sessions">See all</a>
+            <h1>Highlighted sessions</h1>
+        </div>
+
+        <div class="wrap">
+
+            <div class="scl-home-popular-session-block scl-home-popular-sessions-school">
+                <div class="image"></div>
+                <div class="title"><h3>School sessions</h3></div>
+                <ul>
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=We’re going on a Bear Hunt&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/196">We’re going on a Bear Hunt</a>
+
+    <div class="school-session-content">
+        In this re-telling of the classic story, a search for clues to the location of the elusive bear leads us to discover the signs left behind by British wildlife.
+
+Pupils will find out how footprint...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=21">
+                    Key Stage 1
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Wildlife Detectives&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/197">Wildlife Detectives</a>
+
+    <div class="school-session-content">
+        Solve a mystery on a nature reserve after a nest full of rare bird eggs are stolen by a hungry predator.
+Pupils will learn to identify common species of British animals by the signs they leave beh...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=22">
+                    Key Stage 2
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=133">
+                    STEM
+</a>            </li>
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+            <li>
+                <a href="/school_sessions?school_subject=32">
+                    Maths
+</a>            </li>
+            <li>
+                <a href="/school_sessions?school_subject=134">
+                    Engineering
+</a>            </li>
+            <li>
+                <a href="/school_sessions?school_subject=26">
+                    Design and Technology
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Faith in Birmingham: Gallery Tour&amp;venue=Museum &amp; Art Gallery">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/198">Faith in Birmingham: Gallery Tour</a>
+
+    <div class="school-session-content">
+        With the help of a Learning Officer, pupils will discover more about a wide variety of different faith groups.
+They will hunt out special objects, find out more about different faiths, use special...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=22">
+                    Key Stage 2
+</a>            </li>
+    </ul>
+
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=British Values: Gallery Tour&amp;venue=Museum &amp; Art Gallery">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/199">British Values: Gallery Tour</a>
+
+    <div class="school-session-content">
+        Pupils will explore objects and displays in our Faith in Birmingham and Birmingham history galleries to discover more about modern British values and related ideas from local history.
+We will disc...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=22">
+                    Key Stage 2
+</a>            </li>
+    </ul>
+
+
+    </div>
+</li>
+
+                </ul>
+            </div><!-- /scl-home-popular-session-block -->
+
+            <div class="scl-home-popular-session-block scl-home-popular-sessions-outreach">
+                <div class="image"></div>
+                <div class="title"><h3>Outreach sessions</h3></div>
+                <ul>
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Colour Me a Rainbow (Outreach)&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/82">Colour Me a Rainbow (Outreach)</a>
+
+    <div class="school-session-content">
+        Join us for ‘The Colourful Tale of King Opaque’ as he turns his castle from being dark and gloomy to bright and colourful.
+In this interactive story, your pupils will learn about sources of light,...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=21">
+                    Key Stage 1
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Healthy Bodies: Inside Out (Outreach)&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/123">Healthy Bodies: Inside Out (Outreach)</a>
+
+    <div class="school-session-content">
+        Meet Anna, who has a very important job to do.&amp;#160;
+She needs to find presents for her brother’s birthday which can be enjoyed by each of his senses.&amp;#160;background-color: transpare...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=21">
+                    Key Stage 1
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Night Dome (Pop-Up Planetarium)&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/126">Night Dome (Pop-Up Planetarium)</a>
+
+    <div class="school-session-content">
+        Take a magical journey through  the night sky with your pupils.
+See the sky filled with stars and watch as they change into pictures of the constellations. Listen to the story of the Great Bear an...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=21">
+                    Key Stage 1
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                        <li>
+    <a class="btn btn-primary btn-default" href="/school_session/bookings/new?learning_session=Electrifying Science (Outreach)&amp;venue=Thinktank">Book</a>
+
+    <a class="school-session-title" href="/school_sessions/131">Electrifying Science (Outreach)</a>
+
+    <div class="school-session-content">
+        Ever wanted to shock your students?
+
+See some hair-raising electrifying experiments! Pupils will have fun with both static and current electricity as they learn and replicate scientific discoveri...
+    </div>
+
+    <div class="tag-lists-small">
+            <ul class="tag-list--age">
+            <li>
+                <a href="/school_sessions?school_key_stage=22">
+                    Key Stage 2
+</a>            </li>
+    </ul>
+
+    <ul class="tag-list--subject">
+            <li>
+                <a href="/school_sessions?school_subject=18">
+                    Science
+</a>            </li>
+    </ul>
+
+    </div>
+</li>
+
+                </ul>
+            </div>
+        </div>
+    </div><!-- /scl-home-popular-sessions -->
+
+        <div class="scl-resources-list">
+            <div class="scl-subheader">
+                <!-- <a href="#">See all</a> -->
+                <h1>Highlighted resources</h1>
+            </div>
+
+            <div class="summary-blocks summary-blocks-grid is-grid-view">
+                    <div class="summary-blocks-row">
+                                <div class="summary-block">
+    <a href="/school_resources/what-is-the-staffordshire-hoard-discovering-the-staffordshire-hoard">
+        <div class="summary-block-image">
+            <img alt="Archaelogical%20dig%20ssh4" src="/system/images/W1siZiIsIjIwMTcvMDIvMjAvNjVnZ3FuZ2ZrNF9BcmNoYWVsb2dpY2FsX2RpZ19TU0g0LmpwZyJdLFsicCIsInRodW1iIiwiNTUweDQwMCMiXV0/Archaelogical%20dig%20SSH4.jpg" />
+        </div>
+
+        <div class="summary-block-text-content">
+            <div class="summary-block-title"><h2><span>Discovering the Staffordshire Hoard</span></h2></div>
+
+            <div class="summary-block-description">
+                Find out more about the Staffordshire Hoard and how it was discovered.
+            </div>
+        </div>
+
+        <div class="summary-block-lr-meta">
+                <div class="summary-block-lr-tags-subject">
+                        <span>History</span>
+                </div>
+                <div class="summary-block-lr-tags-age">
+                        <span>Key Stage 2</span>
+                        <span>Key Stage 3</span>
+                </div>
+        </div>
+</a></div>
+
+                                <div class="summary-block">
+    <a href="/school_resources/the-science-behind-the-staffordshire-hoard">
+        <div class="summary-block-image">
+            <img alt="Conservators%20at%20work%20%c2%a9birmingham%20museums%20trust%e2%80%99" src="/system/images/W1siZiIsIjIwMTYvMTEvMDkvMnc5NHpxb3cya19Db25zZXJ2YXRvcnNfYXRfd29ya19CaXJtaW5naGFtX011c2V1bXNfVHJ1c3RfLkpQRyJdLFsicCIsInRodW1iIiwiNTUweDQwMCMiXV0/Conservators%20at%20work%20%C2%A9Birmingham%20Museums%20Trust%E2%80%99.JPG" />
+        </div>
+
+        <div class="summary-block-text-content">
+            <div class="summary-block-title"><h2><span>The Science behind the Staffordshire Hoard</span></h2></div>
+                <div class="summary-block-type">
+                    <span>
+                        Staffordshire Hoard
+                    </span>
+                </div>
+
+            <div class="summary-block-description">
+                Find about the materials used in the hoard and what the conservation of the hoard has uncovered.&#160;
+            </div>
+        </div>
+
+        <div class="summary-block-lr-meta">
+                <div class="summary-block-lr-tags-subject">
+                        <span>History</span>
+                        <span>Science</span>
+                </div>
+                <div class="summary-block-lr-tags-age">
+                        <span>Key Stage 2</span>
+                        <span>Key Stage 3</span>
+                        <span>Key Stage 4</span>
+                </div>
+        </div>
+</a></div>
+
+                                <div class="summary-block">
+    <a href="/school_resources/tomorrows-engineering-week-2016-quiz">
+        <div class="summary-block-image">
+            <img alt="Steam%20engines" src="/system/images/W1siZiIsIjIwMTYvMDkvMDEvMnVyZXoyb3lkc19TdGVhbV9lbmdpbmVzLmpwZyJdLFsicCIsInRodW1iIiwiNTUweDQwMCMiXV0/Steam%20engines.jpg" />
+        </div>
+
+        <div class="summary-block-text-content">
+            <div class="summary-block-title"><h2><span>Tomorrows Engineering Week 2016 - Quiz</span></h2></div>
+
+            <div class="summary-block-description">
+                An engineering quiz featuring some of the fabulous collections at Thinktank. Created to celebrate Tomorrows engineering Week 2016.
+            </div>
+        </div>
+
+        <div class="summary-block-lr-meta">
+                <div class="summary-block-lr-tags-subject">
+                        <span>Science</span>
+                </div>
+                <div class="summary-block-lr-tags-age">
+                </div>
+        </div>
+</a></div>
+
+
+                            <div class="summary-block blank"></div>
+                    </div>
+
+            </div>
+        </div><!-- /scl-resources-list -->
+</main>
+
+
+    
+    
+
+    <footer>
+      <div class="wrapper-lower">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="footer-widget footer-widget-newsletter">
+                    <h2>Sign up for our email newsletter</h2>
+                    <form name="signup" id="signup" action="http://r1.dmtrk.net/signup.ashx" method="post">
+  <input type="hidden" name="addressbookid" value="1257593">
+  <!-- UserID - required field, do not remove -->
+  <input type="hidden" name="userid" value="208690">
+  
+  <!-- ReturnURL - when the user hits submit, they'll get sent here -->
+  <input type="hidden" name="ReturnURL" value="http://www.birminghammuseums.org.uk/thanks">
+  
+  <div class="form-group">
+    <label for="fieldName" class="control-label">Name</label>
+    <input id="fieldName" type="text" name="cd_FULLNAME" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label for="fieldEmail" class="control-label">Email</label>
+    <input id="fieldEmail" type="text" name="Email" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <input type="Submit" name="Submit" value="Subscribe" class="btn btn-default">
+  </div>
+</form>
+
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="footer-widget footer-widget-social">
+
+                    <h2>Find us on the web</h2>
+                    <ul>
+                        <li><a href="https://www.facebook.com/BirminghamMuseumandArtGallery" target="_blank">
+                            <i href="" class="fa fa-facebook"></i>
+                        </a></li>
+                        <li><a href="https://twitter.com/bm_ag" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a></li>
+                        
+                            <li><a href="https://www.instagram.com/birmingham_mag" target="_blank"><i class="fa fa-instagram"></i></a></li>
+    
+                            <li><a href="https://www.youtube.com/user/birminghammag" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="footer-widget footer-widget-donate">
+                    <h2>Donate to us with Justgiving</h2>
+                    <a href="https://www.justgiving.com/birminghammuseums" target="_blank">
+                        <img alt="Just giving" src="/assets/just-giving-5d3e78b7bfe8bb8e05c447c7a92a0348.svg" />
+                    </a>
+                </div>
+            </div><!-- /col -->
+        </div><!-- /row -->
+    </div><!-- /container -->
+</div>
+
+<div class="wrapper-sponsors">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <ul class="sponsors">
+                    <li class="sponsor-birmingham-city-council">
+                        <a href="http://www.birmingham.gov.uk/" target="_blank">
+                            <img alt="Sponsor birmingham city council" src="/assets/sponsor-birmingham-city-council-25f59e6182a069f05d1c0642754cf756.svg" /><span>Birmingham City Council</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-arts-council">
+                        <a href="http://www.artscouncil.org.uk/" target="_blank">
+                            <img alt="Sponsor arts council" src="/assets/sponsor-arts-council-26cbc21d263e07cb33ec9289ea590316.svg" /><span>Arts Council</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-heritage-lottery-fund">
+                        <a href="http://www.hlf.org.uk/" target="_blank">
+                            <img alt="Sponsor heritage lottery fund" src="/assets/sponsor-heritage-lottery-fund-b590796bce2b830ef25d855d57e2a8cf.svg" /><span>Heritage Lottery Fund</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-accredited-museum">
+                        <a href="http://www.artscouncil.org.uk/what-we-do/supporting-museums/accreditation-scheme/" target="_blank">
+                            <img alt="Sponsor accredited museum" src="/assets/sponsor-accredited-museum-b68001803afe06dfc8bdfadecbddbfdc.svg" /><span>Accredited Museum</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-designated-collection">
+                        <a href="http://www.artscouncil.org.uk/what-we-do/supporting-museums/designation-scheme/" target="_blank">
+                            <img alt="Sponsor designated collection" src="/assets/sponsor-designated-collection-4172241030846efdbb62e58c146421c5.png" /><span>Designated Collection</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-millenium-point-trust">
+                        <a href="http://www.millenniumpoint.org.uk/whats-here/millennium-point-trust" target="_blank">
+                            <img alt="Sponsor millenium point trust" src="/assets/sponsor-millenium-point-trust-14f978bf3c88078d118397e5d95c91bd.svg" /><span>Millennium Point Trust</span>
+                        </a>
+                    </li>
+
+                    <li class="sponsor-millenium-commission">
+                        <a href="https://www.gov.uk/government/organisations/millennium-commission" target="_blank">
+                            <img alt="Sponsor millenium commission" src="/assets/sponsor-millenium-commission-9b2390552387d721a3b570560c64527d.png" /><span>Millennium Commission</span>
+                        </a>
+                    </li>
+                </ul>
+            </div><!-- /col -->
+        </div><!-- /row -->
+    </div><!-- /container -->
+</div>
+
+<div class="wrapper-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+
+                <footer class="site-footer">
+                    <ul class="footer-navigation">
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                                  <li><a href="/bmag/sitemap">Sitemap</a></li>
+                            <li><a href="/website-accessibility">Website Accessibility</a></li>
+                    </ul>
+
+                    <p class="copyright">Birmingham Museums Trust © 2014</p>
+                </footer>
+
+            </div><!-- /col -->
+        </div><!-- /row -->
+    </div><!-- /container -->
+</div>
+    </footer>
+
+    
+
+    <script src="/assets/application-d936d67ad0377e7dcd5179681277b826.js"></script>
+
+  </body>
+</html>

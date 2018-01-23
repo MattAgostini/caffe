@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+<meta charset="utf-8">
+<!-- disable iPhone inital scale -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://www.cityofomaha.org/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="Administrator" />
+<title>Home - City of Omaha</title>
+<link href="//www-static3.cityofomaha.org/templates/cityofomaha/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link rel="stylesheet" type="text/css" href="//www-static2.cityofomaha.org/media/plg_jchoptimize/assets/gz/0/6b0a333673906f535b904672ae1613a9.css" />
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"c5e394a33811b380622c8005055eb497","system.paths":{"root":"","base":""}}</script>
+<!--[if lt IE 9]><script src="//www-static.cityofomaha.org/media/system/js/html5fallback.js" type="text/javascript"></script><![endif]-->
+<!-- main css -->
+<!-- media queries css -->
+<!--slider-style-->
+<!-- html5.js for IE less than 9 -->
+<!--[if lt IE 9]>
+			<script src="//www-static2.cityofomaha.org/templates/cityofomaha/js/html5.js"></script>
+		<![endif]-->
+<!-- css3-mediaqueries.js for IE less than 9 -->
+<!--[if lt IE 9]>
+			<script src="//www-static3.cityofomaha.org/templates/cityofomaha/js/css3-mediaqueries.js"></script>
+		<![endif]-->
+</head>
+<body class="loading" id="top">
+<!-- Google Tag Manager V0.0.10 from Tools for Joomla -->
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-5BJBR8'
+height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<!-- End Google Tag Manager -->
+<div class="topnavbg">
+<nav id="top-nav">
+<a id="pull" href="#" class="responsiveMenu4 toggleMenu isDesktop" style="display: inline-block;"></a>
+<div class="moduletable">
+<ul class="nav menu">
+<li class="item-214 first"><a href="http://www.omaha-douglasconnection.com/" target="_blank" >Omaha-Douglas Home</a></li><li class="item-215"><a href="http://www.omaha-douglasconnection.com/index.php?option=com_content&amp;view=article&amp;id=54&amp;Itemid=39" target="_blank" >For Residents</a></li><li class="item-216"><a href="http://www.omaha-douglasconnection.com/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=50" target="_blank" >For Visitors</a></li><li class="item-217"><a href="http://www.omaha-douglasconnection.com/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=7" target="_blank" >For Business</a></li><li class="item-218 last"><a href="http://www.omaha-douglasconnection.com/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=20" target="_blank" >Government</a></li></ul>
+</div>
+<div id="responsiveMenuTheme4Cnt">
+<input type="hidden" class="maxMobileWidth" value="800" name="maxMobileWidth">
+<div class="moduletable">
+<div class="subnav responsiveMenuTheme4 isDesktop clearfix">
+<ul class="nav nav-pills menu responsiveMenuTheme4 isDesktop clearfix"
+		>
+<li class="item-62 current active"><a href="/" >Home</a></li><li class="item-81"><a  href="http://omaha-douglasconnection.com/"
+	target="_blank" >Omaha-Douglas Home</a></li><li class="item-139"><a  href="http://mayors-office.cityofomaha.org/"
+	target="_blank" >Mayor's Office</a></li><li class="item-72"><a href="/city-departments" >Departments</a></li><li class="item-73"><a  href="http://www.cityofomaha.org/humanresources/employment"
+	target="_blank" >Employment</a></li><li class="item-74"><a  href="http://citycouncil.cityofomaha.org/"
+	target="_blank" >City Council</a></li><li class="item-134"><a  href="http://cityclerk.cityofomaha.org/city-council/agendas"
+	target="_blank" >City Council Agendas</a></li><li class="item-87"><a  href="http://www.municode.com/resources/gateway.aspx?productid=10945"
+	target="_blank" >Municipal Code</a></li><li class="item-152"><a  href="https://planninghcd.cityofomaha.org/neighborhoods"
+	target="_blank" >Neighborhood Associations</a></li><li class="item-85"><a href="/contact-us" >Website Issues</a></li></ul>
+</div>	</div>
+</div>
+</nav>
+</div>
+<div id="shell">
+<div id="pagewrap">
+<header id="header" class="clearfix">
+<div class="search-panel">
+<span class="search">	<div class="moduletable">
+<div class="search mod_search102">
+<form action="/" method="post" class="form-inline">
+<label for="mod-search-searchword102" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword102" maxlength="200"  class="inputbox search-query input-medium" type="search" size="130" placeholder="SEARCH" /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">GO</button>	<input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="51" />
+</form>
+</div>
+</div>
+</span>
+<span class="trends">
+<div class="moduletable">
+<h3>Trending:</h3>
+<!-- This is the view part of max-hits -->
+<div class = 'trending' >
+<p class = 'trending-container'>
+<!--<li > <span class = 'trending-heading' >TRENDING:</span> </li>-->
+<a href="http://www.cityofomaha.org/index.php/search-results?searchword=city">
+					City                </a>
+<a href="http://www.cityofomaha.org/index.php/search-results?searchword=omaha">
+					Omaha                </a>
+</p>
+</div>
+</div>
+</span>
+<span class="lang-skip">
+<div class="moduletable">
+<noscript>Javascript is required to use <a href="http://gtranslate.net/">GTranslate</a> <a href="http://gtranslate.net/">multilingual website</a> and <a href="http://gtranslate.net/">translation delivery network</a></noscript>
+<div id="google_translate_element2"></div>
+<select onchange="doGTranslate(this);"><option value="">Language</option><option value="en|en" style="font-weight:bold;background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -0px;padding-left:18px;">English</option><option value="en|af" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -688px;padding-left:18px;">Afrikaans</option><option value="en|sq" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -560px;padding-left:18px;">Albanian</option><option value="en|ar" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -16px;padding-left:18px;">Arabic</option><option value="en|hy" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -832px;padding-left:18px;">Armenian</option><option value="en|az" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -848px;padding-left:18px;">Azerbaijani</option><option value="en|eu" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -864px;padding-left:18px;">Basque</option><option value="en|be" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -768px;padding-left:18px;">Belarusian</option><option value="en|bg" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -32px;padding-left:18px;">Bulgarian</option><option value="en|ca" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -384px;padding-left:18px;">Catalan</option><option value="en|zh-CN" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -48px;padding-left:18px;">Chinese (Simplified)</option><option value="en|zh-TW" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -64px;padding-left:18px;">Chinese (Traditional)</option><option value="en|hr" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -80px;padding-left:18px;">Croatian</option><option value="en|cs" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -96px;padding-left:18px;">Czech</option><option value="en|da" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -112px;padding-left:18px;">Danish</option><option value="en|nl" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -128px;padding-left:18px;">Dutch</option><option value="en|et" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -576px;padding-left:18px;">Estonian</option><option value="en|tl" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -400px;padding-left:18px;">Filipino</option><option value="en|fi" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -144px;padding-left:18px;">Finnish</option><option value="en|fr" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -160px;padding-left:18px;">French</option><option value="en|gl" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -592px;padding-left:18px;">Galician</option><option value="en|ka" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -880px;padding-left:18px;">Georgian</option><option value="en|de" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -176px;padding-left:18px;">German</option><option value="en|el" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -192px;padding-left:18px;">Greek</option><option value="en|ht" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -896px;padding-left:18px;">Haitian Creole</option><option value="en|iw" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -416px;padding-left:18px;">Hebrew</option><option value="en|hi" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -208px;padding-left:18px;">Hindi</option><option value="en|hu" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -608px;padding-left:18px;">Hungarian</option><option value="en|is" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -784px;padding-left:18px;">Icelandic</option><option value="en|id" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -432px;padding-left:18px;">Indonesian</option><option value="en|ga" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -736px;padding-left:18px;">Irish</option><option value="en|it" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -224px;padding-left:18px;">Italian</option><option value="en|ja" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -240px;padding-left:18px;">Japanese</option><option value="en|ko" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -256px;padding-left:18px;">Korean</option><option value="en|lv" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -448px;padding-left:18px;">Latvian</option><option value="en|lt" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -464px;padding-left:18px;">Lithuanian</option><option value="en|mk" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -800px;padding-left:18px;">Macedonian</option><option value="en|ms" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -704px;padding-left:18px;">Malay</option><option value="en|mt" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -624px;padding-left:18px;">Maltese</option><option value="en|no" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -272px;padding-left:18px;">Norwegian</option><option value="en|fa" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -672px;padding-left:18px;">Persian</option><option value="en|pl" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -288px;padding-left:18px;">Polish</option><option value="en|pt" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -304px;padding-left:18px;">Portuguese</option><option value="en|ro" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -320px;padding-left:18px;">Romanian</option><option value="en|ru" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -336px;padding-left:18px;">Russian</option><option value="en|sr" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -480px;padding-left:18px;">Serbian</option><option value="en|sk" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -496px;padding-left:18px;">Slovak</option><option value="en|sl" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -512px;padding-left:18px;">Slovenian</option><option value="en|es" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -352px;padding-left:18px;">Spanish</option><option value="en|sw" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -720px;padding-left:18px;">Swahili</option><option value="en|sv" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -368px;padding-left:18px;">Swedish</option><option value="en|th" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -640px;padding-left:18px;">Thai</option><option value="en|tr" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -656px;padding-left:18px;">Turkish</option><option value="en|uk" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -528px;padding-left:18px;">Ukrainian</option><option value="en|ur" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -912px;padding-left:18px;">Urdu</option><option value="en|vi" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -544px;padding-left:18px;">Vietnamese</option><option value="en|cy" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -752px;padding-left:18px;">Welsh</option><option value="en|yi" style="background:url('//www-static.cityofomaha.org/modules/mod_gtranslate/tmpl/lang/16l.png') no-repeat scroll 0 -816px;padding-left:18px;">Yiddish</option></select>	</div>
+<a href="#content_pane">Skip Navigation</a>
+</span>
+</div>
+<div class="howdoi-box">
+<a class="howdoi">How Do I?</a>
+<div class="howdoiArea" style="visibility: hidden;">
+<ul class="nav menu">
+<li class="item-229 first"><a href="http://cityclerk.cityofomaha.org/city-council/agendas" target="_blank" title="View City Council Agenda" >View City Council Agendas</a></li><li class="item-228"><a href="http://hr.cityofomaha.org/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=4" target="_blank" title="Employment" >Apply for Employment </a></li><li class="item-226"><a href="http://publicworks.cityofomaha.org/" target="_blank" title="Report a Pothole" >Report a Pothole</a></li><li class="item-225"><a href="http://graffiti.cityofomaha.org/" target="_blank" title="Report Graffiti" >Report Graffiti</a></li><li class="item-231"><a href="http://permits.cityofomaha.org" target="_blank" title="Apply for a Permit" >Apply for a Permit</a></li><li class="item-232"><a href="http://mayors-office.cityofomaha.org/boards-and-commissions" target="_blank" title="Apply for City Boards and Commissions" >Apply for City Boards and Commissions</a></li><li class="item-227"><a href="/renew-pet-licenses" title="Pet License Renewal" >Renew Pet Licenses</a></li><li class="item-233"><a href="https://finance.cityofomaha.org/2017-adopted-budget" target="_blank" title="View City Budgets" >View City Budgets</a></li><li class="item-262"><a href="http://cityclerk.cityofomaha.org/" target="_blank" >Request Public Documents </a></li><li class="item-230"><a href="http://www.wasteline.org/" target="_blank" title="Trash Collection" >Trash Collection</a></li><li class="item-345"><a href="https://www.dogis.org" target="_blank" >View Interactive Map</a></li><li class="item-346 last"><a href="https://data-dogis.opendata.arcgis.com" target="_blank" >Download GIS data</a></li></ul>
+</div>
+</div>
+<div class="moduletable">
+<div class="custom"  >
+<img class="omaha-transparent-home" alt="City of Omaha - Nebraska" src="//www-static2.cityofomaha.org/images/omaha-transparent.png"></div>
+</div>
+<span class="logo">
+<a href="/"><img src="//www-static3.cityofomaha.org/templates/cityofomaha/images/logo.png" alt="City of Omaha" /></a>
+</span>
+<h1 class="w-title">City of Omaha<span>Omaha, Nebraska</span></h1>
+<div id="slideshow">
+<div id="main">
+<div class="slider">
+<div class="flexslider">
+<ul class="slides">
+<li>
+<h1>Solid Waste Collections for Th ...</h1>
+<p>Contact: Public Works Environment Quality Control at 402-444-5238
+GARBAGE, YARD WASTE AND RECYCLABL ...</p>
+<a href="/latest-news/440-solid-waste-collections-for-thanksgiving-week-2017" class="readmore">Read More</a>
+</li>
+<li>
+<h1>Omaha Ranks in Digital Cities  ...</h1>
+<p>(November 9)
+The Center for Digital Government &nbsp;has announced the winners of the 2017 Digital  ...</p>
+<a href="/latest-news/439-omaha-ranks-in-digital-cities-top-5" class="readmore">Read More</a>
+</li>
+<li>
+<h1>Santa Stops on Holiday Island</h1>
+<p>(November 20)
+The most famous traveler in the world will become a new fixture on Holiday Island dur ...</p>
+<a href="/latest-news/438-santa-stops-on-holiday-island" class="readmore">Read More</a>
+</li>
+<li>
+<h1>YouTube Video Presents Mislead ...</h1>
+<p>(November 15, 2017)
+&nbsp;A video produced by Mode Shift and posted on YouTube on November 9 presen ...</p>
+<a href="/latest-news/437-youtube-video-presents-misleading-information" class="readmore">Read More</a>
+</li>
+<li>
+<h1>Anonymous Donation Honors Vete ...</h1>
+<p>(November 9, 2017)
+The Omaha Parks Department has received a $200,000 donation to create an identic ...</p>
+<a href="/latest-news/436-anonymous-donation-honors-veterans-at-memorial-park" class="readmore">Read More</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="social-media"></div>
+</header>
+<!-- /#header -->
+<nav id="mid-nav" class="clearfix">
+<span class="contact-number">	<div class="moduletable">
+<div class="custom"  >
+<p>402-444-7000</p></div>
+</div>
+</span>
+<div class="moduletable">
+<ul class="nav menu">
+<li class="item-219 first"><a href="http://www.douglascounty-ne.gov/" target="_blank" >Douglas County</a></li><li class="item-220 last"><a href="http://www.cityofomaha.org/" target="_blank" >City of Omaha</a></li></ul>
+</div>
+</nav>
+<div id="content-container" class="clearfix">
+<div id="content">
+<div class="callout">
+<article class="cal-facebook">	<div class="moduletable">
+<h3>Hotline</h3>
+<div class="custom"  >
+<figure class="callout-image"><img src="//www-static.cityofomaha.org/images/mayorshotline2.png" alt="Mayor Hotline" /></figure>
+<p>In 2016, the hotline staff answered thousands of your questions and requests. Each month, we post the Hotline Report on this page.</p>
+<p><a href="http://mayors-office.cityofomaha.org/mayor-s-hotline" target="_blank" class="callout-button">Click Here</a></p></div>
+</div>
+</article>
+<article class="cal-twitter">	<div class="moduletable">
+<h3>Twitter</h3>
+<div class="custom"  >
+<figure class="callout-image"><img src="//www-static2.cityofomaha.org/images/twitter.png" alt="Twitter" /></figure>
+<p>To read our latest tweets and news, click the below link.</p>
+<p><a href="https://twitter.com/Jean_Stothert" target="_blank" class="callout-button">Click Here</a></p></div>
+</div>
+</article>
+<article class="cal-crimestop">	<div class="moduletable">
+<h3>Strategic Plan</h3>
+<div class="custom"  >
+<figure class="callout-image"><img src="//www-static3.cityofomaha.org/images/strategic_plan.jpg" alt="Strategic Plan" /></figure>
+<p>Our strategic plan, created in 2014, clearly outlines our vision and priorities. It requires us to constantly review our progress and hold ourselves accountable to the taxpayers.</p>
+<p><a href="/strategic-plan" class="callout-button">Click Here</a></p></div>
+</div>
+</article>
+</div>
+<article class="container-text" id="content_pane">
+<header>
+<div class="font-resizer">Text Size&nbsp; &nbsp;<a onClick="smaller();return false;">-</a> | <a onClick="larger();return false;">+</a></div>
+<div class="share-social-icons">
+</div>
+</header>
+<div id="system-message-container">
+</div>
+<div class="item-page" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="en-GB" />
+<div class="page-header">
+<h1 itemprop="name">
+												A message from Omaha Mayor Jean Stothert									</h1>
+</div>
+<div class="icons">
+</div>
+<div itemprop="articleBody">
+<p><img src="//www-static.cityofomaha.org/images/mayorstothert.jpg" alt="mayorstothert" style="margin-left: 10px; float: right;" />Thank you for visiting the City of Omaha website. We have completed a total makeover of our website to provide accurate information and resources to you, our customers. We strive to always provide excellent customer service, whether you are applying for a building permit or license, browsing our job openings, or looking for police reports and other public documents. Open and transparent government is your right and our responsibility.</p>
+<p>You will find many new features throughout our site designed to make it quick and easy to access information and communicate with us. If you have ideas, suggestions or requests, please contact the Mayor&rsquo;s Hotline, <span id="cloak45067a3d7fbd8a7a4a9453675d264c54">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="application/javascript" src="//www-static.cityofomaha.org/media/plg_jchoptimize/assets/gz/0/bf04d9d65e28c91147c9be5662bc254e.js"></script>
+<script type='text/javascript'>document.getElementById('cloak45067a3d7fbd8a7a4a9453675d264c54').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy45067a3d7fbd8a7a4a9453675d264c54='h&#111;tl&#105;n&#101;'+'&#64;';addy45067a3d7fbd8a7a4a9453675d264c54=addy45067a3d7fbd8a7a4a9453675d264c54+'c&#105;ty&#111;f&#111;m&#97;h&#97;'+'&#46;'+'&#111;rg';var addy_text45067a3d7fbd8a7a4a9453675d264c54='h&#111;tl&#105;n&#101;'+'&#64;'+'c&#105;ty&#111;f&#111;m&#97;h&#97;'+'&#46;'+'&#111;rg';document.getElementById('cloak45067a3d7fbd8a7a4a9453675d264c54').innerHTML+='<a '+path+'\''+prefix+':'+addy45067a3d7fbd8a7a4a9453675d264c54+'\'>'+addy_text45067a3d7fbd8a7a4a9453675d264c54+'<\/a>';</script> or 402-444-5555. We look forward to assisting you.</p>	</div>
+</div>
+</article>
+<div class="info-container">	<div class="moduletable">
+<h3>News and Information</h3>
+<div id="newsmain">
+<div class="slider">
+<div class="newsslider">
+<ul class="slides">
+<li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/440-solid-waste-collections-for-thanksgiving-week-2017">Solid Waste Collections for Thanksgiving Week 2017</a></h4>
+<span>2017-11-21 14:22:52</span>
+<p>Contact: Public Works Environment Quality Control at 402-444-5238
+GARBAGE, YARD WASTE AND RECYCLABLE MATERIAL COLLECTION SCHEDULE FOR THANKSGIVING WEEK
+The Public Works Department, Environmental Quality Division, annou ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/439-omaha-ranks-in-digital-cities-top-5">Omaha Ranks in Digital Cities Top 5</a></h4>
+<span>2017-11-20 19:31:57</span>
+<p>(November 9)
+The Center for Digital Government &nbsp;has announced the winners of the 2017 Digital Cities Survey. Now in its 17th year, the annual survey recognizes cities using technology to improve citizen services, e ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/438-santa-stops-on-holiday-island">Santa Stops on Holiday Island</a></h4>
+<span>2017-11-20 18:55:54</span>
+<p>(November 20)
+The most famous traveler in the world will become a new fixture on Holiday Island during the kickoff of Omaha’s Holiday Lights Festival.
+A twenty-foot tall high Santa-in-the-box will join the other Holi ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/437-youtube-video-presents-misleading-information">YouTube Video Presents Misleading Information</a></h4>
+<span>2017-11-16 19:43:48</span>
+<p>(November 15, 2017)
+&nbsp;A video produced by Mode Shift and posted on YouTube on November 9 presents a series of inaccurate statements and assumptions about the 52nd and Northwest Radial Highway intersection.
+Mode Shi ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/436-anonymous-donation-honors-veterans-at-memorial-park">Anonymous Donation Honors Veterans at Memorial Park</a></h4>
+<span>2017-11-09 20:37:57</span>
+<p>(November 9, 2017)
+The Omaha Parks Department has received a $200,000 donation to create an identical replica of the Korea Vietnam Peace Memorial at Memorial Park.
+Mayor Jean Stothert and Parks Director Brook Bench mad ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/435-opd-forensics-division-receives-national-accreditation">OPD Forensics Division Receives National Accreditation</a></h4>
+<span>2017-11-07 21:14:03</span>
+<p>(November 7, 2017)
+The Omaha Police Department's Forensic Investigations Section has received national accreditation from the ANSI-ASQ Accreditation Board (ANAB); the largest and most influential forensic accrediting bo ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/434-city-partners-with-tech-startup-to-track-public-opinion">City Partners with Tech Startup to Track Public Opinion</a></h4>
+<span>2017-11-01 22:41:47</span>
+<p>(November 1, 2017)
+&nbsp;What’s a Warple?
+Warple Inc. is an Omaha-based technology startup providing live, real-time, always current views of what people think.&nbsp;Warple is also a product, which gives everyone a v ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/433-city-expands-glass-recycling-options">City Expands Glass Recycling Options</a></h4>
+<span>2017-10-12 16:43:35</span>
+<p>(October 12, 2017)
+Two new recycling drop-off locations opened today in Omaha, expanding the number of sites that accept glass to nine.
+“As our city grows, the need for this service has increased and we are respondin ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/432-food-for-fines-waives-library-late-fees">"Food for Fines" Waives Library Late Fees</a></h4>
+<span>2017-09-29 19:02:49</span>
+<p>(September 29, 2017)
+Omaha Public Library will accept food donations during the week of October 15-22 to benefit the Alliance for a Better Omaha, a collaborative of Heart Ministry Center, Together, and Food Bank for the ...</p>
+</div>
+</div></li><li>
+<div class="news-blog clearfix">
+<span class="news-thumb-image"><img src="//www-static2.cityofomaha.org/images/news-thumb.png" alt=""></span>
+<div class="news-desc">
+<h4><a href="/latest-news/431-chief-schmaderer-promotes-12-to-command-positions">Chief Schmaderer Promotes 12 to Command Positions</a></h4>
+<span>2017-09-28 02:09:51</span>
+<p>(September 27, 2017)
+Omaha Police Chief Todd Schmaderer promoted twelve police officers today, including two to Deputy Chief.
+"This is a special time to be Chief, to have the opportunity to elevate those who are deserv ...</p>
+</div>
+</div></li> </ul>
+</div>
+</div>
+</div>
+<!--<div class="newsflash">
+
+	<h4 class="newsflash-title">
+			Solid Waste Collections for Thanksgiving Week 2017		</h4>
+
+
+
+
+<p><strong>Contact: Public Works Environment Quality Control at 402-444-5238</strong></p>
+<p style="margin-bottom: 1em; font-size: 15.68px; font-family: Helvetica, Arial, FreeSans, sans-serif; line-height: 25.088px; text-align: center; background-color: #ffffff;" align="center"><span style="font-size: 14pt; font-family: Calibri, sans-serif; letter-spacing: -0.1pt;">GARBAGE, YARD WASTE AND RECYCLABLE MATERIAL<br /> </span><span style="font-family: Calibri, sans-serif; font-size: 14pt; letter-spacing: -0.1pt; line-height: 25.088px;">COLLECTION SCHEDULE FOR THANKSGIVING WEEK</span></p>
+<p>The Public Works Department, Environmental Quality Division, announces that there will be no garbage, yard waste, or recyclable material collection on Thanksgiving Day, Thursday, November 23, 2017.&nbsp; The collection schedule will change as a result of the holiday according to the schedule below:</p>
+<table border="1" style="width: 100%; border-collapse: collapse;" summary="" cellspacing="0" cellpadding="3">
+<tbody>
+<tr valign="top">
+<td>
+<p>&nbsp;<strong>Date</strong></p>
+</td>
+<td>
+<p>&nbsp;<strong>Collection Area Served</strong></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;Monday, November 20</p>
+</td>
+<td>
+<p>&nbsp;regular Monday area collections</p>
+</td>
+<td>
+<p>&nbsp;Set out by 6:00 AM</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;Tuesday, November 21</p>
+</td>
+<td>
+<p>&nbsp;regular Tuesday area collections&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;Set out by 6:00 AM&nbsp;</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;Wednesday, November 22</p>
+</td>
+<td>
+<p>&nbsp;regular Wednesday area collections&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;Set out by 6:00 AM&nbsp;</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;<strong>Thursday, November 23</strong></p>
+</td>
+<td>
+<p>&nbsp;<strong>Thanksgiving Day</strong>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;<strong>NO COLLECTIONS</strong>&nbsp;</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;Friday, November 24</p>
+</td>
+<td>
+<p>&nbsp;Thursday area collections&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;Set out by 6:00 AM&nbsp;</p>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<p>&nbsp;Saturday, November 25</p>
+</td>
+<td>
+<p>&nbsp;Friday area collections&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;Set out by 6:00 AM&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Collections will be on the regular schedule the following week, November 27 through December 1.</p>
+<p>Omaha citizens may direct questions to the Environmental Quality Division information line at 402-444 5238. An answering service, through the same number, can assist during evenings, weekends and holidays. Citizens may sign up for e-mail notification of impending solid waste collection holidays or service delays related to weather by going t</p>
+<p>An answering service can assist during evenings, weekends and holidays through the same number. Citizens may sign up for e-mail notification of impending solid waste collection holidays or service delays related to weather by going to <strong><a href="http://join.wasteline.org" target="_blank" rel="noopener" title="">join.wasteline.org</a></strong></p>
+<p>&nbsp;</p>
+
+	<h4 class="newsflash-title">
+			Omaha Ranks in Digital Cities Top 5		</h4>
+
+
+
+
+<p>(November 9)</p>
+<p>The Center for Digital Government &nbsp;has announced the winners of the 2017 Digital Cities Survey. Now in its 17th year, the annual survey recognizes cities using technology to improve citizen services, enhance transparency and encourage citizen engagement.</p>
+<p>Omaha moved up to #5 on the list of cities with populations of 250,000-499,999. Last year, Omaha ranked #10.</p>
+<p>“This year’s leading digital cities are leveraging technology to connect disadvantaged citizens with critical information and services, promote citizen inclusion in important government processes and share government data with the public,” said Teri Takai, Executive Director of the Center for Digital Government. “Thanks to the efforts of these innovative cities, citizens can now meaningfully interact with city government more easily than in any other time in history. Congratulations to the winners!”</p>
+<p>The survey honors cities in five population classifications this year.</p>
+<p><strong>250,000 – 499,999 population category:</strong><br /> 1st City of Virginia Beach, VA<br /> 2nd City of Durham, NC<br /> 3rd City of Greensboro, NC<br /> 4th City of Kansas City, MO<br /> 4th City of Sacramento, CA<br /> <strong>5th City of Omaha, NE</strong><br /> 5th City of Riverside, CA<br /> 6th City of Chandler, AZ<br /> 6th City of Long Beach, CA<br /> 7th City of Atlanta, GA<br /> 8th City of Mesa, AZ<br /> 9th City of Cincinnati, OH<br /> 10th City of Henderson, NV</p>
+<p><strong>500,000 or more population category:</strong><br /> 1st City of Los Angeles, CA<br /> 2nd City of Albuquerque, NM<br /> 3rd City of San Diego, CA<br /> 4th City of Charlotte, NC<br /> 4th City of Philadelphia, PA<br /> 5th City of Louisville, KY<br /> 6th City and County of Denver, CO<br /> 6th City of Seattle, WA<br /> 7th City of Boston, MA<br /> 7th City of Phoenix, AZ<br /> 8th City of Austin, TX<br /> 8th City of San Jose, CA<br /> 9th City of Tucson, AZ<br /> 10th City of El Paso, TX&nbsp;</p>
+<p><strong>125,000 – 249,999 population category:</strong><br /> 1st City of Cape Coral, FL<br /> 2nd City of Winston-Salem, NC<br /> 3rd City of Norfolk, VA<br /> 4th City of Bellevue, WA<br /> 5th City of Baton Rouge, LA<br /> 6th City of Scottsdale, AZ<br /> 7th City of Modesto, CA<br /> 7th City of Tacoma, WA<br /> 8th City of Augusta, GA<br /> 9th City of Pasadena, CA<br /> 10th City of Alexandria, VA<br /> 10th City of Hampton, VA</p>
+<p><strong>75,000 – 124,999 population category:</strong><br /> 1st City of Lynchburg, VA<br /> 2nd City of Boulder, CO<br /> 3rd City of Lee's Summit, MO<br /> 4th City of Independence, MO<br /> 4th City of Roanoke, VA<br /> 5th City of Sugar Land, TX<br /> 6th City of Pueblo, CO<br /> 6th City of Westminster, CO<br /> 7th City of Allen, TX<br /> 8th City of Columbia, MO<br /> 9th City of Brooklyn Park, MN<br /> 10th City of Bloomington, IN<br /> 10th City of San Leandro, CA&nbsp;</p>
+<p><strong>Up to 75,000 population category</strong>:<br /> 1st City of Tamarac, FL<br /> 2nd Village of Pinehurst, NC<br /> 3rd Village of Schaumburg, IL<br /> 4th City of Punta Gorda, FL<br /> 5th City of Williamsburg, VA<br /> 6th City of DeSoto, TX<br /> 7th City of Ithaca, NY<br /> 7th Town of Marana, AZ<br /> 8th City of Palo Alto, CA<br /> 9th City of North Port. FL<br /> 10th City of Salem, VA</p>
+<p><br /> <br /> SELECTED SURVEY FINDINGS:<br /> <br /> <strong>2017 Top ten technologies and initiatives which are likely to have an increased focus in the next year:</strong></p>
+<ol>
+<li>Cybersecurity</li>
+<li>Citizen Engagement/ Experience</li>
+<li>Mobility/ Mobile Devices/ Applications</li>
+<li>Transparency/ Open Data/ Data Governance</li>
+<li>Disaster Recovery/ Continuity of Operations</li>
+<li>Hire and Retain Competent IT Personnel</li>
+<li>Networking: Broadband &amp; Connectivity</li>
+<li>Budget/ Cost Control</li>
+<li>Business Intelligence/ Analytics</li>
+<li>Cloud Computing</li>
+</ol>
+<p><br /> The&nbsp;<strong>Center for Digital Government&nbsp;</strong>is a national research and advisory institute on information technology policies and best practices in state and local government.<br /> <br /> The Center is a division of e.Republic, the nation’s only media and research company focused exclusively on state and local government and education.</p>
+
+	<h4 class="newsflash-title">
+			Santa Stops on Holiday Island		</h4>
+
+
+
+
+<p>(November 20)</p>
+<p>The most famous traveler in the world will become a new fixture on Holiday Island during the kickoff of Omaha’s Holiday Lights Festival.</p>
+<p>A twenty-foot tall high Santa-in-the-box will join the other Holiday Island decorations that fill the island in the Gene Leahy Mall. Visit Omaha, Omaha’s Tourism Authority, created Holiday Island last year as a way of thanking the local community for all it does to welcome and entertain the 12.3 million out-of-towners who visit the city every year.</p>
+<p>“We’re also adding a little candy cane-ification to the area around Holiday Island this year,” said Keith Backsen, Visit Omaha’s Executive Director. “Some of the light poles and concrete bridge columns will be transformed into non-edible sweet treats as a fun way to draw more attention to Holiday Island.”</p>
+<p>The Holiday Island decorations represent experiences out-of-towners can enjoy when they visit our city, and that locals can enjoy 365 days a year:</p>
+<ul>
+<li>20 foot tall Santa-in-the-box: representing all the visitors who travel to Omaha every year.</li>
+<li>Giraffe with a chef hat: Omaha’s world-class zoo and dining scene.</li>
+<li>Artist’s paint palette: Art museums, galleries and artists that make Omaha a cultural oasis in the plains.</li>
+<li>Baseball glove: Omaha sporting events, from national and world competitions to regional and local tournaments.</li>
+<li>Cello and ballet slippers: Performances, stage productions, performing arts organizations, theaters and venues.</li>
+<li>Poinsettia tree and LEGO Bob: Omaha’s nature scene, from the riverfront and biking trails to the botanical gardens, lakes and city parks.</li>
+<li>Train: Omaha’s history and all of the places dedicated to preserving and sharing it.</li>
+<li>Gingerbread family: The variety of family activities sprinkled throughout the city.</li>
+</ul>
+<p>Installation of Holiday Island begins November 20 and is expected to take two days. Decorations will remain through the first week of January 2017. Everyone is encourage to check out Holiday Island and share their photos with #OmahaWeekend.</p>
+<p>Go to <a href="https://www.visitomaha.com/holidayisland/">VisitOmaha.com/HolidayIsland</a> for ideas on fun things to do throughout the holidays with visiting friends and family.</p>
+<p>Visit Omaha partnered with Clark Creative Group and Heartland Scenic Studio to create and install holiday island.</p>
+
+	<h4 class="newsflash-title">
+			YouTube Video Presents Misleading Information		</h4>
+
+
+
+
+<p>(November 15, 2017)</p>
+<p>&nbsp;A video produced by Mode Shift and posted on YouTube on November 9 presents a series of inaccurate statements and assumptions about the 52<sup>nd</sup> and Northwest Radial Highway intersection.</p>
+<p>Mode Shift describes the intersection as “poorly designed, mediocre, neglected and unsafe”, with a high speed limit, and unmarked crosswalks “that discourage good behavior”. &nbsp;The City’s crosswalk painting program is called “absurd and fickle”.</p>
+<p>An excerpt from the video states: “Every street design manual considers the painting of all crosswalks at intersections like this to be critical. That the City of Omaha argues against such a basic and well established requirement is disastrous and beyond comprehension”</p>
+<p>The City policy provides for regular, scheduled repainting of all school crosswalks twice annually.</p>
+<p>There are two marked “school crossing” pedestrian crosswalks on the South and East sides of the intersection, providing the safest route to the neighborhood schools.&nbsp; The crosswalks at 52<sup>nd</sup> and Northwest Radial were painted in March and August this year.&nbsp;&nbsp; In 2016, the same crosswalks were painted in March and October.</p>
+<p>In addition, the Nebraska Department of Transportation plans to resurface NW Radial Highway in 2019 (it is designated as Highway 64, a state highway).&nbsp; The work will include more durable, longer-lasting pavement markings.&nbsp; Until then, the City will continue to repaint the crosswalks on the semi-annual schedule.</p>
+<p>There is also a pedestrian crosswalk with a signal on 52<sup>nd</sup> Street, north of the intersection to allow pedestrians to cross to and from Gallagher Park.</p>
+<p>The Mode Shift video also says, “Most schools get a reduction in the speed limit and flashing lights at crucial times, not just simple school crossing signs.”</p>
+<p>A change in the posted speed limit on a state highway requires approval from the Nebraska Department of Transportation.&nbsp; The Manual for Uniform Traffic Control Devices (MUTCD) recommends flashing lights in front of a school, but not on an adjacent road.&nbsp; The NW Radial Highway is not in front of any of the schools in the neighborhood.</p>
+<p>Mode Shift also complains that the pedestrian crossing signals should be improved to “consider pedestrians a customer and not a nuisance”, and “It’s obvious to pedestrians that these taxing signal restrictions are for the privilege of motorists.” Specifically, the concern is pedestrians may have to wait up to 90 seconds for the signal to change.&nbsp;</p>
+<p>The current “push-button” style pedestrian signals provide a safe crosswalk. &nbsp;The signals at this intersection are timed with signal phasing across the city’s traffic signal system.</p>
+<p>Only two citizen reports have been made about the 52<sup>nd</sup> and NWS radial intersection, both on Tuesday (11/14) evening. There have no other reports or suggestions for improvements made to the Mayor’s Office, the Public Works Department or to the Omaha City Council.</p>
+<p>The Mayor’s Hotline and/or the CitySourced mobile app are the recommended methods to report concerns to any city department. Social media posts do not provide an opportunity for a direct response.</p>
+
+	<h4 class="newsflash-title">
+			Anonymous Donation Honors Veterans at Memorial Park		</h4>
+
+
+
+
+<p>(November 9, 2017)</p>
+<p>The Omaha Parks Department has received a $200,000 donation to create an identical replica of the Korea Vietnam Peace Memorial at Memorial Park.</p>
+<p>Mayor Jean Stothert and Parks Director Brook Bench made the announcement Wednesday night to an audience of veterans at the 2<sup>nd</sup> Annual Veterans Shine On Lighting Ceremony at Memorial Park.</p>
+<p>“Our philanthropic community supports our public parks very generously,” said Mayor Stothert.&nbsp;&nbsp; “This monument is a symbol of military service and sacrifice, so we are especially grateful to the donor for acknowledging the Americans who served.”</p>
+<p>The original statue was installed in 1976 and restored 20 years ago.&nbsp; Many veterans of the Korean and Vietnam wars donated the funds to pay for the restoration. (<a href="http://www.publicartomaha.org/art/info/73/Korea-Vietnam+Peace+Memorial">http://www.publicartomaha.org/art/info/73/Korea-Vietnam+Peace+Memorial</a>)</p>
+<p>The replica will be built by Jensen Conservation Services; work started yesterday and will be completed in 2018.</p>
+<p>The City will install sidewalks leading from the park’s circle drive to the new statue.</p>
+<p>“Memorial Park has great historic significance and we have a responsibility to maintain and preserve that history,” said Parks Director Brook Bench.&nbsp; “As a veteran myself, this donation means a lot to me and all veterans of these wars and their families.”</p>
+<p>&nbsp;</p>
+
+	<h4 class="newsflash-title">
+			OPD Forensics Division Receives National Accreditation		</h4>
+
+
+
+
+<p>(November 7, 2017)</p>
+<p>The Omaha Police Department's Forensic Investigations Section has received national accreditation from the ANSI-ASQ Accreditation Board (ANAB); the largest and most influential forensic accrediting body in the United States and throughout North America.</p>
+<p>The scope of accreditation includes crime scene investigation and documentation, latent print examination, evidence collection, 3D measurement and forensic mapping, presumptive testing and incident reconstruction.&nbsp; ANAB will monitor and conduct on-going assessments of the division to ensure the standards are maintained.</p>
+<p>"With the accreditation of the OPD's Forensic Investigations Unit, coupled with the forensic testing merger with the University of Nebraska Medical Center, the Omaha Police Department has now completed our long term forensic strategic plan. I want to thank the dedicated professionals of the OPD's Forensic Services Unit for their hard work to bring full accreditation to fruition," said Chief Todd Schmaderer.</p>
+<p>In September, the City of Omaha, Omaha Police Department and University of Nebraska Medical Center have reached an agreement to move additional police crime lab services to UNMC. &nbsp;UNMC will initially provide drug testing and will continue DNA testing which has been the practice for more than 15 years. Blood alcohol and urine toxicology testing are expected to be added by the first of the year.&nbsp; The agreement took effect October 1; already the turaround time for test results averages just 3-4 days.</p>
+<p>Chief Schmaderer said the short turnaround time for test results is critical for police investigators and prosecutors.&nbsp; “Timely turnaround is very important for suspects and in the courtroom,” said Schmaderer.</p>
+<p><a href="https://mayors-office.cityofomaha.org/city-news/308-opd-shifts-crime-lab-services-to-unmc">https://mayors-office.cityofomaha.org/city-news/308-opd-shifts-crime-lab-services-to-unmc</a></p>
+
+	<h4 class="newsflash-title">
+			City Partners with Tech Startup to Track Public Opinion		</h4>
+
+
+
+
+<p>(November 1, 2017)</p>
+<p>&nbsp;What’s a Warple?</p>
+<p>Warple Inc. is an Omaha-based technology startup providing live, real-time, always current views of what people think.&nbsp;Warple is also a product, which gives everyone a voice and provides a way to see how their opinion compares to the collective public opinion.</p>
+<p>Mayor Jean Stothert will partner with Warple to provide another opportunity for community engagement to measure opinion on issues of current public interest.&nbsp;</p>
+<p>The first five-part Warple is now on the Mayor’s website, <a href="https://mayors-office.cityofomaha.org">https://mayors-office.cityofomaha.org</a>, Facebook.com/jean.stothert &nbsp;and Twitter @jean_stothert.&nbsp; It measures support for current and future solid waste collection.</p>
+<ul>
+<li>I support Oma-Gro composting</li>
+<li>I would recycle more with a covered container</li>
+<li>I know about and/or use the recycle drop-off locations</li>
+<li>I am satisfied with the services provided by Omaha’s solid waste contractor</li>
+<li>I would like yard waste collected separately from trash/solid waste</li>
+</ul>
+<p>“This is a topic that affects everyone,” said Mayor Jean Stothert.&nbsp; “We have been gathering public opinion for more than a year through telephone surveys, a pilot program, open houses and the Mayor’s Hotline.&nbsp; Warple is one more way citizens can provide feedback on this important topic.”</p>
+<p>The city is currently developing a Request for Bids (RFB) for the next solid waste contract. The current contract with Waste Management expires in 2020.&nbsp;</p>
+<p>"Warple measures public opinion today and monitors changes over time.&nbsp; We can reach large audiences quickly and provide valuable information to Mayor Stothert and her team," said Warple Founder and CEO Jeff Cahill.&nbsp; "We all want our opinions to matter.&nbsp; Warple makes it easy to get involved in decisions that affect our city."</p>
+<p><strong>About Warple, Inc. -</strong> Founded in Omaha, NE in 2016 Warple, Inc. (<a href="http://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.warple.com&amp;esheet=51427660&amp;newsitemid=20160926006303&amp;lan=en-US&amp;anchor=www.warple.com&amp;index=2&amp;md5=d02cc429c614fe8c42a38efa5a43f2ea">www.warple.com</a>) is a private company committed to providing new ways to engage communities and bring big data analytics to the individual.&nbsp; Warple's technology is effortlessly embedded into existing platforms and web sites to engage community where they are.&nbsp; Warple is committed to social change &amp; empowerment through the democratization of information. Warple is disrupting the polling and survey industry by providing live, real-time, always current views of what people think - at a fraction of traditional costs.</p>
+
+	<h4 class="newsflash-title">
+			City Expands Glass Recycling Options		</h4>
+
+
+
+
+<p>(October 12, 2017)</p>
+<p>Two new recycling drop-off locations opened today in Omaha, expanding the number of sites that accept glass to nine.</p>
+<p>“As our city grows, the need for this service has increased and we are responding to you,” said Mayor Jean Stothert.</p>
+<p>The expansion is possible through a partnership between the City of Omaha, Keep Omaha Beautiful, and Ripple Glass of Kansas City, Missouri.</p>
+<p>The new locations are HyVee at 178<sup>th</sup> &amp; Pacific and Fresh Thyme at 14949 Evans Plaza. These new containers are bright purple and follow the Ripple Glass theme used in a five-state area. Omaha’s other glass containers will also be converted to the purple theme.</p>
+<p>In late 2016, Keep Omaha Beautiful wrote a grant for approximately $14,000 &nbsp;to the Nebraska Recycling Council to purchase new collection containers.&nbsp; The council received the grant funds from the Nebraska Environmental Trust, a beneficiary of the Nebraska Lottery.</p>
+<p>“The Nebraska Environmental Trust is very pleased to be a partner in this project to recycle glass in Nebraska’s largest city, Omaha.&nbsp; Every bottle that is recycled is one less bottle in a local landfill,” said Nebraska Environmental Trust Executive Director Mark Brohman.</p>
+<p>“The Nebraska Recycling Council was excited to provide Nebraska Environmental Trust grant funds to Keep Omaha Beautiful for these containers, and support their partnership with our friends at Ripple Glass,” said Nebraska Recycling Council Executive Director Julie Diegel. “Glass recycling in this large population center is more convenient than ever, no more difficult than a trip to the grocery store and it will have a profound impact on resource conservation, economic development, and landfill longevity in the region.”</p>
+<p>In 2016, more than 1,200 tons of glass were collected for recycling at drop-off locations. (The City discontinued curbside glass recycling collections in 2006 due to hazards from broken glass and contaminants when it is not separated from other recyclables.) The glass is shipped to Ripple Glass where it is manufactured into new products. &nbsp;Last year, the city paid River City Recycling approximately $79,000 to empty the recycling containers and prepare the glass for shipment to Ripple.&nbsp;</p>
+<p>“Ripple Glass is excited to expand our partnership with the City of Omaha to provide residents with convenient locations to recycle their glass,” said Regional Business Manager Sarah Luebe.&nbsp;“All of the glass recycled in Omaha is processed and made into fiberglass insulation and new bottles, which reduces waste, conserves landfill space and supports area businesses.”&nbsp;</p>
+<p>“It has been exciting to see so many different organizations come together to help make this expansion of the City’s glass recycling program happen. With more glass collection drop-off sites spread throughout Omaha, we are making it much easier for residents to recycle their glass and demonstrate their commitment to diverting material from the landfill,” said Keep Omaha Beautiful Executive Director Chris Stratman.</p>
+<p>Stratman says when the new containers are used to capacity,&nbsp; an additional 350 tons of glass will be collected annually.</p>
+<p>The other recycling sites in Omaha are at these locations:</p>
+<p><span style="text-decoration: underline;">FULL-SERVICE SITES:</span></p>
+<p>20801 Elkhorn Drive</p>
+<p>26<sup>th</sup> &amp; Douglas (NE corner)</p>
+<p>75<sup>th</sup> &amp; Corby</p>
+<p>River City Recycling - 6404 S. 60<sup>th </sup></p>
+<p>Firstar Fiber - 10330 I Street</p>
+<p><span style="text-decoration: underline;">GLASS ONLY SITES:</span></p>
+<p>2725 N. 62<sup>nd</sup> Street</p>
+<p>Heartland of America Park - 800 Douglas</p>
+<p>Information about the City’s recycling program is available on OmahaRecycles.com and in the fall edition of “Wasteline”, which will be available online Friday October 13 at <a href="http://www.wasteline.org">www.wasteline.org</a>.&nbsp;&nbsp; The Wasteline publication will be delivered to homes next week. To learn more about Ripple Glass and its recycling process, watch the Ripple video:</p>
+<p><a href="https://www.youtube.com/watch?time_continue=156&amp;v=u_sqo-uOeG0" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?time_continue%3D156%26v%3Du_sqo-uOeG0&amp;source=gmail&amp;ust=1507912615686000&amp;usg=AFQjCNGhgJv-zMiFFnzk_0s9W9uFNHpDCw">https://www.youtube.com/watch?<wbr />time_continue=156&amp;v=u_sqo-<wbr />uOeG0</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+	<h4 class="newsflash-title">
+			"Food for Fines" Waives Library Late Fees		</h4>
+
+
+
+
+<p>(September 29, 2017)</p>
+<p>Omaha Public Library will accept food donations during the week of October 15-22 to benefit the Alliance for a Better Omaha, a collaborative of Heart Ministry Center, Together, and Food Bank for the Heartland. The Food for Fines program offers OPL cardholders the opportunity to donate non-expired canned goods and other non-perishable foods in exchange for credit toward overdue fines on their accounts. For each food item donated, two dollars in current fines will be waived, up to a maximum of 10 items or $20.</p>
+<p>Patrons who have accrued fines at OPL are encouraged to return long overdue items and have their fines waived for a donation of a food item.</p>
+<p>“This is an exciting opportunity for OPL to welcome patrons who have fines on their accounts back to the library,” said OPL Borrower Services Manager Megan Klein-Hewett. “It’s a great way for them to reduce or eliminate fines while providing a service to our community.”</p>
+<p>Donations must be brought to the service desk of any Omaha Public Library location. A library card or photo ID must be shown at the time of donation to receive a fine waiver. Food for Fines waivers apply toward late fines only. Customers with questions about their account status and whether or not the waiver will apply should contact their local library branch. &nbsp;</p>
+<p>Visit&nbsp;<strong><a href="http://omahalibrary.org/" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://omahalibrary.org&amp;source=gmail&amp;ust=1506796907718000&amp;usg=AFQjCNExS866hQ-CIG0nzwgOT9pflRj2MQ">omahalibrary.org</a></strong>&nbsp;for more information on these and additional events and resources at Omaha Public Library’s 12 locations.</p>
+
+	<h4 class="newsflash-title">
+			Chief Schmaderer Promotes 12 to Command Positions		</h4>
+
+
+
+
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">(September 27, 2017)</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Omaha Police Chief Todd Schmaderer promoted twelve police officers today, including two to Deputy Chief.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">"This is a special time to be Chief, to have the opportunity to elevate those who are deserving to carry on our mission," said Schmaderer. "We are in good shape because the leadership of our city has put us in a position to succeed."</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Captain Kerry Newman has been promoted to Deputy Chief of Police.&nbsp; He will oversee the Police Services Bureau. His previous assignments included Captain of the Northeast Precinct and the Criminal Investigations Bureau.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Captain Scott Gray, previously assigned to the Northeast and Northwest Precincts has been promoted to Deputy Chief and will be in charge of Internal Affairs. Chiefs Newman and Gray both joined the Omaha Police Department in 1996 and are both graduates of the FBI National Academy.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Also promoted:</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Lt. Laurie Scott promoted to Captain of Administrative Information. Scott previously was Commander of the Training Academy. She joined OPD in 1992.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Lt. Ken Kanger promoted to Captain.&nbsp; Kanger will be assigned to the Criminal Investigations Bureau-Special Operations.&nbsp; He previously supervised the Gang Unit. He has been an Omaha Police officer since 1997.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Sgt. Amy Oetter promoted to Lieutenant.&nbsp; She will work in the Uniform Patrol Bureau Southwest Precinct. Lt. Oetter joined OPD in 2001.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Sgt.&nbsp;Tracy Scherer promoted to Lieutenant will be assigned to the Special Victims Unit.&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Sgt. Steve Meister joined OPD in 2006. He has been promoted to Lieutenant in the Uniform Patrol Bureau, Southwest Precinct.&nbsp;</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Officer Kara Platt promoted to Sergeant, Uniform Patrol Bureau, Southwest Precinct,&nbsp; She joined OPD in 2001.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Officer Brendan O'Flynn promoted to Sergeant.&nbsp; Flynn has been a member of the SWAT team and an OPD officer since 2005.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Officer Tara Ackerson joined OPD in 2007. She has been promoted to Sergeant in the Uniform Patrol Bureau, Northwest Precinct.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Officer Neal Bonacci promoted to Sergeant in the Uniform Patrol Bureau, Southwest Precinct. He joined OPD in 2010.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Officer Jessica Swanson promoted to Sergeant, assigned to the Police Services Bureau.&nbsp; Sgt. Swanson has been on the department since 2007.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">The officers promoted today,&nbsp;six women and six men, are also community volunteers, many have Master's Degrees and have received numerous awards and commendations for outstanding police work.&nbsp; Many are volunteers with the PACE program, Police Athletics for Community Engagement. "It's phenomenal when an agency has diversity to rise to the top," said Schmaderer.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Mayor Jean Stothert congratulated the officers and thanked their families,&nbsp;"Each of you chose a career in service that puts you in harms way every time you come to work.&nbsp;Your&nbsp; job gives you the opportunity to change lives and save lives.&nbsp;It is especially important to thank your families for the risk you take and the job you do.&nbsp;You need a strong network to help you with the challenges you face on the job."</span></p>
+<p>&nbsp;</p>
+</div>-->
+</div>
+</div>
+</div>
+<aside id="sidebar">
+<section class="left-nav">
+<div class="moduletable">
+<div class="subnav">
+<ul id="mega-106" class="mega-menu">
+<li class="item-62 current active"><a href="/" >Home</a></li><li class="item-81"><a  href="http://omaha-douglasconnection.com/"
+	target="_blank" >Omaha-Douglas Home</a></li><li class="item-139"><a  href="http://mayors-office.cityofomaha.org/"
+	target="_blank" >Mayor's Office</a></li><li class="item-72"><a href="/city-departments" >Departments</a></li><li class="item-73"><a  href="http://www.cityofomaha.org/humanresources/employment"
+	target="_blank" >Employment</a></li><li class="item-74"><a  href="http://citycouncil.cityofomaha.org/"
+	target="_blank" >City Council</a></li><li class="item-134"><a  href="http://cityclerk.cityofomaha.org/city-council/agendas"
+	target="_blank" >City Council Agendas</a></li><li class="item-87"><a  href="http://www.municode.com/resources/gateway.aspx?productid=10945"
+	target="_blank" >Municipal Code</a></li><li class="item-152"><a  href="https://planninghcd.cityofomaha.org/neighborhoods"
+	target="_blank" >Neighborhood Associations</a></li><li class="item-85"><a href="/contact-us" >Website Issues</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section class="location-panel">
+<div class="moduletable">
+<div id="mod_kweather_124">&nbsp </div>
+</div>
+<div class="l-buttons">
+<div class="moduletable">
+<div class="custom"  >
+<p style="text-align: center;"><br /><a href="https://get.adobe.com/reader/" target="_blank" rel="noopener noreferrer" title="Get Adobe Reader"><img src="//www-static3.cityofomaha.org/images/get_adobe_reader.png" alt="get adobe reader" width="auto" /></a><br /><br /><a href="https://get.adobe.com/flashplayer/" target="_blank" rel="noopener noreferrer" title="Get Media Player"><img src="//www-static.cityofomaha.org/images/get_media_player.png" alt="Get Adobe media player" width="auto" /></a></p></div>
+</div>
+</div>
+</section>
+<section class="accuweather">
+</section>
+</aside>
+<p id="back-top"><a href="#top"><span>&nbsp;</span></a></p>
+</div>
+</div>
+<!-- /#pagewrap -->
+<footer class="footer-shell">
+<div id="footer">
+<div class="sitemap-links">	<div class="moduletable">
+<div class="subnav">
+<ul id="mega-106" class="mega-menu">
+<li class="item-62 current active"><a href="/" >Home</a></li><li class="item-81"><a  href="http://omaha-douglasconnection.com/"
+	target="_blank" >Omaha-Douglas Home</a></li><li class="item-139"><a  href="http://mayors-office.cityofomaha.org/"
+	target="_blank" >Mayor's Office</a></li><li class="item-72"><a href="/city-departments" >Departments</a></li><li class="item-73"><a  href="http://www.cityofomaha.org/humanresources/employment"
+	target="_blank" >Employment</a></li><li class="item-74"><a  href="http://citycouncil.cityofomaha.org/"
+	target="_blank" >City Council</a></li><li class="item-134"><a  href="http://cityclerk.cityofomaha.org/city-council/agendas"
+	target="_blank" >City Council Agendas</a></li><li class="item-87"><a  href="http://www.municode.com/resources/gateway.aspx?productid=10945"
+	target="_blank" >Municipal Code</a></li><li class="item-152"><a  href="https://planninghcd.cityofomaha.org/neighborhoods"
+	target="_blank" >Neighborhood Associations</a></li><li class="item-85"><a href="/contact-us" >Website Issues</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix">
+<div class="footer_address">	<div class="moduletable">
+<div class="custom"  >
+<p><span class="f-location"> <strong>Omaha-Douglas Civic Center</strong><br /> 1819 Farnam Street<br /> Omaha, NE 68183 <br /><br /> Phone: 402-444-7000</span></p></div>
+</div>
+</div>
+<div class="f-socialmedia">
+</div>
+</div>
+</div>
+</footer>
+<!-- /#footer -->
+</div>
+<script type="application/javascript" src="//www-static.cityofomaha.org/media/plg_jchoptimize/assets/gz/1/bf04d9d65e28c91147c9be5662bc254e.js" defer ></script>
+</body>
+</html>

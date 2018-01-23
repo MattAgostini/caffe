@@ -1,0 +1,368 @@
+<!DOCTYPE html><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<html  lang="en-US" class="no-js">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2013                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<title>
+	404ErrorPage
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta id="MetaDescription" name="DESCRIPTION" content="Quality Major Appliance Service &amp; Repair in Vancouver, Calgary and Upper Fraser Valley. " /><meta id="MetaKeywords" name="KEYWORDS" content="Appliance Repair, Refrigerator Repair, Laundry Repair, Vancouver, Calgary, Upper Fraser Valley,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2012 Totem Appliance &amp; Refrigeration, Ltd" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Vancouver &amp; Calgary Appliance Repair - Totem Appliance Service" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=16" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/mpresponsivetot/skin.css?cdv=16" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/mpresponsivetot/container.css?cdv=16" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DarkKnight/container.css?cdv=16" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=16" type="text/css" rel="stylesheet"/><script src="/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=16" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=16" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/0/Images/totem-favicon-t2.ico' type='image/x-icon' />     
+        
+			    <script type="text/javascript">
+			      var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', 'UA-29736103-1']);
+			      _gaq.push(['_trackPageview']);
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+			    </script>
+        
+		  <link href="/Portals/_default/Skins/mpresponsivetot/css/normalize.min.css" media="screen" type="text/css" rel="stylesheet"></link><meta name="viewport" content="width=device-width"></head>
+<body id="Body">
+    
+    <form method="post" action="/404ErrorPage.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a8f95decb-d716-4257-bc42-c772df7173e5%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="x8AsFFbOLyx44zBPvGFdcHa4SksAd/5hiIWsOtj3TBFwcvTnIW60nzLqETBZGTzIkf/GwPn5zsRup+za/e9mrU656I9ex4VSfwcnrjAVRMwiCgtOSHgT6MfDaOLNogUielBHRbw7QBz8Q/3umsuSL9KtoYTXH5Qn5wEKyKJL1Wf8ArEu4jPss+5OXzk=" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=16" type="text/javascript"></script><script src="/Resources/Shared/Scripts/dnn.jquery.js?cdv=16" type="text/javascript"></script><script src="/js/dnncore.js?cdv=16" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=16" type="text/javascript"></script>
+        
+        <!--40Fingers Stylehelper Conditions Return False -->
+<!--40Fingers Stylehelper Conditions Return False -->
+<!--40Fingers Stylehelper Conditions Return False -->
+<!--40Fingers Stylehelper Conditions Return False -->
+<!--40Fingers Stylehelper Conditions Return True-->
+<!--40Fingers Stylehelper Conditions Return True-->
+<script src="/Portals/_default/Skins/mpresponsivetot/"js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script src="/Portals/_default/Skins/mpresponsivetot/Js/css3-mediaqueries.js"></script>
+<![endif]-->
+
+
+     <link href="http://externalcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<div class="site">
+<div class="header-container">
+   
+         
+	<header class="wrapper clearfix">
+ 
+   
+	<div class="Header Row">
+				<div id="dnn_Header1Pane" class="Header1Pane Pane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1653"><a name="1653"></a>
+<div class="DNNContainer_without_title">
+	<div id="dnn_ctr1653_ContentPane"><!-- Start_Module_1653 --><div id="dnn_ctr1653_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1653_HtmlModule_lblContent" class="Normal">
+	<img alt="" src="/portals/0/Images/totem-logo-long.png" />
+<div class="clear"></div>
+</div>
+
+</div><!-- End_Module_1653 --></div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-1665"><a name="1665"></a>
+<div class="DNNContainer_without_title">
+	<div id="dnn_ctr1665_ContentPane"><!-- Start_Module_1665 --><div id="dnn_ctr1665_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1665_HtmlModule_lblContent" class="Normal">
+	<div class="mobile"><a href="tel:866-933-1333">(866) 933-1333</a></div>
+</div>
+
+</div><!-- End_Module_1665 --></div>
+</div></div></div>	
+		<div id="dnn_Header2Pane" class="Header2Pane Pane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1674"><a name="1674"></a>
+<div class="DNNContainer_without_title">
+	<div id="dnn_ctr1674_ContentPane"><!-- Start_Module_1674 --><div id="dnn_ctr1674_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1674_HtmlModule_lblContent" class="Normal">
+	<div style="padding-bottom: 10px;" class="asidesocial"> <div style="text-align: right;"><span style="font-size: 16px;"><a re_target="_blank" target="_blank" href="http://www.facebook.com/pages/Totem-Appliance-Refrigeration-Ltd/156294711049051"><img longdesc="totem appliance service facebook logo link" src="/portals/0/social%20media/facebook_logo%20copy1.png" alt="facebook logo" /></a>&nbsp;&nbsp;<a re_target="_blank" target="_blank" href="https://twitter.com/TotemAppliance"><img longdesc="totem appliance twitter account link image" src="/portals/0/social%20media/TwitterIcon%20copy.png" alt="twitter account link" /></a>&nbsp;&nbsp;<a re_target="_blank" target="_blank" href="http://www.linkedin.com/company/2485983?trk=tyah"><img longdesc="totem appliance service account link image" src="/portals/0/social%20media/linkedin-logo%20copy1.png" alt="linkedin account link image" /></a>&nbsp;&nbsp;<a target="_blank" rel="publisher" href="//plus.google.com/+Totemappliance"><img src="/portals/0/social%20media/gplus-icon%20copy.png" alt="Google Plus Icon" /></a></span></div> </div>
+</div>
+
+</div><!-- End_Module_1674 --></div>
+</div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-1656"><a name="1656"></a>
+<div class="DNNContainer_without_title">
+	<div id="dnn_ctr1656_ContentPane"><!-- Start_Module_1656 --><div id="dnn_ctr1656_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1656_HtmlModule_lblContent" class="Normal">
+	<div class="aside">
+<p style="text-align: right;"><span style="font-size: 12px; line-height: 18px;">Metro Vancouver: <span class="nowrap"><a href="tel:866-933-1333">(866) 933-1333</a></span></span><br />
+<span style="font-size: 12px; line-height: 18px;">Calgary: <a href="tel:877-700-6800">(877) 700-5414</a></span><br />
+<span style="font-size: 12px; line-height: 18px;">Fraser Valley: <span class="nowrap"><a href="tel:888-909-5160">(888) 909-5160</a></span></span></p>
+</div>
+</div>
+
+</div><!-- End_Module_1656 --></div>
+</div></div></div>	
+<div class="clear">,/div>		
+	<div id="search">
+			<span id="dnn_dnnSearch_ClassicSearch">
+    
+    
+    <input name="dnn$dnnSearch$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSearch_txtSearch" class="NormalTextBox" onkeydown="return __dnn_KeyDown(&#39;13&#39;, &#39;javascript:__doPostBack(%27dnn$dnnSearch$cmdSearch%27,%27%27)&#39;, event);" />
+	<a id="dnn_dnnSearch_cmdSearch" class="SearchButton" href="javascript:__doPostBack(&#39;dnn$dnnSearch$cmdSearch&#39;,&#39;&#39;)">Search</a>
+</span>
+
+
+
+        </div><!---/search--> 
+		<nav>
+
+			<!-- DDRmenu v02.00.01 - Simple template --><ul>
+
+	<li>
+	
+		<a href="http://totemappliance.com/">Home</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/ServiceRequest.aspx">Service Request</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/OurServices.aspx">Our Services</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/Blog.aspx">Blog</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/Parts.aspx">Parts</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/Recalls.aspx">Recalls</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/Specials.aspx">Specials</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/EClub.aspx">E-Club</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/Testimonials.aspx">Testimonials</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/IndustryNews.aspx">Industry News</a>
+	
+	</li>
+
+	<li>
+	
+		<a href="http://totemappliance.com/ContactUsCareers.aspx">Contact Us / Careers</a>
+	
+	</li>
+
+</ul>
+
+
+		</nav>
+
+
+	</div>
+	</header>
+
+</div>
+
+        
+
+<div class="main-container">
+        
+	 
+	<div class="main wrapper clearfix">
+
+
+ 
+	<div id="dnn_ContainerPane" class="Top Container DNNEmptyPane"></div>  
+		<article>
+                
+			<div id="dnn_ContentPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1687"><a name="1687"></a>
+<div class="c_DNN6_SubTitle c_DNN6">
+    <h2 class="Title Grey"><span id="dnn_ctr1687_dnnTITLE_titleLabel" class="Head">Sorry Wrong Page</span>
+
+
+<img src="/Portals/_default/Containers/DarkKnight//Images/Title-BG-Grey2.png" class="TitleBar" alt="" /></h2>
+    <div id="dnn_ctr1687_ContentPane"><!-- Start_Module_1687 --><div id="dnn_ctr1687_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1687_HtmlModule_lblContent" class="Normal">
+	Sorry, the page you are looking for cannot be found and might have been removed, had its name changed, or is temporarily unavailable. <a href="http://totemappliance.com">It is recommended that you start again from the homepage by clicking on this text</a>, or calling us at the appropriate number for your area as listed at the top right of the page.
+</div>
+
+</div><!-- End_Module_1687 --></div>
+</div></div></div>
+
+		</article>
+
+
+		<aside>
+
+			<div id="dnn_RightPane" class="DNNEmptyPane"></div>
+
+		</aside>
+
+
+<div class="clear"></div>
+
+<div class="aside">
+<div class="Expand Row">
+			
+			
+			
+		</div>
+</div>
+
+<div id="dnn_BottomContainerPane" class="Top Container"><div class="DnnModule DnnModule-DNN_HTML DnnModule-1660"><a name="1660"></a>
+<div class="Container Dark Rounded NoTitle JM" id="ctr1660">
+	
+	<div id="dnn_ctr1660_ContentPane" class="ContainerContentPane"><!-- Start_Module_1660 --><div id="dnn_ctr1660_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr1660_HtmlModule_lblContent" class="Normal">
+	<div class="float; left">
+<div style="padding: 0px 20px;">
+<div class="Row" style="text-align: center;"> <strong>Metro Vancouver</strong><br />
+Vancouver and Lower Fraser Valley<br />
+5950 Imperial Street, Burnaby, B.C.<br />
+V5J4M2<br />
+Phone: <a href="tel:866-933-1333">1-866-933-1333</a><br />
+Service Email:<br />
+service@totemappliance.com </div>
+</div>
+</div>
+<div class="float; left">
+<div style="padding: 0px 20px;">
+<div class="Row" style="text-align: center;"><strong>Greater Calgary</strong><br />
+Calgary, Airdrie, Strathmore, <br />
+High River, Bragg Creek, Cochrane<br />
+Unit 2160 &ndash; 3961 52nd Ave NE,&nbsp;Calgary,<br />
+AB T3J 0K7<br />
+Phone: <a href="tel:877-700-5414">1-877-700-5414</a><br />
+Service Email: <br />
+cgyservice@totemappliance.com </div>
+</div>
+</div>
+<div class="float; left">
+<div style="padding: 0px 20px;">
+<div class="Row" style="text-align: center;"> <strong>Upper Fraser Valley</strong><br />
+Mission, Abbotsford, Chilliwack<br />
+Rosedale, Harrison<br />
+Phone: <a href="tel:888-909-5160">1-888-909-5160</a><br />
+Service Email:<br />
+service@totemappliance.com</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div><!-- End_Module_1660 --></div>
+</div>
+</div></div>
+
+	</div> <!-- #main -->
+
+
+</div> <!-- #main-container -->
+
+        
+
+<div class="footer-container">
+
+
+	<footer class="wrapper Row">
+                
+		<div id="dnn_ContainerPaneBottom" class="Top Container DNNEmptyPane"></div> 
+			
+<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
+    <a id="dnn_dnnLogin_enhancedLoginLink" title="Login" class="LoginLink" onclick="return dnnModal.show(&#39;http://totemappliance.com/login.aspx?returnurl=/404ErrorPage.aspx&amp;popUp=true&#39;,/*showReturn*/true,300,650,true,&#39;&#39;)" href="http://totemappliance.com/login.aspx?returnurl=%2f404ErrorPage.aspx">Login</a>
+</div><!--close loginGroup-->
+            	</footer>
+
+</div>
+
+        <script src="/Portals/_default/Skins/mpresponsivetot/js/main.js"></script>
+
+
+
+</div>
+
+<!-- jQuery -->
+
+<script src="/Portals/_default/Skins/mpresponsivetot/js/modernizr.js"></script>
+  
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+  
+  <!-- FlexSlider -->
+  <script defer src="/Portals/_default/Skins/mpresponsivetot/js/jquery.flexslider.js"></script>
+  
+  <script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+
+
+  <!-- Syntax Highlighter -->
+  <script type="text/javascript" src=" /Portals/_default/Skins/mpresponsivetot/js/shCore.js"></script>
+  <script type="text/javascript" src=" /Portals/_default/Skins/mpresponsivetot/js/shBrushXml.js"></script>
+  <script type="text/javascript" src=" /Portals/_default/Skins/mpresponsivetot/js/shBrushJScript.js"></script>
+  
+  <!-- Optional FlexSlider Additions -->
+  <script src=" /Portals/_default/Skins/mpresponsivetot/js/jquery.easing.js"></script>
+  <script src=" /Portals/_default/Skins/mpresponsivetot/js/jquery.mousewheel.js"></script>
+  <script defer src=" /Portals/_default/Skins/mpresponsivetot/js/js/demo.js"></script>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>

@@ -1,0 +1,1136 @@
+ 
+
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+	
+
+
+<script>
+var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+
+if(isMobile.any()){
+    window.location.href="http://www.boloji.com/index.cfm?md=Mobile&sd=Categories&CategoryID=17";
+} else {
+    // Not mobile
+}
+</script>
+<DOCTYPE HTML>
+		<html>
+		<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+		<meta http-equiv="content-language" content="en">
+		<link rel="shortcut icon" href="http://www.boloji.com/images/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="http://www.boloji.com/includes/stylecss1.css">
+		<script type="text/javascript" src="http://www.boloji.com/ckeditor/adapters/jquery.js"></script>
+		<script type="text/javascript" src="http://www.boloji.com/ckeditor/ckeditor.js"></script>
+		<meta name="robots" content="index, follow" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Last-Modified" content="0" />
+		<meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+		<meta name="googlebot" content="index, follow" />
+		<meta property="og:image" content="http://www.boloji.com/images/logo.gif" />
+		
+  <title>Boloji.com - Parenting </title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="boloji,kabir,bolography,current,affairs,politics,foreign,policies,opinions,society,parenting,poetry,Dances,Festivals,Architecture,hinduism,astrology,buddhism,ayurveda,history,places" />
+  <meta name="verify-v1" content="oeDCK5JxFZEqszQm4RDqoSsfCZj6bCtTq1tuYCoo9tM=" /> 
+<style type="text/css"> 
+		.style1{
+			text-align: center;
+			background-color: #DADCBA;
+		}
+		.style2{
+			text-align: center;
+			background-color: #FFCC66;
+		}
+		.style4{
+			background-color:#FFCC66;
+		}
+		.style5{
+			border-collapse:collapse;
+		}
+		.style8{
+			border-style: solid;
+			border-width: 0;
+			margin-left: 6px;
+			margin-right: 6px;
+		}
+		.style10{
+			font-family:Arial;
+			font-size:10pt;
+			color:black;
+		}
+		.style11{
+			font-weight: normal;
+		}
+		.style14{
+			border-collapse: collapse;
+		}
+		.style15{
+			margin-left: 6px;
+			margin-right: 6px;
+		}
+		.style18{
+			background-color: #DADCBA;
+			text-align: center;
+		}
+		.style20{
+			font-weight: bold;
+			text-align: center;
+		}
+		</style>
+		<map name="signup">
+		<area alt="SignUp" coords="485,49,599,81" href="http://www.boloji.com/index.cfm?md=MemberLogin&sd=LoginForm">
+		</map>
+		</head>
+		<body topmargin="0"><table border="0" align="center" width="1100" cellpadding="0" cellspacing="0" bordercolor="Red">
+	    <tr> 
+		<td align="left" valign="top">
+	    <table border="0" cellpadding="2" cellspacing="2" width="100%" style="border-collapse: collapse" bordercolor="#111111"  id="table1">
+	    <tr>
+	    <td align="left" valign="top" width="198">
+	    <table align="left" cellpadding="0" cellspacing="0">
+		<tr>
+		<td><img alt="Boloji.com" src="http://www.boloji.com/images/boloji.gif"  /></td>
+		</tr>
+		</table>
+	    </td>
+	    <td align="right" valign="bottom" rowspan="2">
+	    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveAd -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7815076224920535"
+     data-ad-slot="7101219353"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+	    </td>
+	    </tr>
+	    </table>
+	 	</td>
+		</tr>
+		<tr><td height="4"></td></tr><tr>
+		<td align="left" valign="top">
+	  	<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" height="34" bordercolor="Fuchsia">
+	  	<tr>
+	  	<td align="left" valign="top" width="10" height="34"><img src="http://www.boloji.com/images/menu_left_bg.png" alt="Boloji"></td>
+	  	<td align="left" valign="middle" width="100%" height="34" background="http://www.boloji.com/images/menu_mid_bg.png">
+	    <table align="center" border="0" cellpadding="0" cellspacing="5" width="100%" bordercolor="Fuchsia">
+		<tr>
+		<td align="center" valign="middle"><a href="http://www.boloji.com" class="Menu">Home</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+		<td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Kabir" class="Menu">Kabir</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+		<td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=NewPoetry" class="Menu">Poetry</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://blogs.boloji.com" class="Menu">Blogs</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.bolokids.com" class="Menu">BoloKids</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Writer" class="Menu">Writers</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Contribute" class="Menu">Contribute</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Search" class="Menu">Search</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Contact" class="Menu">Contact</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=SiteMap" class="Menu">Site Map</a></td>
+   		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="mailto:rk@boloji.net?Subject=Advertise on boloji"  class="Menu">Advertise</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=RssFeed"  class="Menu">RSS</a></td>
+		<td align="center" valign="middle" class="Menu">|</td><td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=MemberLogin" class="Menu">Login</a></td>
+		<td align="center" valign="middle" class="Menu">|</td>
+	    <td align="center" valign="middle"><a href="http://www.boloji.com/index.cfm?md=MemberLogin&sd=Registration" class="Menu">Register</a></td></tr>
+		</table>	
+		</td>
+		<td align="left" valign="top" width="10" height="34"><img src="http://www.boloji.com/images/menu_right_bg.png" alt="Boloji"></td>
+		</tr>
+		</table>  
+		</td>
+		</tr>
+		<tr><td height="4"></td></tr>
+		</table>
+		</body>
+		</html> 
+<table border="0" align="center" width="1100" cellpadding="0" cellspacing="0" bordercolor="Red">
+
+<tr>
+<td align="left" valign="top" width="150"> <table align="center" border="0" cellpadding="0" cellspacing="0" bordercolor="Blue" width="150">
+		<tr><td  height="20" align="left" class="style-cby">
+		<script language="javascript">
+		<!-- Begin
+		var months=new Array(13);
+		months[1]="January";
+		months[2]="February";
+		months[3]="March";
+		months[4]="April";
+		months[5]="May";
+		months[6]="June";
+		months[7]="July";
+		months[8]="August";
+		months[9]="September";
+		months[10]="October";
+		months[11]="November";
+		months[12]="December";
+		var time=new Date();
+		var lmonth=months[time.getMonth() + 1];
+		var date=time.getDate();
+		var year=time.getYear();
+		if (year < 2000)    // Y2K Fix, Isaac Powell
+		year = year + 1900; // http://onyx.idbsu.edu/~ipowell
+		document.write("<center>" + lmonth + " ");
+		document.write(date + ", " + year + "</center>");
+		// End -->
+		</script>
+		</td>
+		</tr>
+		<tr><td height="5"></td></tr>
+		</table><table align="center" border="0" cellpadding="0" cellspacing="0" bordercolor="Blue" width="150">
+	<tr>
+	<td align="left" valign="top" width="10" height="29"><img src="http://www.boloji.com/images/article_top_left_bg.jpg"></td>
+	<td align="left" valign="middle" width="100%" height="29" background="http://www.boloji.com/images/article_top_mid_bg.jpg" class="style-cby">Channels </td>
+	<td align="right" valign="top" width="10" height="29"><img src="http://www.boloji.com/images/article_top_right_bg.jpg"></td>
+	</tr>
+	</table><table align="center" border="0" bordercolor="red" cellpadding="0" cellspacing="0" style="color: #FFFFFF; float: left; border:solid 1px #D3D5AA;"
+    width="150" class="style7"><tr><td valign="top" class="style-cbw"><h2>In Focus </h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/analysis">Analysis </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/cartoons">Cartoons</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/education">Education</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/environment">Environment</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/going-inner">Going Inner</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/opinion">Opinion</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/photo-essays">Photo Essays</a></td></tr><tr><td valign="top" class="style-cbw"><h2>Columns </h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/a-bystanders-diary">A Bystander's Diary</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/business">Business</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/my-word">My Word</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/plainspeak">PlainSpeak</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/random-thoughts">Random Thoughts</a></td></tr><tr><td valign="top" class="style-cbw"><h2>Our Heritage</h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/architecture">Architecture </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/astrology">Astrology</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/ayurveda">Ayurveda </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/buddhism">Buddhism</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/cinema">Cinema</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/culture">Culture</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/dances">Dances</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/festivals">Festivals</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/hinduism">Hinduism</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/history">History</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/people">People</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/places">Places</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/sikhism">Sikhism</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/spirituality">Spirituality</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/vastu">Vastu</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/vithika">Vithika </a></td></tr><tr><td valign="top" class="style-cbw"><h2>Society & Lifestyle</h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/family-matters">Family Matters</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/health">Health </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/parenting">Parenting </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/perspective">Perspective</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/recipes">Recipes</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/society">Society</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/teens">Teens</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/women">Women</a></td></tr><tr><td valign="top" class="style-cbw"><h2>Creative Writings </h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/book-reviews">Book Reviews </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/ghalibs-corner">Ghalib's Corner</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/humor">Humor</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/individuality">Individuality </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/literary-shelf">Literary Shelf </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/love-letters">Love Letters </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/memoirs">Memoirs</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/musings">Musings</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/quotes">Quotes</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/ramblings">Ramblings </a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/stories">Stories</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/travelogues">Travelogues</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/workshop">Workshop</a></td></tr><tr><td valign="top" class="style-cbw"><h2>Computing</h2></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/cc">CC++</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/computing-articles">Computing Articles</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/flash">Flash</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/internet-security">Internet Security</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/java">Java</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/linux">Linux</a></td></tr><tr><td class="style-cbg" valign="middle">
+  		  <a href="http://www.boloji.com/channels/networking">Networking</a></td></tr></table></td>
+
+<td width="10"></td>
+
+<td align="left" valign="top" width="650">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="style5" width="100%" bordercolor="Green">
+<tr>
+<td align="left" valign="top" class="t24">
+<em>Parenting &nbsp;</em>
+</td>
+</tr>
+<tr><td align="left" valign="top" height="10"></td></tr>
+<tr>
+<td align="left" valign="top" class="p14Tpt">
+ <span style="font-family: Times New Roman; font-size: 14pt; color: Black; font-style: normal;"><img hspace="10" height="144" width="129" border="0" align="left" alt="" src="http://cms.boloji.com/articlephotos/Parenting.jpg" />The high rate of divorce in families with children, the single-parent families, teenage pregnancies, the effects of television violence, the need for adequate child care, the lack of educational opportunities for many children whose families are poor, racial discrimination, child abuse, changing sexual mores, drug abuse among young people, and problems faced by physically and mentally challenged children is making child rearing day by day a challenging task. This section aims at providing articles related to child development to arm parents or guardians to meet these challenges successfully.&nbsp;
+<p></p>
+</span>
+</td>
+
+
+ <tr>
+ <td align="left" valign="top">
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/49908/blue-whale-parents-blues">Blue Whale: Parent’s Blues! </a> by  Gollamudi Radha Krishna Murty &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/49470/the-immortal-legacy">The Immortal Legacy </a> by  Suresh Kalathil &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/49142/evolution-of-human-child-and-parental-care">Evolution  of Human Child and Parental Care </a> by  Ganganand Jha &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/48680/innocence-lost-and-found">Innocence Lost and Found! </a> by  Chandrika Prajapati &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14937/the-mantra-of-success">The Mantra of Success </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14807/growing-up-together">Growing Up Together </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14794/bringing-up-children">Bringing Up Children ... </a> by  Valliyoor Satya &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14757/reading-aloud-to-your-baby">Reading Aloud to Your Baby </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14454/pulling-your-own-strings">Pulling Your Own Strings </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/14404/moving-from-selfish-to-selfless-behavior-in-kids">Moving from Selfish to Selfless Behavior in Kids </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/12834/empowering-our-children">Empowering Our Children </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/12728/the-making-of-the-bubble-wrapped-generation">The Making of The Bubble-Wrapped Generation </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/12044/ups-and-downs-of-motherhood">Ups and Downs of Motherhood </a> by  Ruchi Gupta &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/11413/children-just-come-through-you">Children Just Come Through You! </a> by  Mandar Karanjkar &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/10855/special-kids-need-special-care">Special Kids Need Special Care </a> by  V. K. Joshi (Bijji) &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/10141/how-important-really-are-the-preschool-years">How Important Really Are
+The Preschool Years </a> by  Garima Gupta &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/6980/living-with-a-child-prodigy">Living With a Child Prodigy 
+</a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/6979/gifted-child-and-society">Gifted Child and Society </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/6978/developmental-milestones-cannot-be-ignored">Developmental Milestones Cannot be Ignored
+</a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/6816/the-making-of-wizkids">The Making of Wizkids </a> by  Radha Joshi &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2012/young-children">Young Children and the Intergenerational Picture Books  </a> by  Kamna Raj &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2010/will-your-kids-be-of-good-character">Will Your Kids be of “Good Character”? 
+</a> by  Gary Direnfeld &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2009/why-do-we-have-kids">Why do we have Kids! </a> by  Meera Chowdhry &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2007/why-consistency-is-important">Why Consistency is Important but Makes Parents Feel Bad</a> by   Michael Grose &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2005/violence-character-mediation">Violence, Character, Mediation </a> by  Gary Direnfeld &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2004/it-is-better-to-poison">It is Better to Poison Than to give a False Promise</a> by  Rajender Krishan &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2002/too-much-praise-too-young">Too Much Praise Too Young is Not a Good Thing</a> by  News Features &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/2001/transition-to-kindergarten">Transition to Kindergarten </a> by  Kamna Raj &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/1998/the-spiritual-dimension-of-parenting">The Spiritual Dimension of Parenting
+</a> by  Rajgopal Nidamboor &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+  <font class="a10"><br>&nbsp;
+  <a href="http://www.boloji.com/articles/1994/the-school-going">The School Going </a> by  Soma Guru &nbsp;&nbsp;&nbsp; 
+  </font>
+ 
+ </p>
+ <br>
+ </td>
+ </tr>
+
+ <tr><td height="1" colspan="2" bgcolor="#DBDBDB"></td></tr>
+ 
+ 
+<tr>
+<td align="left" valign="top">
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1732/a-family-constellation-whats-yours">A Family Constellation
+What's Yours?  </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1736/a-for-apple-t-for-tantrums">A for Apple, T for Tantrums </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1741/a-tale-of-tales">A Tale of Tales </a> by Ramendra Kumar&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1743/a-tantrum">A Tantrum: Oh, Please, Not Another Tantrum     </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1746/art-young-children">Art & Young Children </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1754/attention-seeking-behavior">Attention Seeking Behavior </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1760/babies-and-books">Babies and Books </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1763/be-firm">Be Firm </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/49908/blue-whale-parents-blues">Blue Whale: Parent’s Blues! </a> by Gollamudi Radha Krishna Murty&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1768/boosting-self-esteem-with-encouragement">Boosting Self Esteem 
+with Encouragement </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14794/bringing-up-children">Bringing Up Children ... </a> by Valliyoor Satya&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1771/can-we-give-back-to-our-children">Can We Give Back to Our Children Their Childhood?</a> by Ramendra Kumar&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1779/challenging-teens">Challenging Teens </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1782/child-viewers-violent-screens">Child-Viewers & Violent Screens </a> by  Gagandeep Kaur&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1792/children-and-play">Children and Play </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1794/children-and-sex-play">Children and Sex Play </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1797/children-and-tv-violence">Children and TV Violence </a> by  Teresa Barat&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/11413/children-just-come-through-you">Children Just Come Through You! </a> by Mandar Karanjkar&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1803/communicating-with-kids">Communicating with Kids </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/6978/developmental-milestones-cannot-be-ignored">Developmental Milestones Cannot be Ignored
+</a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1808/diaper-diaper-go-away">Diaper... Diaper... Go Away! </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1809/effects-of-television-on-children">Effects of Television on Children </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/12834/empowering-our-children">Empowering Our Children </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/49142/evolution-of-human-child-and-parental-care">Evolution  of Human Child and Parental Care </a> by Ganganand Jha&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1812/fathers-have-feelings-too">Fathers Have Feelings Too </a> by Barbara Lewis&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1815/feeding-nourishment-to-your-pre-schooler">Feeding Nourishment to your Pre-schooler </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1818/feeding-your-baby-in-the-1st-year">Feeding your Baby in the 1st Year
+</a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1822/feeding-your-toddler">Feeding your Toddler </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1825/friendship-connections">Friendship Connections  </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/6979/gifted-child-and-society">Gifted Child and Society </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1829/good-night-sweet-dreams">Good Night, Sweet Dreams </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14807/growing-up-together">Growing Up Together </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1833/guide-to-easy-parenting">Guide to Easy Parenting </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1837/help">Help! My Child Has Become A Teenager </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1839/helping-your-unpopular-child">Helping Your Unpopular Child </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1843/how-birth-order-affects">How Birth Order Affects Children's Behavior & Personality</a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/10141/how-important-really-are-the-preschool-years">How Important Really Are
+The Preschool Years </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1850/how-long-does-it-take-to-rebuild-trust">How Long Does it Take to Rebuild Trust? </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1853/how-much-should-we-correct">How Much Should We Correct Children’s Poor Behavior?</a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1857/how-to-celebrate-holi-with-kids">How to Celebrate Holi with Kids </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1859/how-to-choose-the-right-book">How to Choose the Right Book for your child?</a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1860/humor-in-parenting">Humor in Parenting </a> by  Mohan Dadlani&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1865/i-love-you-three-golden-words">I Love You – Three Golden Words </a> by S. Padma Priya&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/48680/innocence-lost-and-found">Innocence Lost and Found! </a> by Chandrika Prajapati&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1868/internet-for-kids">Internet for Kids </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1872/is-your-8-10-year-old-crazy">Is Your 8-10 Year Old Crazy? </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1875/is-your-child-allergic-to-milk">Is Your Child Allergic to MIlk? </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2004/it-is-better-to-poison">It is Better to Poison Than to give a False Promise</a> by Rajender Krishan&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1877/kids-fighting">Kids Fighting </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/6980/living-with-a-child-prodigy">Living With a Child Prodigy 
+</a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1880/make-travel-fun-for-your-little-one">Make Travel Fun for your Little One </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1883/may-you-nurse-your-own-children">May You Nurse Your Own Children! </a> by Rajender Krishan&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1699/moms-got-the-teenage-blues">Mom's Got The Teenage Blues
+</a> by  Naunidhi Kaur&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14404/moving-from-selfish-to-selfless-behavior-in-kids">Moving from Selfish to Selfless Behavior in Kids </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1888/must-knows-for-your-little-child">Must Knows for your Little Child </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1890/my-child-is-odd">My Child is Odd </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1893/my-child-my-teacher">My Child, My Teacher </a> by Vaish  &nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1900/normal-childhood-behavior-misconstrued">Normal Childhood Behavior Misconstrued </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1903/on-becoming-grandparents">On Becoming Grandparents </a> by Rajender Krishan&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1905/on-children-family-life-and-future">On Children, Family Life and Future
+</a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1907/one-tantrum-went-to-market">One Tantrum Went to Market...   </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1910/out-of-control-and-pseudo-mature-teens">Out of Control and Pseudo-mature Teens </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1913/outdoors-is-a-great-teacher">Outdoors is a Great Teacher </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1917/parenting-with-love">Parenting with Love </a> by Atasi Sen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1918/parents-are-people-too">Parents are People Too! </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1921/parents">Parents: Please Don't Throw Your Teen Out Yet...</a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1924/pressing-business-for-special-children">Pressing Business for Special Children </a> by Hema Vijay&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14454/pulling-your-own-strings">Pulling Your Own Strings </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14757/reading-aloud-to-your-baby">Reading Aloud to Your Baby </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1927/reading-strategies">Reading Strategies </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1929/resilience-in-children">Resilience in Children  
+</a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1931/role-modeling">Role Modeling: What Your Child Really Learns from You  </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1935/save-your-money-and-get-on-the-floor">Save your Money and Get on the Floor </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1949/self-esteem">Self Esteem </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1955/sharing-its-mine-i-got-it-no-its-mine-i-want-it-so-whos-is-it-anyway">Sharing ...   It's Mine! I Got It!
+No… It's Mine! I Want It!
+So Who's Is It Anyway?  </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1952/sharing-and-young-children">Sharing and Young Children </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1966/sibling-harmony-versus-rivalry">Sibling Harmony Versus Rivalry </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1958/sibling-rivalry-aagghh">Sibling rivalry ... Aagghh!! </a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1963/sibling-rivalry-the-great-war">Sibling Rivalry – The Great War </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1968/slow-but-very-smart">Slow But Very Smart </a> by  Fehmida Zakeer&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1971/some-frustration-is-necessary">Some Frustration is Necessary!
+</a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1974/someone-really-difficult-to-get-along-with">Someone Really Difficult to Get Along With? </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/10855/special-kids-need-special-care">Special Kids Need Special Care </a> by V. K. Joshi (Bijji)&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1979/teenagers-fiscal-policy">Teenagers' Fiscal Policy 
+</a> by  Teresa Barat&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1982/the-father-of-a-daughter">The Father of a Daughter </a> by  Siddharth Srivastava&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1983/the-foundation-years-i">The Foundation Years - I
+</a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1984/the-foundation-years-ii">The Foundation Years - II
+</a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/49470/the-immortal-legacy">The Immortal Legacy </a> by Suresh Kalathil&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1846/the-importance-of-preschool-years">The Importance of Preschool Years </a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/12728/the-making-of-the-bubble-wrapped-generation">The Making of The Bubble-Wrapped Generation </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/6816/the-making-of-wizkids">The Making of Wizkids </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/14937/the-mantra-of-success">The Mantra of Success </a> by Radha Joshi&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1986/the-perks-and-perils">The Perks and Perils of being a stay-at-home Mom</a> by Garima Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1991/the-real-power-struggle">The Real Power Struggle </a> by  Siggie Cohen&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1994/the-school-going">The School Going </a> by Soma Guru&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1998/the-spiritual-dimension-of-parenting">The Spiritual Dimension of Parenting
+</a> by Rajgopal Nidamboor&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2002/too-much-praise-too-young">Too Much Praise Too Young is Not a Good Thing</a> by News Features&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2001/transition-to-kindergarten">Transition to Kindergarten </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/12044/ups-and-downs-of-motherhood">Ups and Downs of Motherhood </a> by Ruchi Gupta&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2005/violence-character-mediation">Violence, Character, Mediation </a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2007/why-consistency-is-important">Why Consistency is Important but Makes Parents Feel Bad</a> by  Michael Grose&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2009/why-do-we-have-kids">Why do we have Kids! </a> by Meera Chowdhry&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2010/will-your-kids-be-of-good-character">Will Your Kids be of “Good Character”? 
+</a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/1692/working-parents-and-child-development">Working Parents and Child Development
+</a> by Gary Direnfeld&nbsp;&nbsp;&nbsp; 
+ </font>
+
+ <font class="a10"><br>
+  &nbsp;<a href="http://www.boloji.com/articles/2012/young-children">Young Children and the Intergenerational Picture Books  </a> by Kamna Raj&nbsp;&nbsp;&nbsp; 
+ </font>
+
+</p>
+<br>
+</td>
+</tr>
+ 
+
+
+<tr>
+<td align="left" valign="top">
+<p class="a10b"><a href="#top">Top</a></p>
+</td>		
+</tr>
+</table>
+</td>
+
+<td width="10"></td>
+
+<td align="left" valign="top" width="300">
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="Fuchsia">
+ 
+ <tr>
+ <td align="center" valign="top">
+    
+ </td>
+ </tr>
+ 
+  
+  
+
+
+
+<tr><td height="4"></td></tr>
+
+<tr>
+<td align="center" valign="top">
+  
+  <table align="center" border="0" cellpadding="0" cellspacing="2" bordercolor="#D3D6A9" width="100%" style="border:solid 1px #D3D6A9;">
+  
+  <tr>
+  <td align="center" valign="top">  
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Skyscraper_200x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7815076224920535"
+     data-ad-slot="5484885357"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br /><br>
+<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for Boloji.com - News That Matter. Be Informed -->
+
+<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for Boloji.com - News That Matter. Be Informed -->
+  </td>
+  </tr>
+ 
+  </table>
+  
+</td>
+</tr>
+</table>
+</td>
+</tr>
+
+
+</table>
+<table border="0" align="center" style="border-collapse: collapse" bordercolor="#111111" width="1100" cellpadding="0" cellspacing="3">
+		<tr><td><br><hr size="0" color="#C8C8C8" /><br></td></tr>
+		<tr><td valign="baseline" align="center">
+		<table border="0" align="center" style="border-collapse: collapse" bordercolor="#111111" width="100%" cellpadding="0" cellspacing="3">
+  		<tr><td valign="baseline" align="center"></td>
+	    </tr><tr>
+	    <td valign="baseline" align="center">
+	    <hr size="0" color="#C8C8C8" /><br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveAd -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7815076224920535"
+     data-ad-slot="7101219353"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</td>
+		</tr><tr>
+	  	<td align="center" valign="top" bgcolor="#F7F7F7">
+		<table align="left" border="0" width="100%" cellpadding="0" cellspacing="2" bgcolor="#F7F7F7" bordercolor="Fuchsia" style="border:solid 1px #E5E5E5;">
+	    <tr>
+	    <td width="10">
+	    </td>
+	    </tr><tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/a-bystanders-diary" class="FooterLink1">    A Bystander's Diary</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/analysis" class="FooterLink1">    Analysis </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/architecture" class="FooterLink1">    Architecture </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/astrology" class="FooterLink1">    Astrology</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/ayurveda" class="FooterLink1">    Ayurveda </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/book-reviews" class="FooterLink1">    Book Reviews </a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/buddhism" class="FooterLink1">    Buddhism</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/business" class="FooterLink1">    Business</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/cartoons" class="FooterLink1">    Cartoons</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/cc" class="FooterLink1">    CC++</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/cinema" class="FooterLink1">    Cinema</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/computing-articles" class="FooterLink1">    Computing Articles</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/culture" class="FooterLink1">    Culture</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/dances" class="FooterLink1">    Dances</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/education" class="FooterLink1">    Education</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/environment" class="FooterLink1">    Environment</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/family-matters" class="FooterLink1">    Family Matters</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/festivals" class="FooterLink1">    Festivals</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/flash" class="FooterLink1">    Flash</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/ghalibs-corner" class="FooterLink1">    Ghalib's Corner</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/going-inner" class="FooterLink1">    Going Inner</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/health" class="FooterLink1">    Health </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/hinduism" class="FooterLink1">    Hinduism</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/history" class="FooterLink1">    History</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/humor" class="FooterLink1">    Humor</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/individuality" class="FooterLink1">    Individuality </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/internet-security" class="FooterLink1">    Internet Security</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/java" class="FooterLink1">    Java</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/linux" class="FooterLink1">    Linux</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/literary-shelf" class="FooterLink1">    Literary Shelf </a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/love-letters" class="FooterLink1">    Love Letters </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/memoirs" class="FooterLink1">    Memoirs</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/musings" class="FooterLink1">    Musings</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/my-word" class="FooterLink1">    My Word</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/networking" class="FooterLink1">    Networking</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/opinion" class="FooterLink1">    Opinion</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/parenting" class="FooterLink1">    Parenting </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/people" class="FooterLink1">    People</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/perspective" class="FooterLink1">    Perspective</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/photo-essays" class="FooterLink1">    Photo Essays   </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/places" class="FooterLink1">    Places</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/plainspeak" class="FooterLink1">    PlainSpeak</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/quotes" class="FooterLink1">    Quotes</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/ramblings" class="FooterLink1">    Ramblings </a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/random-thoughts" class="FooterLink1">    Random Thoughts</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/recipes" class="FooterLink1">    Recipes</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/sikhism" class="FooterLink1">    Sikhism</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/society" class="FooterLink1">    Society</a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/spirituality" class="FooterLink1">    Spirituality</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/stories" class="FooterLink1">    Stories</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/teens" class="FooterLink1">    Teens</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/travelogues" class="FooterLink1">    Travelogues</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/vastu" class="FooterLink1">    Vastu</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/vithika" class="FooterLink1">    Vithika </a>
+	    </td></tr><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/women" class="FooterLink1">    Women</a>
+	    </td><td valign="middle" class="FooterLink1" align="left" width="164">
+	    <a href="http://www.boloji.com/channels/workshop" class="FooterLink1">    Workshop</a>
+	    </td><tr>
+	    <td width="10">
+	    </td>
+	    </tr>
+	    </table>
+		</td>
+	    </tr> 
+	    <tr>
+	    <td align="center" valign="top">
+	    <table align="center" border="0" cellpadding="0" cellspacing="5" width="100%" bgcolor="#FFFFFF" bordercolor="Fuchsia" style="border:solid 1px #E5E5E5;">
+		<tr>
+		<td align="left" valign="middle">
+		<table align="left" border="0" cellpadding="0" cellspacing="0" bordercolor="Blue">
+	    <tr>
+	    <td align="left" valign="middle" class="FooterLink1" colspan="2"><img border="0" src="http://www.boloji.com/images/copyright.gif" />
+	    </td>	  
+	    </tr></table><script type="text/javascript" src="http://d2cpt7abf21j4h.cloudfront.net/google.js"></script>
+
+		</td>
+		<td align="right" valign="middle">
+		<table align="right" border="0" cellpadding="0" cellspacing="2" bordercolor="Blue">
+		<tr>
+		<td align="left" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=RssFeed" class="FooterLink1"><img src="http://www.boloji.com/images/ico_rss.gif"
+		alt="RSS Feed" border="0"></a></td> 
+		<td align="left" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=RssFeed" class="FooterLink1">RSS Feed</a></td>
+		<td align="center" valign="middle" class="FooterLink1" width="30"></td>
+		<td align="left" valign="middle"><a href="http://www.boloji.com" class="FooterLink1">Home</a></td>
+		<td align="left" valign="middle" class="FooterLink1">|</td>
+	    <td align="left" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Privacy" class="FooterLink1">Privacy Policy</a></td>
+	    <td align="left" valign="middle" class="FooterLink1">|</td>
+	    <td align="left" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=Disclaimer" class="FooterLink1">Disclaimer</a></td>
+	    <td align="left" valign="middle" class="FooterLink1">|</td>
+		<td align="left" valign="middle"><a href="http://www.boloji.com/index.cfm?md=Content&sd=SiteMap" class="FooterLink1">Site Map</a></td>  
+		</tr>
+		</table>
+		</td>
+		</tr>
+	    </table>
+	    </td>
+	    </tr>
+	    <tr>
+	    <td align="center" valign="top">
+	    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="green">
+	    <tr>
+		<td align="left" valign="top">
+		<table align="left" border="0" cellpadding="0" cellspacing="0" bordercolor="Blue">
+	    <tr>
+		<td align="center" valign="bottom" colspan="2" class="FooterLink1">
+		<span class="style_bold">No part of this Internet site may 
+	    be reproduced without prior written permission of the copyright holder</span>.
+		</td>
+		</tr>
+		</table>
+		</td>
+		<td align="right" valign="middle" class="FooterLink1"><a href="http://www.ekant.com" class="FooterLink1">Developed and Programmed by ekant solutions</a></td>
+		</tr>
+		</table>  
+	    </td>	
+	    </tr>	  
+	    </table> 

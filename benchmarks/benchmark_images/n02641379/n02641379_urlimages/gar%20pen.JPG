@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<link href="/images/favicon.ico" rel="shortcut icon"/>
+<title>web.biosci.utexas.edu</title>
+<style type="text/css">
+body {
+margin: auto;
+}
+.header {
+background-color: #FFFFFF;
+background-image: url(/images/headerbg.gif);
+padding-left: 35px;
+}
+
+.content {
+margin-left: 65px;
+margin-right: 55px;
+}
+.footer {
+background-image:url(/images/matrixblue.jpg);
+background-repeat:repeat;
+color:#FFFFFF;
+font-size:0.9em;
+text-align: center;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="header"><a href="http://www.biosci.utexas.edu/"><img width="103" height="100" border="0" alt="School of Biological Sciences Logo" src="/images/headerlogo.gif"/></a>
+<img src="/images/headertext.gif" alt="School of Biological Sciences" width="586" height="100" border="0" usemap="#Map" />
+<map name="Map" id="Map">
+<area shape="rect" coords="9,20,306,84" href="http://www.biosci.utexas.edu" alt="The School of Biological Sciences - University of Texas at Austin" target="_blank" />
+        <area shape="rect" coords="346,49,496,77" href="http://www.utexas.edu" alt="The University of Texas at Austin" target="_blank" />
+</map>
+
+
+
+</div>
+<div class="content">
+<H1>web.biosci.utexas.edu - /</H1><hr/>
+<p>Unauthorized use of UT Austin computer and networking resources is prohibited. If you log on to this computer system, you acknowledge your awareness of and concurrence with the UT Austin Acceptable Use Policy. The University will prosecute violators to the full extent of the law.</p>
+<hr />
+                    <table width="95%">
+                        <tr>
+                            <td class="dottedline_bottom" style="width: 112%">
+                               <br />
+                               <br />
+                               <h3 align="center">Error: 404 File Not Found</h3>
+                               <br />
+                               <br />
+
+<p align="center">The document you requested either no longer exists or is not currently available.  <br />
+This may be because the link that you followed is either outdated or inaccurate.
+</p>
+<br />
+<br />
+<hr />
+<style type="text/css">
+.errorpage {
+	vertical-align: top;
+	margin: 10px 90px 10px 90px;
+	font-size: 0.95em;
+}
+.errorpage ul 
+{
+  list-style: none;
+  padding-top: 5px;
+}
+.errorpage li 
+{
+  background: url(http://www.biosci.utexas.edu/img_main/news_bullet.gif) no-repeat top left;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: 8px; 
+}
+</style>
+<div class="errorpage">
+<b>You may:</b>
+<br />
+<ul>
+
+<li>Use the "Back" button in your browser to return to the previous page.</li>
+<li>Go to the School of Biological Sciences site at The University of Texas at Austin <a href="/">home page</a>.</li>
+<li>Use The School of Biological Sciences Search Tool at the top of the page.</li>
+<li>Use the <a href="http://www.utexas.edu/search/">UT Austin Search Engine</a> to find the page you need.</li>
+</ul>
+</div>
+
+                           </td>
+                        </tr>
+                    </table>
+
+</div>
+<div class="footer">&nbsp;<a href="http://www.biosci.utexas.edu">
+School of Biological Sciences</a></div>
+
+</body>
+
+</html>
+
+

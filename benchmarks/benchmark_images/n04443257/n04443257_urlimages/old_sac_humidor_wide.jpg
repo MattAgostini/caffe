@@ -1,0 +1,495 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>临沧师范高等专科学校官网</title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link rel="stylesheet" type="text/css" href="/xiao/Css/webshuji4.css">
+<script type="text/javascript" src="/xiao/Scripts/jquery.min.js"></script>
+<script type="text/javascript" src="/xiao/Scripts/script.js"></script>
+<script type="text/javascript" src="/xiao/Scripts/tablist.js"></script>
+<script type="text/javascript" src="/xiao/Scripts/comm.js"></script>
+<script type="text/javascript" src="/xiao/Scripts/slide.js"></script>
+<script type="text/javascript">
+$(function() {
+    var sWidth = $("#focus").width(); //获取焦点图的宽度（显示面积）
+    var len = $("#focus ul li").length; //获取焦点图个数
+    var index = 0;
+    var picTimer;
+    
+    //以下代码添加数字按钮和按钮后的半透明条，还有上一页、下一页两个按钮
+    var btn = "<div class='btnBg'></div><div class='btn'>";
+    for(var i=0; i < len; i++) {
+        btn += "<span></span>";
+    }
+    btn += "</div><div class='preNext pre'></div><div class='preNext next'></div>";
+    $("#focus").append(btn);
+    $("#focus .btnBg").css("opacity",0.5);
+
+    //为小按钮添加鼠标滑入事件，以显示相应的内容
+    $("#focus .btn span").css("opacity",0.4).mouseover(function() {
+        index = $("#focus .btn span").index(this);
+        showPics(index);
+    }).eq(0).trigger("mouseover");
+
+    //上一页、下一页按钮透明度处理
+    $("#focus .preNext").css("opacity",1.0).hover(function() {
+        $(this).stop(true,false).animate({"opacity":"1.0"},300);
+    },function() {
+        $(this).stop(true,false).animate({"opacity":"1.0"},300);
+    });
+
+    //上一页按钮
+    $("#focus .pre").click(function() {
+        index -= 1;
+        if(index == -1) {index = len - 1;}
+        showPics(index);
+    });
+
+    //下一页按钮
+    $("#focus .next").click(function() {
+        index += 1;
+        if(index == len) {index = 0;}
+        showPics(index);
+    });
+
+    //本例为左右滚动，即所有li元素都是在同一排向左浮动，所以这里需要计算出外围ul元素的宽度
+    $("#focus ul").css("width",sWidth * (len));
+    
+    //鼠标滑上焦点图时停止自动播放，滑出时开始自动播放
+    $("#focus").hover(function() {
+        clearInterval(picTimer);
+    },function() {
+        picTimer = setInterval(function() {
+            showPics(index);
+            index++;
+            if(index == len) {index = 0;}
+        },8000); //此4000代表自动播放的间隔，单位：毫秒
+    }).trigger("mouseleave");
+    
+    //显示图片函数，根据接收的index值显示相应的内容
+    function showPics(index) { //普通切换
+        var nowLeft = -index*sWidth; //根据index值计算ul元素的left值
+        $("#focus ul").stop(true,false).animate({"left":nowLeft},300); //通过animate()调整ul元素滚动到计算出的position
+        //$("#focus .btn span").removeClass("on").eq(index).addClass("on"); //为当前的按钮切换到选中的效果
+        $("#focus .btn span").stop(true,false).animate({"opacity":"0.4"},300).eq(index).stop(true,false).animate({"opacity":"1"},300); //为当前的按钮切换到选中的效果
+    }
+});
+
+</script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="/xiao/Css/_sitegray_d.css" />
+<script language="javascript" src="/xiao/Scripts/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307c7547575353544203050003 -->
+<link rel="stylesheet" type="text/css" href="/xiao/Css/index.vsb.css" />
+<META Name="keywords" Content="临沧师范高等专科学校官网" />
+<script type="text/javascript" src="/xiao/Scripts/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1217235838)</script>
+</head>
+<body target><a href=""></a><a href=""></a><a href="info/1133/6562.html"></a><a href="/sjxx.html"></a>
+<div class="main"><!--头部logo开始-->
+<div class="logo">
+<div class="logo_left"><!--#begineditable name="LOGO1shuji2" viewid="51555" tagname="LOGO1shuji2" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+<table border="0" cellspacing="0" cellpadding="0"><tr><td><a href="http://www.glnc.edu.cn/" title="临沧师范专科学校官网" alt="网站LOGO"><img src="/xiao/Picture/logo_left_sj.png" width="614" height="150" border="0" alt="临沧师范专科学校官网" title="临沧师范专科学校官网"></a></td></tr></table><!--#endeditable--></div>
+<div class="logo_right"><img src="/xiao/Picture/logo_right_sj.png" width="350" height="150"></div></div><!--头部logo结束--><!--导航开始--><!--#begineditable name="网站导航" viewid="42143" tagname="网站导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div id="menu">
+  <ul class="menu">
+      <li class="f_hover"><a href="index.html"><span>首页</span></a>
+    </li>
+    <li><a href="about"><span>学校简介</span></a>
+      <div>
+        <ul>
+          <li><a href="about/jianjie" target="_blank"><span>学校简介</span></a> </li>
+          <li><a href="about/huanjing" target="_blank"><span>校园环境</span></a> </li>
+
+        </ul>
+      </div>
+    </li>
+    <li><a href="kecheng"><span>培训课程</span></a>
+      <div>
+        <ul>
+               <li><a href="kecheng/peixun" target="_blank"><span>培训课程</span></a> </li>
+          <li><a href="kecheng/newkecheng" target="_blank"><span>最新开课</span></a> </li>
+        </ul>
+      </div>
+    </li>
+    <li><a href="shizi"><span>师资团队</span></a>
+      <div>
+        <ul>
+  <li><a href="jiaoxue" target="_blank"><span>教学环境</span></a> </li>
+          <li><a href="jiuye" target="_blank"><span>就业保障</span></a> </li>
+  <li><a href="shizi/tuandui" target="_blank"><span>师资团队</span></a> </li>
+          <li><a href="shizi/xiaoyou" target="_blank"><span>杰出校友</span></a> </li>
+
+        </ul>
+      </div>
+    </li>
+    <li><a href="news"><span>新闻动态</span></a>
+      <div>
+        <ul>
+          <li><a href="zhaopin" target="_blank"><span>招聘推荐</span></a> </li>
+  <li><a href="news/new" target="_blank"><span>新闻动态</span></a> </li>
+          <li><a href="news/zhuanti" target="_blank"><span>专题聚焦</span></a> </li>
+
+        </ul>
+      </div>
+    </li>
+    <li><a href="zuopin"><span>学员作品</span></a>
+      <div>
+        <ul>
+            <li><a href="quanwei" target="_blank"><span>权威认证</span></a> </li>
+  <li><a href="zuopin/tiandi" target="_blank"><span>学员天地</span></a> </li>
+          <li><a href="zuopin/zuopin" target="_blank"><span>学员作品</span></a> </li>
+
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li><a href="singup"><span>网上报名</span></a>
+      <div>
+        <ul>
+          <li><a href="zhuban"><span>主板维修培训</span></a> </li>
+  <li><a href="bijiben" target="_blank"><span>笔记本维修培训</span></a> </li>
+          <li><a href="xianshi" target="_blank"><span>液晶显示器维修</span></a> </li>
+          <li><a href="dayinji" target="_blank"><span>打印机传真机培训</span></a> </li>
+  <li><a href="yingpan" target="_blank"><span>硬盘数据恢复培训</span></a> </li>
+          <li><a href="wangluo" target="_blank"><span>网络系统工程培训</span></a> </li>
+          <li><a href="jiankong" target="_blank"><span>监控报警工程</span></a> </li>
+          <li><a href="dianzi" target="_blank"><span>电子线路培训</span></a> </li>
+
+        </ul>
+      </div>
+    </li>
+    <li><a href="" target="_blank"><span>网上报名</span></a></li>
+  <li><a href="zuzhuang" target="_blank"><span>电脑组装与维护培训</span></a> </li>
+
+</div><!--#endeditable--><!--导航结束--><!--banner图片切换开始--><!--banner图片切换结束--><!--图片切换开始-->
+<div class="qh_img"><!--#begineditable name="图片新闻shuji" viewid="51548" tagname="图片新闻shuji" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><script language="javascript" src="/xiao/Scripts/dynclicks.js"></script><div id="bd">
+	<div class="tab" id="focus_image">
+		<div class="pages" data-scro="list">
+					<a class="item cur" href="" style="left:0">
+			<img class="poster" src="/xiao/Picture/076166b468599fb6c68eb405f14_0e60798c_1746b.jpg" />
+			<i>2017撸起袖子加油干！</i><b></b></a>
+			<a class="item cur" href="">
+			<img class="poster" src="/xiao/Picture/b1c9e9919a717062be78cfc4a06_384f2bc7_c9dd.jpg" />
+			<i>建设中的临沧新校区（6）——正在进行最后装修的美术楼群、学...</i><b></b></a>
+			<a class="item cur" href="">
+			<img class="poster" src="/xiao/Picture/3c12fa2887b0465b3cad6f9db10_69f633aa_fb67.jpg" />
+			<i>建设中的临沧新校区（6）——装修中的音乐楼群</i><b></b></a>
+			<a class="item cur" href="">
+			<img class="poster" src="/xiao/Picture/767e4b8efcc8e559551528d1c30_a963f611_15399.jpg" />
+			<i>建设中的临沧新校区（6）——学生宿舍楼外景一角</i><b></b></a>
+			<a class="item cur" href="">
+			<img class="poster" src="/xiao/Picture/8b1b53aaa29c026597f08f8386d_03bb99b4_f741.jpg" />
+			<i>建设中的临沧新校区（6）——学生宿舍内部设施</i><b></b></a>
+		</div>
+		<div class="controler" data-scro="controler">
+			<b class="down">1<i></i></b>
+            <b class>2<i></i></b>
+			<b class>3<i></i></b>
+            <b class>4<i></i></b>
+			<b class>5<i></i></b>
+            
+		</div>
+		<div class="controler2" data-scro="controler2">
+			<a href="javascript:;" class="prev"></a>
+			<a href="javascript:;" class="next"></a>
+		</div>
+	</div>
+</div>
+
+<!--#endeditable--><script type="text/javascript" src="/xiao/Scripts/16sucai.js"></script></div><!--图片切换结束--><!--通知公告开始-->
+<div class="tzgg">
+<div class="tzgg_title">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="txt2">学校要闻</td>
+<td class="more" width="20%" align="left"><a href="xwzx/xxyw.html" target="">更多&gt;&gt;</a></td></tr></tbody></table></div>
+<div class="tzgg_list"><ul>
+  <li><a href="/about/jianjie/1505.html" target="_blank">2017年播音主持专业前十院校排名</a>09-23</li>
+    <li><a href="/about/jianjie/1504.html" target="_blank">马云写给落榜生的一封信令人感慨</a>09-23</li>
+    <li><a href="/about/huanjing/1503.html" target="_blank">中国内地数学专业10强大学排名</a>09-23</li>
+      <li><a href="/kecheng/peixun/1501.html" target="_blank">2012年广东高考文科状元孙婉莹学习经</a>09-23</li>
+    <li><a href="/kecheng/peixun/1500.html" target="_blank">北大校花：北京大学历届校花盘点 “女</a>09-23</li>
+    <li><a href="/kecheng/newkecheng/1499.html" target="_blank">软件工程专业大学排名</a>09-23</li>
+       <li><a href="/shizi/tuandui/1497.html" target="_blank">解读2017年高考改革新方案</a>09-23</li>
+    <li><a href="/shizi/tuandui/1496.html" target="_blank">2015中国大学法学最佳专业排行榜100</a>09-23</li>
+    <li><a href="/shizi/tuandui/1495.html" target="_blank">致高考落榜生的一封信</a>09-23</li>
+  </ul>
+<!--#endeditable--></div></div><!--通知公告结束-->
+<div class="clear"></div>
+<div id="dz" style="padding-bottom: 0px;margin: 15px 0px 0px;padding-left: 0px;width: 1200px;padding-right: 0px;height: 149px;padding-top: 0px"><a href="http://zsb.glnc.edu.cn/info/1051/1485.html" target="_blank"><img src="/xiao/Picture/zs1701.jpg" width="1200" height="149"></a></div>
+<!--选项卡开始-->
+<div class="xbmt">
+<div id="tab" class="tab">
+<div id="tab-title" class="tab-title"><span class="tab-click" url="news">
+<p>新闻动态</p></span><span url="zuopin">
+<p>学员作品</p></span>
+<div id="more" class="more">
+
+
+<a href="news" target="">更多&gt;&gt;</a>
+
+
+</div><!--#endeditable--></div>
+<div id="tab-cont" class="tab-cont">
+<div style="display: block"><ul>
+        <li><a href="/news/zhuanti/1539.html" target="_blank">宜昌市一中网站：宜昌一中介绍</a>17-09-23</li>
+    <li><a href="/news/zhuanti/1538.html" target="_blank">古浪县第三中学：甘肃武威市古浪县第三</a>17-09-23</li>
+    <li><a href="/news/zhuanti/1537.html" target="_blank">泸水一中：云南怒江泸水县第一中学</a>17-09-23</li>
+                <li><a href="/wangluo/1590.html" target="_blank">英语课堂游戏:课堂游戏集锦</a>17-09-24</li>
+    <li><a href="/wangluo/1589.html" target="_blank">小学一年级英语:英语口语50句</a>17-09-24</li>
+    <li><a href="/wangluo/1588.html" target="_blank">数学小故事:简短小故事</a>17-09-24</li>
+                <li><a href="/jiankong/1594.html" target="_blank">如何学好高中数学:如何学好高中数学 </a>17-09-24</li>
+    <li><a href="/jiankong/1593.html" target="_blank">小学三年级语文:【阅读】准确理出六</a>17-09-24</li>
+    <li><a href="/jiankong/1592.html" target="_blank">高一英语语法:知识点总结</a>17-09-24</li>
+  
+</ul>
+<!--#endeditable--></div>
+<div style="display: none"><ul>
+          <li><a href="/zuopin/zuopin/1549.html" target="_blank">河南省实验中学吧：河南省实验中学介绍</a>17-09-23</li>
+    <li><a href="/zuopin/zuopin/1548.html" target="_blank">云南楚雄一中：云南省楚雄第一中学</a>17-09-23</li>
+    <li><a href="/zuopin/zuopin/1547.html" target="_blank">墨江一中：云南省墨江一中</a>17-09-23</li>
+                <li><a href="/dayinji/1578.html" target="_blank">小学数学辅导重点:一年级重点</a>17-09-24</li>
+    <li><a href="/dayinji/1577.html" target="_blank">小学二年级数学:教学论文</a>17-09-24</li>
+    <li><a href="/dayinji/1576.html" target="_blank">小学五年级:数学论文</a>17-09-24</li>
+  
+             <li><a href="/yingpan/1581.html" target="_blank">初二下册英语语法:知识点英语语法整</a>17-09-24</li>
+    <li><a href="/yingpan/1580.html" target="_blank">二年级数学教学论文:小学二年级</a>17-09-24</li>
+    <li><a href="/yingpan/1579.html" target="_blank">高一英语学习:送给高一新生的英语学</a>17-09-24</li>
+  </ul>
+<!--#endeditable--></div></div></div></div><!--选项卡结束--><!--学校要闻开始-->
+<div class="xxyw">
+<div class="xxyw_title">
+<div class="txt1">网上报名</div>
+<div class="more"><a href="singup" target="">更多&gt;&gt;</a></div></div>
+<div class="xxyw_list"><!--学校要闻列表开始--><!--#begineditable name="通知公告shuji4" viewid="51559" tagname="通知公告shuji4" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><div class="list1">
+  <ul>
+            <li><a href="/zhuban/1558.html" target="_blank">河南省理科状元:总成绩703分</a>17-09-24</li>
+    <li><a href="/zhuban/1557.html" target="_blank">2017江苏小高考:难度提高4A率明显下</a>17-09-24</li>
+    <li><a href="/zhuban/1556.html" target="_blank">高考资源网理综:理综“真题文档分享</a>17-09-24</li>
+                <li><a href="/bijiben/1563.html" target="_blank">贵州高考状元:文科720分 理科700分</a>17-09-24</li>
+    <li><a href="/bijiben/1562.html" target="_blank">广东高考志愿填报指南:技巧/注意事项</a>17-09-24</li>
+    <li><a href="/bijiben/1561.html" target="_blank">山东高考录取结果查询:查询入口/录取</a>17-09-24</li>
+                <li><a href="/xianshi/1572.html" target="_blank">小学二年级语文上册:第一单元测试题</a>17-09-24</li>
+    <li><a href="/xianshi/1571.html" target="_blank">初一英语语法:大全汇总</a>17-09-24</li>
+    <li><a href="/xianshi/1570.html" target="_blank">初二数学知识点:汇总</a>17-09-24</li>
+  </ul>
+</div>
+<!--#endeditable--><!--学校要闻列表开始--></div></div><!--学校要闻结束-->
+<div style="margin: 0px auto;width: 1200px;height: 0px;clear: both">&nbsp;</div>
+<div class="clear"></div><!--热点专题、快速通道开始-->
+<div class="rdks">
+<div style="padding-bottom: 10px;padding-left: 10px;padding-right: 10px;padding-top: 10px"><!--热点专题开始-->
+<div class="rdzt">
+<div class="rdzt_title">热点专题</div>
+<table border="0" cellspacing="0" cellpadding="0" width="675" style="margin-top: 15px">
+<tbody><!--#begineditable name="热点专题" viewid="42139" tagname="热点专题" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->    <table class="rdzt_list" width="675" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+               <td height="121" width="200"><a href="lxyz.html" target="_blank"><img src="/xiao/Picture/zt03.jpg" width="200" height="121"></td>
+               <td height="121" width="200"><a href="http://" target="_blank"><img src="/xiao/Picture/zt02.jpg" width="200" height="121"></td>
+               <td height="121" width="200" align="right"><a href="http://" target="_blank"><img src="/xiao/Picture/zt01.jpg" width="200" height="121"></td>
+        </tr>
+</table><!--#endeditable--></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="675" style="margin-top: 15px">
+<tbody>
+<tr>
+<td height="36" width="143"><a href="/"><img src="/xiao/Picture/sjxx.png" width="143" height="36"></a></td>
+<td>&nbsp;</td>
+<td height="36" width="143"><a href="/"><img src="/xiao/Picture/xzxx.png" width="143" height="36"></a></td>
+<td>&nbsp;</td>
+<td height="36" width="143"><a href="http://"><img src="/xiao/Picture/xnyx.png" width="143" height="36"></a></td>
+<td>&nbsp;</td>
+<td><!--#begineditable name="简单检索" viewid="42167" tagname="简单检索" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->
+
+
+
+
+
+<form action="search.jsp?wbtreeid=1001" method="post" name="a42167a" onsubmit="return subsearchdataa42167a()" style="display: inline">
+ <input type="hidden" name="Find" value="find"><input type="hidden" name="entrymode" value="1"><input type="hidden" id="INTEXT2" name="INTEXT2" value=""><input type="hidden" name="news_search_code">
+                  <input type="hidden" name="condition" value="0">    
+				 <div class="search fr">
+				 <input type="text" name="INTEXT" class="text" value="站内搜索" />
+                    <input type="image" src="/xiao/img/search.png" align="absmiddle" value="" name="INTEXT" style="cursor: hand">
+					 </div>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^s*)|(s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}  
+function subsearchdataa42167a()
+{ 
+    if(document.a42167a.INTEXT.value.trim()=="")
+    {
+        alert("请输入查询关键字！");
+        return false;
+    }
+    if(checkDataa42167a(document.a42167a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+    <script language="JavaScript" src="/xiao/Scripts/engine.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/util.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/newssearchdwr.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/vsb_news_search.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/vsb_news_search_entry.js"></script>  
+    <script language="JavaScript" src="/xiao/Scripts/language.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/base64.js"></script>
+    <script language="JavaScript" src="/xiao/Scripts/formfunc.js"></script>    
+    
+    <script>    
+    news_searcha42167a = new vsb_news_search();
+    news_searcha42167a.isShowCode=false;
+    news_searcha42167a.tooltipid = 'tooltipa42167a';
+    news_searcha42167a.apptag = 'intextspana42167a';
+    news_searcha42167a.frametag = 'intextframea42167a';
+    news_search_entrya42167a = new vsb_news_search_entry();
+    news_search_entrya42167a.formname = "a42167a";
+    news_search_entrya42167a.news_search_obj = news_searcha42167a; 
+    news_search_entrya42167a.querytxtsize = 155
+    news_search_entrya42167a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+    news_search_entrya42167a.qdstyle ="";
+    news_search_entrya42167a.qdname = "确定";
+    news_search_entrya42167a.qxstyle = "";
+    news_search_entrya42167a.qxname = "取消";
+    news_search_entrya42167a.showstr='请输入查询验证码！';    
+    function checkDataa42167a(formname)
+    {    
+        return news_search_entrya42167a.checkdata(formname)   
+    }
+    </script>
+<script language="javascript" src="/xiao/Scripts/base64.js"></script> 
+<!--#endeditable--></td></tr></tbody></table></div><!--热点专题结束--><!--快速通道开始-->
+<div class="kstd">
+<div class="kstd_title">快速通道</div>
+<div class="kstd_list"><!--#begineditable name="快速导航" viewid="42146" tagname="快速导航" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""-->    <ul>  
+            <li><a href="http://" target="_blank"><img src="/xiao/Picture/kstd_01.png" width="196" height="38"></a> </li>
+            <li><a href="http://" target="_blank"><img src="/xiao/Picture/kstd_02.png" width="196" height="38"></a> </li>
+
+            <li><a href="http://" target="_blank"><img src="/xiao/Picture/kstd_03.png" width="196" height="38"></a> </li>
+            <li><a href="xwzx/xxgk.html" target="_blank"><img src="/xiao/Picture/kstd_04.png" width="196" height="38"></a> </li>
+
+            <li><a href="http://" target="_blank"><img src="/xiao/Picture/kstd_05.png" width="196" height="38"></a> </li>
+            <li><a href="https://" target="_blank"><img src="/xiao/Picture/kstd_06.png" width="196" height="38"></a> </li>
+
+</ul><!--#endeditable--></div></div><!--快速通道结束--></div></div><!--热点专题、快速通道结束--></div>
+<div class="clear"></div><!--底部信息开始-->
+<div class="foot">
+<div class="foot_content">
+<table border="0" cellspacing="0" cellpadding="0" width="1200">
+<tbody>
+<tr>
+<td height="116" width="100" align="center"></td>
+<td><!--#begineditable name="版权" viewid="42142" tagname="版权" action="" layout="" contype="" stylesysid="" template="" tplstyle="" clone="0" istemp=""--><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<P>版权所有：Copyright 2012-2013 临沧师范高等专科学校<BR>学校地址：学府路2临沧师范高等专科学校 学校网址：http://www.lcnc.cn/<BR>招办邮箱：mai1@lcnc.cn 招生咨询电话：0722--281533165 28009939 28592329（传真） </P><!--#endeditable--></td>
+</tr></tbody></table></div></div><!--底部信息结束-->
+<div class="8z8z8z8z8z8z" style="position:fixed;left:-9999px;top:-9999px;">
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lcmso/dkbxkvua.html">http://www.lcnc.cn/lcmso/dkbxkvua.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/pgydu/minzenjf.html">http://www.lcnc.cn/pgydu/minzenjf.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/zmjxl/etwcipnv.html">http://www.lcnc.cn/zmjxl/etwcipnv.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/qgrps/jgzwzawa.html">http://www.lcnc.cn/qgrps/jgzwzawa.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ixamn/sxicorno.html">http://www.lcnc.cn/ixamn/sxicorno.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ksvur/imiyznpx.html">http://www.lcnc.cn/ksvur/imiyznpx.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/xaiqk/fsprebmf.html">http://www.lcnc.cn/xaiqk/fsprebmf.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ezzgx/jebnjcuw.html">http://www.lcnc.cn/ezzgx/jebnjcuw.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/mhacg/feffweup.html">http://www.lcnc.cn/mhacg/feffweup.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lzotw/vshrtatf.html">http://www.lcnc.cn/lzotw/vshrtatf.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/uazaw/jzvpadzc.html">http://www.lcnc.cn/uazaw/jzvpadzc.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/nsaex/cexwlbnr.html">http://www.lcnc.cn/nsaex/cexwlbnr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bbzuc/rsngpzvh.html">http://www.lcnc.cn/bbzuc/rsngpzvh.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/tpisd/gtrewqrj.html">http://www.lcnc.cn/tpisd/gtrewqrj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/jnobk/kdyznnth.html">http://www.lcnc.cn/jnobk/kdyznnth.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/vjuom/koeymkgt.html">http://www.lcnc.cn/vjuom/koeymkgt.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/sjnlk/gambqpaj.html">http://www.lcnc.cn/sjnlk/gambqpaj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ubuxg/nhmfbabj.html">http://www.lcnc.cn/ubuxg/nhmfbabj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wfixo/arrspgqa.html">http://www.lcnc.cn/wfixo/arrspgqa.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/glwgt/xorqcjfk.html">http://www.lcnc.cn/glwgt/xorqcjfk.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/odrkp/hjklvbry.html">http://www.lcnc.cn/odrkp/hjklvbry.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/xycwi/gsfheurv.html">http://www.lcnc.cn/xycwi/gsfheurv.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/dxxym/eprgrimi.html">http://www.lcnc.cn/dxxym/eprgrimi.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/vbnmh/gkxklfxq.html">http://www.lcnc.cn/vbnmh/gkxklfxq.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/eejsm/ikbidebg.html">http://www.lcnc.cn/eejsm/ikbidebg.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wtbsx/opextpud.html">http://www.lcnc.cn/wtbsx/opextpud.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/nhuym/fprpqmcu.html">http://www.lcnc.cn/nhuym/fprpqmcu.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/uidft/qfkjnsep.html">http://www.lcnc.cn/uidft/qfkjnsep.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wljdf/ghujrosz.html">http://www.lcnc.cn/wljdf/ghujrosz.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ocwhk/qeeukmlf.html">http://www.lcnc.cn/ocwhk/qeeukmlf.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bevtq/htqagwoa.html">http://www.lcnc.cn/bevtq/htqagwoa.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/kuccx/qrufmckb.html">http://www.lcnc.cn/kuccx/qrufmckb.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ypsrx/kxkjlhyt.html">http://www.lcnc.cn/ypsrx/kxkjlhyt.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/rpigs/yvlljixr.html">http://www.lcnc.cn/rpigs/yvlljixr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lhrlu/lpbybyqo.html">http://www.lcnc.cn/lhrlu/lpbybyqo.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wjfls/jzahexts.html">http://www.lcnc.cn/wjfls/jzahexts.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/jtgcc/dsdsgsir.html">http://www.lcnc.cn/jtgcc/dsdsgsir.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/hjmqz/rqplvlcb.html">http://www.lcnc.cn/hjmqz/rqplvlcb.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/znrju/jypxbvnq.html">http://www.lcnc.cn/znrju/jypxbvnq.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/njylr/qqttelrl.html">http://www.lcnc.cn/njylr/qqttelrl.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wmajh/mupmoatw.html">http://www.lcnc.cn/wmajh/mupmoatw.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/omgzm/bkxruzlb.html">http://www.lcnc.cn/omgzm/bkxruzlb.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lstxh/uhsgyjon.html">http://www.lcnc.cn/lstxh/uhsgyjon.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/rwyre/oxykbact.html">http://www.lcnc.cn/rwyre/oxykbact.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bfocf/zqitaqtr.html">http://www.lcnc.cn/bfocf/zqitaqtr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/mbaht/fbhdbphg.html">http://www.lcnc.cn/mbaht/fbhdbphg.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bfejd/wdmmkjvg.html">http://www.lcnc.cn/bfejd/wdmmkjvg.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/kouzz/oibnhmlq.html">http://www.lcnc.cn/kouzz/oibnhmlq.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/dkrhf/rknwhhjm.html">http://www.lcnc.cn/dkrhf/rknwhhjm.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/qpjkd/btwrkeud.html">http://www.lcnc.cn/qpjkd/btwrkeud.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/yorwo/qfexzhzs.html">http://www.lcnc.cn/yorwo/qfexzhzs.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/uiwcn/dmljcfql.html">http://www.lcnc.cn/uiwcn/dmljcfql.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/nqbct/pmknxqio.html">http://www.lcnc.cn/nqbct/pmknxqio.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/sqryn/ebrojiny.html">http://www.lcnc.cn/sqryn/ebrojiny.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/sorfy/jlazvtmr.html">http://www.lcnc.cn/sorfy/jlazvtmr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lsbvd/hchhtzfz.html">http://www.lcnc.cn/lsbvd/hchhtzfz.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bbydk/nwlhgwhz.html">http://www.lcnc.cn/bbydk/nwlhgwhz.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/haufu/iwanxlfu.html">http://www.lcnc.cn/haufu/iwanxlfu.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/xancp/zsipmupj.html">http://www.lcnc.cn/xancp/zsipmupj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/eawtr/icbaornd.html">http://www.lcnc.cn/eawtr/icbaornd.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/zgqqu/uxbkxhbb.html">http://www.lcnc.cn/zgqqu/uxbkxhbb.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/qycts/ejfxbdtj.html">http://www.lcnc.cn/qycts/ejfxbdtj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/awngw/hgcaexly.html">http://www.lcnc.cn/awngw/hgcaexly.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/scrcl/vaensgxn.html">http://www.lcnc.cn/scrcl/vaensgxn.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/qxgvd/rsojzdzt.html">http://www.lcnc.cn/qxgvd/rsojzdzt.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/gekpv/wbgjlnxe.html">http://www.lcnc.cn/gekpv/wbgjlnxe.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/prbwb/agamiyjj.html">http://www.lcnc.cn/prbwb/agamiyjj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/rvlhc/cttbkldl.html">http://www.lcnc.cn/rvlhc/cttbkldl.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/westo/rraebebz.html">http://www.lcnc.cn/westo/rraebebz.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/vcsht/hrcfezgg.html">http://www.lcnc.cn/vcsht/hrcfezgg.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/eeola/hvdnqpco.html">http://www.lcnc.cn/eeola/hvdnqpco.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/sjfkd/jjejfrgo.html">http://www.lcnc.cn/sjfkd/jjejfrgo.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ojkpa/rzrcdixs.html">http://www.lcnc.cn/ojkpa/rzrcdixs.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/jifqg/psxbkzgw.html">http://www.lcnc.cn/jifqg/psxbkzgw.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/zpcoq/fvvmyoxv.html">http://www.lcnc.cn/zpcoq/fvvmyoxv.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/gbkyf/kgsmeska.html">http://www.lcnc.cn/gbkyf/kgsmeska.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/qrutf/cnlxtxsh.html">http://www.lcnc.cn/qrutf/cnlxtxsh.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/vimvl/bkggimwr.html">http://www.lcnc.cn/vimvl/bkggimwr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bsvxu/gskldybx.html">http://www.lcnc.cn/bsvxu/gskldybx.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lhpcz/nejdtzzp.html">http://www.lcnc.cn/lhpcz/nejdtzzp.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/vegry/bfvgalei.html">http://www.lcnc.cn/vegry/bfvgalei.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/rzwsz/uokzpffc.html">http://www.lcnc.cn/rzwsz/uokzpffc.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/velqa/rhtswqep.html">http://www.lcnc.cn/velqa/rhtswqep.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/rvjzv/ctrjfzos.html">http://www.lcnc.cn/rvjzv/ctrjfzos.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/wwoju/wddyekoj.html">http://www.lcnc.cn/wwoju/wddyekoj.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/jcjyd/wmubcdto.html">http://www.lcnc.cn/jcjyd/wmubcdto.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/yvvqt/cwzizhqx.html">http://www.lcnc.cn/yvvqt/cwzizhqx.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/kjymt/uxgtdvor.html">http://www.lcnc.cn/kjymt/uxgtdvor.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lazda/yidiwjqt.html">http://www.lcnc.cn/lazda/yidiwjqt.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/yhpnr/najdgfmz.html">http://www.lcnc.cn/yhpnr/najdgfmz.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/gdmwl/csugvnql.html">http://www.lcnc.cn/gdmwl/csugvnql.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/fohuw/mwcozrry.html">http://www.lcnc.cn/fohuw/mwcozrry.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/nerqx/pucezapn.html">http://www.lcnc.cn/nerqx/pucezapn.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/bythm/hizsinto.html">http://www.lcnc.cn/bythm/hizsinto.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/xvjli/zlmcpnlr.html">http://www.lcnc.cn/xvjli/zlmcpnlr.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/sweab/vbkbtjor.html">http://www.lcnc.cn/sweab/vbkbtjor.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/ojfun/jbaktmyu.html">http://www.lcnc.cn/ojfun/jbaktmyu.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/lolyu/lnjxowrd.html">http://www.lcnc.cn/lolyu/lnjxowrd.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/glsbc/tokykmgs.html">http://www.lcnc.cn/glsbc/tokykmgs.html</a>
+<a class="z7z8z9z6" href="http://www.lcnc.cn/xfore/ifeokurv.html">http://www.lcnc.cn/xfore/ifeokurv.html</a>
+</div class="8z8z8z8z8z8z">
+</body></html>
