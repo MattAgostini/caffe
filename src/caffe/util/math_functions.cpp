@@ -20,7 +20,7 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
     const CBLAS_TRANSPOSE TransB, const int M, const int N, const int K,
     const float alpha, const float* A, const float* B, const float beta,
     float* C) {
-
+#ifdef USE_FPGA
   printf("We're doing matrix multiplication! M %d  K %d   N %d\n", M, K, N);
   //printf("alpha %d   beta %d\n", alpha, beta);
   // Matrix A and B are not transposed
@@ -118,13 +118,12 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
     C[i] = beta*C[i] + temp[i];
   }
 
-/*
+#else // CPU only
   int lda = (TransA == CblasNoTrans) ? K : M;
   int ldb = (TransB == CblasNoTrans) ? N : K;
 
   cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B, ldb, beta, C, N);
-*/
-  
+#endif 
 }
 
 template<>
