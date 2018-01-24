@@ -10,8 +10,8 @@
 
 namespace caffe {
 
-float * write_mat_to_xillybus(float* filter, float* image, int size, int fdw);
-float * read_mat_from_xillybus(int fdr);
+void write_mat_to_xillybus(float* filter, float* image, int size, int fdw);
+float read_mat_from_xillybus(int fdr);
 
 int convLayerNum = 0;
 
@@ -57,9 +57,32 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
       exit(1);
     }
 
-    
-    write_mat_to_xillybus(A, B, K, fdw); // Needs to be fixed to index portion of the matrices
-    read_mat_from_xillybus(fdr);
+    float filter[K];
+    float image[K];
+    float dimensions[3] = {1.0, (float)K, 1.0};
+
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wunused-result" 
+    write(fdw, (void *) &dimensions, sizeof(dimensions));
+#pragma GCC diagnostic pop 
+
+    for (int row = 0; row < M; row++)
+    {
+      for (int i = 0; i < K; i++)
+      {
+        filter[i] = A[row*K + i];
+      }
+      for (int col = 0; col < N; col++)
+      {
+        for (int j = 0; j < K; j++)
+        {
+          image[j] = B[row + j*N];
+        }
+        write_mat_to_xillybus(filter, image, K, fdw);
+        C[row * K + col] = read_mat_from_xillybus(fdr);
+      }
+
+    }
   }
 
   convLayerNum++;
@@ -468,25 +491,34 @@ void caffe_cpu_scale<double>(const int n, const double alpha, const double *x,
   cblas_dscal(n, alpha, y, 1);
 }
 
-float * read_mat_from_xillybus(int fdr) {
+float read_mat_from_xillybus(int fdr) {
 
   float * output;
 
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wunused-result" 
   read(fdr, (void *) &output, sizeof(float));
+#pragma GCC diagnostic pop 
 
-  return output;
+  return *output;
 }
 
-float * write_mat_to_xillybus(float* filter, float* image, int size, int fdw) {
+void write_mat_to_xillybus(float* filter, float* image, int size, int fdw) {
   write(fdw, (void *) size, sizeof(float));
 
   for (int i = 0; i < size; i++)
   {
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wunused-result" 
     write(fdw, (void *) &filter[i], sizeof(float));
-    write(fdw, (void *) &image[i], sizeof(float));
   }
-  
-  return filter;
+
+  for (int i = 0; i < size; i++)
+  {
+    write(fdw, (void *) &image[i], sizeof(float));
+#pragma GCC diagnostic pop 
+  }
+
 }
 
 }  // namespace caffe
