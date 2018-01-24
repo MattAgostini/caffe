@@ -6,8 +6,12 @@
 #include "caffe/common.hpp"
 #include "caffe/util/math_functions.hpp"
 #include "caffe/util/rng.hpp"
+#include <fcntl.h>
 
 namespace caffe {
+
+float * write_mat_to_xillybus(float* filter, float* image, int size, int fdw);
+float * read_mat_from_xillybus(int fdr);
 
 int convLayerNum = 0;
 
@@ -39,6 +43,28 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
   C is an m-by-n matrix.
   */
 
+  // This function is called in a couple different spots
+  // For now we only care about the filter being colvolved with the image
+  // (calls from forward_cpu_gemm)
+  if (convLayerNum % 2 == 0 && convLayerNum < 52)
+  {
+    int fdr = open("/dev/xillybus_read_32", O_RDONLY);
+    int fdw = open("/dev/xillybus_write_32", O_WRONLY);
+
+    if (fdw < 0)
+    {
+      printf("Failed to open Xillybus device");
+      exit(1);
+    }
+
+    
+    write_mat_to_xillybus(A, B, K, fdw); // Needs to be fixed to index portion of the matrices
+    read_mat_from_xillybus(fdr);
+  }
+
+  convLayerNum++;
+  printf("convLayerNum %d\n", convLayerNum);
+
   float temp[M*N];
 
   for (int row = 0; row < M; row++)
@@ -46,16 +72,16 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
     for (int column = 0; column < N; column++)
     {
       temp[row*N + column] = 0.0f;
-      for (int z = 0; z < K; z++)
+      for (int z = 0; z < K; z++)		
       {
         if (row == 0 && column == 0 && convLayerNum == 0 && z == 0)
         {
-          printf("starting value %f\n", temp[row*N + column]);
+          //printf("starting value %f\n", temp[row*N + column]);
         }
         temp[row*N + column] += (alpha * A[row*K + z]) * B[z*N + column];
         if (row == 0 && column == 0 && convLayerNum == 0)
         {
-          printf("%f vs %f\n", temp[row*N + column], (alpha * A[row*K + z]) * B[z*N + column]);
+          //printf("%f vs %f\n", temp[row*N + column], (alpha * A[row*K + z]) * B[z*N + column]);
         }
       }
     }
@@ -69,21 +95,13 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
     C[i] = beta*C[i] + temp[i];
   }
 
+/*
   int lda = (TransA == CblasNoTrans) ? K : M;
   int ldb = (TransB == CblasNoTrans) ? N : K;
 
-  //cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B,
-  //    ldb, beta, C, N);
-
-  for (int i = 0; i < 5; i++)
-  {
-    if (temp[i] != C[i])
-    {
-      //printf("They're different: us %f vs them %f!\n", temp[i], C[i]);
-    }
-  }
-
-  convLayerNum++;
+  cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B, ldb, beta, C, N);
+*/
+  
 }
 
 template<>
@@ -91,6 +109,7 @@ void caffe_cpu_gemm<double>(const CBLAS_TRANSPOSE TransA,
     const CBLAS_TRANSPOSE TransB, const int M, const int N, const int K,
     const double alpha, const double* A, const double* B, const double beta,
     double* C) {
+  printf("We're doing matrix multiplication! M %d  K %d   N %d\n", M, K, N);
   int lda = (TransA == CblasNoTrans) ? K : M;
   int ldb = (TransB == CblasNoTrans) ? N : K;
   cblas_dgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B,
@@ -447,6 +466,27 @@ void caffe_cpu_scale<double>(const int n, const double alpha, const double *x,
                              double* y) {
   cblas_dcopy(n, x, 1, y, 1);
   cblas_dscal(n, alpha, y, 1);
+}
+
+float * read_mat_from_xillybus(int fdr) {
+
+  float * output;
+
+  read(fdr, (void *) &output, sizeof(float));
+
+  return output;
+}
+
+float * write_mat_to_xillybus(float* filter, float* image, int size, int fdw) {
+  write(fdw, (void *) size, sizeof(float));
+
+  for (int i = 0; i < size; i++)
+  {
+    write(fdw, (void *) &filter[i], sizeof(float));
+    write(fdw, (void *) &image[i], sizeof(float));
+  }
+  
+  return filter;
 }
 
 }  // namespace caffe

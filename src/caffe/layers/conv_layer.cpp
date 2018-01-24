@@ -4,8 +4,6 @@
 
 namespace caffe {
 
-int globalConvLayerCount = 0;
-
 template <typename Dtype>
 void ConvolutionLayer<Dtype>::compute_output_shape() {
   const int* kernel_shape_data = this->kernel_shape_.cpu_data();
@@ -27,22 +25,12 @@ template <typename Dtype>
 void ConvolutionLayer<Dtype>::Forward_cpu(const vector<Blob<Dtype>*>& bottom,
       const vector<Blob<Dtype>*>& top) {
   const Dtype* weight = this->blobs_[0]->cpu_data();
-  //printf("Executing convolutional layer %d\n", globalConvLayerCount);
+
   for (int i = 0; i < bottom.size(); ++i) {
-  
-    if (globalConvLayerCount == 0)
-    {
-      //printf("int i = %d\n", i);
-    }
 
     const Dtype* bottom_data = bottom[i]->cpu_data();
     Dtype* top_data = top[i]->mutable_cpu_data();
     for (int n = 0; n < this->num_; ++n) {
-
-      if (globalConvLayerCount == 0)
-      {
-        //printf("int n = %d\n", n);
-      }
 
       this->forward_cpu_gemm(bottom_data + n * this->bottom_dim_, weight, // Important call to matrix operation
           top_data + n * this->top_dim_);				  // See base_conv_layer.cpp for more
@@ -52,8 +40,6 @@ void ConvolutionLayer<Dtype>::Forward_cpu(const vector<Blob<Dtype>*>& bottom,
       }
     }
   }
-
-  globalConvLayerCount++;
 }
 
 template <typename Dtype>

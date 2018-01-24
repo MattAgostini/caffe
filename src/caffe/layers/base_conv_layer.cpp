@@ -256,19 +256,20 @@ template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::forward_cpu_gemm(const Dtype* input,
     const Dtype* weights, Dtype* output, bool skip_im2col) 
 {
+
+  printf("BaseConvolutionalLayer: forward_cpu_gemm\n");
+
   const Dtype* col_buff = input;
   if (!is_1x1_) {
     if (!skip_im2col) {
       conv_im2col_cpu(input, col_buffer_.mutable_cpu_data());         // util/im2col.cpp
-    }								      // converts image blocks into columns?
+    }								      
     col_buff = col_buffer_.cpu_data();
   }
 
-  //printf("group number %d\n", group_);
-
   for (int g = 0; g < group_; ++g) {
-    caffe_cpu_gemm<Dtype>(CblasNoTrans, CblasNoTrans, conv_out_channels_ /   // Important call: what is this doing?
-        group_, conv_out_spatial_dim_, kernel_dim_,                          // util/math_functions.cpp
+    caffe_cpu_gemm<Dtype>(CblasNoTrans, CblasNoTrans, conv_out_channels_ / 
+        group_, conv_out_spatial_dim_, kernel_dim_,
         (Dtype)1., weights + weight_offset_ * g, col_buff + col_offset_ * g,
         (Dtype)0., output + output_offset_ * g);
   }
@@ -277,6 +278,9 @@ void BaseConvolutionLayer<Dtype>::forward_cpu_gemm(const Dtype* input,
 template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::forward_cpu_bias(Dtype* output,
     const Dtype* bias) {
+
+  printf("BaseConvolutionalLayer: forward_cpu_bias\n");
+
   caffe_cpu_gemm<Dtype>(CblasNoTrans, CblasNoTrans, num_output_,
       out_spatial_dim_, 1, (Dtype)1., bias, bias_multiplier_.cpu_data(),
       (Dtype)1., output);
@@ -285,6 +289,9 @@ void BaseConvolutionLayer<Dtype>::forward_cpu_bias(Dtype* output,
 template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::backward_cpu_gemm(const Dtype* output,
     const Dtype* weights, Dtype* input) {
+
+  printf("BaseConvolutionalLayer: backward_cpu_gemm");
+
   Dtype* col_buff = col_buffer_.mutable_cpu_data();
   if (is_1x1_) {
     col_buff = input;
@@ -303,6 +310,9 @@ void BaseConvolutionLayer<Dtype>::backward_cpu_gemm(const Dtype* output,
 template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::weight_cpu_gemm(const Dtype* input,
     const Dtype* output, Dtype* weights) {
+
+  printf("BaseConvolutionalLayer: weight_cpu_gemm");
+
   const Dtype* col_buff = input;
   if (!is_1x1_) {
     conv_im2col_cpu(input, col_buffer_.mutable_cpu_data());
@@ -319,6 +329,9 @@ void BaseConvolutionLayer<Dtype>::weight_cpu_gemm(const Dtype* input,
 template <typename Dtype>
 void BaseConvolutionLayer<Dtype>::backward_cpu_bias(Dtype* bias,
     const Dtype* input) {
+
+  printf("BaseConvolutionalLayer: backward_cpu_bias");
+
   caffe_cpu_gemv<Dtype>(CblasNoTrans, num_output_, out_spatial_dim_, 1.,
       input, bias_multiplier_.cpu_data(), 1., bias);
 }
