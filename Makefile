@@ -358,6 +358,11 @@ ifeq ($(CPU_ONLY), 1)
 	COMMON_FLAGS += -DCPU_ONLY
 endif
 
+# FPGA acceleration
+ifeq ($(USE_FPGA), 1)
+        COMMON_FLAGS += -DUSE_FPGA
+endif
+
 # Python layer support
 ifeq ($(WITH_PYTHON_LAYER), 1)
 	COMMON_FLAGS += -DWITH_PYTHON_LAYER
