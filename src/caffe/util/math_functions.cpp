@@ -8,12 +8,79 @@
 #include "caffe/util/rng.hpp"
 #include <fcntl.h>
 
-namespace caffe {
+#include <thread>
 
-void write_mat_to_xillybus(float* filter, float* image, int size, int fdw);
+namespace caffe {
+    static int fd_r;
+    static int fd_w;
+
+void write_mat_to_xillybus(float* vector, int size, int fdw);
 float read_mat_from_xillybus(int fdr);
 
 int convLayerNum = 0;
+
+enum fpga_opcode {
+    setFilter = 0x01,
+    flushFilter = 0x02,
+    dotProduct = 0x03
+};
+
+void reader(int fdr, float *C, int M, int N, int K) {
+    int rc, donebytes;
+    size_t packet_size;
+    char *buf;
+
+    buf = (char *) C;
+    donebytes = 0;
+    packet_size = sizeof(float) * K;
+
+    while (donebytes < packet_size) {
+        rc = read(fdr, buf + donebytes, packet_size - donebytes);
+
+        if ((rc < 0) && (errno == EINTR))
+            continue;
+
+        if (rc <= 0) {
+            perror("write() failed");
+            exit(1);
+        }
+
+        donebytes += rc;
+    }
+}
+
+void writer(int fdw, const float *A, const float *B, const int M, const int N, const int K) { 
+    int op = setFilter;
+    float filter[K];
+    float image[K];
+    int dummy;
+
+
+    for (int row = 0; row < M; row++)
+    {
+      for (int i = 0; i < K; i++)
+      {
+        filter[i] = A[row*K + i];
+      }
+      op = setFilter;
+      dummy = write(fdw, (void *) &op, sizeof(uint32_t));
+      dummy = write(fdw, (void *) &K, sizeof(uint32_t));
+      write_mat_to_xillybus(filter, K, fdw);
+      op = dotProduct;
+      for (int col = 0; col < N; col++)
+      {
+        for (int j = 0; j < K; j++)
+        {
+          image[j] = B[row + j*N];
+        }
+        dummy = write(fdw, (void *) &op, sizeof(uint32_t));
+        write_mat_to_xillybus(image, K, fdw);
+        //C[row * K + col] = read_mat_from_xillybus(fdr);
+        //read(fdr, (void *) &C[row * K + col], sizeof(float));
+      }
+
+    }
+}
 
 template<>
 void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
@@ -46,47 +113,29 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
   // This function is called in a couple different spots
   // For now we only care about the filter being colvolved with the image
   // (calls from forward_cpu_gemm)
-  if (convLayerNum % 2 == 0 && convLayerNum < 52)
+  //if (convLayerNum % 2 == 0 && convLayerNum < 52)
+  if (convLayerNum % 2 == 0)
   {
-    int fdr = open("/dev/xillybus_read_32", O_RDONLY);
-    int fdw = open("/dev/xillybus_write_32", O_WRONLY);
+      if (fd_r == 0) {
+          fd_r = open("/dev/xillybus_read_32", O_RDONLY);
+          fd_w = open("/dev/xillybus_write_32", O_WRONLY);
+      }
 
-    if (fdw < 0)
+    if (fd_w < 0)
     {
       printf("Failed to open Xillybus device");
       exit(1);
     }
 
-    float filter[K];
-    float image[K];
-    float dimensions[3] = {1.0, (float)K, 1.0};
+    std::thread write_thread(writer, fd_w, A, B, M, N, K);
+    std::thread read_thread(reader, fd_r, C, M, N, K);
 
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wunused-result" 
-    write(fdw, (void *) &dimensions, sizeof(dimensions));
-#pragma GCC diagnostic pop 
-
-    for (int row = 0; row < M; row++)
-    {
-      for (int i = 0; i < K; i++)
-      {
-        filter[i] = A[row*K + i];
-      }
-      for (int col = 0; col < N; col++)
-      {
-        for (int j = 0; j < K; j++)
-        {
-          image[j] = B[row + j*N];
-        }
-        write_mat_to_xillybus(filter, image, K, fdw);
-        C[row * K + col] = read_mat_from_xillybus(fdr);
-      }
-
-    }
+    write_thread.join();
+    read_thread.join();
   }
 
   convLayerNum++;
-  printf("convLayerNum %d\n", convLayerNum);
+  printf("N convLayerNum %d\n", convLayerNum);
 
   float temp[M*N];
 
@@ -490,34 +539,40 @@ void caffe_cpu_scale<double>(const int n, const double alpha, const double *x,
   cblas_dscal(n, alpha, y, 1);
 }
 
-float read_mat_from_xillybus(int fdr) {
+inline float read_mat_from_xillybus(int fdr) {
 
-  float * output;
+  float output;
 
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wunused-result" 
   read(fdr, (void *) &output, sizeof(float));
 #pragma GCC diagnostic pop 
 
-  return *output;
+  return output;
 }
 
-void write_mat_to_xillybus(float* filter, float* image, int size, int fdw) {
-  write(fdw, (void *) size, sizeof(float));
+inline void write_mat_to_xillybus(float* vector, int size, int fdw) {
+    int rc, donebytes;
+    size_t packet_size;
+    char *buf;
 
-  for (int i = 0; i < size; i++)
-  {
-#pragma GCC diagnostic push
-#pragma GCC diagnostic ignored "-Wunused-result" 
-    write(fdw, (void *) &filter[i], sizeof(float));
-  }
+    buf = (char *) vector;
+    donebytes = 0;
+    packet_size = sizeof(float)*size;
 
-  for (int i = 0; i < size; i++)
-  {
-    write(fdw, (void *) &image[i], sizeof(float));
-#pragma GCC diagnostic pop 
-  }
+    while (donebytes < packet_size) {
+        rc = write(fdw, buf + donebytes, packet_size - donebytes);
 
+        if ((rc < 0) && (errno == EINTR))
+            continue;
+
+        if (rc <= 0) {
+            perror("write() failed");
+            exit(1);
+        }
+
+        donebytes += rc;
+    }
 }
 
 }  // namespace caffe
