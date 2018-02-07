@@ -32,7 +32,7 @@ void reader(int fdr, float *C, int M, int N, int K) {
 
     buf = (char *) C;
     donebytes = 0;
-    packet_size = sizeof(float) * K;
+    packet_size = sizeof(float) *M*N ;
 
     while (donebytes < packet_size) {
         rc = read(fdr, buf + donebytes, packet_size - donebytes);
@@ -49,12 +49,24 @@ void reader(int fdr, float *C, int M, int N, int K) {
     }
 }
 
-void writer(int fdw, const float *A, const float *B, const int M, const int N, const int K) { 
+float dot_product(float *a, float *b, int dim) {
+    float sum = 0;
+
+    for (int i = 0; i < dim; i++) {
+        sum += a[i]*b[i];
+    }
+
+    return sum;
+}
+
+void writer(int fdw, const float *A, const float *B, float *C, const int M, const int N, const int K) { 
     int op = setFilter;
     float filter[K];
     float image[K];
     int dummy;
+    float hold;
 
+    int t = 0;
 
     for (int row = 0; row < M; row++)
     {
@@ -71,15 +83,36 @@ void writer(int fdw, const float *A, const float *B, const int M, const int N, c
       {
         for (int j = 0; j < K; j++)
         {
-          image[j] = B[row + j*N];
+          image[j] = B[j*N + col];
+	  //printf("%f, ", image[j]);
+          //C[row*N + col] += (A[row*K + j] * B[j*N + col]);
         }
-        dummy = write(fdw, (void *) &op, sizeof(uint32_t));
+	//printf("\n");
+	//printf("%f\n", C[row*N + col]);
+	dummy = write(fdw, (void *) &op, sizeof(uint32_t));
         write_mat_to_xillybus(image, K, fdw);
-        //C[row * K + col] = read_mat_from_xillybus(fdr);
+	//hold = dot_product(filter, image, K);
+	//printf("%d, %f\n", col + row*N, hold);
+	//C[row * K + col] = read_mat_from_xillybus(fdr);
         //read(fdr, (void *) &C[row * K + col], sizeof(float));
       }
-
+      //return;
     }
+}
+
+void array_to_file(float *vector, int size) {
+    FILE *fp; 
+
+    char buf[20];
+    sprintf(buf, "output%d.txt", convLayerNum);
+
+    fp = fopen(buf, "w+");
+
+    for (int i = 0; i < size; i++) {
+        fprintf(fp, "%d, %f\n", i, vector[i]);
+    }
+
+    fclose(fp);
 }
 
 template<>
@@ -114,7 +147,10 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
   // For now we only care about the filter being colvolved with the image
   // (calls from forward_cpu_gemm)
   //if (convLayerNum % 2 == 0 && convLayerNum < 52)
-  if (convLayerNum % 2 == 0)
+
+  printf("N convLayerNum %d\n", convLayerNum);
+
+  if (convLayerNum % 2 == 0 && convLayerNum < 52)
   {
       if (fd_r == 0) {
           fd_r = open("/dev/xillybus_read_32", O_RDONLY);
@@ -127,45 +163,24 @@ void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
       exit(1);
     }
 
-    std::thread write_thread(writer, fd_w, A, B, M, N, K);
+    float *temp;
+    std::thread write_thread(writer, fd_w, A, B, C, M, N, K);
     std::thread read_thread(reader, fd_r, C, M, N, K);
 
     write_thread.join();
     read_thread.join();
-  }
 
+    //array_to_file(C, M*N);
+  }
+  else
+  {
+      int lda = (TransA == CblasNoTrans) ? K : M;
+      int ldb = (TransB == CblasNoTrans) ? N : K;
+
+      cblas_sgemm(CblasRowMajor, TransA, TransB, M, N, K, alpha, A, lda, B, ldb, beta, C, N);
+  }
+  
   convLayerNum++;
-  printf("N convLayerNum %d\n", convLayerNum);
-
-  float temp[M*N];
-
-  for (int row = 0; row < M; row++)
-  {
-    for (int column = 0; column < N; column++)
-    {
-      temp[row*N + column] = 0.0f;
-      for (int z = 0; z < K; z++)		
-      {
-        if (row == 0 && column == 0 && convLayerNum == 0 && z == 0)
-        {
-          //printf("starting value %f\n", temp[row*N + column]);
-        }
-        temp[row*N + column] += (alpha * A[row*K + z]) * B[z*N + column];
-        if (row == 0 && column == 0 && convLayerNum == 0)
-        {
-          //printf("%f vs %f\n", temp[row*N + column], (alpha * A[row*K + z]) * B[z*N + column]);
-        }
-      }
-    }
-  }
-
-  // Add the other scaled vector (not sure what this is, could be weight or neuron or something)
-  // (could also be data from previous iterations, have to look into this) 
-  int cSize = M*N;
-  for (int i = 0; i < cSize; i++)
-  {
-    C[i] = beta*C[i] + temp[i];
-  }
 
 #else // CPU only
   int lda = (TransA == CblasNoTrans) ? K : M;
@@ -559,6 +574,7 @@ inline void write_mat_to_xillybus(float* vector, int size, int fdw) {
     buf = (char *) vector;
     donebytes = 0;
     packet_size = sizeof(float)*size;
+    //packet_size = size;
 
     while (donebytes < packet_size) {
         rc = write(fdw, buf + donebytes, packet_size - donebytes);
